@@ -12,7 +12,7 @@
     "items": [
         {
             "id": "https://procreate.com/dreams",
-            "content_html": "<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.\n            </p><p>\n                206 Points |  <a href=\"https://news.ycombinator.com/item?id=37434918\">70 comments</a>\n            </p>",
+            "content_html": "<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.\n            </p><p>\n                255 Points |  <a href=\"https://news.ycombinator.com/item?id=37434918\">86 comments</a>\n            </p>",
             "url": "https://procreate.com/dreams",
             "title": "Procreate Dreams (procreate.com)",
             "summary": "Introducing Procreate Dreams: A Powerful Animation App for Creating Hand-Drawn Animations and Motion Graphics",
@@ -30,17 +30,6 @@
             "date_modified": "2023-09-08T13:54:13.000Z",
             "author": {
                 "name": "emoji.fly.dev"
-            }
-        },
-        {
-            "id": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
-            "content_html": "<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.\n            </p><p>\n                34 Points |  <a href=\"https://news.ycombinator.com/item?id=37435215\">24 comments</a>\n            </p>",
-            "url": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
-            "title": "Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative (www.ecu.edu.au)",
-            "summary": "Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries",
-            "date_modified": "2023-09-08T15:49:56.000Z",
-            "author": {
-                "name": "www.ecu.edu.au"
             }
         },
         {
@@ -66,14 +55,14 @@
             }
         },
         {
-            "id": "https://bitbashing.io/async-rust.html",
-            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.\n            </p><p>\n                245 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">186 comments</a>\n            </p>",
-            "url": "https://bitbashing.io/async-rust.html",
-            "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
-            "summary": "Challenges and Limitations of Async Rust for Concurrency",
-            "date_modified": "2023-09-08T16:10:55.000Z",
+            "id": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
+            "content_html": "<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.\n            </p><p>\n                54 Points |  <a href=\"https://news.ycombinator.com/item?id=37435215\">38 comments</a>\n            </p>",
+            "url": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
+            "title": "Zinc-air batteries as an alternative to lithium-ion: study (www.ecu.edu.au)",
+            "summary": "Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries",
+            "date_modified": "2023-09-08T15:49:56.000Z",
             "author": {
-                "name": "bitbashing.io"
+                "name": "www.ecu.edu.au"
             }
         },
         {
@@ -88,36 +77,14 @@
             }
         },
         {
-            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
-            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
-            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
-            "date_modified": "2023-09-08T17:01:02.000Z",
+            "id": "https://bitbashing.io/async-rust.html",
+            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.\n            </p><p>\n                245 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">186 comments</a>\n            </p>",
+            "url": "https://bitbashing.io/async-rust.html",
+            "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
+            "summary": "Challenges and Limitations of Async Rust for Concurrency",
+            "date_modified": "2023-09-08T16:10:55.000Z",
             "author": {
-                "name": "www.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://www.bbc.co.uk/sport/american-football/66713731",
-            "content_html": "<p>College football athletes in the US are now able to earn money through endorsement deals and the use of their name, image, or likeness (NIL). This change in the rules governing their amateur status has allowed players to capitalize on their earning potential. The sport generates billions of dollars in revenue, with top football programs and coaches earning extraordinary sums. The significance of college football goes beyond financial figures, as it is deeply ingrained in the cultural fabric of communities across the nation. However, concerns have been raised about the potential imbalance and sustainability of the money now flowing to players. While NIL income has been beneficial for many athletes, there are challenges in managing academic and athletic responsibilities, as well as financial obligations.\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37412683\">16 comments</a>\n            </p>",
-            "url": "https://www.bbc.co.uk/sport/american-football/66713731",
-            "title": "College football in the US is awash with money (www.bbc.co.uk)",
-            "summary": "College Football Athletes Cash in on Endorsement Deals and NIL Opportunities",
-            "date_modified": "2023-09-06T23:13:57.000Z",
-            "author": {
-                "name": "www.bbc.co.uk"
-            }
-        },
-        {
-            "id": "https://gist.github.com/osy/45e612345376a65c56d0678834535166",
-            "content_html": "<p>TPM (Trusted Platform Module) is criticized for providing zero practical security due to its flawed architecture and broken implementations. The concept of 'trusted computing' was introduced primarily for DRM and ownership purposes, but it failed to impact the consumer market. However, there is a recent push to reintroduce TPM, with Microsoft requiring TPM 2.0 for Windows 11 and Google exploring its integration into web browsers. Even Canonical is adopting TPM for full-disk encryption in Ubuntu. The TPM is a microcontroller that stores keys, passwords, and certificates, aiming to enhance security. However, the TPM's threat model is flawed, relying on trusting all software running on the system up until the measurement is sealed. This raises concerns about future measurements and the potential for vulnerabilities. Overall, TPM's practical security benefits are questionable.\n            </p><p>\n                27 Points |  <a href=\"https://news.ycombinator.com/item?id=37435450\">20 comments</a>\n            </p>",
-            "url": "https://gist.github.com/osy/45e612345376a65c56d0678834535166",
-            "title": "TPM provides zero practical security (gist.github.com)",
-            "summary": "TPM's Practical Security Questioned Due to Flawed Architecture and Broken Implementations",
-            "date_modified": "2023-09-08T16:06:24.000Z",
-            "author": {
-                "name": "gist.github.com"
+                "name": "bitbashing.io"
             }
         },
         {
@@ -132,19 +99,41 @@
             }
         },
         {
-            "id": "https://oscarbenjamin.github.io/blog/czi/post1.html",
-            "content_html": "<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System\n            </p><p>\n                56 Points |  <a href=\"https://news.ycombinator.com/item?id=37430759\">25 comments</a>\n            </p>",
-            "url": "https://oscarbenjamin.github.io/blog/czi/post1.html",
-            "title": "Towards a New SymPy (oscarbenjamin.github.io)",
-            "summary": "Foundations of a Computer Algebra System: Towards a Faster SymPy",
-            "date_modified": "2023-09-08T07:50:49.000Z",
+            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
+            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
+            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
+            "date_modified": "2023-09-08T17:01:02.000Z",
             "author": {
-                "name": "oscarbenjamin.github.io"
+                "name": "www.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://gist.github.com/osy/45e612345376a65c56d0678834535166",
+            "content_html": "<p>TPM (Trusted Platform Module) is criticized for providing zero practical security due to its flawed architecture and broken implementations. The concept of 'trusted computing' was introduced primarily for DRM and ownership purposes, but it failed to impact the consumer market. However, there is a recent push to reintroduce TPM, with Microsoft requiring TPM 2.0 for Windows 11 and Google exploring its integration into web browsers. Even Canonical is adopting TPM for full-disk encryption in Ubuntu. The TPM is a microcontroller that stores keys, passwords, and certificates, aiming to enhance security. However, the TPM's threat model is flawed, relying on trusting all software running on the system up until the measurement is sealed. This raises concerns about future measurements and the potential for vulnerabilities. Overall, TPM's practical security benefits are questionable.\n            </p><p>\n                35 Points |  <a href=\"https://news.ycombinator.com/item?id=37435450\">32 comments</a>\n            </p>",
+            "url": "https://gist.github.com/osy/45e612345376a65c56d0678834535166",
+            "title": "TPM provides zero practical security (gist.github.com)",
+            "summary": "TPM's Practical Security Questioned Due to Flawed Architecture and Broken Implementations",
+            "date_modified": "2023-09-08T16:06:24.000Z",
+            "author": {
+                "name": "gist.github.com"
+            }
+        },
+        {
+            "id": "https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547",
+            "content_html": "<p>Ads for AI sex workers are appearing on social media platforms like Instagram and TikTok, bypassing their moderation systems. These ads promote apps that offer not-safe-for-work experiences, featuring sexually explicit chatbots powered by artificial intelligence. The ads often depict digitally created potential 'girlfriends' with large breasts and tight clothing, sometimes using popular children's TV characters. NBC News found that app developers were running sexually explicit ads on platforms owned by Meta (parent company of Facebook and Instagram) and TikTok. The marketing push is part of an AI gold rush, capitalizing on the surge of interest in AI-generated content. Some researchers argue that these ads benefit from a double standard that harms real human sex workers.\n            </p><p>\n                18 Points |  <a href=\"https://news.ycombinator.com/item?id=37437066\">0 comments</a>\n            </p>",
+            "url": "https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547",
+            "title": "AI girlfriend ads are flooding Instagram and TikTok (www.nbcnews.com)",
+            "summary": "Ads for AI Sex Workers Flood Instagram and TikTok",
+            "date_modified": "2023-09-08T17:58:46.000Z",
+            "author": {
+                "name": "www.nbcnews.com"
             }
         },
         {
             "id": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
-            "content_html": "<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.\n            </p><p>\n                81 Points |  <a href=\"https://news.ycombinator.com/item?id=37428937\">46 comments</a>\n            </p>",
+            "content_html": "<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.\n            </p><p>\n                95 Points |  <a href=\"https://news.ycombinator.com/item?id=37428937\">58 comments</a>\n            </p>",
             "url": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
             "title": "Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)",
             "summary": "Website Security Check: journals.sagepub.com",
@@ -154,14 +143,14 @@
             }
         },
         {
-            "id": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
-            "content_html": "<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37435454\">42 comments</a>\n            </p>",
-            "url": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
-            "title": "Heirloom Carbon: Absorbing CO2 from the air using crushed rocks (heatmap.news)",
-            "summary": "Microsoft Makes Major Investment in Carbon-Absorbing Rocks",
-            "date_modified": "2023-09-08T16:06:37.000Z",
+            "id": "https://oscarbenjamin.github.io/blog/czi/post1.html",
+            "content_html": "<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System\n            </p><p>\n                56 Points |  <a href=\"https://news.ycombinator.com/item?id=37430759\">25 comments</a>\n            </p>",
+            "url": "https://oscarbenjamin.github.io/blog/czi/post1.html",
+            "title": "Towards a New SymPy (oscarbenjamin.github.io)",
+            "summary": "Foundations of a Computer Algebra System: Towards a Faster SymPy",
+            "date_modified": "2023-09-08T07:50:49.000Z",
             "author": {
-                "name": "heatmap.news"
+                "name": "oscarbenjamin.github.io"
             }
         },
         {
@@ -176,8 +165,30 @@
             }
         },
         {
+            "id": "https://www.noahpinion.blog/p/our-climate-change-debates-are-out",
+            "content_html": "<p>The solar and battery revolution is transforming the climate change debate, as cheap renewable energy becomes increasingly viable. The article highlights how outdated discussions about climate change are, as they fail to account for the significant advancements in solar power and electric vehicles. The cost of solar power and lithium-ion batteries has dramatically decreased, making them more affordable and competitive than other forms of energy generation. The article also addresses concerns about intermittency, reliability, and scalability, noting that solar power with battery storage has proven to be reliable and scalable. The solar and battery revolution is already underway, with solar and battery storage accounting for a significant portion of new U.S. generating capacity additions. The technological advancements in solar and batteries should inform climate debates, promote optimism, reject the idea of degrowth, and influence policy prescriptions.\n            </p><p>\n                46 Points |  <a href=\"https://news.ycombinator.com/item?id=37435387\">28 comments</a>\n            </p>",
+            "url": "https://www.noahpinion.blog/p/our-climate-change-debates-are-out",
+            "title": "Solar and batteries are going to win, and our thinking needs to adjust (www.noahpinion.blog)",
+            "summary": "The Solar and Battery Revolution: Transforming the Climate Change Debate",
+            "date_modified": "2023-09-08T16:02:08.000Z",
+            "author": {
+                "name": "www.noahpinion.blog"
+            }
+        },
+        {
+            "id": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
+            "content_html": "<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37435454\">42 comments</a>\n            </p>",
+            "url": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
+            "title": "Heirloom Carbon: Absorbing CO2 from the air using crushed rocks (heatmap.news)",
+            "summary": "Microsoft Makes Major Investment in Carbon-Absorbing Rocks",
+            "date_modified": "2023-09-08T16:06:37.000Z",
+            "author": {
+                "name": "heatmap.news"
+            }
+        },
+        {
             "id": "https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d",
-            "content_html": "<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.\n            </p><p>\n                46 Points |  <a href=\"https://news.ycombinator.com/item?id=37435656\">28 comments</a>\n            </p>",
+            "content_html": "<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.\n            </p><p>\n                71 Points |  <a href=\"https://news.ycombinator.com/item?id=37435656\">39 comments</a>\n            </p>",
             "url": "https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d",
             "title": "SpaceX can't launch its giant rocket again until fixes are made, FAA says (apnews.com)",
             "summary": "FAA Requires SpaceX to Address Issues Before Launching Starship Mega Rocket Again",
@@ -198,28 +209,6 @@
             }
         },
         {
-            "id": "https://growth.design/case-studies/apple-privacy-policy",
-            "content_html": "<p>N/A\n            </p><p>\n                259 Points |  <a href=\"https://news.ycombinator.com/item?id=37433495\">207 comments</a>\n            </p>",
-            "url": "https://growth.design/case-studies/apple-privacy-policy",
-            "title": "Apple vs. Meta: The Illusion of Privacy (growth.design)",
-            "summary": "N/A",
-            "date_modified": "2023-09-08T13:52:36.000Z",
-            "author": {
-                "name": "growth.design"
-            }
-        },
-        {
-            "id": "https://www.noahpinion.blog/p/our-climate-change-debates-are-out",
-            "content_html": "<p>The solar and battery revolution is transforming the climate change debate, as cheap renewable energy becomes increasingly viable. The article highlights how outdated discussions about climate change are, as they fail to account for the significant advancements in solar power and electric vehicles. The cost of solar power and lithium-ion batteries has dramatically decreased, making them more affordable and competitive than other forms of energy generation. The article also addresses concerns about intermittency, reliability, and scalability, noting that solar power with battery storage has proven to be reliable and scalable. The solar and battery revolution is already underway, with solar and battery storage accounting for a significant portion of new U.S. generating capacity additions. The technological advancements in solar and batteries should inform climate debates, promote optimism, reject the idea of degrowth, and influence policy prescriptions.\n            </p><p>\n                40 Points |  <a href=\"https://news.ycombinator.com/item?id=37435387\">14 comments</a>\n            </p>",
-            "url": "https://www.noahpinion.blog/p/our-climate-change-debates-are-out",
-            "title": "Solar and batteries are going to win, and our thinking needs to adjust (www.noahpinion.blog)",
-            "summary": "The Solar and Battery Revolution: Transforming the Climate Change Debate",
-            "date_modified": "2023-09-08T16:02:08.000Z",
-            "author": {
-                "name": "www.noahpinion.blog"
-            }
-        },
-        {
             "id": "https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html",
             "content_html": "<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.\n            </p><p>\n                199 Points |  <a href=\"https://news.ycombinator.com/item?id=37425052\">128 comments</a>\n            </p>",
             "url": "https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html",
@@ -231,8 +220,19 @@
             }
         },
         {
+            "id": "https://growth.design/case-studies/apple-privacy-policy",
+            "content_html": "<p>N/A\n            </p><p>\n                272 Points |  <a href=\"https://news.ycombinator.com/item?id=37433495\">230 comments</a>\n            </p>",
+            "url": "https://growth.design/case-studies/apple-privacy-policy",
+            "title": "Apple vs. Meta: The Illusion of Privacy (growth.design)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T13:52:36.000Z",
+            "author": {
+                "name": "growth.design"
+            }
+        },
+        {
             "id": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
-            "content_html": "<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37426107\">10 comments</a>\n            </p>",
+            "content_html": "<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.\n            </p><p>\n                92 Points |  <a href=\"https://news.ycombinator.com/item?id=37426107\">20 comments</a>\n            </p>",
             "url": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
             "title": "The thinking path (www.robinsloan.com)",
             "summary": "Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness",
@@ -275,14 +275,14 @@
             }
         },
         {
-            "id": "https://www.nature.com/articles/s41586-023-06502-w",
-            "content_html": "<p>Specialized astrocytes in the central nervous system mediate glutamatergic gliotransmission, playing a role in brain circuitry assembly and function. Through the use of molecular, bioinformatic, and imaging approaches, researchers identified a subpopulation of astrocytes in the hippocampus that selectively expressed synaptic-like glutamate-release machinery. These astrocytes were found to respond to astrocyte-selective stimulations with subsecond glutamate release events at specific locations. Deletion of the vesicular glutamate transporter 1 (VGLUT1) in these astrocytes suppressed the glutamate release. The study provides insights into the complex roles of astrocytes in the central nervous system and identifies a potential therapeutic target.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37412834\">0 comments</a>\n            </p>",
-            "url": "https://www.nature.com/articles/s41586-023-06502-w",
-            "title": "Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (www.nature.com)",
-            "summary": "Specialized Astrocytes Mediate Glutamatergic Gliotransmission in the CNS",
-            "date_modified": "2023-09-06T23:33:09.000Z",
+            "id": "https://together.ai/privacy",
+            "content_html": "<p>Together Computer Inc's privacy policy outlines the collection, use, and sharing of personal data through their model training and inference platform. The policy applies to data collected through the services, training algorithms, company websites, and third-party sources. It does not cover personal data of company employees and candidates. The policy highlights the types of data collected, such as user names, IP addresses, and contact information, and explains how the company uses this data for purposes like improving the service and contacting users. It also discusses data retention, transfer, and security measures. The policy includes supplemental terms and conditions for regions like Europe and California.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37436498\">0 comments</a>\n            </p>",
+            "url": "https://together.ai/privacy",
+            "title": "Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI (together.ai)",
+            "summary": "Together Computer Inc Privacy Policy: Collection, Use, and Sharing of Personal Data",
+            "date_modified": "2023-09-08T17:20:14.000Z",
             "author": {
-                "name": "www.nature.com"
+                "name": "together.ai"
             }
         },
         {
@@ -297,14 +297,36 @@
             }
         },
         {
+            "id": "https://www.nature.com/articles/s41586-023-06502-w",
+            "content_html": "<p>Specialized astrocytes in the central nervous system mediate glutamatergic gliotransmission, playing a role in brain circuitry assembly and function. Through the use of molecular, bioinformatic, and imaging approaches, researchers identified a subpopulation of astrocytes in the hippocampus that selectively expressed synaptic-like glutamate-release machinery. These astrocytes were found to respond to astrocyte-selective stimulations with subsecond glutamate release events at specific locations. Deletion of the vesicular glutamate transporter 1 (VGLUT1) in these astrocytes suppressed the glutamate release. The study provides insights into the complex roles of astrocytes in the central nervous system and identifies a potential therapeutic target.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37412834\">0 comments</a>\n            </p>",
+            "url": "https://www.nature.com/articles/s41586-023-06502-w",
+            "title": "Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (www.nature.com)",
+            "summary": "Specialized Astrocytes Mediate Glutamatergic Gliotransmission in the CNS",
+            "date_modified": "2023-09-06T23:33:09.000Z",
+            "author": {
+                "name": "www.nature.com"
+            }
+        },
+        {
             "id": "https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/",
-            "content_html": "<p>How to Build Your Own Living Structures: A Guide to Utopian Architecture\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37433515\">0 comments</a>\n            </p>",
+            "content_html": "<p>How to Build Your Own Living Structures: A Guide to Utopian Architecture\n            </p><p>\n                25 Points |  <a href=\"https://news.ycombinator.com/item?id=37433515\">10 comments</a>\n            </p>",
             "url": "https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/",
             "title": "How to build your own living structures (1974, 2011) (www.we-find-wildness.com)",
             "summary": "How to Build Your Own Living Structures: A Guide to Utopian Architecture",
             "date_modified": "2023-09-08T13:53:51.000Z",
             "author": {
                 "name": "www.we-find-wildness.com"
+            }
+        },
+        {
+            "id": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
+            "content_html": "<p>TSMC warns that the shortage of advanced packaging capacity will continue to impact the availability of high-end GPUs until at least the end of 2024. The issue lies in the lack of capacity to stitch the silicon together, rather than a shortage of chips. TSMC can only meet about 80% of the demand for its chip on wafer on substrate (CoWoS) packaging technology, which is used in advanced chips for AI workloads. TSMC expects additional CoWoS capacity to come online within the next 18 months. This shortage affects not only Nvidia but also AMD's upcoming Instinct MI300-series accelerators.\n            </p><p>\n                119 Points |  <a href=\"https://news.ycombinator.com/item?id=37432948\">61 comments</a>\n            </p>",
+            "url": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
+            "title": "TSMC warns AI chip crunch will last another 18 months (www.theregister.com)",
+            "summary": "TSMC warns AI chip crunch will last another 18 months",
+            "date_modified": "2023-09-08T13:03:32.000Z",
+            "author": {
+                "name": "www.theregister.com"
             }
         },
         {
@@ -316,28 +338,6 @@
             "date_modified": "2023-09-08T13:13:07.000Z",
             "author": {
                 "name": "www.techdirt.com"
-            }
-        },
-        {
-            "id": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
-            "content_html": "<p>TSMC warns that the shortage of advanced packaging capacity will continue to impact the availability of high-end GPUs until at least the end of 2024. The issue lies in the lack of capacity to stitch the silicon together, rather than a shortage of chips. TSMC can only meet about 80% of the demand for its chip on wafer on substrate (CoWoS) packaging technology, which is used in advanced chips for AI workloads. TSMC expects additional CoWoS capacity to come online within the next 18 months. This shortage affects not only Nvidia but also AMD's upcoming Instinct MI300-series accelerators.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37432948\">51 comments</a>\n            </p>",
-            "url": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
-            "title": "TSMC warns AI chip crunch will last another 18 months (www.theregister.com)",
-            "summary": "TSMC warns AI chip crunch will last another 18 months",
-            "date_modified": "2023-09-08T13:03:32.000Z",
-            "author": {
-                "name": "www.theregister.com"
-            }
-        },
-        {
-            "id": "http://www.ws.binghamton.edu/fridrich/cube.html",
-            "content_html": "<p>A guide to advanced speed cubing techniques and resources, including tips for solving Rubik's cube faster, customizing algorithms, and achieving record times. It also features collections of various algorithms, pretty patterns, and expert insights from renowned speed cubers. The page includes personal experiences from attending world championships and cube-related events, as well as links to additional resources for further exploration.\n            </p><p>\n                81 Points |  <a href=\"https://news.ycombinator.com/item?id=37416999\">36 comments</a>\n            </p>",
-            "url": "http://www.ws.binghamton.edu/fridrich/cube.html",
-            "title": "My speed cubing page (www.ws.binghamton.edu)",
-            "summary": "Advanced Speed Cubing Techniques and Resources",
-            "date_modified": "2023-09-07T10:33:33.000Z",
-            "author": {
-                "name": "www.ws.binghamton.edu"
             }
         }
     ]
