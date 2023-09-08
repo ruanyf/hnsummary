@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 21:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 22:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,18 +23,29 @@
             <description><![CDATA[Code File for TypeScript Implementation of Game of Life]]></description>
             <content:encoded><![CDATA[<p>This is a code file for a TypeScript implementation of the Game of Life. The code consists of 203 lines and is approximately 7.24 KB in size. It appears to be a random file within a larger project called 'cursed-typescript'.
             </p><p>
-                66 Points |  <a href="https://news.ycombinator.com/item?id=37438028">11 comments</a>
+                88 Points |  <a href="https://news.ycombinator.com/item?id=37438028">21 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Scammers Can Exploit Email Forwarding Flaws to Impersonate High-Profile Domains (today.ucsd.edu)]]></title>
+            <title><![CDATA[Decoded: GNU Coreutils (maizure.org)]]></title>
+            <link>https://maizure.org/projects/decoded-gnu-coreutils/</link>
+            <guid>https://maizure.org/projects/decoded-gnu-coreutils/</guid>
+            <pubDate>Fri, 08 Sep 2023 21:15:52 GMT</pubDate>
+            <description><![CDATA[Decoding the GNU coreutils: Exploring the Design of Command-Line Utilities]]></description>
+            <content:encoded><![CDATA[<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37439535">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Scammers can exploit email forwarding flaws to impersonate high-profile domains (today.ucsd.edu)]]></title>
             <link>https://today.ucsd.edu/story/forwarding_based_spoofing</link>
             <guid>https://today.ucsd.edu/story/forwarding_based_spoofing</guid>
             <pubDate>Fri, 08 Sep 2023 19:45:08 GMT</pubDate>
             <description><![CDATA[Security Flaws in Email Forwarding Allow Scammers to Impersonate High-profile Domains]]></description>
             <content:encoded><![CDATA[<p>Researchers at the University of California San Diego have discovered security flaws in the email forwarding process that allow scammers to impersonate high-profile domains. This vulnerability affects tens of thousands of domains, including government organizations, financial service companies, and major news organizations. The researchers found that scammers can send spoofed emails that bypass the safeguards of email providers like Gmail and Outlook, increasing the likelihood of recipients opening malicious attachments or clicking on harmful links. The vulnerabilities arise from the delegation of email infrastructure to third-party providers and the assumption that each organization operates its own mailing infrastructure. While some providers have patched the issues, the researchers recommend disabling open forwarding and implementing stricter validation policies to address the root problem.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37438478">0 comments</a>
+                45 Points |  <a href="https://news.ycombinator.com/item?id=37438478">10 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -45,7 +56,7 @@
             <description><![CDATA[Aardvark'd: The Fog Creek Documentary, 18 Years Later - A Look into the Early Days of Tech Startup Founders]]></description>
             <content:encoded><![CDATA[<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.
             </p><p>
-                282 Points |  <a href="https://news.ycombinator.com/item?id=37433186">89 comments</a>
+                304 Points |  <a href="https://news.ycombinator.com/item?id=37433186">99 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -67,7 +78,18 @@
             <description><![CDATA[Understanding the constexprness of C++20's std::string]]></description>
             <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.
             </p><p>
-                41 Points |  <a href="https://news.ycombinator.com/item?id=37431425">24 comments</a>
+                56 Points |  <a href="https://news.ycombinator.com/item?id=37431425">34 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)]]></title>
+            <link>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</link>
+            <guid>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</guid>
+            <pubDate>Fri, 08 Sep 2023 20:41:20 GMT</pubDate>
+            <description><![CDATA[Manipulating Application Behavior with LD_PRELOAD]]></description>
+            <content:encoded><![CDATA[<p>Using LD_PRELOAD to manipulate the behavior of applications
+            </p><p>
+                21 Points |  <a href="https://news.ycombinator.com/item?id=37439125">10 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -82,6 +104,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NVIDIA introduces TensorRT-LLM for accelerating LLM inference on H100/A100 GPUs (developer.nvidia.com)]]></title>
+            <link>https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/</link>
+            <guid>https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/</guid>
+            <pubDate>Fri, 08 Sep 2023 20:54:39 GMT</pubDate>
+            <description><![CDATA[NVIDIA TensorRT-LLM Supercharges Large Language Model Inference on NVIDIA H100 GPUs]]></description>
+            <content:encoded><![CDATA[<p>NVIDIA TensorRT-LLM is an open-source software that enhances the performance of large language models (LLMs) on NVIDIA GPUs. It offers optimized kernels, pre- and post-processing steps, and multi-GPU/multi-node communication primitives. TensorRT-LLM improves ease of use and extensibility through an open-source modular Python API. It enables developers to experiment with new LLMs without deep knowledge of C++ or NVIDIA CUDA. The software also includes features like in-flight batching and FP8 quantization, which improve GPU usage and reduce memory consumption. TensorRT-LLM supports various LLMs, including Meta Llama 2, OpenAI GPT-2 and GPT-3, Falcon, and Mosaic MPT. It is available in early access and will be integrated into the NVIDIA NeMo framework.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37439280">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)]]></title>
             <link>https://bitbashing.io/async-rust.html</link>
             <guid>https://bitbashing.io/async-rust.html</guid>
@@ -89,29 +122,7 @@
             <description><![CDATA[Challenges and Limitations of Async Rust for Concurrency]]></description>
             <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.
             </p><p>
-                352 Points |  <a href="https://news.ycombinator.com/item?id=37435515">299 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)]]></title>
-            <link>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</link>
-            <guid>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</guid>
-            <pubDate>Fri, 08 Sep 2023 20:41:20 GMT</pubDate>
-            <description><![CDATA[Manipulating Application Behavior with LD_PRELOAD]]></description>
-            <content:encoded><![CDATA[<p>Using LD_PRELOAD to manipulate the behavior of applications
-            </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37439125">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How to Learn Emacs (2012) (david.rothlis.net)]]></title>
-            <link>https://david.rothlis.net/emacs/howtolearn.html</link>
-            <guid>https://david.rothlis.net/emacs/howtolearn.html</guid>
-            <pubDate>Fri, 08 Sep 2023 20:16:58 GMT</pubDate>
-            <description><![CDATA[Mastering Emacs: A Guide for Programmers]]></description>
-            <content:encoded><![CDATA[<p>This guide to Emacs is aimed at computer programmers who want to master the text editor. It acknowledges that the learning curve for Emacs is steep but promises to help users reach the next level of programming in months rather than years. The guide emphasizes self-driven discovery using Emacs' built-in help, debugging facilities, and source code. The author asks for commitment and patience from readers, urging them to give up their favorite IDE's features for at least a month or two. The next section explores why Emacs is worth the effort.
-            </p><p>
-                7 Points |  <a href="https://news.ycombinator.com/item?id=37438842">0 comments</a>
+                397 Points |  <a href="https://news.ycombinator.com/item?id=37435515">337 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -122,7 +133,7 @@
             <description><![CDATA[The Challenges and Delays in Developing a Malaria Vaccine]]></description>
             <content:encoded><![CDATA[<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.
             </p><p>
-                51 Points |  <a href="https://news.ycombinator.com/item?id=37437739">38 comments</a>
+                73 Points |  <a href="https://news.ycombinator.com/item?id=37437739">50 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -133,7 +144,7 @@
             <description><![CDATA[Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries]]></description>
             <content:encoded><![CDATA[<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.
             </p><p>
-                95 Points |  <a href="https://news.ycombinator.com/item?id=37435215">71 comments</a>
+                105 Points |  <a href="https://news.ycombinator.com/item?id=37435215">81 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -148,25 +159,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Towards a New SymPy (oscarbenjamin.github.io)]]></title>
-            <link>https://oscarbenjamin.github.io/blog/czi/post1.html</link>
-            <guid>https://oscarbenjamin.github.io/blog/czi/post1.html</guid>
-            <pubDate>Fri, 08 Sep 2023 07:50:49 GMT</pubDate>
-            <description><![CDATA[Foundations of a Computer Algebra System: Towards a Faster SymPy]]></description>
-            <content:encoded><![CDATA[<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System
+            <title><![CDATA[The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)]]></title>
+            <link>https://github.com/dancrossnyc/rxv64</link>
+            <guid>https://github.com/dancrossnyc/rxv64</guid>
+            <pubDate>Fri, 08 Sep 2023 21:03:19 GMT</pubDate>
+            <description><![CDATA[rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust]]></description>
+            <content:encoded><![CDATA[<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.
             </p><p>
-                62 Points |  <a href="https://news.ycombinator.com/item?id=37430759">35 comments</a>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37439391">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FreeBSD pf bypass when using IPv6 (www.enricobassetti.it)]]></title>
-            <link>https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/</link>
-            <guid>https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/</guid>
-            <pubDate>Fri, 08 Sep 2023 18:33:21 GMT</pubDate>
-            <description><![CDATA[CVE-2023-4809: FreeBSD pf Bypass Vulnerability in IPv6 Firewalls]]></description>
-            <content:encoded><![CDATA[<p>CVE-2023-4809: FreeBSD pf bypass vulnerability allows attackers to bypass rules in pf-based IPv6 firewalls. The vulnerability occurs when a non-compliant IPv6 atomic fragment is sent, containing multiple IPv6 fragmentation headers. FreeBSD handles these fragments by rebuilding the original packet but fails to apply any rules that apply to layers four and higher. As a result, the fragment bypasses the firewall and establishes two-way communication between the attacker and the victim. The vulnerability affects all FreeBSD versions up to 13.2-STABLE and 12.4-STABLE. The solution is to update FreeBSD to the latest version.
+            <title><![CDATA[Artic Code Vault (archiveprogram.github.com)]]></title>
+            <link>https://archiveprogram.github.com/arctic-vault/</link>
+            <guid>https://archiveprogram.github.com/arctic-vault/</guid>
+            <pubDate>Fri, 08 Sep 2023 05:16:57 GMT</pubDate>
+            <description><![CDATA[GitHub Creates Arctic Code Vault to Preserve Open Source Software]]></description>
+            <content:encoded><![CDATA[<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is a long-term archival facility located in a decommissioned coal mine in the Svalbard archipelago. The archive is designed to last 1,000 years and is considered a stable site for preserving humanity's collective knowledge. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributions, GitHub created the Arctic Code Vault Badge displayed on developers' profiles. The vault contains open source software from millions of developers worldwide.
             </p><p>
-                47 Points |  <a href="https://news.ycombinator.com/item?id=37437530">30 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37429645">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -178,6 +189,28 @@
             <content:encoded><![CDATA[<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.
             </p><p>
                 1 Points |  <a href="https://news.ycombinator.com/item?id=37436236">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to Learn Emacs (2012) (david.rothlis.net)]]></title>
+            <link>https://david.rothlis.net/emacs/howtolearn.html</link>
+            <guid>https://david.rothlis.net/emacs/howtolearn.html</guid>
+            <pubDate>Fri, 08 Sep 2023 20:16:58 GMT</pubDate>
+            <description><![CDATA[Mastering Emacs: A Guide for Programmers]]></description>
+            <content:encoded><![CDATA[<p>This guide to Emacs is aimed at computer programmers who want to master the text editor. It acknowledges that the learning curve for Emacs is steep but promises to help users reach the next level of programming in months rather than years. The guide emphasizes self-driven discovery using Emacs' built-in help, debugging facilities, and source code. The author asks for commitment and patience from readers, urging them to give up their favorite IDE's features for at least a month or two. The next section explores why Emacs is worth the effort.
+            </p><p>
+                22 Points |  <a href="https://news.ycombinator.com/item?id=37438842">10 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Towards a New SymPy (oscarbenjamin.github.io)]]></title>
+            <link>https://oscarbenjamin.github.io/blog/czi/post1.html</link>
+            <guid>https://oscarbenjamin.github.io/blog/czi/post1.html</guid>
+            <pubDate>Fri, 08 Sep 2023 07:50:49 GMT</pubDate>
+            <description><![CDATA[Foundations of a Computer Algebra System: Towards a Faster SymPy]]></description>
+            <content:encoded><![CDATA[<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System
+            </p><p>
+                62 Points |  <a href="https://news.ycombinator.com/item?id=37430759">35 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -225,6 +258,27 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf] (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37438934</link>
+            <guid>https://news.ycombinator.com/item?id=37438934</guid>
+            <pubDate>Fri, 08 Sep 2023 20:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
+            </p><p>
+                30 Points |  <a href="https://news.ycombinator.com/item?id=37438934">11 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Absence of Data Privacy Law Is a National Security Threat (nationalinterest.org)]]></title>
+            <link>https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773</link>
+            <guid>https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773</guid>
+            <pubDate>Fri, 08 Sep 2023 21:17:24 GMT</pubDate>
+            <description><![CDATA[The Absence of Data Privacy Law: A Threat to National Security]]></description>
+            <content:encoded><![CDATA[<p>The absence of data privacy laws poses a national security threat as it allows foreign intelligence agencies to collect sensitive personal data. U.S. businesses have been involved in aiding China's mass surveillance and censorship programs, contributing to human rights violations. China has implemented privacy protections and strengthened its data security laws, benchmarking Europe's General Data Protection Regulation. China's intelligence agency has increased investments in open-source military intelligence and data collection. Multilateral security cooperation is crucial in countering cybersecurity threats and protecting liberal democratic values.
+            </p><p>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37439553">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Digging through the New York Times morgue (buttondown.email)]]></title>
             <link>https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/</link>
             <guid>https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/</guid>
@@ -243,29 +297,7 @@
             <description><![CDATA[A Collection of Diverse Emojis in Slackmoji AI Edition]]></description>
             <content:encoded><![CDATA[<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.
             </p><p>
-                240 Points |  <a href="https://news.ycombinator.com/item?id=37433523">115 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Safety inspector fired for finding 'too many defects' (jalopnik.com)]]></title>
-            <link>https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520</link>
-            <guid>https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520</guid>
-            <pubDate>Fri, 08 Sep 2023 18:51:07 GMT</pubDate>
-            <description><![CDATA[Safety Inspector Fired For Finding 'Too Many Defects' Exposes Culture of Ignoring Safety at Railroad Company]]></description>
-            <content:encoded><![CDATA[<p>Safety Inspector Fired For Finding 'Too Many Defects' Could Cost Railroad Millions. Former track inspector Don Sanders reveals a culture of ignoring safety in favor of profit at Burlington Northern Santa Fe (BNSF). Sanders had previously sued BNSF in 2017 for retaliation after reporting numerous defects. BNSF has a history of destroying evidence and retaliating against employees. Secretly recorded phone calls from the lawsuit expose BNSF's disregard for safety, with employees questioning why defects aren't fixed and supervisors discouraging calls to the Federal Railroad Administration. Other track inspectors confirm the pressure to overlook defects and the consequences of reporting them. Despite the evidence, Sanders' supervisor still has his job, received a raise, and a bonus.
-            </p><p>
-                133 Points |  <a href="https://news.ycombinator.com/item?id=37437764">32 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)]]></title>
-            <link>https://www.h2fly.de/</link>
-            <guid>https://www.h2fly.de/</guid>
-            <pubDate>Fri, 08 Sep 2023 13:42:42 GMT</pubDate>
-            <description><![CDATA[Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation]]></description>
-            <content:encoded><![CDATA[<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.
-            </p><p>
-                16 Points |  <a href="https://news.ycombinator.com/item?id=37433380">12 comments</a>
+                267 Points |  <a href="https://news.ycombinator.com/item?id=37433523">128 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -280,36 +312,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FAA closes SpaceX Starship mishap investigation (apnews.com)]]></title>
-            <link>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</link>
-            <guid>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</guid>
-            <pubDate>Fri, 08 Sep 2023 16:19:12 GMT</pubDate>
-            <description><![CDATA[FAA Requires SpaceX to Address Issues Before Launching Starship Mega Rocket Again]]></description>
-            <content:encoded><![CDATA[<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.
+            <title><![CDATA[H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)]]></title>
+            <link>https://www.h2fly.de/</link>
+            <guid>https://www.h2fly.de/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:42:42 GMT</pubDate>
+            <description><![CDATA[Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation]]></description>
+            <content:encoded><![CDATA[<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.
             </p><p>
-                127 Points |  <a href="https://news.ycombinator.com/item?id=37435656">115 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: Rivet – open-source AI Agent dev env with real-world applications (rivet.ironcladapp.com)]]></title>
-            <link>https://rivet.ironcladapp.com/</link>
-            <guid>https://rivet.ironcladapp.com/</guid>
-            <pubDate>Fri, 08 Sep 2023 13:29:05 GMT</pubDate>
-            <description><![CDATA[Rivet: A Visual Programming Environment for Building AI Agents with LLMs]]></description>
-            <content:encoded><![CDATA[<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.
-            </p><p>
-                107 Points |  <a href="https://news.ycombinator.com/item?id=37433218">26 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[FTC judge decides Intuit’s ‘free’ TurboTax ads misled consumers (www.theverge.com)]]></title>
-            <link>https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing</link>
-            <guid>https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing</guid>
-            <pubDate>Fri, 08 Sep 2023 18:19:19 GMT</pubDate>
-            <description><![CDATA[FTC Judge Finds Intuit's 'Free' TurboTax Ads Misled Consumers]]></description>
-            <content:encoded><![CDATA[<p>FTC judge rules that Intuit's 'free' TurboTax ads were misleading, finding that the company deceived consumers by advertising its tax filing service as free when users had to pay to use it. The ruling includes evidence of commercials and online ads promoting the 'Free Edition' software. Intuit was also criticized for making its actually free Free File version difficult to find. The judge issued a cease-and-desist order, prohibiting Intuit from engaging in deceptive practices and requiring clear disclosure of any terms that would limit offers. Intuit responded by calling the investigation process flawed and questionable, stating that it already adheres to most advertising practices in the FTC's decision. The IRS is working on a government-backed free filing service for the 2024 tax season.
-            </p><p>
-                208 Points |  <a href="https://news.ycombinator.com/item?id=37437311">59 comments</a>
+                16 Points |  <a href="https://news.ycombinator.com/item?id=37433380">12 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -324,24 +334,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)]]></title>
-            <link>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</link>
-            <guid>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</guid>
-            <pubDate>Fri, 08 Sep 2023 14:59:13 GMT</pubDate>
-            <description><![CDATA[Air pollution degrades floral scent, making it difficult for bees to find flowers]]></description>
-            <content:encoded><![CDATA[<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.
+            <title><![CDATA[Show HN: Rivet – open-source AI Agent dev env with real-world applications (rivet.ironcladapp.com)]]></title>
+            <link>https://rivet.ironcladapp.com/</link>
+            <guid>https://rivet.ironcladapp.com/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:29:05 GMT</pubDate>
+            <description><![CDATA[Rivet: A Visual Programming Environment for Building AI Agents with LLMs]]></description>
+            <content:encoded><![CDATA[<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.
             </p><p>
-                121 Points |  <a href="https://news.ycombinator.com/item?id=37434381">24 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf] (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37438934</link>
-            <guid>https://news.ycombinator.com/item?id=37438934</guid>
-            <pubDate>Fri, 08 Sep 2023 20:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                20 Points |  <a href="https://news.ycombinator.com/item?id=37438934">3 comments</a>
+                107 Points |  <a href="https://news.ycombinator.com/item?id=37433218">26 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
