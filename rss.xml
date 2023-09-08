@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 14:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 15:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -16,6 +16,17 @@
         <category>Frontpage</category>
         <atom:link href="https://ruanyf.github.io/hnsummary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Emoji Generator with AI (emoji.fly.dev)]]></title>
+            <link>https://emoji.fly.dev</link>
+            <guid>https://emoji.fly.dev</guid>
+            <pubDate>Fri, 08 Sep 2023 13:54:13 GMT</pubDate>
+            <description><![CDATA[A Collection of Diverse Emojis in Slackmoji AI Edition]]></description>
+            <content:encoded><![CDATA[<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.
+            </p><p>
+                53 Points |  <a href="https://news.ycombinator.com/item?id=37433523">22 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Touch Pianist (touchpianist.com)]]></title>
             <link>http://touchpianist.com/</link>
             <guid>http://touchpianist.com/</guid>
@@ -23,40 +34,73 @@
             <description><![CDATA[Menu of Pieces on a Mobile App]]></description>
             <content:encoded><![CDATA[<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.
             </p><p>
-                33 Points |  <a href="https://news.ycombinator.com/item?id=37431644">15 comments</a>
+                286 Points |  <a href="https://news.ycombinator.com/item?id=37431644">92 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NYPD spent millions to contract with firm banned by Meta for fake profiles (www.theguardian.com)]]></title>
-            <link>https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract</link>
-            <guid>https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract</guid>
-            <pubDate>Fri, 08 Sep 2023 10:45:13 GMT</pubDate>
-            <description><![CDATA[NYPD Spends Millions on Surveillance Firm Banned by Meta for Fake Profiles]]></description>
-            <content:encoded><![CDATA[<p>New York law enforcement agencies, including the NYPD, have spent millions of dollars to track and analyze social media posts, according to documents obtained by the Surveillance Technology Oversight Project. The NYPD entered a contract with Voyager Labs, a surveillance company accused of using fake Facebook accounts to collect data. The company claims its products can use artificial intelligence to analyze online human behavior and detect and predict fraud and crimes. Another contract was revealed between the Queens district attorney and Israeli firm Cobwebs Technologies, which offers social network mapping products and tools to track location information through phones. The use of social media analytics tools by law enforcement raises ethical and legal concerns regarding privacy violations and unreasonable searches and seizures.
+            <title><![CDATA[Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)]]></title>
+            <link>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</link>
+            <guid>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</guid>
+            <pubDate>Fri, 08 Sep 2023 14:59:13 GMT</pubDate>
+            <description><![CDATA[Air pollution degrades floral scent, making it difficult for bees to find flowers]]></description>
+            <content:encoded><![CDATA[<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.
             </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37431962">0 comments</a>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37434381">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[China's ancient water pipe networks show no evidence of a centralized authority (phys.org)]]></title>
-            <link>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</link>
-            <guid>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</guid>
-            <pubDate>Thu, 07 Sep 2023 20:25:09 GMT</pubDate>
-            <description><![CDATA[Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority]]></description>
-            <content:encoded><![CDATA[<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.
+            <title><![CDATA[Did you know Git was originally created in 10 days? (community.appsmith.com)]]></title>
+            <link>https://community.appsmith.com/content/blog/evolution-git-dive-tech-history</link>
+            <guid>https://community.appsmith.com/content/blog/evolution-git-dive-tech-history</guid>
+            <pubDate>Fri, 08 Sep 2023 14:54:41 GMT</pubDate>
+            <description><![CDATA[The Evolution of Git: From a Kernel Project Hiccup to a Essential Tool for Developers]]></description>
+            <content:encoded><![CDATA[<p>The Evolution of Git: A Dive Into Tech History
             </p><p>
-                101 Points |  <a href="https://news.ycombinator.com/item?id=37425052">46 comments</a>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37434295">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How Query Engines Work (howqueryengineswork.com)]]></title>
-            <link>https://howqueryengineswork.com/</link>
-            <guid>https://howqueryengineswork.com/</guid>
-            <pubDate>Thu, 07 Sep 2023 06:38:55 GMT</pubDate>
-            <description><![CDATA[How Query Engines Work: A Comprehensive Guide]]></description>
-            <content:encoded><![CDATA[<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.
+            <title><![CDATA[Aardvark'd: The Fog Creek Documentary, 18 Years Later (mtlynch.io)]]></title>
+            <link>https://mtlynch.io/aardvarkd/</link>
+            <guid>https://mtlynch.io/aardvarkd/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:26:45 GMT</pubDate>
+            <description><![CDATA[Aardvark'd: The Fog Creek Documentary, 18 Years Later - A Look into the Early Days of Tech Startup Founders]]></description>
+            <content:encoded><![CDATA[<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.
             </p><p>
-                97 Points |  <a href="https://news.ycombinator.com/item?id=37415494">22 comments</a>
+                22 Points |  <a href="https://news.ycombinator.com/item?id=37433186">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Apple vs. Meta: The Illusion of Privacy (growth.design)]]></title>
+            <link>https://growth.design/case-studies/apple-privacy-policy</link>
+            <guid>https://growth.design/case-studies/apple-privacy-policy</guid>
+            <pubDate>Fri, 08 Sep 2023 13:52:36 GMT</pubDate>
+            <description><![CDATA[N/A]]></description>
+            <content:encoded><![CDATA[<p>N/A
+            </p><p>
+                92 Points |  <a href="https://news.ycombinator.com/item?id=37433495">59 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Large Language Models as Optimizers. +50% on Big Bench Hard (arxiv.org)]]></title>
+            <link>https://arxiv.org/abs/2309.03409</link>
+            <guid>https://arxiv.org/abs/2309.03409</guid>
+            <pubDate>Fri, 08 Sep 2023 14:37:30 GMT</pubDate>
+            <description><![CDATA[Leveraging Large Language Models as Optimizers: Introducing Optimization by PROmpting (OPRO)]]></description>
+            <content:encoded><![CDATA[<p>The paper introduces Optimization by PROmpting (OPRO), a method that leverages large language models (LLMs) as optimizers. OPRO uses natural language prompts to generate new solutions in each optimization step. The authors demonstrate the effectiveness of OPRO on linear regression, traveling salesman problems, and prompt optimization tasks. They show that prompts optimized by OPRO outperform human-designed prompts by up to 8% on GSM8K and by up to 50% on Big-Bench Hard tasks. The paper falls under the categories of Machine Learning, Artificial Intelligence, and Computation and Language.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37434069">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Towards a New SymPy (oscarbenjamin.github.io)]]></title>
+            <link>https://oscarbenjamin.github.io/blog/czi/post1.html</link>
+            <guid>https://oscarbenjamin.github.io/blog/czi/post1.html</guid>
+            <pubDate>Fri, 08 Sep 2023 07:50:49 GMT</pubDate>
+            <description><![CDATA[Foundations of a Computer Algebra System: Towards a Faster SymPy]]></description>
+            <content:encoded><![CDATA[<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System
+            </p><p>
+                11 Points |  <a href="https://news.ycombinator.com/item?id=37430759">2 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -67,7 +111,29 @@
             <description><![CDATA[Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness]]></description>
             <content:encoded><![CDATA[<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37426107">0 comments</a>
+                58 Points |  <a href="https://news.ycombinator.com/item?id=37426107">10 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PgBouncer is useful, important, and fraught with peril (jpcamara.com)]]></title>
+            <link>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</link>
+            <guid>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</guid>
+            <pubDate>Fri, 08 Sep 2023 09:43:22 GMT</pubDate>
+            <description><![CDATA[The Significance and Challenges of PgBouncer for Scaling PostgreSQL]]></description>
+            <content:encoded><![CDATA[<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL
+            </p><p>
+                70 Points |  <a href="https://news.ycombinator.com/item?id=37431560">29 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)]]></title>
+            <link>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</link>
+            <guid>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</guid>
+            <pubDate>Fri, 08 Sep 2023 03:36:11 GMT</pubDate>
+            <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
+            <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
+            </p><p>
+                40 Points |  <a href="https://news.ycombinator.com/item?id=37428937">12 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -82,6 +148,72 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[China's ancient water pipe networks show no evidence of a centralized authority (phys.org)]]></title>
+            <link>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</link>
+            <guid>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</guid>
+            <pubDate>Thu, 07 Sep 2023 20:25:09 GMT</pubDate>
+            <description><![CDATA[Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority]]></description>
+            <content:encoded><![CDATA[<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.
+            </p><p>
+                164 Points |  <a href="https://news.ycombinator.com/item?id=37425052">100 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A Study of Malicious Code in PyPI Ecosystem (about.honywen.com)]]></title>
+            <link>https://about.honywen.com/publication/2023ase/#</link>
+            <guid>https://about.honywen.com/publication/2023ase/#</guid>
+            <pubDate>Fri, 08 Sep 2023 14:12:27 GMT</pubDate>
+            <description><![CDATA[Understanding the State of Malicious Code in the PyPI Ecosystem]]></description>
+            <content:encoded><![CDATA[<p>This empirical study examines the characteristics and current state of malicious code in the PyPI ecosystem. The researchers collected a dataset of 4,669 malicious package files and classified them into five categories based on their behavior. The study found that over 50% of the malicious code exhibited multiple malicious behaviors, with information stealing and command execution being common. The analysis revealed that 74.81% of the malicious packages successfully entered end-user projects through source code installation, posing significant security risks. Furthermore, many reported malicious packages persisted in PyPI mirror servers globally, even after being discovered. The study provides insights into the lifecycle of malicious code in the PyPI ecosystem and suggests mitigations to enhance the security of the Python open-source ecosystem.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37433743">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How Query Engines Work (howqueryengineswork.com)]]></title>
+            <link>https://howqueryengineswork.com/</link>
+            <guid>https://howqueryengineswork.com/</guid>
+            <pubDate>Thu, 07 Sep 2023 06:38:55 GMT</pubDate>
+            <description><![CDATA[How Query Engines Work: A Comprehensive Guide]]></description>
+            <content:encoded><![CDATA[<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.
+            </p><p>
+                207 Points |  <a href="https://news.ycombinator.com/item?id=37415494">32 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LibreWolf – Custom version of Firefox, focused on privacy, security and freedom (librewolf.net)]]></title>
+            <link>https://librewolf.net/</link>
+            <guid>https://librewolf.net/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:29:59 GMT</pubDate>
+            <description><![CDATA[LibreWolf: A Privacy-Focused Custom Version of Firefox]]></description>
+            <content:encoded><![CDATA[<p>LibreWolf is a custom version of Firefox that prioritizes privacy, security, and user freedom. It aims to enhance protection against tracking and fingerprinting techniques, remove telemetry and data collection, and disable anti-freedom features. The browser includes privacy-conscious search providers and a content blocker. It is regularly updated for the latest security and features, and is open source, allowing community participation. Contributions are welcome, and the project provides support for various operating systems. LibreWolf is not affiliated with Mozilla.
+            </p><p>
+                104 Points |  <a href="https://news.ycombinator.com/item?id=37431474">73 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[X updates its Terms to prohibit crawling/scraping of its data (stackdiary.com)]]></title>
+            <link>https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/</link>
+            <guid>https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/</guid>
+            <pubDate>Fri, 08 Sep 2023 14:13:12 GMT</pubDate>
+            <description><![CDATA[X Updates Terms to Prohibit Crawling/Scraping of Data]]></description>
+            <content:encoded><![CDATA[<p>X updates its terms to prohibit crawling/scraping of its data without prior written consent. This update comes after X allowed itself to use public data for training its AI models. The new policy also mentions a mutual consent requirement for scraping or crawling. X had previously blocked unauthenticated access to the site, but later lifted the limitation with the condition that only the original post can be viewed. X has also updated its robots.txt file to block all bots and search engines. However, services like Brave Search API can still bypass this restriction. It remains to be seen if X will take legal action against third parties using its data for training AI models.
+            </p><p>
+                25 Points |  <a href="https://news.ycombinator.com/item?id=37433759">27 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)]]></title>
+            <link>https://www.h2fly.de/</link>
+            <guid>https://www.h2fly.de/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:42:42 GMT</pubDate>
+            <description><![CDATA[Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation]]></description>
+            <content:encoded><![CDATA[<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.
+            </p><p>
+                8 Points |  <a href="https://news.ycombinator.com/item?id=37433380">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[NSO group iPhone zero-click, zero-day exploit captured in the wild (citizenlab.ca)]]></title>
             <link>https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/</link>
             <guid>https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/</guid>
@@ -93,6 +225,83 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[TSMC warns AI chip crunch will last another 18 months (www.theregister.com)]]></title>
+            <link>https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/</link>
+            <guid>https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:03:32 GMT</pubDate>
+            <description><![CDATA[TSMC warns AI chip crunch will last another 18 months]]></description>
+            <content:encoded><![CDATA[<p>TSMC warns that the shortage of advanced packaging capacity will continue to impact the availability of high-end GPUs until at least the end of 2024. The issue lies in the lack of capacity to stitch the silicon together, rather than a shortage of chips. TSMC can only meet about 80% of the demand for its chip on wafer on substrate (CoWoS) packaging technology, which is used in advanced chips for AI workloads. TSMC expects additional CoWoS capacity to come online within the next 18 months. This shortage affects not only Nvidia but also AMD's upcoming Instinct MI300-series accelerators.
+            </p><p>
+                57 Points |  <a href="https://news.ycombinator.com/item?id=37432948">30 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dating app Grindr loses nearly half its staff after trying to force RTO (www.cnn.com)]]></title>
+            <link>https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html</link>
+            <guid>https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html</guid>
+            <pubDate>Fri, 08 Sep 2023 14:54:37 GMT</pubDate>
+            <description><![CDATA[Grindr Loses Nearly Half of Staff After Enforcing Return-to-Office Policy]]></description>
+            <content:encoded><![CDATA[<p>LGBTQ dating app Grindr loses nearly half of its staff after implementing a return-to-office policy. The policy required employees to either relocate to designated 'hub' cities or leave the company. Around 80 out of 178 workers were forced to leave as a result. The return-to-work policy is seen as retaliatory by the Communications Workers of America (CWA) in response to a union drive at the company. The CWA has filed an unfair labor practice charge against Grindr. This situation reflects the ongoing tensions between employers and workers regarding return-to-office policies in the post-pandemic era.
+            </p><p>
+                11 Points |  <a href="https://news.ycombinator.com/item?id=37434293">3 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[China Offers Lesson in How to Cut Plastic Waste from Food Delivery (www.wsj.com)]]></title>
+            <link>https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4</link>
+            <guid>https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4</guid>
+            <pubDate>Fri, 08 Sep 2023 13:36:06 GMT</pubDate>
+            <description><![CDATA[Delivery App Tweak Could Save 22 Billion Sets of Plastic Cutlery a Year, Study Shows]]></description>
+            <content:encoded><![CDATA[<p>A study in China suggests that making small changes to food delivery apps could significantly reduce the consumption of single-use plastic cutlery. With over half a billion people using food delivery apps in China, the amount of plastic waste generated is a major concern. The study proposes using gentle nudges, such as defaulting to no cutlery or offering incentives for customers to opt out of receiving plastic cutlery. These simple changes could potentially save 22 billion sets of plastic cutlery per year. This research highlights the potential for technology to play a role in reducing plastic waste and promoting sustainable practices.
+            </p><p>
+                28 Points |  <a href="https://news.ycombinator.com/item?id=37433307">21 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore (www.techdirt.com)]]></title>
+            <link>https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/</link>
+            <guid>https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:13:07 GMT</pubDate>
+            <description><![CDATA[Rate Limit Exceeded]]></description>
+            <content:encoded><![CDATA[<p>The request has been rate-limited due to excessive requests made within a short period of time. If you believe this is an error, please contact support.
+            </p><p>
+                32 Points |  <a href="https://news.ycombinator.com/item?id=37433036">14 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN: Rivet – open-source AI Agent dev env with real-world applications (rivet.ironcladapp.com)]]></title>
+            <link>https://rivet.ironcladapp.com/</link>
+            <guid>https://rivet.ironcladapp.com/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:29:05 GMT</pubDate>
+            <description><![CDATA[Rivet: A Visual Programming Environment for Building AI Agents with LLMs]]></description>
+            <content:encoded><![CDATA[<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.
+            </p><p>
+                23 Points |  <a href="https://news.ycombinator.com/item?id=37433218">6 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO (www.cio.com)]]></title>
+            <link>https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html</link>
+            <guid>https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html</guid>
+            <pubDate>Fri, 08 Sep 2023 11:57:59 GMT</pubDate>
+            <description><![CDATA[IBM to Increase Cloud Costs by Up to 26% in 2024]]></description>
+            <content:encoded><![CDATA[<p>IBM plans to increase its cloud services costs by up to 26% in 2024, affecting infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS) offerings. The price hike will be steeper for international customers compared to those in the US. PaaS services, including Kubernetes Services and RedHat OpenShift, will see a 3% price increase globally. For IaaS offerings, the price hikes will apply to bare metal servers, virtual server instances, file and block storage, and networking infrastructure. The price changes will vary across different data centers, with some experiencing increases of up to 7.5%. IBM's Cloud Object Storage service will also see price increases of 25% to 26% globally. This move follows similar price hikes by other technology vendors to combat inflation and rising costs.
+            </p><p>
+                59 Points |  <a href="https://news.ycombinator.com/item?id=37432399">43 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Digging through the New York Times morgue (buttondown.email)]]></title>
+            <link>https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/</link>
+            <guid>https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/</guid>
+            <pubDate>Thu, 07 Sep 2023 21:53:14 GMT</pubDate>
+            <description><![CDATA[Uncovering Treasures: Exploring the Transition to Computer Phototypesetting at The New York Times]]></description>
+            <content:encoded><![CDATA[<p>Researcher uncovers treasures from the transition to computer phototypesetting in the 1970s while digging through the New York Times morgue. The morgue contains millions of newspaper clippings, photographs, and other materials organized by subject matter. The researcher explores the transition from hot metal composition to computer phototypesetting at The Times in the 1970s, delving into the reasons behind the newspaper's delayed adoption of the technology. The visit to the morgue reveals internal publications documenting the transition and photos of the typesetting room. The researcher shares their process of organizing and analyzing the materials for their book on the topic.
+            </p><p>
+                25 Points |  <a href="https://news.ycombinator.com/item?id=37426116">7 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[My speed cubing page (www.ws.binghamton.edu)]]></title>
             <link>http://www.ws.binghamton.edu/fridrich/cube.html</link>
             <guid>http://www.ws.binghamton.edu/fridrich/cube.html</guid>
@@ -100,40 +309,7 @@
             <description><![CDATA[Advanced Speed Cubing Techniques and Resources]]></description>
             <content:encoded><![CDATA[<p>A guide to advanced speed cubing techniques and resources, including tips for solving Rubik's cube faster, customizing algorithms, and achieving record times. It also features collections of various algorithms, pretty patterns, and expert insights from renowned speed cubers. The page includes personal experiences from attending world championships and cube-related events, as well as links to additional resources for further exploration.
             </p><p>
-                15 Points |  <a href="https://news.ycombinator.com/item?id=37416999">11 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: HackYourNews – AI summaries of the top HN stories (hackyournews.com)]]></title>
-            <link>https://hackyournews.com/</link>
-            <guid>https://hackyournews.com/</guid>
-            <pubDate>Thu, 07 Sep 2023 23:30:33 GMT</pubDate>
-            <description><![CDATA[HackYourNews uses AI to summarize top HN stories]]></description>
-            <content:encoded><![CDATA[<p>HackYourNews is a website that uses OpenAI's gpt-3.5-turbo to provide AI summaries of the top Hacker News stories and their comments. The site offers a minimal design and a mobile view that is easy to skim on any device. The creator aims to help users focus on the most important stories while browsing aimlessly.
-            </p><p>
-                177 Points |  <a href="https://news.ycombinator.com/item?id=37427127">105 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[My Node.js is a bit Rusty (gal.hagever.com)]]></title>
-            <link>https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty</link>
-            <guid>https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty</guid>
-            <pubDate>Thu, 07 Sep 2023 07:34:09 GMT</pubDate>
-            <description><![CDATA[Boosting Performance: Replacing Node.js with Rust for CDN Stats at Wix]]></description>
-            <content:encoded><![CDATA[<p>Replacing an internal Node.js module with a native Rust module resulted in a 25x performance boost for a CDN Stats platform at Wix. The platform provides real-time data on the usage of compiled assets by customers, helping front-end developers optimize bundles. The process of parsing and aggregating data from tab-separated values files was initially slow and resource-intensive in Node.js. Attempts to optimize the code using the Wix Serverless framework and the Wix Node.js platform were unsuccessful. However, embedding Rust in Node.js using the NAPI library allowed for more efficient memory management and significantly improved performance. The use of Rust's memory management capabilities and type-driven development workflow led to a more scalable and optimized solution.
-            </p><p>
-                125 Points |  <a href="https://news.ycombinator.com/item?id=37415812">92 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[I rode with an ice road trucker to the Arctic Circle (www.freightwaves.com)]]></title>
-            <link>https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like</link>
-            <guid>https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like</guid>
-            <pubDate>Thu, 07 Sep 2023 21:27:38 GMT</pubDate>
-            <description><![CDATA[Riding Along with an Ice Road Trucker in Alaska: Challenges and Allure of Trucking in the Arctic Circle]]></description>
-            <content:encoded><![CDATA[<p>A reporter rides along with an ice road trucker in Alaska to experience the unique challenges and allure of trucking in the Arctic Circle. The trucking industry in Alaska is booming, with companies looking to hire more drivers to haul equipment on the Dalton Highway. The summer is a slower time for Alaskan trucking fleets, as the ice roads are too warm to maintain. In the winter, truck drivers from all over the U.S. come to Alaska to work as ice road truckers, earning significantly higher salaries than typical truck drivers. The reporter accompanies a driver on a journey from Anchorage to Fairbanks, and then from Fairbanks to Prudhoe Bay on the Dalton Highway, where they haul pipes for the oil fields. The Dalton Highway is known for its steep grades and challenging conditions.
-            </p><p>
-                189 Points |  <a href="https://news.ycombinator.com/item?id=37425855">110 comments</a>
+                81 Points |  <a href="https://news.ycombinator.com/item?id=37416999">36 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -148,160 +324,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)]]></title>
-            <link>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</link>
-            <guid>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</guid>
-            <pubDate>Fri, 08 Sep 2023 10:08:33 GMT</pubDate>
-            <description><![CDATA[Linux Support Improving for Arm-based Thinkpad X13S]]></description>
-            <content:encoded><![CDATA[<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.
-            </p><p>
-                22 Points |  <a href="https://news.ycombinator.com/item?id=37431710">12 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[John McCarthy’s collection of numerical facts for use in elisp programs (www-formal.stanford.edu)]]></title>
-            <link>http://www-formal.stanford.edu/jmc/facts.txt</link>
-            <guid>http://www-formal.stanford.edu/jmc/facts.txt</guid>
-            <pubDate>Thu, 07 Sep 2023 15:52:09 GMT</pubDate>
-            <description><![CDATA[Numerical Facts, Units Conversions, and Astronomical Data for Moving Mars]]></description>
-            <content:encoded><![CDATA[<p>This file contains a collection of numerical facts and units conversions, as well as astronomical data related to moving Mars to a different location. The file can be loaded into Emacs and used within the editor. It provides various units of measurement and constants, such as the gravitational constant, Avogadro number, and Planck's constant. It also includes data on the masses, radii, densities, and orbital parameters of celestial bodies like Mercury, Venus, Earth, Mars, Jupiter, and the Moon. The file concludes with escape velocities and velocities of these celestial bodies.
-            </p><p>
-                209 Points |  <a href="https://news.ycombinator.com/item?id=37420812">58 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LLMs, RAG, and the missing storage layer for AI (blog.lancedb.com)]]></title>
-            <link>https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984</link>
-            <guid>https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984</guid>
-            <pubDate>Thu, 07 Sep 2023 15:41:38 GMT</pubDate>
-            <description><![CDATA[The Missing Storage Layer for AI: Introducing LanceDB for Simplified Retrieval and Management of Embeddings]]></description>
-            <content:encoded><![CDATA[<p>The missing storage layer for AI, specifically Language Model Machines (LLMs), is identified as a crucial element to unlock greater AI capabilities. LLMs have the potential to revolutionize various industries and fields of research, but they suffer from hallucination and lack interpretability. The use of Retrieval Augmented Generation (RAG) systems, which combine LLMs with a retriever to generate responses, offers a solution. RAG systems reduce reliance on LLMs and provide finer control, modularity, and cheaper updates. The debate between fine-tuning models and using general models for RAG is deemed pointless, as both approaches have their advantages. The need for an AI-native, multi-modal, and embedded vector database is highlighted, with LanceDB being introduced as a solution that simplifies retrieval, filtering, and management of embeddings.
-            </p><p>
-                116 Points |  <a href="https://news.ycombinator.com/item?id=37420628">46 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Unpacking Elixir: Syntax (underjord.io)]]></title>
-            <link>https://underjord.io/unpacking-elixir-syntax.html</link>
-            <guid>https://underjord.io/unpacking-elixir-syntax.html</guid>
-            <pubDate>Fri, 08 Sep 2023 05:57:27 GMT</pubDate>
-            <description><![CDATA[Understanding the Syntax of Elixir]]></description>
-            <content:encoded><![CDATA[<p>Unpacking Elixir: Syntax
-            </p><p>
-                70 Points |  <a href="https://news.ycombinator.com/item?id=37429922">10 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Lean 4.0 (github.com)]]></title>
-            <link>https://github.com/leanprover/lean4/releases/tag/v4.0.0</link>
-            <guid>https://github.com/leanprover/lean4/releases/tag/v4.0.0</guid>
-            <pubDate>Fri, 08 Sep 2023 05:59:40 GMT</pubDate>
-            <description><![CDATA[Lean 4: First Official Release and Regular Monthly Updates Planned]]></description>
-            <content:encoded><![CDATA[<p>Lean 4, the first official release of Lean 4, is now available. Regular releases of Lean 4 are planned, with a new 'minor' version approximately monthly. Backwards compatibility is not yet guaranteed, but all breaking changes will be documented. The release includes over 2000 commits since the previous milestone, with Leonardo de Moura leading in contributions. The release also provides links to the Lean community forum, Lean language website, Lean Focused Research Organization homepage, Lean community website, and Mathlib GitHub repository.
-            </p><p>
-                69 Points |  <a href="https://news.ycombinator.com/item?id=37429938">32 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[North Korean campaign targeting security researchers (blog.google)]]></title>
-            <link>https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/</link>
-            <guid>https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/</guid>
-            <pubDate>Thu, 07 Sep 2023 15:53:23 GMT</pubDate>
-            <description><![CDATA[North Korean Threat Actors Target Security Researchers in New Campaign]]></description>
-            <content:encoded><![CDATA[<p>Google's Threat Analysis Group (TAG) has identified a new campaign by North Korean threat actors targeting security researchers. The actors use social media platforms to build relationships with their targets and then send malicious files containing 0-day exploits. TAG has discovered at least one actively exploited 0-day in the past few weeks. In addition, the threat actors have developed a Windows tool that can download and execute arbitrary code. TAG advises those who have downloaded or run this tool to take precautions. The vulnerability has been reported to the affected vendor and is being patched.
-            </p><p>
-                525 Points |  <a href="https://news.ycombinator.com/item?id=37420831">256 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo (en.wikipedia.org)]]></title>
-            <link>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</link>
-            <guid>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</guid>
-            <pubDate>Thu, 07 Sep 2023 21:26:33 GMT</pubDate>
-            <description><![CDATA[The Linguistic Complexity of 'Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo']]></description>
-            <content:encoded><![CDATA[<p>The sentence 'Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo' is a grammatically correct example of how homonyms and homophones can create complex linguistic constructs. It uses three meanings of the word buffalo: as a noun referring to a place named Buffalo, as a verb meaning to bully or baffle, and as a noun referring to the animal. The sentence claims that bison from Buffalo who are bullied by other bison in their community also bully other bison. The sentence is syntactically ambiguous and can be parsed in different ways. The idea of constructing a sentence using repetitions of 'buffalo' was independently discovered multiple times in the 20th century.
-            </p><p>
-                130 Points |  <a href="https://news.ycombinator.com/item?id=37425842">65 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[We built an AI-powered Magic the Gathering card generator (txt.cohere.com)]]></title>
-            <link>https://txt.cohere.com/urzas-ai/</link>
-            <guid>https://txt.cohere.com/urzas-ai/</guid>
-            <pubDate>Fri, 08 Sep 2023 00:53:34 GMT</pubDate>
-            <description><![CDATA[How Urza's AI Uses AI to Generate Magic the Gathering Cards]]></description>
-            <content:encoded><![CDATA[<p>Urza's AI is a website that uses AI to generate Magic the Gathering cards. The creators used a combination of language AI and text-to-image AI to generate the cards. They used a large language model to generate the text of the cards, and a neural network model to generate the images. The result was impressive, with realistic and playable cards being generated. The website received over 38,000 visitors within the first four days of launch. The creators believe that APIs like this are the future of AI development, as they provide access to powerful models without the need for expertise or infrastructure.
-            </p><p>
-                78 Points |  <a href="https://news.ycombinator.com/item?id=37427854">54 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nature Machine Intelligence: Federated Benchmarking of Medical AI (www.nature.com)]]></title>
-            <link>https://www.nature.com/articles/s42256-023-00652-2</link>
-            <guid>https://www.nature.com/articles/s42256-023-00652-2</guid>
-            <pubDate>Fri, 08 Sep 2023 02:28:36 GMT</pubDate>
-            <description><![CDATA[MedPerf: An Open Platform for Benchmarking Medical AI Models]]></description>
-            <content:encoded><![CDATA[<p>MedPerf is an open platform for benchmarking medical artificial intelligence (AI) models. It enables federated evaluation of AI models by securely distributing them to different healthcare organizations. This allows each facility to assess and verify the performance of AI models while prioritizing privacy. The platform addresses the challenges of accessing diverse and large-scale datasets for AI model evaluation, which is crucial for improving the generalizability of these models. MedPerf has already been used in various settings, including the FeTS challenge and academic pilot studies, demonstrating its scalability and user-friendliness. It aims to provide consistent methodologies for evaluating AI model performance, protect patient privacy, and foster collaboration among experts in the medical AI field.
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37428505">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What's new in Emacs 29.1 (www.masteringemacs.org)]]></title>
-            <link>https://www.masteringemacs.org/article/whats-new-in-emacs-29-1</link>
-            <guid>https://www.masteringemacs.org/article/whats-new-in-emacs-29-1</guid>
-            <pubDate>Thu, 07 Sep 2023 23:46:12 GMT</pubDate>
-            <description><![CDATA[What's New in Emacs 29.1: Improved Code Parsing, Language Server Client, and More]]></description>
-            <content:encoded><![CDATA[<p>Emacs 29.1 introduces several new features and improvements, including official tree-sitter support for better code parsing and editing, the inclusion of EGlot as a language server client, the integration of use-package for easier configuration management, enhancements to long line support, native SQLite support for improved performance, the ability to change the init directory for multiple Emacs versions, and the addition of pixel-scroll-precision-mode for smoother scrolling. The release also includes changes to installation, such as ahead-of-time native compilation and built-in support for tree-sitter and SQLite. The article provides detailed explanations and instructions for each new feature.
-            </p><p>
-                165 Points |  <a href="https://news.ycombinator.com/item?id=37427279">92 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Accidental Empires, Chapter 11 – Font Wars (1992) (www.cringely.com)]]></title>
-            <link>https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/</link>
-            <guid>https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/</guid>
-            <pubDate>Thu, 07 Sep 2023 21:55:05 GMT</pubDate>
-            <description><![CDATA[The Font Wars: How John Warnock Revolutionized Font Technology with PostScript]]></description>
-            <content:encoded><![CDATA[<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37426132">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Guardian's Typerighter (github.com)]]></title>
-            <link>https://github.com/guardian/typerighter</link>
-            <guid>https://github.com/guardian/typerighter</guid>
-            <pubDate>Thu, 07 Sep 2023 11:22:51 GMT</pubDate>
-            <description><![CDATA[Typerighter: A Server-Side Document Checking Service]]></description>
-            <content:encoded><![CDATA[<p>Typerighter is a server-side service designed to check a document against a set of user-defined rules, similar to a spelling or grammar checker. It consists of two services: the checker and the rule manager. The tool is used at the Guardian to check content against their style guide. The Typerighter Rule Manager produces a JSON artifact that represents all the rules in the system, including user-defined regex rules and Language Tool pattern rules. Each rule corresponds to a Matcher that receives the document and returns a list of RuleMatch. The system consists of two Scala services: the rule-manager service and the checker service. The checker service uses a MatcherPool to manage incoming checks and accommodate different matchers. The services are built in Scala with the Play framework and use a Postgres database for data storage.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37417358">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Animations From First Principles (in 5 minutes) (mathspp.com)]]></title>
-            <link>https://mathspp.com/blog/animations-from-first-principles-in-5-minutes</link>
-            <guid>https://mathspp.com/blog/animations-from-first-principles-in-5-minutes</guid>
-            <pubDate>Thu, 07 Sep 2023 10:38:07 GMT</pubDate>
-            <description><![CDATA[Creating Animations from Scratch with Python and Pygame]]></description>
-            <content:encoded><![CDATA[<p>This blog post provides a step-by-step guide on creating animations from scratch using Python and pygame. It starts by explaining how to create a canvas and draw a circle using a parametrization function. The post then demonstrates how to animate the drawing of the circle by gradually adding points to the screen. It also shows how to animate other shapes, such as a figure eight. The post concludes by introducing the concept of morphing between two figures and provides a simple implementation for achieving this effect.
-            </p><p>
-                30 Points |  <a href="https://news.ycombinator.com/item?id=37417027">3 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why isn't chess popular in Japan? (lichess.org)]]></title>
-            <link>https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU</link>
-            <guid>https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU</guid>
-            <pubDate>Fri, 08 Sep 2023 02:16:48 GMT</pubDate>
-            <description><![CDATA[Why Chess Isn't Popular in Japan: The Dominance of Shōgi and Go]]></description>
-            <content:encoded><![CDATA[<p>Chess is not as popular in Japan compared to Shōgi (Japanese chess) and Go. Shōgi has been a part of Japanese culture for centuries and has a large base of enthusiasts. Go, on the other hand, is believed to have been invented over 2,500 years ago in China and has a higher game complexity. The lack of financial support for chess in Japan and the familiarity of Shōgi to the people through media are some reasons why chess hasn't become popular. However, the Japan Chess Federation has been actively promoting chess in the country, leading to an increase in participation and growth of the game. While Japan doesn't have any grandmasters yet, there are high hopes for the future of chess in the country.
-            </p><p>
-                105 Points |  <a href="https://news.ycombinator.com/item?id=37428447">74 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Napi: Build compiled Node.js add-ons in Rust (napi.rs)]]></title>
             <link>https://napi.rs/</link>
             <guid>https://napi.rs/</guid>
@@ -313,36 +335,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Deciphering Mary Stuart’s lost letters from 1578-1584 (www.tandfonline.com)]]></title>
-            <link>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</link>
-            <guid>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</guid>
-            <pubDate>Thu, 07 Sep 2023 06:17:13 GMT</pubDate>
-            <description><![CDATA[Website www.tandfonline.com Requests Security Review of Connection]]></description>
-            <content:encoded><![CDATA[<p>The website www.tandfonline.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about the connection's safety. The website is utilizing Cloudflare for performance and security purposes. The Ray ID provided is 80346a40dbb01690, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.
+            <title><![CDATA[NASA's Oxygen-Generating Experiment Moxie Completes Mars Mission (mars.nasa.gov)]]></title>
+            <link>https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/</link>
+            <guid>https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/</guid>
+            <pubDate>Fri, 08 Sep 2023 12:25:24 GMT</pubDate>
+            <description><![CDATA[NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission]]></description>
+            <content:encoded><![CDATA[<p>NASA's Oxygen-Generating Experiment MOXIE has successfully completed its mission on Mars, demonstrating the feasibility of extracting oxygen from the Martian atmosphere. The device, which generated a total of 122 grams of oxygen during its 16 runs, exceeded expectations by producing twice as much oxygen as originally planned. MOXIE's success paves the way for future astronauts to produce oxygen for breathing and rocket propellant on Mars, reducing the need to transport large quantities of oxygen from Earth. The next step is to develop a full-scale system that includes an oxygen generator, as well as a way to liquefy and store the oxygen. This breakthrough technology has inspired the field of in-situ resource utilization and highlights the importance of developing technologies that enable astronauts to 'live off the land' on other planets.
             </p><p>
-                15 Points |  <a href="https://news.ycombinator.com/item?id=37415356">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Chrome now tracks users and shares a “topic” list with advertisers (arstechnica.com)]]></title>
-            <link>https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/</link>
-            <guid>https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/</guid>
-            <pubDate>Thu, 07 Sep 2023 23:41:24 GMT</pubDate>
-            <description><![CDATA[Google integrates user-tracking ad platform directly into Chrome]]></description>
-            <content:encoded><![CDATA[<p>Google's Chrome browser has rolled out its invasive new ad platform, known as the 'Privacy Sandbox,' which tracks users and generates a list of advertising topics to share with web pages. Despite opposition, Google is implementing this feature as it owns Chrome and is a major advertising company. The ad platform launch announcement was not prominently featured, indicating that Google knows it won't be popular. The argument for this platform is that it is a step towards a more private web, as it promises to turn off third-party tracking cookies in the future. However, this platform only affects Chrome users, as Apple and Firefox have been blocking third-party cookies for years. Chrome does have controls to disable the ad platform, but Google plans to block third-party cookies in 2024.
-            </p><p>
-                728 Points |  <a href="https://news.ycombinator.com/item?id=37427227">436 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Silver Thief (www.newyorker.com)]]></title>
-            <link>https://www.newyorker.com/magazine/2004/05/17/the-silver-thief</link>
-            <guid>https://www.newyorker.com/magazine/2004/05/17/the-silver-thief</guid>
-            <pubDate>Thu, 07 Sep 2023 11:16:55 GMT</pubDate>
-            <description><![CDATA[The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver]]></description>
-            <content:encoded><![CDATA[<p>The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37417306">0 comments</a>
+                28 Points |  <a href="https://news.ycombinator.com/item?id=37432622">16 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
