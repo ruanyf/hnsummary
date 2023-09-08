@@ -12,9 +12,9 @@
     "items": [
         {
             "id": "https://maizure.org/projects/decoded-gnu-coreutils/",
-            "content_html": "<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">0 comments</a>\n            </p>",
+            "content_html": "<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">10 comments</a>\n            </p>",
             "url": "https://maizure.org/projects/decoded-gnu-coreutils/",
-            "title": "Decoded: GNU Coreutils (maizure.org)",
+            "title": "Decoded: GNU Coreutils (2018) (maizure.org)",
             "summary": "Decoding the GNU coreutils: Exploring the Design of Command-Line Utilities",
             "date_modified": "2023-09-08T21:15:52.000Z",
             "author": {
@@ -22,14 +22,14 @@
             }
         },
         {
-            "id": "https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/",
-            "content_html": "<p>NVIDIA TensorRT-LLM is an open-source software that enhances the performance of large language models (LLMs) on NVIDIA GPUs. It offers optimized kernels, pre- and post-processing steps, and multi-GPU/multi-node communication primitives. TensorRT-LLM improves ease of use and extensibility through an open-source modular Python API. It enables developers to experiment with new LLMs without deep knowledge of C++ or NVIDIA CUDA. The software also includes features like in-flight batching and FP8 quantization, which improve GPU usage and reduce memory consumption. TensorRT-LLM supports various LLMs, including Meta Llama 2, OpenAI GPT-2 and GPT-3, Falcon, and Mosaic MPT. It is available in early access and will be integrated into the NVIDIA NeMo framework.\n            </p><p>\n                40 Points |  <a href=\"https://news.ycombinator.com/item?id=37439280\">12 comments</a>\n            </p>",
-            "url": "https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/",
-            "title": "NVIDIA introduces TensorRT-LLM for accelerating LLM inference on H100/A100 GPUs (developer.nvidia.com)",
-            "summary": "NVIDIA TensorRT-LLM Supercharges Large Language Model Inference on NVIDIA H100 GPUs",
-            "date_modified": "2023-09-08T20:54:39.000Z",
+            "id": "https://github.com/dancrossnyc/rxv64",
+            "content_html": "<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37439391\">0 comments</a>\n            </p>",
+            "url": "https://github.com/dancrossnyc/rxv64",
+            "title": "The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)",
+            "summary": "rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust",
+            "date_modified": "2023-09-08T21:03:19.000Z",
             "author": {
-                "name": "developer.nvidia.com"
+                "name": "github.com"
             }
         },
         {
@@ -55,19 +55,30 @@
             }
         },
         {
-            "id": "https://github.com/dancrossnyc/rxv64",
-            "content_html": "<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37439391\">0 comments</a>\n            </p>",
-            "url": "https://github.com/dancrossnyc/rxv64",
-            "title": "The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)",
-            "summary": "rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust",
-            "date_modified": "2023-09-08T21:03:19.000Z",
+            "id": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
+            "content_html": "<p>Using LD_PRELOAD to manipulate the behavior of applications\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37439125\">20 comments</a>\n            </p>",
+            "url": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
+            "title": "Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)",
+            "summary": "Manipulating Application Behavior with LD_PRELOAD",
+            "date_modified": "2023-09-08T20:41:20.000Z",
             "author": {
-                "name": "github.com"
+                "name": "rafalcieslak.wordpress.com"
+            }
+        },
+        {
+            "id": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
+            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">0 comments</a>\n            </p>",
+            "url": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
+            "title": "Defcon talk shows cops are trackable, like AirTags (blog.dataparty.xyz)",
+            "summary": "DEFCON 31 Releases Official Videos and Offers Support Options",
+            "date_modified": "2023-09-08T22:26:51.000Z",
+            "author": {
+                "name": "blog.dataparty.xyz"
             }
         },
         {
             "id": "https://mtlynch.io/aardvarkd/",
-            "content_html": "<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.\n            </p><p>\n                304 Points |  <a href=\"https://news.ycombinator.com/item?id=37433186\">99 comments</a>\n            </p>",
+            "content_html": "<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.\n            </p><p>\n                337 Points |  <a href=\"https://news.ycombinator.com/item?id=37433186\">110 comments</a>\n            </p>",
             "url": "https://mtlynch.io/aardvarkd/",
             "title": "Aardvark'd: The Fog Creek documentary, 18 years later (mtlynch.io)",
             "summary": "Aardvark'd: The Fog Creek Documentary, 18 Years Later - A Look into the Early Days of Tech Startup Founders",
@@ -88,36 +99,14 @@
             }
         },
         {
-            "id": "https://www.sj-r.com/story/entertainment/dining/2023/09/08/mcdonalds-ending-self-service-soda-fountain-drink-stations/70785168007/",
-            "content_html": "<p>McDonald's plans to retire self-serve drink stations by 2032, with a slow rollout already underway. Dine-in customers can still refill their own drinks for now, but some locations have started transitioning to crew pour service. The transition is driven by convenience, the growth of digital service, and the need for cleanliness during the COVID-19 pandemic. Crew pour service uses automated beverage systems to mechanically fill drink orders, minimizing human contact. The move also aligns with the brand's focus on creating a more relaxed dine-in experience and catering to off-site dining options. Self-serve drink stations were introduced in 2004, but the shrinking dine-in crowd and the variety of ordering options have made them less necessary.\n            </p><p>\n                19 Points |  <a href=\"https://news.ycombinator.com/item?id=37439860\">18 comments</a>\n            </p>",
-            "url": "https://www.sj-r.com/story/entertainment/dining/2023/09/08/mcdonalds-ending-self-service-soda-fountain-drink-stations/70785168007/",
-            "title": "McDonald's to retire self-service soda fountains by 2032 (www.sj-r.com)",
-            "summary": "McDonald's to Retire Self-Serve Drink Stations by 2032",
-            "date_modified": "2023-09-08T21:53:57.000Z",
-            "author": {
-                "name": "www.sj-r.com"
-            }
-        },
-        {
             "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
-            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.\n            </p><p>\n                56 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">34 comments</a>\n            </p>",
+            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.\n            </p><p>\n                71 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">46 comments</a>\n            </p>",
             "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
             "title": "Just how constexpr is C++20’s std:string? (quuxplusone.github.io)",
             "summary": "Understanding the constexprness of C++20's std::string",
             "date_modified": "2023-09-08T09:23:27.000Z",
             "author": {
                 "name": "quuxplusone.github.io"
-            }
-        },
-        {
-            "id": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
-            "content_html": "<p>Using LD_PRELOAD to manipulate the behavior of applications\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37439125\">20 comments</a>\n            </p>",
-            "url": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
-            "title": "Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)",
-            "summary": "Manipulating Application Behavior with LD_PRELOAD",
-            "date_modified": "2023-09-08T20:41:20.000Z",
-            "author": {
-                "name": "rafalcieslak.wordpress.com"
             }
         },
         {
@@ -143,6 +132,17 @@
             }
         },
         {
+            "id": "https://archiveprogram.github.com/arctic-vault/",
+            "content_html": "<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is a long-term archival facility located in a decommissioned coal mine in the Svalbard archipelago. The archive is designed to last 1,000 years and is considered a stable site for preserving humanity's collective knowledge. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributions, GitHub created the Arctic Code Vault Badge displayed on developers' profiles. The vault contains open source software from millions of developers worldwide.\n            </p><p>\n                14 Points |  <a href=\"https://news.ycombinator.com/item?id=37429645\">10 comments</a>\n            </p>",
+            "url": "https://archiveprogram.github.com/arctic-vault/",
+            "title": "Artic Code Vault (archiveprogram.github.com)",
+            "summary": "GitHub Creates Arctic Code Vault to Preserve Open Source Software",
+            "date_modified": "2023-09-08T05:16:57.000Z",
+            "author": {
+                "name": "archiveprogram.github.com"
+            }
+        },
+        {
             "id": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
             "content_html": "<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37436092\">10 comments</a>\n            </p>",
             "url": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
@@ -154,57 +154,25 @@
             }
         },
         {
-            "id": "https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773",
-            "content_html": "<p>The absence of data privacy laws poses a national security threat as it allows foreign intelligence agencies to collect sensitive personal data. U.S. businesses have been involved in aiding China's mass surveillance and censorship programs, contributing to human rights violations. China has implemented privacy protections and strengthened its data security laws, benchmarking Europe's General Data Protection Regulation. China's intelligence agency has increased investments in open-source military intelligence and data collection. Multilateral security cooperation is crucial in countering cybersecurity threats and protecting liberal democratic values.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37439553\">0 comments</a>\n            </p>",
-            "url": "https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773",
-            "title": "The Absence of Data Privacy Law Is a National Security Threat (nationalinterest.org)",
-            "summary": "The Absence of Data Privacy Law: A Threat to National Security",
-            "date_modified": "2023-09-08T21:17:24.000Z",
+            "id": "https://twitter.com/typesfast/status/1700092765798048093",
+            "content_html": "<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.\n            </p><p>\n                141 Points |  <a href=\"https://news.ycombinator.com/item?id=37433681\">165 comments</a>\n            </p>",
+            "url": "https://twitter.com/typesfast/status/1700092765798048093",
+            "title": "Flexport is rescinding a bunch of signed offer letters (twitter.com)",
+            "summary": "Twitter Requires Switch to Supported Browser",
+            "date_modified": "2023-09-08T14:07:55.000Z",
             "author": {
-                "name": "nationalinterest.org"
+                "name": "twitter.com"
             }
         },
         {
-            "id": "https://archiveprogram.github.com/arctic-vault/",
-            "content_html": "<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is a long-term archival facility located in a decommissioned coal mine in the Svalbard archipelago. The archive is designed to last 1,000 years and is considered a stable site for preserving humanity's collective knowledge. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributions, GitHub created the Arctic Code Vault Badge displayed on developers' profiles. The vault contains open source software from millions of developers worldwide.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37429645\">0 comments</a>\n            </p>",
-            "url": "https://archiveprogram.github.com/arctic-vault/",
-            "title": "Artic Code Vault (archiveprogram.github.com)",
-            "summary": "GitHub Creates Arctic Code Vault to Preserve Open Source Software",
-            "date_modified": "2023-09-08T05:16:57.000Z",
+            "id": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
+            "content_html": "<p>Fixing catastrophic backtracking in regular expressions in Python by using a non-greedy pattern. The article discusses how a regex pattern with a greedy subpattern can lead to exponential runtime on strings with many newlines, causing the application to become stuck. By making the repeating subpattern non-greedy and adding the re.DOTALL flag to match newlines, the runtime becomes linear instead of exponential. The article provides a comparison of the performance between the problematic regex and the fixed regex using a test script. The results show that the problematic regex performs poorly on long input sequences, while the fixed regex scales much better. The article concludes with a log-log plot illustrating the exponential relationship between input size and execution time for the problematic regex.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37422355\">0 comments</a>\n            </p>",
+            "url": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
+            "title": "Debugging Catastrophic Backtracking for Regular Expressions in Python (krishnanchandra.com)",
+            "summary": "Fixing Catastrophic Backtracking in Regular Expressions in Python",
+            "date_modified": "2023-09-07T17:22:12.000Z",
             "author": {
-                "name": "archiveprogram.github.com"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37438934",
-            "content_html": "<p>No summary available\n            </p><p>\n                59 Points |  <a href=\"https://news.ycombinator.com/item?id=37438934\">38 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37438934",
-            "title": "Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf] (news.ycombinator.com)",
-            "date_modified": "2023-09-08T20:23:45.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
-            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
-            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
-            "date_modified": "2023-09-08T17:01:02.000Z",
-            "author": {
-                "name": "www.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
-            "content_html": "<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.\n            </p><p>\n                105 Points |  <a href=\"https://news.ycombinator.com/item?id=37435215\">81 comments</a>\n            </p>",
-            "url": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
-            "title": "Zinc-air batteries as an alternative to lithium-ion: study (www.ecu.edu.au)",
-            "summary": "Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries",
-            "date_modified": "2023-09-08T15:49:56.000Z",
-            "author": {
-                "name": "www.ecu.edu.au"
+                "name": "krishnanchandra.com"
             }
         },
         {
@@ -219,25 +187,25 @@
             }
         },
         {
-            "id": "https://david.rothlis.net/emacs/howtolearn.html",
-            "content_html": "<p>This guide to Emacs is aimed at computer programmers who want to master the text editor. It acknowledges that the learning curve for Emacs is steep but promises to help users reach the next level of programming in months rather than years. The guide emphasizes self-driven discovery using Emacs' built-in help, debugging facilities, and source code. The author asks for commitment and patience from readers, urging them to give up their favorite IDE's features for at least a month or two. The next section explores why Emacs is worth the effort.\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37438842\">10 comments</a>\n            </p>",
-            "url": "https://david.rothlis.net/emacs/howtolearn.html",
-            "title": "How to Learn Emacs (2012) (david.rothlis.net)",
-            "summary": "Mastering Emacs: A Guide for Programmers",
-            "date_modified": "2023-09-08T20:16:58.000Z",
+            "id": "https://eprint.iacr.org/2023/1053",
+            "content_html": "<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431433\">0 comments</a>\n            </p>",
+            "url": "https://eprint.iacr.org/2023/1053",
+            "title": "ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)",
+            "summary": "ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet",
+            "date_modified": "2023-09-08T09:24:25.000Z",
             "author": {
-                "name": "david.rothlis.net"
+                "name": "eprint.iacr.org"
             }
         },
         {
-            "id": "https://github-guessr.vercel.app/",
-            "content_html": "<p>N/A\n            </p><p>\n                32 Points |  <a href=\"https://news.ycombinator.com/item?id=37432067\">17 comments</a>\n            </p>",
-            "url": "https://github-guessr.vercel.app/",
-            "title": "GitHubGuessr (github-guessr.vercel.app)",
-            "summary": "N/A",
-            "date_modified": "2023-09-08T11:09:44.000Z",
+            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
+            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
+            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
+            "date_modified": "2023-09-08T17:01:02.000Z",
             "author": {
-                "name": "github-guessr.vercel.app"
+                "name": "www.ycombinator.com"
             }
         },
         {
@@ -252,14 +220,25 @@
             }
         },
         {
-            "id": "https://eprint.iacr.org/2023/1053",
-            "content_html": "<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431433\">0 comments</a>\n            </p>",
-            "url": "https://eprint.iacr.org/2023/1053",
-            "title": "ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)",
-            "summary": "ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet",
-            "date_modified": "2023-09-08T09:24:25.000Z",
+            "id": "https://github-guessr.vercel.app/",
+            "content_html": "<p>N/A\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37432067\">27 comments</a>\n            </p>",
+            "url": "https://github-guessr.vercel.app/",
+            "title": "GitHubGuessr (github-guessr.vercel.app)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T11:09:44.000Z",
             "author": {
-                "name": "eprint.iacr.org"
+                "name": "github-guessr.vercel.app"
+            }
+        },
+        {
+            "id": "https://david.rothlis.net/emacs/howtolearn.html",
+            "content_html": "<p>This guide to Emacs is aimed at computer programmers who want to master the text editor. It acknowledges that the learning curve for Emacs is steep but promises to help users reach the next level of programming in months rather than years. The guide emphasizes self-driven discovery using Emacs' built-in help, debugging facilities, and source code. The author asks for commitment and patience from readers, urging them to give up their favorite IDE's features for at least a month or two. The next section explores why Emacs is worth the effort.\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37438842\">10 comments</a>\n            </p>",
+            "url": "https://david.rothlis.net/emacs/howtolearn.html",
+            "title": "How to Learn Emacs (2012) (david.rothlis.net)",
+            "summary": "Mastering Emacs: A Guide for Programmers",
+            "date_modified": "2023-09-08T20:16:58.000Z",
+            "author": {
+                "name": "david.rothlis.net"
             }
         },
         {
@@ -271,6 +250,17 @@
             "date_modified": "2023-09-07T21:52:02.000Z",
             "author": {
                 "name": "www.robinsloan.com"
+            }
+        },
+        {
+            "id": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
+            "content_html": "<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.\n            </p><p>\n                112 Points |  <a href=\"https://news.ycombinator.com/item?id=37435215\">92 comments</a>\n            </p>",
+            "url": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
+            "title": "Zinc-air batteries as an alternative to lithium-ion: study (www.ecu.edu.au)",
+            "summary": "Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries",
+            "date_modified": "2023-09-08T15:49:56.000Z",
+            "author": {
+                "name": "www.ecu.edu.au"
             }
         },
         {
@@ -296,14 +286,13 @@
             }
         },
         {
-            "id": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
-            "content_html": "<p>Fixing catastrophic backtracking in regular expressions in Python by using a non-greedy pattern. The article discusses how a regex pattern with a greedy subpattern can lead to exponential runtime on strings with many newlines, causing the application to become stuck. By making the repeating subpattern non-greedy and adding the re.DOTALL flag to match newlines, the runtime becomes linear instead of exponential. The article provides a comparison of the performance between the problematic regex and the fixed regex using a test script. The results show that the problematic regex performs poorly on long input sequences, while the fixed regex scales much better. The article concludes with a log-log plot illustrating the exponential relationship between input size and execution time for the problematic regex.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37422355\">0 comments</a>\n            </p>",
-            "url": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
-            "title": "Debugging Catastrophic Backtracking for Regular Expressions in Python (krishnanchandra.com)",
-            "summary": "Fixing Catastrophic Backtracking in Regular Expressions in Python",
-            "date_modified": "2023-09-07T17:22:12.000Z",
+            "id": "https://news.ycombinator.com/item?id=37438934",
+            "content_html": "<p>No summary available\n            </p><p>\n                75 Points |  <a href=\"https://news.ycombinator.com/item?id=37438934\">50 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37438934",
+            "title": "Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf] (news.ycombinator.com)",
+            "date_modified": "2023-09-08T20:23:45.000Z",
             "author": {
-                "name": "krishnanchandra.com"
+                "name": "news.ycombinator.com"
             }
         },
         {
@@ -318,25 +307,36 @@
             }
         },
         {
+            "id": "https://www.rfc-editor.org/info/rfc5228",
+            "content_html": "<p>Sieve: An Email Filtering Language is a proposed standard that describes a language for filtering email messages at the time of final delivery. It can be implemented on both mail clients and servers, and is designed to be extensible, simple, and independent of access protocol, mail architecture, and operating system. The language is suitable for use on mail servers where users may not be allowed to execute arbitrary programs. It does not have variables, loops, or the ability to shell out to external programs. The document provides the definition of status and stream as per RFC standards.\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37416342\">10 comments</a>\n            </p>",
+            "url": "https://www.rfc-editor.org/info/rfc5228",
+            "title": "Sieve: An Email Filtering Language (RFC 5228) (www.rfc-editor.org)",
+            "summary": "Sieve: An Email Filtering Language, a Proposed Standard",
+            "date_modified": "2023-09-07T08:54:00.000Z",
+            "author": {
+                "name": "www.rfc-editor.org"
+            }
+        },
+        {
+            "id": "https://www.h2fly.de/",
+            "content_html": "<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.\n            </p><p>\n                16 Points |  <a href=\"https://news.ycombinator.com/item?id=37433380\">12 comments</a>\n            </p>",
+            "url": "https://www.h2fly.de/",
+            "title": "H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)",
+            "summary": "Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation",
+            "date_modified": "2023-09-08T13:42:42.000Z",
+            "author": {
+                "name": "www.h2fly.de"
+            }
+        },
+        {
             "id": "https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner",
-            "content_html": "<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.\n            </p><p>\n                76 Points |  <a href=\"https://news.ycombinator.com/item?id=37437739\">67 comments</a>\n            </p>",
+            "content_html": "<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.\n            </p><p>\n                83 Points |  <a href=\"https://news.ycombinator.com/item?id=37437739\">78 comments</a>\n            </p>",
             "url": "https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner",
             "title": "Why we didn’t get a malaria vaccine sooner (worksinprogress.co)",
             "summary": "The Challenges and Delays in Developing a Malaria Vaccine",
             "date_modified": "2023-09-08T18:49:21.000Z",
             "author": {
                 "name": "worksinprogress.co"
-            }
-        },
-        {
-            "id": "https://www.rfc-editor.org/info/rfc5228",
-            "content_html": "<p>Sieve: An Email Filtering Language is a proposed standard that describes a language for filtering email messages at the time of final delivery. It can be implemented on both mail clients and servers, and is designed to be extensible, simple, and independent of access protocol, mail architecture, and operating system. The language is suitable for use on mail servers where users may not be allowed to execute arbitrary programs. It does not have variables, loops, or the ability to shell out to external programs. The document provides the definition of status and stream as per RFC standards.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37416342\">0 comments</a>\n            </p>",
-            "url": "https://www.rfc-editor.org/info/rfc5228",
-            "title": "Sieve: An Email Filtering Language (RFC5228) (www.rfc-editor.org)",
-            "summary": "Sieve: An Email Filtering Language, a Proposed Standard",
-            "date_modified": "2023-09-07T08:54:00.000Z",
-            "author": {
-                "name": "www.rfc-editor.org"
             }
         }
     ]
