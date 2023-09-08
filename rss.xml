@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 19:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 19:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,39 +15,6 @@
         </image>
         <category>Frontpage</category>
         <atom:link href="https://ruanyf.github.io/hnsummary/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Procreate Dreams (procreate.com)]]></title>
-            <link>https://procreate.com/dreams</link>
-            <guid>https://procreate.com/dreams</guid>
-            <pubDate>Fri, 08 Sep 2023 15:32:57 GMT</pubDate>
-            <description><![CDATA[Introducing Procreate Dreams: A Powerful Animation App for Creating Hand-Drawn Animations and Motion Graphics]]></description>
-            <content:encoded><![CDATA[<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.
-            </p><p>
-                312 Points |  <a href="https://news.ycombinator.com/item?id=37434918">116 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Emoji Generator with AI (emoji.fly.dev)]]></title>
-            <link>https://emoji.fly.dev</link>
-            <guid>https://emoji.fly.dev</guid>
-            <pubDate>Fri, 08 Sep 2023 13:54:13 GMT</pubDate>
-            <description><![CDATA[A Collection of Diverse Emojis in Slackmoji AI Edition]]></description>
-            <content:encoded><![CDATA[<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.
-            </p><p>
-                202 Points |  <a href="https://news.ycombinator.com/item?id=37433523">91 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zinc-air batteries as an alternative to lithium-ion: study (www.ecu.edu.au)]]></title>
-            <link>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</link>
-            <guid>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</guid>
-            <pubDate>Fri, 08 Sep 2023 15:49:56 GMT</pubDate>
-            <description><![CDATA[Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries]]></description>
-            <content:encoded><![CDATA[<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.
-            </p><p>
-                61 Points |  <a href="https://news.ycombinator.com/item?id=37435215">48 comments</a>
-            </p>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Aardvark'd: The Fog Creek Documentary, 18 Years Later (mtlynch.io)]]></title>
             <link>https://mtlynch.io/aardvarkd/</link>
@@ -78,7 +45,40 @@
             <description><![CDATA[Bun v1.0 Release: Bug Fixes, Improvements, and New Features]]></description>
             <content:encoded><![CDATA[<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.
             </p><p>
-                359 Points |  <a href="https://news.ycombinator.com/item?id=37434117">137 comments</a>
+                424 Points |  <a href="https://news.ycombinator.com/item?id=37434117">154 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Procreate Dreams (procreate.com)]]></title>
+            <link>https://procreate.com/dreams</link>
+            <guid>https://procreate.com/dreams</guid>
+            <pubDate>Fri, 08 Sep 2023 15:32:57 GMT</pubDate>
+            <description><![CDATA[Introducing Procreate Dreams: A Powerful Animation App for Creating Hand-Drawn Animations and Motion Graphics]]></description>
+            <content:encoded><![CDATA[<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.
+            </p><p>
+                312 Points |  <a href="https://news.ycombinator.com/item?id=37434918">116 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why we didn’t get a malaria vaccine sooner (worksinprogress.co)]]></title>
+            <link>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</link>
+            <guid>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</guid>
+            <pubDate>Fri, 08 Sep 2023 18:49:21 GMT</pubDate>
+            <description><![CDATA[The Challenges and Delays in Developing a Malaria Vaccine]]></description>
+            <content:encoded><![CDATA[<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.
+            </p><p>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37437739">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zinc-air batteries as an alternative to lithium-ion: study (www.ecu.edu.au)]]></title>
+            <link>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</link>
+            <guid>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</guid>
+            <pubDate>Fri, 08 Sep 2023 15:49:56 GMT</pubDate>
+            <description><![CDATA[Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries]]></description>
+            <content:encoded><![CDATA[<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.
+            </p><p>
+                70 Points |  <a href="https://news.ycombinator.com/item?id=37435215">59 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -89,51 +89,18 @@
             <description><![CDATA[Leveraging Large Language Models as Optimizers: Introducing Optimization by PROmpting (OPRO)]]></description>
             <content:encoded><![CDATA[<p>The paper introduces Optimization by PROmpting (OPRO), a method that leverages large language models (LLMs) as optimizers. OPRO uses natural language prompts to generate new solutions in each optimization step. The authors demonstrate the effectiveness of OPRO on linear regression, traveling salesman problems, and prompt optimization tasks. They show that prompts optimized by OPRO outperform human-designed prompts by up to 8% on GSM8K and by up to 50% on Big-Bench Hard tasks. The paper falls under the categories of Machine Learning, Artificial Intelligence, and Computation and Language.
             </p><p>
-                48 Points |  <a href="https://news.ycombinator.com/item?id=37434069">10 comments</a>
+                65 Points |  <a href="https://news.ycombinator.com/item?id=37434069">20 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI (together.ai)]]></title>
-            <link>https://together.ai/privacy</link>
-            <guid>https://together.ai/privacy</guid>
-            <pubDate>Fri, 08 Sep 2023 17:20:14 GMT</pubDate>
-            <description><![CDATA[Together Computer Inc Privacy Policy: Collection, Use, and Sharing of Personal Data]]></description>
-            <content:encoded><![CDATA[<p>Together Computer Inc's privacy policy outlines the collection, use, and sharing of personal data through their model training and inference platform. The policy applies to data collected through the services, training algorithms, company websites, and third-party sources. It does not cover personal data of company employees and candidates. The policy highlights the types of data collected, such as user names, IP addresses, and contact information, and explains how the company uses this data for purposes like improving the service and contacting users. It also discusses data retention, transfer, and security measures. The policy includes supplemental terms and conditions for regions like Europe and California.
+            <title><![CDATA[CVE-2023-4809: FreeBSD pf bypass when using IPv6 (www.enricobassetti.it)]]></title>
+            <link>https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/</link>
+            <guid>https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/</guid>
+            <pubDate>Fri, 08 Sep 2023 18:33:21 GMT</pubDate>
+            <description><![CDATA[CVE-2023-4809: FreeBSD pf Bypass Vulnerability in IPv6 Firewalls]]></description>
+            <content:encoded><![CDATA[<p>CVE-2023-4809: FreeBSD pf bypass vulnerability allows attackers to bypass rules in pf-based IPv6 firewalls. The vulnerability occurs when a non-compliant IPv6 atomic fragment is sent, containing multiple IPv6 fragmentation headers. FreeBSD handles these fragments by rebuilding the original packet but fails to apply any rules that apply to layers four and higher. As a result, the fragment bypasses the firewall and establishes two-way communication between the attacker and the victim. The vulnerability affects all FreeBSD versions up to 13.2-STABLE and 12.4-STABLE. The solution is to update FreeBSD to the latest version.
             </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37436498">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI girlfriend ads are flooding Instagram and TikTok (www.nbcnews.com)]]></title>
-            <link>https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547</link>
-            <guid>https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547</guid>
-            <pubDate>Fri, 08 Sep 2023 17:58:46 GMT</pubDate>
-            <description><![CDATA[Ads for AI Sex Workers Flood Instagram and TikTok]]></description>
-            <content:encoded><![CDATA[<p>Ads for AI sex workers are appearing on social media platforms like Instagram and TikTok, bypassing their moderation systems. These ads promote apps that offer not-safe-for-work experiences, featuring sexually explicit chatbots powered by artificial intelligence. The ads often depict digitally created potential 'girlfriends' with large breasts and tight clothing, sometimes using popular children's TV characters. NBC News found that app developers were running sexually explicit ads on platforms owned by Meta (parent company of Facebook and Instagram) and TikTok. The marketing push is part of an AI gold rush, capitalizing on the surge of interest in AI-generated content. Some researchers argue that these ads benefit from a double standard that harms real human sex workers.
-            </p><p>
-                55 Points |  <a href="https://news.ycombinator.com/item?id=37437066">27 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)]]></title>
-            <link>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</link>
-            <guid>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</guid>
-            <pubDate>Fri, 08 Sep 2023 17:01:02 GMT</pubDate>
-            <description><![CDATA[Artie Seeks Founding Engineer for Real-Time Data Streaming Solution]]></description>
-            <content:encoded><![CDATA[<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.
-            </p><p>
-                1 Points |  <a href="https://news.ycombinator.com/item?id=37436236">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[God of the Gaps: How the Supernatural Explains What We Can’t (behavioralscientist.org)]]></title>
-            <link>https://behavioralscientist.org/god-of-the-gaps-how-the-supernatural-explains-what-we-cant/</link>
-            <guid>https://behavioralscientist.org/god-of-the-gaps-how-the-supernatural-explains-what-we-cant/</guid>
-            <pubDate>Fri, 08 Sep 2023 18:37:24 GMT</pubDate>
-            <description><![CDATA[Supernatural Explanations More Common for Natural Phenomena than Social Phenomena, Study Finds]]></description>
-            <content:encoded><![CDATA[<p>Supernatural explanations are more common for natural phenomena than for social phenomena, according to a recent study published in Nature Human Behaviour. The researchers analyzed ethnographic documentation from 114 nonindustrial societies and found that supernatural explanations were prevalent for events such as disease, food scarcity, and natural hazards. In contrast, supernatural explanations for social events like warfare, murder, and theft were less common. The researchers suggest that the absence of clear, identifiable agents behind natural events may lead humans to personify the world around them and attribute these events to supernatural forces. The study also highlights how supernatural explanations can be a barrier for human action, as seen in the skepticism of man-made climate change among deeply religious individuals in the United States.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37437583">0 comments</a>
+                6 Points |  <a href="https://news.ycombinator.com/item?id=37437530">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -155,117 +122,18 @@
             <description><![CDATA[Weight-Loss Drugs: A Sci-Fi Becoming Reality with Potential for Huge Market Growth]]></description>
             <content:encoded><![CDATA[<p>Weight-loss drugs like semaglutide are proving to be effective in helping people lose weight and manage diabetes. Novo Nordisk, the drug maker responsible for anti-obesity drugs Ozempic and Wegovy, has contributed significantly to Denmark's GDP growth. Semaglutide, which mimics a natural hormone and stimulates insulin production, has shown promise in reducing or eliminating the need for insulin injections in type 1 diabetes patients. The potential market for these drugs is estimated to be worth $50 billion by 2030. Insurers are expected to cover these drugs for obesity treatment, and Medicare may also provide coverage in the future. The success of weight-loss drugs highlights the potential for tech progress to improve living standards.
             </p><p>
-                8 Points |  <a href="https://news.ycombinator.com/item?id=37437467">0 comments</a>
+                18 Points |  <a href="https://news.ycombinator.com/item?id=37437467">10 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FTC judge decides Intuit’s ‘free’ TurboTax ads did mislead consumers (www.theverge.com)]]></title>
-            <link>https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing</link>
-            <guid>https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing</guid>
-            <pubDate>Fri, 08 Sep 2023 18:19:19 GMT</pubDate>
-            <description><![CDATA[FTC Judge Finds Intuit's 'Free' TurboTax Ads Misled Consumers]]></description>
-            <content:encoded><![CDATA[<p>FTC judge rules that Intuit's 'free' TurboTax ads were misleading, finding that the company deceived consumers by advertising its tax filing service as free when users had to pay to use it. The ruling includes evidence of commercials and online ads promoting the 'Free Edition' software. Intuit was also criticized for making its actually free Free File version difficult to find. The judge issued a cease-and-desist order, prohibiting Intuit from engaging in deceptive practices and requiring clear disclosure of any terms that would limit offers. Intuit responded by calling the investigation process flawed and questionable, stating that it already adheres to most advertising practices in the FTC's decision. The IRS is working on a government-backed free filing service for the 2024 tax season.
+            <title><![CDATA[Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)]]></title>
+            <link>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</link>
+            <guid>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</guid>
+            <pubDate>Fri, 08 Sep 2023 17:01:02 GMT</pubDate>
+            <description><![CDATA[Artie Seeks Founding Engineer for Real-Time Data Streaming Solution]]></description>
+            <content:encoded><![CDATA[<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.
             </p><p>
-                17 Points |  <a href="https://news.ycombinator.com/item?id=37437311">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Towards a New SymPy (oscarbenjamin.github.io)]]></title>
-            <link>https://oscarbenjamin.github.io/blog/czi/post1.html</link>
-            <guid>https://oscarbenjamin.github.io/blog/czi/post1.html</guid>
-            <pubDate>Fri, 08 Sep 2023 07:50:49 GMT</pubDate>
-            <description><![CDATA[Foundations of a Computer Algebra System: Towards a Faster SymPy]]></description>
-            <content:encoded><![CDATA[<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System
-            </p><p>
-                56 Points |  <a href="https://news.ycombinator.com/item?id=37430759">25 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX can't launch its giant rocket again until fixes are made, FAA says (apnews.com)]]></title>
-            <link>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</link>
-            <guid>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</guid>
-            <pubDate>Fri, 08 Sep 2023 16:19:12 GMT</pubDate>
-            <description><![CDATA[FAA Requires SpaceX to Address Issues Before Launching Starship Mega Rocket Again]]></description>
-            <content:encoded><![CDATA[<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.
-            </p><p>
-                93 Points |  <a href="https://news.ycombinator.com/item?id=37435656">65 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)]]></title>
-            <link>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</link>
-            <guid>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</guid>
-            <pubDate>Fri, 08 Sep 2023 14:59:13 GMT</pubDate>
-            <description><![CDATA[Air pollution degrades floral scent, making it difficult for bees to find flowers]]></description>
-            <content:encoded><![CDATA[<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.
-            </p><p>
-                121 Points |  <a href="https://news.ycombinator.com/item?id=37434381">24 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)]]></title>
-            <link>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</link>
-            <guid>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</guid>
-            <pubDate>Fri, 08 Sep 2023 03:36:11 GMT</pubDate>
-            <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
-            <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
-            </p><p>
-                95 Points |  <a href="https://news.ycombinator.com/item?id=37428937">58 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PgBouncer is useful, important, and fraught with peril (jpcamara.com)]]></title>
-            <link>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</link>
-            <guid>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</guid>
-            <pubDate>Fri, 08 Sep 2023 09:43:22 GMT</pubDate>
-            <description><![CDATA[The Significance and Challenges of PgBouncer for Scaling PostgreSQL]]></description>
-            <content:encoded><![CDATA[<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL
-            </p><p>
-                122 Points |  <a href="https://news.ycombinator.com/item?id=37431560">49 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Heirloom Carbon: Absorbing CO2 from the air using crushed rocks (heatmap.news)]]></title>
-            <link>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</link>
-            <guid>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</guid>
-            <pubDate>Fri, 08 Sep 2023 16:06:37 GMT</pubDate>
-            <description><![CDATA[Microsoft Makes Major Investment in Carbon-Absorbing Rocks]]></description>
-            <content:encoded><![CDATA[<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.
-            </p><p>
-                66 Points |  <a href="https://news.ycombinator.com/item?id=37435454">52 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[China's ancient water pipe networks show no evidence of a centralized authority (phys.org)]]></title>
-            <link>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</link>
-            <guid>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</guid>
-            <pubDate>Thu, 07 Sep 2023 20:25:09 GMT</pubDate>
-            <description><![CDATA[Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority]]></description>
-            <content:encoded><![CDATA[<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.
-            </p><p>
-                199 Points |  <a href="https://news.ycombinator.com/item?id=37425052">128 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why we didn’t get a malaria vaccine sooner (worksinprogress.co)]]></title>
-            <link>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</link>
-            <guid>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</guid>
-            <pubDate>Fri, 08 Sep 2023 18:49:21 GMT</pubDate>
-            <description><![CDATA[The Challenges and Delays in Developing a Malaria Vaccine]]></description>
-            <content:encoded><![CDATA[<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37437739">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The thinking path (www.robinsloan.com)]]></title>
-            <link>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</link>
-            <guid>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</guid>
-            <pubDate>Thu, 07 Sep 2023 21:52:02 GMT</pubDate>
-            <description><![CDATA[Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness]]></description>
-            <content:encoded><![CDATA[<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.
-            </p><p>
-                92 Points |  <a href="https://news.ycombinator.com/item?id=37426107">20 comments</a>
+                1 Points |  <a href="https://news.ycombinator.com/item?id=37436236">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -280,25 +148,157 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Apple vs. Meta: The Illusion of Privacy (growth.design)]]></title>
-            <link>https://growth.design/case-studies/apple-privacy-policy</link>
-            <guid>https://growth.design/case-studies/apple-privacy-policy</guid>
-            <pubDate>Fri, 08 Sep 2023 13:52:36 GMT</pubDate>
-            <description><![CDATA[N/A]]></description>
-            <content:encoded><![CDATA[<p>N/A
+            <title><![CDATA[Towards a New SymPy (oscarbenjamin.github.io)]]></title>
+            <link>https://oscarbenjamin.github.io/blog/czi/post1.html</link>
+            <guid>https://oscarbenjamin.github.io/blog/czi/post1.html</guid>
+            <pubDate>Fri, 08 Sep 2023 07:50:49 GMT</pubDate>
+            <description><![CDATA[Foundations of a Computer Algebra System: Towards a Faster SymPy]]></description>
+            <content:encoded><![CDATA[<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System
             </p><p>
-                272 Points |  <a href="https://news.ycombinator.com/item?id=37433495">230 comments</a>
+                62 Points |  <a href="https://news.ycombinator.com/item?id=37430759">35 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How Query Engines Work (howqueryengineswork.com)]]></title>
-            <link>https://howqueryengineswork.com/</link>
-            <guid>https://howqueryengineswork.com/</guid>
-            <pubDate>Thu, 07 Sep 2023 06:38:55 GMT</pubDate>
-            <description><![CDATA[How Query Engines Work: A Comprehensive Guide]]></description>
-            <content:encoded><![CDATA[<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.
+            <title><![CDATA[Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI (together.ai)]]></title>
+            <link>https://together.ai/privacy</link>
+            <guid>https://together.ai/privacy</guid>
+            <pubDate>Fri, 08 Sep 2023 17:20:14 GMT</pubDate>
+            <description><![CDATA[Together Computer Inc Privacy Policy: Collection, Use, and Sharing of Personal Data]]></description>
+            <content:encoded><![CDATA[<p>Together Computer Inc's privacy policy outlines the collection, use, and sharing of personal data through their model training and inference platform. The policy applies to data collected through the services, training algorithms, company websites, and third-party sources. It does not cover personal data of company employees and candidates. The policy highlights the types of data collected, such as user names, IP addresses, and contact information, and explains how the company uses this data for purposes like improving the service and contacting users. It also discusses data retention, transfer, and security measures. The policy includes supplemental terms and conditions for regions like Europe and California.
             </p><p>
-                254 Points |  <a href="https://news.ycombinator.com/item?id=37415494">42 comments</a>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37436498">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Emoji Generator with AI (emoji.fly.dev)]]></title>
+            <link>https://emoji.fly.dev</link>
+            <guid>https://emoji.fly.dev</guid>
+            <pubDate>Fri, 08 Sep 2023 13:54:13 GMT</pubDate>
+            <description><![CDATA[A Collection of Diverse Emojis in Slackmoji AI Edition]]></description>
+            <content:encoded><![CDATA[<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.
+            </p><p>
+                231 Points |  <a href="https://news.ycombinator.com/item?id=37433523">103 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX can't launch its giant rocket again until fixes are made, FAA says (apnews.com)]]></title>
+            <link>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</link>
+            <guid>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</guid>
+            <pubDate>Fri, 08 Sep 2023 16:19:12 GMT</pubDate>
+            <description><![CDATA[FAA Requires SpaceX to Address Issues Before Launching Starship Mega Rocket Again]]></description>
+            <content:encoded><![CDATA[<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.
+            </p><p>
+                106 Points |  <a href="https://news.ycombinator.com/item?id=37435656">76 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)]]></title>
+            <link>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</link>
+            <guid>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</guid>
+            <pubDate>Fri, 08 Sep 2023 14:59:13 GMT</pubDate>
+            <description><![CDATA[Air pollution degrades floral scent, making it difficult for bees to find flowers]]></description>
+            <content:encoded><![CDATA[<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.
+            </p><p>
+                121 Points |  <a href="https://news.ycombinator.com/item?id=37434381">24 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PgBouncer is useful, important, and fraught with peril (jpcamara.com)]]></title>
+            <link>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</link>
+            <guid>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</guid>
+            <pubDate>Fri, 08 Sep 2023 09:43:22 GMT</pubDate>
+            <description><![CDATA[The Significance and Challenges of PgBouncer for Scaling PostgreSQL]]></description>
+            <content:encoded><![CDATA[<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL
+            </p><p>
+                122 Points |  <a href="https://news.ycombinator.com/item?id=37431560">49 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[China's ancient water pipe networks show no evidence of a centralized authority (phys.org)]]></title>
+            <link>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</link>
+            <guid>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</guid>
+            <pubDate>Thu, 07 Sep 2023 20:25:09 GMT</pubDate>
+            <description><![CDATA[Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority]]></description>
+            <content:encoded><![CDATA[<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.
+            </p><p>
+                199 Points |  <a href="https://news.ycombinator.com/item?id=37425052">128 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)]]></title>
+            <link>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</link>
+            <guid>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</guid>
+            <pubDate>Fri, 08 Sep 2023 03:36:11 GMT</pubDate>
+            <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
+            <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
+            </p><p>
+                95 Points |  <a href="https://news.ycombinator.com/item?id=37428937">58 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The thinking path (www.robinsloan.com)]]></title>
+            <link>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</link>
+            <guid>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</guid>
+            <pubDate>Thu, 07 Sep 2023 21:52:02 GMT</pubDate>
+            <description><![CDATA[Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness]]></description>
+            <content:encoded><![CDATA[<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.
+            </p><p>
+                92 Points |  <a href="https://news.ycombinator.com/item?id=37426107">20 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[FTC judge decides Intuit’s ‘free’ TurboTax ads misled consumers (www.theverge.com)]]></title>
+            <link>https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing</link>
+            <guid>https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing</guid>
+            <pubDate>Fri, 08 Sep 2023 18:19:19 GMT</pubDate>
+            <description><![CDATA[FTC Judge Finds Intuit's 'Free' TurboTax Ads Misled Consumers]]></description>
+            <content:encoded><![CDATA[<p>FTC judge rules that Intuit's 'free' TurboTax ads were misleading, finding that the company deceived consumers by advertising its tax filing service as free when users had to pay to use it. The ruling includes evidence of commercials and online ads promoting the 'Free Edition' software. Intuit was also criticized for making its actually free Free File version difficult to find. The judge issued a cease-and-desist order, prohibiting Intuit from engaging in deceptive practices and requiring clear disclosure of any terms that would limit offers. Intuit responded by calling the investigation process flawed and questionable, stating that it already adheres to most advertising practices in the FTC's decision. The IRS is working on a government-backed free filing service for the 2024 tax season.
+            </p><p>
+                128 Points |  <a href="https://news.ycombinator.com/item?id=37437311">13 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI girlfriend ads are flooding Instagram and TikTok (www.nbcnews.com)]]></title>
+            <link>https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547</link>
+            <guid>https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547</guid>
+            <pubDate>Fri, 08 Sep 2023 17:58:46 GMT</pubDate>
+            <description><![CDATA[Ads for AI Sex Workers Flood Instagram and TikTok]]></description>
+            <content:encoded><![CDATA[<p>Ads for AI sex workers are appearing on social media platforms like Instagram and TikTok, bypassing their moderation systems. These ads promote apps that offer not-safe-for-work experiences, featuring sexually explicit chatbots powered by artificial intelligence. The ads often depict digitally created potential 'girlfriends' with large breasts and tight clothing, sometimes using popular children's TV characters. NBC News found that app developers were running sexually explicit ads on platforms owned by Meta (parent company of Facebook and Instagram) and TikTok. The marketing push is part of an AI gold rush, capitalizing on the surge of interest in AI-generated content. Some researchers argue that these ads benefit from a double standard that harms real human sex workers.
+            </p><p>
+                76 Points |  <a href="https://news.ycombinator.com/item?id=37437066">71 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Heirloom Carbon: Absorbing CO2 from the air using crushed rocks (heatmap.news)]]></title>
+            <link>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</link>
+            <guid>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</guid>
+            <pubDate>Fri, 08 Sep 2023 16:06:37 GMT</pubDate>
+            <description><![CDATA[Microsoft Makes Major Investment in Carbon-Absorbing Rocks]]></description>
+            <content:encoded><![CDATA[<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.
+            </p><p>
+                66 Points |  <a href="https://news.ycombinator.com/item?id=37435454">52 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Safety Inspector Fired for Finding Too Many Defects Could Cost Railroad Millions (jalopnik.com)]]></title>
+            <link>https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520</link>
+            <guid>https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520</guid>
+            <pubDate>Fri, 08 Sep 2023 18:51:07 GMT</pubDate>
+            <description><![CDATA[Safety Inspector Fired For Finding 'Too Many Defects' Exposes Culture of Ignoring Safety at Railroad Company]]></description>
+            <content:encoded><![CDATA[<p>Safety Inspector Fired For Finding 'Too Many Defects' Could Cost Railroad Millions. Former track inspector Don Sanders reveals a culture of ignoring safety in favor of profit at Burlington Northern Santa Fe (BNSF). Sanders had previously sued BNSF in 2017 for retaliation after reporting numerous defects. BNSF has a history of destroying evidence and retaliating against employees. Secretly recorded phone calls from the lawsuit expose BNSF's disregard for safety, with employees questioning why defects aren't fixed and supervisors discouraging calls to the Federal Railroad Administration. Other track inspectors confirm the pressure to overlook defects and the consequences of reporting them. Despite the evidence, Sanders' supervisor still has his job, received a raise, and a bonus.
+            </p><p>
+                10 Points |  <a href="https://news.ycombinator.com/item?id=37437764">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (www.nature.com)]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06502-w</link>
+            <guid>https://www.nature.com/articles/s41586-023-06502-w</guid>
+            <pubDate>Wed, 06 Sep 2023 23:33:09 GMT</pubDate>
+            <description><![CDATA[Specialized Astrocytes Mediate Glutamatergic Gliotransmission in the CNS]]></description>
+            <content:encoded><![CDATA[<p>Specialized astrocytes in the central nervous system mediate glutamatergic gliotransmission, playing a role in brain circuitry assembly and function. Through the use of molecular, bioinformatic, and imaging approaches, researchers identified a subpopulation of astrocytes in the hippocampus that selectively expressed synaptic-like glutamate-release machinery. These astrocytes were found to respond to astrocyte-selective stimulations with subsecond glutamate release events at specific locations. Deletion of the vesicular glutamate transporter 1 (VGLUT1) in these astrocytes suppressed the glutamate release. The study provides insights into the complex roles of astrocytes in the central nervous system and identifies a potential therapeutic target.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37412834">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -310,6 +310,17 @@
             <content:encoded><![CDATA[<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.
             </p><p>
                 72 Points |  <a href="https://news.ycombinator.com/item?id=37433218">16 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Apple vs. Meta: The Illusion of Privacy (growth.design)]]></title>
+            <link>https://growth.design/case-studies/apple-privacy-policy</link>
+            <guid>https://growth.design/case-studies/apple-privacy-policy</guid>
+            <pubDate>Fri, 08 Sep 2023 13:52:36 GMT</pubDate>
+            <description><![CDATA[N/A]]></description>
+            <content:encoded><![CDATA[<p>N/A
+            </p><p>
+                287 Points |  <a href="https://news.ycombinator.com/item?id=37433495">260 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -332,17 +343,6 @@
             <content:encoded><![CDATA[<p>Apple issues update to fix zero-click vulnerability exploited by NSO Group's Pegasus spyware. The exploit chain, known as BLASTPASS, targeted iPhones running the latest iOS version without user interaction. Citizen Lab discovered and disclosed the vulnerability to Apple, who issued two CVEs related to the exploit. Users are urged to update their devices immediately and consider enabling Lockdown Mode for added protection. The incident highlights the ongoing targeting of civil society organizations by sophisticated cyber threats. Apple's response and collaboration with Citizen Lab are commended.
             </p><p>
                 1316 Points |  <a href="https://news.ycombinator.com/item?id=37425007">725 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (www.nature.com)]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06502-w</link>
-            <guid>https://www.nature.com/articles/s41586-023-06502-w</guid>
-            <pubDate>Wed, 06 Sep 2023 23:33:09 GMT</pubDate>
-            <description><![CDATA[Specialized Astrocytes Mediate Glutamatergic Gliotransmission in the CNS]]></description>
-            <content:encoded><![CDATA[<p>Specialized astrocytes in the central nervous system mediate glutamatergic gliotransmission, playing a role in brain circuitry assembly and function. Through the use of molecular, bioinformatic, and imaging approaches, researchers identified a subpopulation of astrocytes in the hippocampus that selectively expressed synaptic-like glutamate-release machinery. These astrocytes were found to respond to astrocyte-selective stimulations with subsecond glutamate release events at specific locations. Deletion of the vesicular glutamate transporter 1 (VGLUT1) in these astrocytes suppressed the glutamate release. The study provides insights into the complex roles of astrocytes in the central nervous system and identifies a potential therapeutic target.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37412834">0 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>

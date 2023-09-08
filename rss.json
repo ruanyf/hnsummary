@@ -11,39 +11,6 @@
     },
     "items": [
         {
-            "id": "https://procreate.com/dreams",
-            "content_html": "<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.\n            </p><p>\n                312 Points |  <a href=\"https://news.ycombinator.com/item?id=37434918\">116 comments</a>\n            </p>",
-            "url": "https://procreate.com/dreams",
-            "title": "Procreate Dreams (procreate.com)",
-            "summary": "Introducing Procreate Dreams: A Powerful Animation App for Creating Hand-Drawn Animations and Motion Graphics",
-            "date_modified": "2023-09-08T15:32:57.000Z",
-            "author": {
-                "name": "procreate.com"
-            }
-        },
-        {
-            "id": "https://emoji.fly.dev",
-            "content_html": "<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.\n            </p><p>\n                202 Points |  <a href=\"https://news.ycombinator.com/item?id=37433523\">91 comments</a>\n            </p>",
-            "url": "https://emoji.fly.dev",
-            "title": "Emoji Generator with AI (emoji.fly.dev)",
-            "summary": "A Collection of Diverse Emojis in Slackmoji AI Edition",
-            "date_modified": "2023-09-08T13:54:13.000Z",
-            "author": {
-                "name": "emoji.fly.dev"
-            }
-        },
-        {
-            "id": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
-            "content_html": "<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37435215\">48 comments</a>\n            </p>",
-            "url": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
-            "title": "Zinc-air batteries as an alternative to lithium-ion: study (www.ecu.edu.au)",
-            "summary": "Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries",
-            "date_modified": "2023-09-08T15:49:56.000Z",
-            "author": {
-                "name": "www.ecu.edu.au"
-            }
-        },
-        {
             "id": "https://mtlynch.io/aardvarkd/",
             "content_html": "<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.\n            </p><p>\n                185 Points |  <a href=\"https://news.ycombinator.com/item?id=37433186\">52 comments</a>\n            </p>",
             "url": "https://mtlynch.io/aardvarkd/",
@@ -67,7 +34,7 @@
         },
         {
             "id": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
-            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                359 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">137 comments</a>\n            </p>",
+            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                424 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">154 comments</a>\n            </p>",
             "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
             "title": "Bun v1.0.0 (github.com)",
             "summary": "Bun v1.0 Release: Bug Fixes, Improvements, and New Features",
@@ -77,8 +44,41 @@
             }
         },
         {
+            "id": "https://procreate.com/dreams",
+            "content_html": "<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.\n            </p><p>\n                312 Points |  <a href=\"https://news.ycombinator.com/item?id=37434918\">116 comments</a>\n            </p>",
+            "url": "https://procreate.com/dreams",
+            "title": "Procreate Dreams (procreate.com)",
+            "summary": "Introducing Procreate Dreams: A Powerful Animation App for Creating Hand-Drawn Animations and Motion Graphics",
+            "date_modified": "2023-09-08T15:32:57.000Z",
+            "author": {
+                "name": "procreate.com"
+            }
+        },
+        {
+            "id": "https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner",
+            "content_html": "<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37437739\">0 comments</a>\n            </p>",
+            "url": "https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner",
+            "title": "Why we didn’t get a malaria vaccine sooner (worksinprogress.co)",
+            "summary": "The Challenges and Delays in Developing a Malaria Vaccine",
+            "date_modified": "2023-09-08T18:49:21.000Z",
+            "author": {
+                "name": "worksinprogress.co"
+            }
+        },
+        {
+            "id": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
+            "content_html": "<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.\n            </p><p>\n                70 Points |  <a href=\"https://news.ycombinator.com/item?id=37435215\">59 comments</a>\n            </p>",
+            "url": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
+            "title": "Zinc-air batteries as an alternative to lithium-ion: study (www.ecu.edu.au)",
+            "summary": "Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries",
+            "date_modified": "2023-09-08T15:49:56.000Z",
+            "author": {
+                "name": "www.ecu.edu.au"
+            }
+        },
+        {
             "id": "https://arxiv.org/abs/2309.03409",
-            "content_html": "<p>The paper introduces Optimization by PROmpting (OPRO), a method that leverages large language models (LLMs) as optimizers. OPRO uses natural language prompts to generate new solutions in each optimization step. The authors demonstrate the effectiveness of OPRO on linear regression, traveling salesman problems, and prompt optimization tasks. They show that prompts optimized by OPRO outperform human-designed prompts by up to 8% on GSM8K and by up to 50% on Big-Bench Hard tasks. The paper falls under the categories of Machine Learning, Artificial Intelligence, and Computation and Language.\n            </p><p>\n                48 Points |  <a href=\"https://news.ycombinator.com/item?id=37434069\">10 comments</a>\n            </p>",
+            "content_html": "<p>The paper introduces Optimization by PROmpting (OPRO), a method that leverages large language models (LLMs) as optimizers. OPRO uses natural language prompts to generate new solutions in each optimization step. The authors demonstrate the effectiveness of OPRO on linear regression, traveling salesman problems, and prompt optimization tasks. They show that prompts optimized by OPRO outperform human-designed prompts by up to 8% on GSM8K and by up to 50% on Big-Bench Hard tasks. The paper falls under the categories of Machine Learning, Artificial Intelligence, and Computation and Language.\n            </p><p>\n                65 Points |  <a href=\"https://news.ycombinator.com/item?id=37434069\">20 comments</a>\n            </p>",
             "url": "https://arxiv.org/abs/2309.03409",
             "title": "Large Language Models as Optimizers. +50% on Big Bench Hard (arxiv.org)",
             "summary": "Leveraging Large Language Models as Optimizers: Introducing Optimization by PROmpting (OPRO)",
@@ -88,47 +88,14 @@
             }
         },
         {
-            "id": "https://together.ai/privacy",
-            "content_html": "<p>Together Computer Inc's privacy policy outlines the collection, use, and sharing of personal data through their model training and inference platform. The policy applies to data collected through the services, training algorithms, company websites, and third-party sources. It does not cover personal data of company employees and candidates. The policy highlights the types of data collected, such as user names, IP addresses, and contact information, and explains how the company uses this data for purposes like improving the service and contacting users. It also discusses data retention, transfer, and security measures. The policy includes supplemental terms and conditions for regions like Europe and California.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37436498\">0 comments</a>\n            </p>",
-            "url": "https://together.ai/privacy",
-            "title": "Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI (together.ai)",
-            "summary": "Together Computer Inc Privacy Policy: Collection, Use, and Sharing of Personal Data",
-            "date_modified": "2023-09-08T17:20:14.000Z",
+            "id": "https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/",
+            "content_html": "<p>CVE-2023-4809: FreeBSD pf bypass vulnerability allows attackers to bypass rules in pf-based IPv6 firewalls. The vulnerability occurs when a non-compliant IPv6 atomic fragment is sent, containing multiple IPv6 fragmentation headers. FreeBSD handles these fragments by rebuilding the original packet but fails to apply any rules that apply to layers four and higher. As a result, the fragment bypasses the firewall and establishes two-way communication between the attacker and the victim. The vulnerability affects all FreeBSD versions up to 13.2-STABLE and 12.4-STABLE. The solution is to update FreeBSD to the latest version.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37437530\">0 comments</a>\n            </p>",
+            "url": "https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/",
+            "title": "CVE-2023-4809: FreeBSD pf bypass when using IPv6 (www.enricobassetti.it)",
+            "summary": "CVE-2023-4809: FreeBSD pf Bypass Vulnerability in IPv6 Firewalls",
+            "date_modified": "2023-09-08T18:33:21.000Z",
             "author": {
-                "name": "together.ai"
-            }
-        },
-        {
-            "id": "https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547",
-            "content_html": "<p>Ads for AI sex workers are appearing on social media platforms like Instagram and TikTok, bypassing their moderation systems. These ads promote apps that offer not-safe-for-work experiences, featuring sexually explicit chatbots powered by artificial intelligence. The ads often depict digitally created potential 'girlfriends' with large breasts and tight clothing, sometimes using popular children's TV characters. NBC News found that app developers were running sexually explicit ads on platforms owned by Meta (parent company of Facebook and Instagram) and TikTok. The marketing push is part of an AI gold rush, capitalizing on the surge of interest in AI-generated content. Some researchers argue that these ads benefit from a double standard that harms real human sex workers.\n            </p><p>\n                55 Points |  <a href=\"https://news.ycombinator.com/item?id=37437066\">27 comments</a>\n            </p>",
-            "url": "https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547",
-            "title": "AI girlfriend ads are flooding Instagram and TikTok (www.nbcnews.com)",
-            "summary": "Ads for AI Sex Workers Flood Instagram and TikTok",
-            "date_modified": "2023-09-08T17:58:46.000Z",
-            "author": {
-                "name": "www.nbcnews.com"
-            }
-        },
-        {
-            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
-            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
-            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
-            "date_modified": "2023-09-08T17:01:02.000Z",
-            "author": {
-                "name": "www.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://behavioralscientist.org/god-of-the-gaps-how-the-supernatural-explains-what-we-cant/",
-            "content_html": "<p>Supernatural explanations are more common for natural phenomena than for social phenomena, according to a recent study published in Nature Human Behaviour. The researchers analyzed ethnographic documentation from 114 nonindustrial societies and found that supernatural explanations were prevalent for events such as disease, food scarcity, and natural hazards. In contrast, supernatural explanations for social events like warfare, murder, and theft were less common. The researchers suggest that the absence of clear, identifiable agents behind natural events may lead humans to personify the world around them and attribute these events to supernatural forces. The study also highlights how supernatural explanations can be a barrier for human action, as seen in the skepticism of man-made climate change among deeply religious individuals in the United States.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37437583\">0 comments</a>\n            </p>",
-            "url": "https://behavioralscientist.org/god-of-the-gaps-how-the-supernatural-explains-what-we-cant/",
-            "title": "God of the Gaps: How the Supernatural Explains What We Can’t (behavioralscientist.org)",
-            "summary": "Supernatural Explanations More Common for Natural Phenomena than Social Phenomena, Study Finds",
-            "date_modified": "2023-09-08T18:37:24.000Z",
-            "author": {
-                "name": "behavioralscientist.org"
+                "name": "www.enricobassetti.it"
             }
         },
         {
@@ -144,7 +111,7 @@
         },
         {
             "id": "https://fasterplease.substack.com/p/weight-loss-drugs-seem-like-another",
-            "content_html": "<p>Weight-loss drugs like semaglutide are proving to be effective in helping people lose weight and manage diabetes. Novo Nordisk, the drug maker responsible for anti-obesity drugs Ozempic and Wegovy, has contributed significantly to Denmark's GDP growth. Semaglutide, which mimics a natural hormone and stimulates insulin production, has shown promise in reducing or eliminating the need for insulin injections in type 1 diabetes patients. The potential market for these drugs is estimated to be worth $50 billion by 2030. Insurers are expected to cover these drugs for obesity treatment, and Medicare may also provide coverage in the future. The success of weight-loss drugs highlights the potential for tech progress to improve living standards.\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37437467\">0 comments</a>\n            </p>",
+            "content_html": "<p>Weight-loss drugs like semaglutide are proving to be effective in helping people lose weight and manage diabetes. Novo Nordisk, the drug maker responsible for anti-obesity drugs Ozempic and Wegovy, has contributed significantly to Denmark's GDP growth. Semaglutide, which mimics a natural hormone and stimulates insulin production, has shown promise in reducing or eliminating the need for insulin injections in type 1 diabetes patients. The potential market for these drugs is estimated to be worth $50 billion by 2030. Insurers are expected to cover these drugs for obesity treatment, and Medicare may also provide coverage in the future. The success of weight-loss drugs highlights the potential for tech progress to improve living standards.\n            </p><p>\n                18 Points |  <a href=\"https://news.ycombinator.com/item?id=37437467\">10 comments</a>\n            </p>",
             "url": "https://fasterplease.substack.com/p/weight-loss-drugs-seem-like-another",
             "title": "Weight-loss drugs seem like another bit of sci-fi becoming fact (fasterplease.substack.com)",
             "summary": "Weight-Loss Drugs: A Sci-Fi Becoming Reality with Potential for Huge Market Growth",
@@ -154,19 +121,30 @@
             }
         },
         {
-            "id": "https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing",
-            "content_html": "<p>FTC judge rules that Intuit's 'free' TurboTax ads were misleading, finding that the company deceived consumers by advertising its tax filing service as free when users had to pay to use it. The ruling includes evidence of commercials and online ads promoting the 'Free Edition' software. Intuit was also criticized for making its actually free Free File version difficult to find. The judge issued a cease-and-desist order, prohibiting Intuit from engaging in deceptive practices and requiring clear disclosure of any terms that would limit offers. Intuit responded by calling the investigation process flawed and questionable, stating that it already adheres to most advertising practices in the FTC's decision. The IRS is working on a government-backed free filing service for the 2024 tax season.\n            </p><p>\n                17 Points |  <a href=\"https://news.ycombinator.com/item?id=37437311\">0 comments</a>\n            </p>",
-            "url": "https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing",
-            "title": "FTC judge decides Intuit’s ‘free’ TurboTax ads did mislead consumers (www.theverge.com)",
-            "summary": "FTC Judge Finds Intuit's 'Free' TurboTax Ads Misled Consumers",
-            "date_modified": "2023-09-08T18:19:19.000Z",
+            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
+            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
+            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
+            "date_modified": "2023-09-08T17:01:02.000Z",
             "author": {
-                "name": "www.theverge.com"
+                "name": "www.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://eprint.iacr.org/2023/1053",
+            "content_html": "<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431433\">0 comments</a>\n            </p>",
+            "url": "https://eprint.iacr.org/2023/1053",
+            "title": "ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)",
+            "summary": "ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet",
+            "date_modified": "2023-09-08T09:24:25.000Z",
+            "author": {
+                "name": "eprint.iacr.org"
             }
         },
         {
             "id": "https://oscarbenjamin.github.io/blog/czi/post1.html",
-            "content_html": "<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System\n            </p><p>\n                56 Points |  <a href=\"https://news.ycombinator.com/item?id=37430759\">25 comments</a>\n            </p>",
+            "content_html": "<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37430759\">35 comments</a>\n            </p>",
             "url": "https://oscarbenjamin.github.io/blog/czi/post1.html",
             "title": "Towards a New SymPy (oscarbenjamin.github.io)",
             "summary": "Foundations of a Computer Algebra System: Towards a Faster SymPy",
@@ -176,8 +154,30 @@
             }
         },
         {
+            "id": "https://together.ai/privacy",
+            "content_html": "<p>Together Computer Inc's privacy policy outlines the collection, use, and sharing of personal data through their model training and inference platform. The policy applies to data collected through the services, training algorithms, company websites, and third-party sources. It does not cover personal data of company employees and candidates. The policy highlights the types of data collected, such as user names, IP addresses, and contact information, and explains how the company uses this data for purposes like improving the service and contacting users. It also discusses data retention, transfer, and security measures. The policy includes supplemental terms and conditions for regions like Europe and California.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37436498\">0 comments</a>\n            </p>",
+            "url": "https://together.ai/privacy",
+            "title": "Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI (together.ai)",
+            "summary": "Together Computer Inc Privacy Policy: Collection, Use, and Sharing of Personal Data",
+            "date_modified": "2023-09-08T17:20:14.000Z",
+            "author": {
+                "name": "together.ai"
+            }
+        },
+        {
+            "id": "https://emoji.fly.dev",
+            "content_html": "<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.\n            </p><p>\n                231 Points |  <a href=\"https://news.ycombinator.com/item?id=37433523\">103 comments</a>\n            </p>",
+            "url": "https://emoji.fly.dev",
+            "title": "Emoji Generator with AI (emoji.fly.dev)",
+            "summary": "A Collection of Diverse Emojis in Slackmoji AI Edition",
+            "date_modified": "2023-09-08T13:54:13.000Z",
+            "author": {
+                "name": "emoji.fly.dev"
+            }
+        },
+        {
             "id": "https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d",
-            "content_html": "<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.\n            </p><p>\n                93 Points |  <a href=\"https://news.ycombinator.com/item?id=37435656\">65 comments</a>\n            </p>",
+            "content_html": "<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.\n            </p><p>\n                106 Points |  <a href=\"https://news.ycombinator.com/item?id=37435656\">76 comments</a>\n            </p>",
             "url": "https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d",
             "title": "SpaceX can't launch its giant rocket again until fixes are made, FAA says (apnews.com)",
             "summary": "FAA Requires SpaceX to Address Issues Before Launching Starship Mega Rocket Again",
@@ -198,17 +198,6 @@
             }
         },
         {
-            "id": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
-            "content_html": "<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.\n            </p><p>\n                95 Points |  <a href=\"https://news.ycombinator.com/item?id=37428937\">58 comments</a>\n            </p>",
-            "url": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
-            "title": "Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)",
-            "summary": "Website Security Check: journals.sagepub.com",
-            "date_modified": "2023-09-08T03:36:11.000Z",
-            "author": {
-                "name": "journals.sagepub.com"
-            }
-        },
-        {
             "id": "https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html",
             "content_html": "<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL\n            </p><p>\n                122 Points |  <a href=\"https://news.ycombinator.com/item?id=37431560\">49 comments</a>\n            </p>",
             "url": "https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html",
@@ -217,17 +206,6 @@
             "date_modified": "2023-09-08T09:43:22.000Z",
             "author": {
                 "name": "jpcamara.com"
-            }
-        },
-        {
-            "id": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
-            "content_html": "<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.\n            </p><p>\n                66 Points |  <a href=\"https://news.ycombinator.com/item?id=37435454\">52 comments</a>\n            </p>",
-            "url": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
-            "title": "Heirloom Carbon: Absorbing CO2 from the air using crushed rocks (heatmap.news)",
-            "summary": "Microsoft Makes Major Investment in Carbon-Absorbing Rocks",
-            "date_modified": "2023-09-08T16:06:37.000Z",
-            "author": {
-                "name": "heatmap.news"
             }
         },
         {
@@ -242,14 +220,14 @@
             }
         },
         {
-            "id": "https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner",
-            "content_html": "<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37437739\">0 comments</a>\n            </p>",
-            "url": "https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner",
-            "title": "Why we didn’t get a malaria vaccine sooner (worksinprogress.co)",
-            "summary": "The Challenges and Delays in Developing a Malaria Vaccine",
-            "date_modified": "2023-09-08T18:49:21.000Z",
+            "id": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
+            "content_html": "<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.\n            </p><p>\n                95 Points |  <a href=\"https://news.ycombinator.com/item?id=37428937\">58 comments</a>\n            </p>",
+            "url": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
+            "title": "Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)",
+            "summary": "Website Security Check: journals.sagepub.com",
+            "date_modified": "2023-09-08T03:36:11.000Z",
             "author": {
-                "name": "worksinprogress.co"
+                "name": "journals.sagepub.com"
             }
         },
         {
@@ -264,36 +242,58 @@
             }
         },
         {
-            "id": "https://eprint.iacr.org/2023/1053",
-            "content_html": "<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431433\">0 comments</a>\n            </p>",
-            "url": "https://eprint.iacr.org/2023/1053",
-            "title": "ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)",
-            "summary": "ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet",
-            "date_modified": "2023-09-08T09:24:25.000Z",
+            "id": "https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing",
+            "content_html": "<p>FTC judge rules that Intuit's 'free' TurboTax ads were misleading, finding that the company deceived consumers by advertising its tax filing service as free when users had to pay to use it. The ruling includes evidence of commercials and online ads promoting the 'Free Edition' software. Intuit was also criticized for making its actually free Free File version difficult to find. The judge issued a cease-and-desist order, prohibiting Intuit from engaging in deceptive practices and requiring clear disclosure of any terms that would limit offers. Intuit responded by calling the investigation process flawed and questionable, stating that it already adheres to most advertising practices in the FTC's decision. The IRS is working on a government-backed free filing service for the 2024 tax season.\n            </p><p>\n                128 Points |  <a href=\"https://news.ycombinator.com/item?id=37437311\">13 comments</a>\n            </p>",
+            "url": "https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing",
+            "title": "FTC judge decides Intuit’s ‘free’ TurboTax ads misled consumers (www.theverge.com)",
+            "summary": "FTC Judge Finds Intuit's 'Free' TurboTax Ads Misled Consumers",
+            "date_modified": "2023-09-08T18:19:19.000Z",
             "author": {
-                "name": "eprint.iacr.org"
+                "name": "www.theverge.com"
             }
         },
         {
-            "id": "https://growth.design/case-studies/apple-privacy-policy",
-            "content_html": "<p>N/A\n            </p><p>\n                272 Points |  <a href=\"https://news.ycombinator.com/item?id=37433495\">230 comments</a>\n            </p>",
-            "url": "https://growth.design/case-studies/apple-privacy-policy",
-            "title": "Apple vs. Meta: The Illusion of Privacy (growth.design)",
-            "summary": "N/A",
-            "date_modified": "2023-09-08T13:52:36.000Z",
+            "id": "https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547",
+            "content_html": "<p>Ads for AI sex workers are appearing on social media platforms like Instagram and TikTok, bypassing their moderation systems. These ads promote apps that offer not-safe-for-work experiences, featuring sexually explicit chatbots powered by artificial intelligence. The ads often depict digitally created potential 'girlfriends' with large breasts and tight clothing, sometimes using popular children's TV characters. NBC News found that app developers were running sexually explicit ads on platforms owned by Meta (parent company of Facebook and Instagram) and TikTok. The marketing push is part of an AI gold rush, capitalizing on the surge of interest in AI-generated content. Some researchers argue that these ads benefit from a double standard that harms real human sex workers.\n            </p><p>\n                76 Points |  <a href=\"https://news.ycombinator.com/item?id=37437066\">71 comments</a>\n            </p>",
+            "url": "https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547",
+            "title": "AI girlfriend ads are flooding Instagram and TikTok (www.nbcnews.com)",
+            "summary": "Ads for AI Sex Workers Flood Instagram and TikTok",
+            "date_modified": "2023-09-08T17:58:46.000Z",
             "author": {
-                "name": "growth.design"
+                "name": "www.nbcnews.com"
             }
         },
         {
-            "id": "https://howqueryengineswork.com/",
-            "content_html": "<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.\n            </p><p>\n                254 Points |  <a href=\"https://news.ycombinator.com/item?id=37415494\">42 comments</a>\n            </p>",
-            "url": "https://howqueryengineswork.com/",
-            "title": "How Query Engines Work (howqueryengineswork.com)",
-            "summary": "How Query Engines Work: A Comprehensive Guide",
-            "date_modified": "2023-09-07T06:38:55.000Z",
+            "id": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
+            "content_html": "<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.\n            </p><p>\n                66 Points |  <a href=\"https://news.ycombinator.com/item?id=37435454\">52 comments</a>\n            </p>",
+            "url": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
+            "title": "Heirloom Carbon: Absorbing CO2 from the air using crushed rocks (heatmap.news)",
+            "summary": "Microsoft Makes Major Investment in Carbon-Absorbing Rocks",
+            "date_modified": "2023-09-08T16:06:37.000Z",
             "author": {
-                "name": "howqueryengineswork.com"
+                "name": "heatmap.news"
+            }
+        },
+        {
+            "id": "https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520",
+            "content_html": "<p>Safety Inspector Fired For Finding 'Too Many Defects' Could Cost Railroad Millions. Former track inspector Don Sanders reveals a culture of ignoring safety in favor of profit at Burlington Northern Santa Fe (BNSF). Sanders had previously sued BNSF in 2017 for retaliation after reporting numerous defects. BNSF has a history of destroying evidence and retaliating against employees. Secretly recorded phone calls from the lawsuit expose BNSF's disregard for safety, with employees questioning why defects aren't fixed and supervisors discouraging calls to the Federal Railroad Administration. Other track inspectors confirm the pressure to overlook defects and the consequences of reporting them. Despite the evidence, Sanders' supervisor still has his job, received a raise, and a bonus.\n            </p><p>\n                10 Points |  <a href=\"https://news.ycombinator.com/item?id=37437764\">0 comments</a>\n            </p>",
+            "url": "https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520",
+            "title": "Safety Inspector Fired for Finding Too Many Defects Could Cost Railroad Millions (jalopnik.com)",
+            "summary": "Safety Inspector Fired For Finding 'Too Many Defects' Exposes Culture of Ignoring Safety at Railroad Company",
+            "date_modified": "2023-09-08T18:51:07.000Z",
+            "author": {
+                "name": "jalopnik.com"
+            }
+        },
+        {
+            "id": "https://www.nature.com/articles/s41586-023-06502-w",
+            "content_html": "<p>Specialized astrocytes in the central nervous system mediate glutamatergic gliotransmission, playing a role in brain circuitry assembly and function. Through the use of molecular, bioinformatic, and imaging approaches, researchers identified a subpopulation of astrocytes in the hippocampus that selectively expressed synaptic-like glutamate-release machinery. These astrocytes were found to respond to astrocyte-selective stimulations with subsecond glutamate release events at specific locations. Deletion of the vesicular glutamate transporter 1 (VGLUT1) in these astrocytes suppressed the glutamate release. The study provides insights into the complex roles of astrocytes in the central nervous system and identifies a potential therapeutic target.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37412834\">0 comments</a>\n            </p>",
+            "url": "https://www.nature.com/articles/s41586-023-06502-w",
+            "title": "Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (www.nature.com)",
+            "summary": "Specialized Astrocytes Mediate Glutamatergic Gliotransmission in the CNS",
+            "date_modified": "2023-09-06T23:33:09.000Z",
+            "author": {
+                "name": "www.nature.com"
             }
         },
         {
@@ -305,6 +305,17 @@
             "date_modified": "2023-09-08T13:29:05.000Z",
             "author": {
                 "name": "rivet.ironcladapp.com"
+            }
+        },
+        {
+            "id": "https://growth.design/case-studies/apple-privacy-policy",
+            "content_html": "<p>N/A\n            </p><p>\n                287 Points |  <a href=\"https://news.ycombinator.com/item?id=37433495\">260 comments</a>\n            </p>",
+            "url": "https://growth.design/case-studies/apple-privacy-policy",
+            "title": "Apple vs. Meta: The Illusion of Privacy (growth.design)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T13:52:36.000Z",
+            "author": {
+                "name": "growth.design"
             }
         },
         {
@@ -327,17 +338,6 @@
             "date_modified": "2023-09-07T20:21:01.000Z",
             "author": {
                 "name": "citizenlab.ca"
-            }
-        },
-        {
-            "id": "https://www.nature.com/articles/s41586-023-06502-w",
-            "content_html": "<p>Specialized astrocytes in the central nervous system mediate glutamatergic gliotransmission, playing a role in brain circuitry assembly and function. Through the use of molecular, bioinformatic, and imaging approaches, researchers identified a subpopulation of astrocytes in the hippocampus that selectively expressed synaptic-like glutamate-release machinery. These astrocytes were found to respond to astrocyte-selective stimulations with subsecond glutamate release events at specific locations. Deletion of the vesicular glutamate transporter 1 (VGLUT1) in these astrocytes suppressed the glutamate release. The study provides insights into the complex roles of astrocytes in the central nervous system and identifies a potential therapeutic target.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37412834\">0 comments</a>\n            </p>",
-            "url": "https://www.nature.com/articles/s41586-023-06502-w",
-            "title": "Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (www.nature.com)",
-            "summary": "Specialized Astrocytes Mediate Glutamatergic Gliotransmission in the CNS",
-            "date_modified": "2023-09-06T23:33:09.000Z",
-            "author": {
-                "name": "www.nature.com"
             }
         }
     ]
