@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 15:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 16:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,18 +23,7 @@
             <description><![CDATA[A Collection of Diverse Emojis in Slackmoji AI Edition]]></description>
             <content:encoded><![CDATA[<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.
             </p><p>
-                83 Points |  <a href="https://news.ycombinator.com/item?id=37433523">34 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Did you know Git was originally created in 10 days? (community.appsmith.com)]]></title>
-            <link>https://community.appsmith.com/content/blog/evolution-git-dive-tech-history</link>
-            <guid>https://community.appsmith.com/content/blog/evolution-git-dive-tech-history</guid>
-            <pubDate>Fri, 08 Sep 2023 14:54:41 GMT</pubDate>
-            <description><![CDATA[The Evolution of Git: From a Kernel Project Hiccup to a Essential Tool for Developers]]></description>
-            <content:encoded><![CDATA[<p>The Evolution of Git: A Dive Into Tech History
-            </p><p>
-                33 Points |  <a href="https://news.ycombinator.com/item?id=37434295">29 comments</a>
+                105 Points |  <a href="https://news.ycombinator.com/item?id=37433523">45 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -45,7 +34,18 @@
             <description><![CDATA[N/A]]></description>
             <content:encoded><![CDATA[<p>N/A
             </p><p>
-                133 Points |  <a href="https://news.ycombinator.com/item?id=37433495">82 comments</a>
+                184 Points |  <a href="https://news.ycombinator.com/item?id=37433495">116 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Procreate Dreams (procreate.com)]]></title>
+            <link>https://procreate.com/dreams</link>
+            <guid>https://procreate.com/dreams</guid>
+            <pubDate>Fri, 08 Sep 2023 15:32:57 GMT</pubDate>
+            <description><![CDATA[Introducing Procreate Dreams: A Powerful Animation App for Creating Hand-Drawn Animations and Motion Graphics]]></description>
+            <content:encoded><![CDATA[<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.
+            </p><p>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37434918">3 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -56,18 +56,7 @@
             <description><![CDATA[Menu of Pieces on a Mobile App]]></description>
             <content:encoded><![CDATA[<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.
             </p><p>
-                339 Points |  <a href="https://news.ycombinator.com/item?id=37431644">104 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)]]></title>
-            <link>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</link>
-            <guid>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</guid>
-            <pubDate>Fri, 08 Sep 2023 14:59:13 GMT</pubDate>
-            <description><![CDATA[Air pollution degrades floral scent, making it difficult for bees to find flowers]]></description>
-            <content:encoded><![CDATA[<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.
-            </p><p>
-                7 Points |  <a href="https://news.ycombinator.com/item?id=37434381">1 comments</a>
+                365 Points |  <a href="https://news.ycombinator.com/item?id=37431644">118 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -78,7 +67,7 @@
             <description><![CDATA[Aardvark'd: The Fog Creek Documentary, 18 Years Later - A Look into the Early Days of Tech Startup Founders]]></description>
             <content:encoded><![CDATA[<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.
             </p><p>
-                22 Points |  <a href="https://news.ycombinator.com/item?id=37433186">0 comments</a>
+                98 Points |  <a href="https://news.ycombinator.com/item?id=37433186">22 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -93,6 +82,28 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Bun v1.0.0 (github.com)]]></title>
+            <link>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</link>
+            <guid>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</guid>
+            <pubDate>Fri, 08 Sep 2023 14:41:03 GMT</pubDate>
+            <description><![CDATA[Bun v1.0 Release: Bug Fixes, Improvements, and New Features]]></description>
+            <content:encoded><![CDATA[<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.
+            </p><p>
+                133 Points |  <a href="https://news.ycombinator.com/item?id=37434117">49 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)]]></title>
+            <link>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</link>
+            <guid>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</guid>
+            <pubDate>Fri, 08 Sep 2023 14:59:13 GMT</pubDate>
+            <description><![CDATA[Air pollution degrades floral scent, making it difficult for bees to find flowers]]></description>
+            <content:encoded><![CDATA[<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.
+            </p><p>
+                78 Points |  <a href="https://news.ycombinator.com/item?id=37434381">12 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Towards a New SymPy (oscarbenjamin.github.io)]]></title>
             <link>https://oscarbenjamin.github.io/blog/czi/post1.html</link>
             <guid>https://oscarbenjamin.github.io/blog/czi/post1.html</guid>
@@ -104,14 +115,36 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Bun v1.0.0 (github.com)]]></title>
-            <link>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</link>
-            <guid>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</guid>
-            <pubDate>Fri, 08 Sep 2023 14:41:03 GMT</pubDate>
-            <description><![CDATA[Bun v1.0 Release: Bug Fixes, Improvements, and New Features]]></description>
-            <content:encoded><![CDATA[<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.
+            <title><![CDATA[Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative (www.ecu.edu.au)]]></title>
+            <link>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</link>
+            <guid>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</guid>
+            <pubDate>Fri, 08 Sep 2023 15:49:56 GMT</pubDate>
+            <description><![CDATA[Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries]]></description>
+            <content:encoded><![CDATA[<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.
             </p><p>
-                28 Points |  <a href="https://news.ycombinator.com/item?id=37434117">10 comments</a>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37435215">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)]]></title>
+            <link>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</link>
+            <guid>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</guid>
+            <pubDate>Fri, 08 Sep 2023 03:36:11 GMT</pubDate>
+            <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
+            <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
+            </p><p>
+                61 Points |  <a href="https://news.ycombinator.com/item?id=37428937">22 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PgBouncer is useful, important, and fraught with peril (jpcamara.com)]]></title>
+            <link>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</link>
+            <guid>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</guid>
+            <pubDate>Fri, 08 Sep 2023 09:43:22 GMT</pubDate>
+            <description><![CDATA[The Significance and Challenges of PgBouncer for Scaling PostgreSQL]]></description>
+            <content:encoded><![CDATA[<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL
+            </p><p>
+                94 Points |  <a href="https://news.ycombinator.com/item?id=37431560">39 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -126,28 +159,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[PgBouncer is useful, important, and fraught with peril (jpcamara.com)]]></title>
-            <link>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</link>
-            <guid>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</guid>
-            <pubDate>Fri, 08 Sep 2023 09:43:22 GMT</pubDate>
-            <description><![CDATA[The Significance and Challenges of PgBouncer for Scaling PostgreSQL]]></description>
-            <content:encoded><![CDATA[<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL
-            </p><p>
-                70 Points |  <a href="https://news.ycombinator.com/item?id=37431560">29 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dating app Grindr loses nearly half its staff after trying to force RTO (www.cnn.com)]]></title>
-            <link>https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html</link>
-            <guid>https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html</guid>
-            <pubDate>Fri, 08 Sep 2023 14:54:37 GMT</pubDate>
-            <description><![CDATA[Grindr Loses Nearly Half of Staff After Enforcing Return-to-Office Policy]]></description>
-            <content:encoded><![CDATA[<p>LGBTQ dating app Grindr loses nearly half of its staff after implementing a return-to-office policy. The policy required employees to either relocate to designated 'hub' cities or leave the company. Around 80 out of 178 workers were forced to leave as a result. The return-to-work policy is seen as retaliatory by the Communications Workers of America (CWA) in response to a union drive at the company. The CWA has filed an unfair labor practice charge against Grindr. This situation reflects the ongoing tensions between employers and workers regarding return-to-office policies in the post-pandemic era.
-            </p><p>
-                37 Points |  <a href="https://news.ycombinator.com/item?id=37434293">17 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote) (www.ycombinator.com)]]></title>
             <link>https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer</link>
             <guid>https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer</guid>
@@ -159,17 +170,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)]]></title>
-            <link>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</link>
-            <guid>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</guid>
-            <pubDate>Fri, 08 Sep 2023 03:36:11 GMT</pubDate>
-            <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
-            <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
-            </p><p>
-                40 Points |  <a href="https://news.ycombinator.com/item?id=37428937">12 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[China's ancient water pipe networks show no evidence of a centralized authority (phys.org)]]></title>
             <link>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</link>
             <guid>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</guid>
@@ -177,18 +177,17 @@
             <description><![CDATA[Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority]]></description>
             <content:encoded><![CDATA[<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.
             </p><p>
-                164 Points |  <a href="https://news.ycombinator.com/item?id=37425052">100 comments</a>
+                179 Points |  <a href="https://news.ycombinator.com/item?id=37425052">112 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[X updates its Terms to prohibit crawling/scraping of its data (stackdiary.com)]]></title>
-            <link>https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/</link>
-            <guid>https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/</guid>
-            <pubDate>Fri, 08 Sep 2023 14:13:12 GMT</pubDate>
-            <description><![CDATA[X Updates Terms to Prohibit Crawling/Scraping of Data]]></description>
-            <content:encoded><![CDATA[<p>X updates its terms to prohibit crawling/scraping of its data without prior written consent. This update comes after X allowed itself to use public data for training its AI models. The new policy also mentions a mutual consent requirement for scraping or crawling. X had previously blocked unauthenticated access to the site, but later lifted the limitation with the condition that only the original post can be viewed. X has also updated its robots.txt file to block all bots and search engines. However, services like Brave Search API can still bypass this restriction. It remains to be seen if X will take legal action against third parties using its data for training AI models.
+            <title><![CDATA[Scent of the afterlife? Scientists recreate recipe for Egyptian mummy balm (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37412649</link>
+            <guid>https://news.ycombinator.com/item?id=37412649</guid>
+            <pubDate>Wed, 06 Sep 2023 23:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                38 Points |  <a href="https://news.ycombinator.com/item?id=37433759">37 comments</a>
+                10 Points |  <a href="https://news.ycombinator.com/item?id=37412649">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -214,25 +213,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How to build your own living structures (1974, 2011) (www.we-find-wildness.com)]]></title>
-            <link>https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/</link>
-            <guid>https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/</guid>
-            <pubDate>Fri, 08 Sep 2023 13:53:51 GMT</pubDate>
-            <description><![CDATA[How to Build Your Own Living Structures: A Guide to Utopian Architecture]]></description>
-            <content:encoded><![CDATA[<p>How to Build Your Own Living Structures: A Guide to Utopian Architecture
+            <title><![CDATA[TSMC warns AI chip crunch will last another 18 months (www.theregister.com)]]></title>
+            <link>https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/</link>
+            <guid>https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:03:32 GMT</pubDate>
+            <description><![CDATA[TSMC warns AI chip crunch will last another 18 months]]></description>
+            <content:encoded><![CDATA[<p>TSMC warns that the shortage of advanced packaging capacity will continue to impact the availability of high-end GPUs until at least the end of 2024. The issue lies in the lack of capacity to stitch the silicon together, rather than a shortage of chips. TSMC can only meet about 80% of the demand for its chip on wafer on substrate (CoWoS) packaging technology, which is used in advanced chips for AI workloads. TSMC expects additional CoWoS capacity to come online within the next 18 months. This shortage affects not only Nvidia but also AMD's upcoming Instinct MI300-series accelerators.
             </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37433515">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LibreWolf – Custom version of Firefox, focused on privacy, security and freedom (librewolf.net)]]></title>
-            <link>https://librewolf.net/</link>
-            <guid>https://librewolf.net/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:29:59 GMT</pubDate>
-            <description><![CDATA[LibreWolf: A Privacy-Focused Custom Version of Firefox]]></description>
-            <content:encoded><![CDATA[<p>LibreWolf is a custom version of Firefox that prioritizes privacy, security, and user freedom. It aims to enhance protection against tracking and fingerprinting techniques, remove telemetry and data collection, and disable anti-freedom features. The browser includes privacy-conscious search providers and a content blocker. It is regularly updated for the latest security and features, and is open source, allowing community participation. Contributions are welcome, and the project provides support for various operating systems. LibreWolf is not affiliated with Mozilla.
-            </p><p>
-                104 Points |  <a href="https://news.ycombinator.com/item?id=37431474">73 comments</a>
+                57 Points |  <a href="https://news.ycombinator.com/item?id=37432948">30 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -258,14 +246,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TSMC warns AI chip crunch will last another 18 months (www.theregister.com)]]></title>
-            <link>https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/</link>
-            <guid>https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/</guid>
-            <pubDate>Fri, 08 Sep 2023 13:03:32 GMT</pubDate>
-            <description><![CDATA[TSMC warns AI chip crunch will last another 18 months]]></description>
-            <content:encoded><![CDATA[<p>TSMC warns that the shortage of advanced packaging capacity will continue to impact the availability of high-end GPUs until at least the end of 2024. The issue lies in the lack of capacity to stitch the silicon together, rather than a shortage of chips. TSMC can only meet about 80% of the demand for its chip on wafer on substrate (CoWoS) packaging technology, which is used in advanced chips for AI workloads. TSMC expects additional CoWoS capacity to come online within the next 18 months. This shortage affects not only Nvidia but also AMD's upcoming Instinct MI300-series accelerators.
+            <title><![CDATA[LibreWolf – Custom version of Firefox, focused on privacy, security and freedom (librewolf.net)]]></title>
+            <link>https://librewolf.net/</link>
+            <guid>https://librewolf.net/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:29:59 GMT</pubDate>
+            <description><![CDATA[LibreWolf: A Privacy-Focused Custom Version of Firefox]]></description>
+            <content:encoded><![CDATA[<p>LibreWolf is a custom version of Firefox that prioritizes privacy, security, and user freedom. It aims to enhance protection against tracking and fingerprinting techniques, remove telemetry and data collection, and disable anti-freedom features. The browser includes privacy-conscious search providers and a content blocker. It is regularly updated for the latest security and features, and is open source, allowing community participation. Contributions are welcome, and the project provides support for various operating systems. LibreWolf is not affiliated with Mozilla.
             </p><p>
-                57 Points |  <a href="https://news.ycombinator.com/item?id=37432948">30 comments</a>
+                120 Points |  <a href="https://news.ycombinator.com/item?id=37431474">83 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -276,18 +264,7 @@
             <description><![CDATA[Rate Limit Exceeded]]></description>
             <content:encoded><![CDATA[<p>The request has been rate-limited due to excessive requests made within a short period of time. If you believe this is an error, please contact support.
             </p><p>
-                32 Points |  <a href="https://news.ycombinator.com/item?id=37433036">14 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO (www.cio.com)]]></title>
-            <link>https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html</link>
-            <guid>https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html</guid>
-            <pubDate>Fri, 08 Sep 2023 11:57:59 GMT</pubDate>
-            <description><![CDATA[IBM to Increase Cloud Costs by Up to 26% in 2024]]></description>
-            <content:encoded><![CDATA[<p>IBM plans to increase its cloud services costs by up to 26% in 2024, affecting infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS) offerings. The price hike will be steeper for international customers compared to those in the US. PaaS services, including Kubernetes Services and RedHat OpenShift, will see a 3% price increase globally. For IaaS offerings, the price hikes will apply to bare metal servers, virtual server instances, file and block storage, and networking infrastructure. The price changes will vary across different data centers, with some experiencing increases of up to 7.5%. IBM's Cloud Object Storage service will also see price increases of 25% to 26% globally. This move follows similar price hikes by other technology vendors to combat inflation and rising costs.
-            </p><p>
-                59 Points |  <a href="https://news.ycombinator.com/item?id=37432399">43 comments</a>
+                42 Points |  <a href="https://news.ycombinator.com/item?id=37433036">24 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -302,25 +279,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[China Offers Lesson in How to Cut Plastic Waste from Food Delivery (www.wsj.com)]]></title>
-            <link>https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4</link>
-            <guid>https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4</guid>
-            <pubDate>Fri, 08 Sep 2023 13:36:06 GMT</pubDate>
-            <description><![CDATA[Delivery App Tweak Could Save 22 Billion Sets of Plastic Cutlery a Year, Study Shows]]></description>
-            <content:encoded><![CDATA[<p>A study in China suggests that making small changes to food delivery apps could significantly reduce the consumption of single-use plastic cutlery. With over half a billion people using food delivery apps in China, the amount of plastic waste generated is a major concern. The study proposes using gentle nudges, such as defaulting to no cutlery or offering incentives for customers to opt out of receiving plastic cutlery. These simple changes could potentially save 22 billion sets of plastic cutlery per year. This research highlights the potential for technology to play a role in reducing plastic waste and promoting sustainable practices.
+            <title><![CDATA[Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO (www.cio.com)]]></title>
+            <link>https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html</link>
+            <guid>https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html</guid>
+            <pubDate>Fri, 08 Sep 2023 11:57:59 GMT</pubDate>
+            <description><![CDATA[IBM to Increase Cloud Costs by Up to 26% in 2024]]></description>
+            <content:encoded><![CDATA[<p>IBM plans to increase its cloud services costs by up to 26% in 2024, affecting infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS) offerings. The price hike will be steeper for international customers compared to those in the US. PaaS services, including Kubernetes Services and RedHat OpenShift, will see a 3% price increase globally. For IaaS offerings, the price hikes will apply to bare metal servers, virtual server instances, file and block storage, and networking infrastructure. The price changes will vary across different data centers, with some experiencing increases of up to 7.5%. IBM's Cloud Object Storage service will also see price increases of 25% to 26% globally. This move follows similar price hikes by other technology vendors to combat inflation and rising costs.
             </p><p>
-                31 Points |  <a href="https://news.ycombinator.com/item?id=37433307">32 comments</a>
+                81 Points |  <a href="https://news.ycombinator.com/item?id=37432399">54 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Digging through the New York Times morgue (buttondown.email)]]></title>
-            <link>https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/</link>
-            <guid>https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/</guid>
-            <pubDate>Thu, 07 Sep 2023 21:53:14 GMT</pubDate>
-            <description><![CDATA[Uncovering Treasures: Exploring the Transition to Computer Phototypesetting at The New York Times]]></description>
-            <content:encoded><![CDATA[<p>Researcher uncovers treasures from the transition to computer phototypesetting in the 1970s while digging through the New York Times morgue. The morgue contains millions of newspaper clippings, photographs, and other materials organized by subject matter. The researcher explores the transition from hot metal composition to computer phototypesetting at The Times in the 1970s, delving into the reasons behind the newspaper's delayed adoption of the technology. The visit to the morgue reveals internal publications documenting the transition and photos of the typesetting room. The researcher shares their process of organizing and analyzing the materials for their book on the topic.
+            <title><![CDATA[How to build your own living structures (1974, 2011) (www.we-find-wildness.com)]]></title>
+            <link>https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/</link>
+            <guid>https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:53:51 GMT</pubDate>
+            <description><![CDATA[How to Build Your Own Living Structures: A Guide to Utopian Architecture]]></description>
+            <content:encoded><![CDATA[<p>How to Build Your Own Living Structures: A Guide to Utopian Architecture
             </p><p>
-                25 Points |  <a href="https://news.ycombinator.com/item?id=37426116">7 comments</a>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37433515">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -335,14 +312,36 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Napi: Build compiled Node.js add-ons in Rust (napi.rs)]]></title>
-            <link>https://napi.rs/</link>
-            <guid>https://napi.rs/</guid>
-            <pubDate>Fri, 08 Sep 2023 07:27:12 GMT</pubDate>
-            <description><![CDATA[NAPI-RS: A Rust framework for high-performance Node.js addons]]></description>
-            <content:encoded><![CDATA[<p>NAPI-RS is a framework for building pre-compiled Node.js addons in Rust. It brings native performance to Node.js and ensures memory safety through the Rust compiler. It allows for zero-copy data interaction between Rust and Node.js using Buffer and TypedArray. The framework also supports parallelism with minimal code. NAPI-RS is well-tested and compatible with both CommonJS and esm. It has a support matrix for different Node.js versions and platforms. The framework is sponsored by companies like Tailwind, prisma, CarGurus, and Parcel, and is used by various projects like AFFiNE, Polars, and Logseq.
+            <title><![CDATA[11,196 Years Jail Sentence for Faruk Özer, CEO of Turkish Crypto Exchange Thodex (www.coindesk.com)]]></title>
+            <link>https://www.coindesk.com/policy/2023/09/08/11196-years-in-prison-for-faruk-ozer-ceo-of-collapsed-turkish-crypto-exchange-thodex/</link>
+            <guid>https://www.coindesk.com/policy/2023/09/08/11196-years-in-prison-for-faruk-ozer-ceo-of-collapsed-turkish-crypto-exchange-thodex/</guid>
+            <pubDate>Fri, 08 Sep 2023 15:01:17 GMT</pubDate>
+            <description><![CDATA[Website Uses Cookies for Personalization and Analytics]]></description>
+            <content:encoded><![CDATA[<p>This website uses cookies to personalize content and ads, provide social media features, and analyze traffic. It also shares information with third-party partners. By continuing to use the website, you consent to the use of cookies.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37430595">0 comments</a>
+                8 Points |  <a href="https://news.ycombinator.com/item?id=37434401">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dating app Grindr loses nearly half its staff after trying to force RTO (www.cnn.com)]]></title>
+            <link>https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html</link>
+            <guid>https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html</guid>
+            <pubDate>Fri, 08 Sep 2023 14:54:37 GMT</pubDate>
+            <description><![CDATA[Grindr Loses Nearly Half of Staff After Enforcing Return-to-Office Policy]]></description>
+            <content:encoded><![CDATA[<p>LGBTQ dating app Grindr loses nearly half of its staff after implementing a return-to-office policy. The policy required employees to either relocate to designated 'hub' cities or leave the company. Around 80 out of 178 workers were forced to leave as a result. The return-to-work policy is seen as retaliatory by the Communications Workers of America (CWA) in response to a union drive at the company. The CWA has filed an unfair labor practice charge against Grindr. This situation reflects the ongoing tensions between employers and workers regarding return-to-office policies in the post-pandemic era.
+            </p><p>
+                87 Points |  <a href="https://news.ycombinator.com/item?id=37434293">95 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Digging through the New York Times morgue (buttondown.email)]]></title>
+            <link>https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/</link>
+            <guid>https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/</guid>
+            <pubDate>Thu, 07 Sep 2023 21:53:14 GMT</pubDate>
+            <description><![CDATA[Uncovering Treasures: Exploring the Transition to Computer Phototypesetting at The New York Times]]></description>
+            <content:encoded><![CDATA[<p>Researcher uncovers treasures from the transition to computer phototypesetting in the 1970s while digging through the New York Times morgue. The morgue contains millions of newspaper clippings, photographs, and other materials organized by subject matter. The researcher explores the transition from hot metal composition to computer phototypesetting at The Times in the 1970s, delving into the reasons behind the newspaper's delayed adoption of the technology. The visit to the morgue reveals internal publications documenting the transition and photos of the typesetting room. The researcher shares their process of organizing and analyzing the materials for their book on the topic.
+            </p><p>
+                25 Points |  <a href="https://news.ycombinator.com/item?id=37426116">7 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
