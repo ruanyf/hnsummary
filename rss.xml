@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 11:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 11:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -27,17 +27,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[China's ancient water pipe networks show no evidence of a centralized authority (phys.org)]]></title>
-            <link>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</link>
-            <guid>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</guid>
-            <pubDate>Thu, 07 Sep 2023 20:25:09 GMT</pubDate>
-            <description><![CDATA[Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority]]></description>
-            <content:encoded><![CDATA[<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.
-            </p><p>
-                87 Points |  <a href="https://news.ycombinator.com/item?id=37425052">35 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[NYPD spent millions to contract with firm banned by Meta for fake profiles (www.theguardian.com)]]></title>
             <link>https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract</link>
             <guid>https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract</guid>
@@ -46,6 +35,28 @@
             <content:encoded><![CDATA[<p>New York law enforcement agencies, including the NYPD, have spent millions of dollars to track and analyze social media posts, according to documents obtained by the Surveillance Technology Oversight Project. The NYPD entered a contract with Voyager Labs, a surveillance company accused of using fake Facebook accounts to collect data. The company claims its products can use artificial intelligence to analyze online human behavior and detect and predict fraud and crimes. Another contract was revealed between the Queens district attorney and Israeli firm Cobwebs Technologies, which offers social network mapping products and tools to track location information through phones. The use of social media analytics tools by law enforcement raises ethical and legal concerns regarding privacy violations and unreasonable searches and seizures.
             </p><p>
                 5 Points |  <a href="https://news.ycombinator.com/item?id=37431962">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[China's ancient water pipe networks show no evidence of a centralized authority (phys.org)]]></title>
+            <link>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</link>
+            <guid>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</guid>
+            <pubDate>Thu, 07 Sep 2023 20:25:09 GMT</pubDate>
+            <description><![CDATA[Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority]]></description>
+            <content:encoded><![CDATA[<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.
+            </p><p>
+                101 Points |  <a href="https://news.ycombinator.com/item?id=37425052">46 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Touch Pianist (touchpianist.com)]]></title>
+            <link>http://touchpianist.com/</link>
+            <guid>http://touchpianist.com/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:56:08 GMT</pubDate>
+            <description><![CDATA[Menu of Pieces on a Mobile App]]></description>
+            <content:encoded><![CDATA[<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37431644">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -60,14 +71,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[My Node.js is a bit Rusty (gal.hagever.com)]]></title>
-            <link>https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty</link>
-            <guid>https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty</guid>
-            <pubDate>Thu, 07 Sep 2023 07:34:09 GMT</pubDate>
-            <description><![CDATA[Boosting Performance: Replacing Node.js with Rust for CDN Stats at Wix]]></description>
-            <content:encoded><![CDATA[<p>Replacing an internal Node.js module with a native Rust module resulted in a 25x performance boost for a CDN Stats platform at Wix. The platform provides real-time data on the usage of compiled assets by customers, helping front-end developers optimize bundles. The process of parsing and aggregating data from tab-separated values files was initially slow and resource-intensive in Node.js. Attempts to optimize the code using the Wix Serverless framework and the Wix Node.js platform were unsuccessful. However, embedding Rust in Node.js using the NAPI library allowed for more efficient memory management and significantly improved performance. The use of Rust's memory management capabilities and type-driven development workflow led to a more scalable and optimized solution.
+            <title><![CDATA[The thinking path (www.robinsloan.com)]]></title>
+            <link>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</link>
+            <guid>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</guid>
+            <pubDate>Thu, 07 Sep 2023 21:52:02 GMT</pubDate>
+            <description><![CDATA[Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness]]></description>
+            <content:encoded><![CDATA[<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.
             </p><p>
-                116 Points |  <a href="https://news.ycombinator.com/item?id=37415812">80 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37426107">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -93,17 +104,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Touch Pianist (touchpianist.com)]]></title>
-            <link>http://touchpianist.com/</link>
-            <guid>http://touchpianist.com/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:56:08 GMT</pubDate>
-            <description><![CDATA[Menu of Pieces on a Mobile App]]></description>
-            <content:encoded><![CDATA[<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37431644">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[I rode with an ice road trucker to the Arctic Circle (www.freightwaves.com)]]></title>
             <link>https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like</link>
             <guid>https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like</guid>
@@ -115,6 +115,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[My Node.js is a bit Rusty (gal.hagever.com)]]></title>
+            <link>https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty</link>
+            <guid>https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty</guid>
+            <pubDate>Thu, 07 Sep 2023 07:34:09 GMT</pubDate>
+            <description><![CDATA[Boosting Performance: Replacing Node.js with Rust for CDN Stats at Wix]]></description>
+            <content:encoded><![CDATA[<p>Replacing an internal Node.js module with a native Rust module resulted in a 25x performance boost for a CDN Stats platform at Wix. The platform provides real-time data on the usage of compiled assets by customers, helping front-end developers optimize bundles. The process of parsing and aggregating data from tab-separated values files was initially slow and resource-intensive in Node.js. Attempts to optimize the code using the Wix Serverless framework and the Wix Node.js platform were unsuccessful. However, embedding Rust in Node.js using the NAPI library allowed for more efficient memory management and significantly improved performance. The use of Rust's memory management capabilities and type-driven development workflow led to a more scalable and optimized solution.
+            </p><p>
+                125 Points |  <a href="https://news.ycombinator.com/item?id=37415812">92 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Understanding Request Latency with Profiling (richardstartin.github.io)]]></title>
             <link>https://richardstartin.github.io/posts/wallclock-profiler</link>
             <guid>https://richardstartin.github.io/posts/wallclock-profiler</guid>
@@ -123,17 +134,6 @@
             <content:encoded><![CDATA[<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.
             </p><p>
                 3 Points |  <a href="https://news.ycombinator.com/item?id=37415499">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LLMs, RAG, and the missing storage layer for AI (blog.lancedb.com)]]></title>
-            <link>https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984</link>
-            <guid>https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984</guid>
-            <pubDate>Thu, 07 Sep 2023 15:41:38 GMT</pubDate>
-            <description><![CDATA[The Missing Storage Layer for AI: Introducing LanceDB for Simplified Retrieval and Management of Embeddings]]></description>
-            <content:encoded><![CDATA[<p>The missing storage layer for AI, specifically Language Model Machines (LLMs), is identified as a crucial element to unlock greater AI capabilities. LLMs have the potential to revolutionize various industries and fields of research, but they suffer from hallucination and lack interpretability. The use of Retrieval Augmented Generation (RAG) systems, which combine LLMs with a retriever to generate responses, offers a solution. RAG systems reduce reliance on LLMs and provide finer control, modularity, and cheaper updates. The debate between fine-tuning models and using general models for RAG is deemed pointless, as both approaches have their advantages. The need for an AI-native, multi-modal, and embedded vector database is highlighted, with LanceDB being introduced as a solution that simplifies retrieval, filtering, and management of embeddings.
-            </p><p>
-                116 Points |  <a href="https://news.ycombinator.com/item?id=37420628">46 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -159,14 +159,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo (en.wikipedia.org)]]></title>
-            <link>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</link>
-            <guid>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</guid>
-            <pubDate>Thu, 07 Sep 2023 21:26:33 GMT</pubDate>
-            <description><![CDATA[The Linguistic Complexity of 'Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo']]></description>
-            <content:encoded><![CDATA[<p>The sentence 'Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo' is a grammatically correct example of how homonyms and homophones can create complex linguistic constructs. It uses three meanings of the word buffalo: as a noun referring to a place named Buffalo, as a verb meaning to bully or baffle, and as a noun referring to the animal. The sentence claims that bison from Buffalo who are bullied by other bison in their community also bully other bison. The sentence is syntactically ambiguous and can be parsed in different ways. The idea of constructing a sentence using repetitions of 'buffalo' was independently discovered multiple times in the 20th century.
+            <title><![CDATA[Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)]]></title>
+            <link>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</link>
+            <guid>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</guid>
+            <pubDate>Fri, 08 Sep 2023 10:08:33 GMT</pubDate>
+            <description><![CDATA[Linux Support Improving for Arm-based Thinkpad X13S]]></description>
+            <content:encoded><![CDATA[<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.
             </p><p>
-                105 Points |  <a href="https://news.ycombinator.com/item?id=37425842">55 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37431710">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LLMs, RAG, and the missing storage layer for AI (blog.lancedb.com)]]></title>
+            <link>https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984</link>
+            <guid>https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984</guid>
+            <pubDate>Thu, 07 Sep 2023 15:41:38 GMT</pubDate>
+            <description><![CDATA[The Missing Storage Layer for AI: Introducing LanceDB for Simplified Retrieval and Management of Embeddings]]></description>
+            <content:encoded><![CDATA[<p>The missing storage layer for AI, specifically Language Model Machines (LLMs), is identified as a crucial element to unlock greater AI capabilities. LLMs have the potential to revolutionize various industries and fields of research, but they suffer from hallucination and lack interpretability. The use of Retrieval Augmented Generation (RAG) systems, which combine LLMs with a retriever to generate responses, offers a solution. RAG systems reduce reliance on LLMs and provide finer control, modularity, and cheaper updates. The debate between fine-tuning models and using general models for RAG is deemed pointless, as both approaches have their advantages. The need for an AI-native, multi-modal, and embedded vector database is highlighted, with LanceDB being introduced as a solution that simplifies retrieval, filtering, and management of embeddings.
+            </p><p>
+                116 Points |  <a href="https://news.ycombinator.com/item?id=37420628">46 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -178,17 +189,6 @@
             <content:encoded><![CDATA[<p>The content is a code repository for a project called 'bert-for-laptops'. The latest commit was made by a user named 'samvher'. The file being worked on is 'BERT_for_laptops.ipynb'. The file contains 2163 lines of code and is 157 KB in size. The content seems to be related to using BERT (Bidirectional Encoder Representations from Transformers) for laptops, although the details of the project are not provided in the given information.
             </p><p>
                 159 Points |  <a href="https://news.ycombinator.com/item?id=37425130">33 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)]]></title>
-            <link>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</link>
-            <guid>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</guid>
-            <pubDate>Fri, 08 Sep 2023 10:08:33 GMT</pubDate>
-            <description><![CDATA[Linux Support Improving for Arm-based Thinkpad X13S]]></description>
-            <content:encoded><![CDATA[<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37431710">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -214,6 +214,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo (en.wikipedia.org)]]></title>
+            <link>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</link>
+            <guid>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</guid>
+            <pubDate>Thu, 07 Sep 2023 21:26:33 GMT</pubDate>
+            <description><![CDATA[The Linguistic Complexity of 'Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo']]></description>
+            <content:encoded><![CDATA[<p>The sentence 'Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo' is a grammatically correct example of how homonyms and homophones can create complex linguistic constructs. It uses three meanings of the word buffalo: as a noun referring to a place named Buffalo, as a verb meaning to bully or baffle, and as a noun referring to the animal. The sentence claims that bison from Buffalo who are bullied by other bison in their community also bully other bison. The sentence is syntactically ambiguous and can be parsed in different ways. The idea of constructing a sentence using repetitions of 'buffalo' was independently discovered multiple times in the 20th century.
+            </p><p>
+                130 Points |  <a href="https://news.ycombinator.com/item?id=37425842">65 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[What's new in Emacs 29.1 (www.masteringemacs.org)]]></title>
             <link>https://www.masteringemacs.org/article/whats-new-in-emacs-29-1</link>
             <guid>https://www.masteringemacs.org/article/whats-new-in-emacs-29-1</guid>
@@ -233,6 +244,17 @@
             <content:encoded><![CDATA[<p>Urza's AI is a website that uses AI to generate Magic the Gathering cards. The creators used a combination of language AI and text-to-image AI to generate the cards. They used a large language model to generate the text of the cards, and a neural network model to generate the images. The result was impressive, with realistic and playable cards being generated. The website received over 38,000 visitors within the first four days of launch. The creators believe that APIs like this are the future of AI development, as they provide access to powerful models without the need for expertise or infrastructure.
             </p><p>
                 78 Points |  <a href="https://news.ycombinator.com/item?id=37427854">54 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Animations From First Principles (in 5 minutes) (mathspp.com)]]></title>
+            <link>https://mathspp.com/blog/animations-from-first-principles-in-5-minutes</link>
+            <guid>https://mathspp.com/blog/animations-from-first-principles-in-5-minutes</guid>
+            <pubDate>Thu, 07 Sep 2023 10:38:07 GMT</pubDate>
+            <description><![CDATA[Creating Animations from Scratch with Python and Pygame]]></description>
+            <content:encoded><![CDATA[<p>This blog post provides a step-by-step guide on creating animations from scratch using Python and pygame. It starts by explaining how to create a canvas and draw a circle using a parametrization function. The post then demonstrates how to animate the drawing of the circle by gradually adding points to the screen. It also shows how to animate other shapes, such as a figure eight. The post concludes by introducing the concept of morphing between two figures and provides a simple implementation for achieving this effect.
+            </p><p>
+                30 Points |  <a href="https://news.ycombinator.com/item?id=37417027">3 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -258,14 +280,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Animations From First Principles (in 5 minutes) (mathspp.com)]]></title>
-            <link>https://mathspp.com/blog/animations-from-first-principles-in-5-minutes</link>
-            <guid>https://mathspp.com/blog/animations-from-first-principles-in-5-minutes</guid>
-            <pubDate>Thu, 07 Sep 2023 10:38:07 GMT</pubDate>
-            <description><![CDATA[Creating Animations from Scratch with Python and Pygame]]></description>
-            <content:encoded><![CDATA[<p>This blog post provides a step-by-step guide on creating animations from scratch using Python and pygame. It starts by explaining how to create a canvas and draw a circle using a parametrization function. The post then demonstrates how to animate the drawing of the circle by gradually adding points to the screen. It also shows how to animate other shapes, such as a figure eight. The post concludes by introducing the concept of morphing between two figures and provides a simple implementation for achieving this effect.
+            <title><![CDATA[Napi: Build compiled Node.js add-ons in Rust (napi.rs)]]></title>
+            <link>https://napi.rs/</link>
+            <guid>https://napi.rs/</guid>
+            <pubDate>Fri, 08 Sep 2023 07:27:12 GMT</pubDate>
+            <description><![CDATA[NAPI-RS: A Rust framework for high-performance Node.js addons]]></description>
+            <content:encoded><![CDATA[<p>NAPI-RS is a framework for building pre-compiled Node.js addons in Rust. It brings native performance to Node.js and ensures memory safety through the Rust compiler. It allows for zero-copy data interaction between Rust and Node.js using Buffer and TypedArray. The framework also supports parallelism with minimal code. NAPI-RS is well-tested and compatible with both CommonJS and esm. It has a support matrix for different Node.js versions and platforms. The framework is sponsored by companies like Tailwind, prisma, CarGurus, and Parcel, and is used by various projects like AFFiNE, Polars, and Logseq.
             </p><p>
-                30 Points |  <a href="https://news.ycombinator.com/item?id=37417027">3 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37430595">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -280,17 +302,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Why isn't chess popular in Japan? (lichess.org)]]></title>
-            <link>https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU</link>
-            <guid>https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU</guid>
-            <pubDate>Fri, 08 Sep 2023 02:16:48 GMT</pubDate>
-            <description><![CDATA[Why Chess Isn't Popular in Japan: The Dominance of Shōgi and Go]]></description>
-            <content:encoded><![CDATA[<p>Chess is not as popular in Japan compared to Shōgi (Japanese chess) and Go. Shōgi has been a part of Japanese culture for centuries and has a large base of enthusiasts. Go, on the other hand, is believed to have been invented over 2,500 years ago in China and has a higher game complexity. The lack of financial support for chess in Japan and the familiarity of Shōgi to the people through media are some reasons why chess hasn't become popular. However, the Japan Chess Federation has been actively promoting chess in the country, leading to an increase in participation and growth of the game. While Japan doesn't have any grandmasters yet, there are high hopes for the future of chess in the country.
-            </p><p>
-                87 Points |  <a href="https://news.ycombinator.com/item?id=37428447">64 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Deciphering Mary Stuart’s lost letters from 1578-1584 (www.tandfonline.com)]]></title>
             <link>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</link>
             <guid>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</guid>
@@ -299,6 +310,17 @@
             <content:encoded><![CDATA[<p>The website www.tandfonline.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about the connection's safety. The website is utilizing Cloudflare for performance and security purposes. The Ray ID provided is 80346a40dbb01690, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.
             </p><p>
                 15 Points |  <a href="https://news.ycombinator.com/item?id=37415356">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why isn't chess popular in Japan? (lichess.org)]]></title>
+            <link>https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU</link>
+            <guid>https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU</guid>
+            <pubDate>Fri, 08 Sep 2023 02:16:48 GMT</pubDate>
+            <description><![CDATA[Why Chess Isn't Popular in Japan: The Dominance of Shōgi and Go]]></description>
+            <content:encoded><![CDATA[<p>Chess is not as popular in Japan compared to Shōgi (Japanese chess) and Go. Shōgi has been a part of Japanese culture for centuries and has a large base of enthusiasts. Go, on the other hand, is believed to have been invented over 2,500 years ago in China and has a higher game complexity. The lack of financial support for chess in Japan and the familiarity of Shōgi to the people through media are some reasons why chess hasn't become popular. However, the Japan Chess Federation has been actively promoting chess in the country, leading to an increase in participation and growth of the game. While Japan doesn't have any grandmasters yet, there are high hopes for the future of chess in the country.
+            </p><p>
+                105 Points |  <a href="https://news.ycombinator.com/item?id=37428447">74 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -319,29 +341,7 @@
             <pubDate>Thu, 07 Sep 2023 18:58:15 GMT</pubDate>
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                31 Points |  <a href="https://news.ycombinator.com/item?id=37423893">5 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Discovery shines light on Church's protection of Jews during Nazi persecution (www.vaticannews.va)]]></title>
-            <link>https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html</link>
-            <guid>https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html</guid>
-            <pubDate>Fri, 08 Sep 2023 08:47:44 GMT</pubDate>
-            <description><![CDATA[Discovery at Pontifical Biblical Institute Reveals Catholic Institutions Sheltered Jews During Nazi Persecutions]]></description>
-            <content:encoded><![CDATA[<p>Discovery of documents at the Pontifical Biblical Institute reveals how Catholic institutions in Rome sheltered Jewish individuals during the Nazi persecutions of the 1940s. The documents, compiled by Italian Jesuit Fr. Gozzolino Birolo, list the names of over 4,300 individuals, with 3,600 of them identified by name. The discovery sheds light on the role played by Catholic institutions in safeguarding Jewish lives during World War II. The documents were unveiled at a workshop in Rome, offering a glimpse into the untold stories hidden within its pages. The research was a collaborative effort involving prominent historians and was led by Dominik Markl and Canadian Jesuit Michael Kolarcik.
-            </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37431159">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Are any words the same in all languages? (blog.duolingo.com)]]></title>
-            <link>https://blog.duolingo.com/words-shared-in-all-languages/</link>
-            <guid>https://blog.duolingo.com/words-shared-in-all-languages/</guid>
-            <pubDate>Thu, 07 Sep 2023 14:58:59 GMT</pubDate>
-            <description><![CDATA[The Shared Words in Almost Every Language: Coffee and Chocolate]]></description>
-            <content:encoded><![CDATA[<p>There are a few words that are shared across many languages, including words for tea, pineapple, and orange. However, the two words that are the same in almost every language are 'coffee' and 'chocolate'. These words have spread across the globe and have been adopted by different languages with slight variations in pronunciation and spelling. The word for coffee originated from the Arabic word 'qahwah' and has been borrowed into many languages, while the word for chocolate is based on a Nahuatl word that was adopted by Spanish-speaking communities and then spread worldwide. Knowing these two words can make you feel connected to speakers of almost every language.
-            </p><p>
-                198 Points |  <a href="https://news.ycombinator.com/item?id=37419864">402 comments</a>
+                32 Points |  <a href="https://news.ycombinator.com/item?id=37423893">6 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
