@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 16:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 17:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -16,17 +16,6 @@
         <category>Frontpage</category>
         <atom:link href="https://ruanyf.github.io/hnsummary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Async Rust Is A Bad Language (bitbashing.io)]]></title>
-            <link>https://bitbashing.io/async-rust.html</link>
-            <guid>https://bitbashing.io/async-rust.html</guid>
-            <pubDate>Fri, 08 Sep 2023 16:10:55 GMT</pubDate>
-            <description><![CDATA[Challenges and Limitations of Async Rust for Concurrency]]></description>
-            <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.
-            </p><p>
-                17 Points |  <a href="https://news.ycombinator.com/item?id=37435515">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Procreate Dreams (procreate.com)]]></title>
             <link>https://procreate.com/dreams</link>
             <guid>https://procreate.com/dreams</guid>
@@ -34,7 +23,18 @@
             <description><![CDATA[Introducing Procreate Dreams: A Powerful Animation App for Creating Hand-Drawn Animations and Motion Graphics]]></description>
             <content:encoded><![CDATA[<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.
             </p><p>
-                56 Points |  <a href="https://news.ycombinator.com/item?id=37434918">18 comments</a>
+                91 Points |  <a href="https://news.ycombinator.com/item?id=37434918">29 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)]]></title>
+            <link>https://bitbashing.io/async-rust.html</link>
+            <guid>https://bitbashing.io/async-rust.html</guid>
+            <pubDate>Fri, 08 Sep 2023 16:10:55 GMT</pubDate>
+            <description><![CDATA[Challenges and Limitations of Async Rust for Concurrency]]></description>
+            <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.
+            </p><p>
+                144 Points |  <a href="https://news.ycombinator.com/item?id=37435515">79 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -45,7 +45,18 @@
             <description><![CDATA[A Collection of Diverse Emojis in Slackmoji AI Edition]]></description>
             <content:encoded><![CDATA[<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.
             </p><p>
-                145 Points |  <a href="https://news.ycombinator.com/item?id=37433523">55 comments</a>
+                164 Points |  <a href="https://news.ycombinator.com/item?id=37433523">66 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks (heatmap.news)]]></title>
+            <link>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</link>
+            <guid>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</guid>
+            <pubDate>Fri, 08 Sep 2023 16:06:37 GMT</pubDate>
+            <description><![CDATA[Microsoft Makes Major Investment in Carbon-Absorbing Rocks]]></description>
+            <content:encoded><![CDATA[<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.
+            </p><p>
+                32 Points |  <a href="https://news.ycombinator.com/item?id=37435454">12 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -56,7 +67,18 @@
             <description><![CDATA[Aardvark'd: The Fog Creek Documentary, 18 Years Later - A Look into the Early Days of Tech Startup Founders]]></description>
             <content:encoded><![CDATA[<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.
             </p><p>
-                98 Points |  <a href="https://news.ycombinator.com/item?id=37433186">22 comments</a>
+                123 Points |  <a href="https://news.ycombinator.com/item?id=37433186">32 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)]]></title>
+            <link>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</link>
+            <guid>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</guid>
+            <pubDate>Fri, 08 Sep 2023 17:01:02 GMT</pubDate>
+            <description><![CDATA[Artie Seeks Founding Engineer for Real-Time Data Streaming Solution]]></description>
+            <content:encoded><![CDATA[<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.
+            </p><p>
+                1 Points |  <a href="https://news.ycombinator.com/item?id=37436236">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -67,18 +89,7 @@
             <description><![CDATA[Menu of Pieces on a Mobile App]]></description>
             <content:encoded><![CDATA[<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.
             </p><p>
-                365 Points |  <a href="https://news.ycombinator.com/item?id=37431644">118 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Apple vs. Meta: The Illusion of Privacy (growth.design)]]></title>
-            <link>https://growth.design/case-studies/apple-privacy-policy</link>
-            <guid>https://growth.design/case-studies/apple-privacy-policy</guid>
-            <pubDate>Fri, 08 Sep 2023 13:52:36 GMT</pubDate>
-            <description><![CDATA[N/A]]></description>
-            <content:encoded><![CDATA[<p>N/A
-            </p><p>
-                200 Points |  <a href="https://news.ycombinator.com/item?id=37433495">144 comments</a>
+                394 Points |  <a href="https://news.ycombinator.com/item?id=37431644">133 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -89,7 +100,18 @@
             <description><![CDATA[Bun v1.0 Release: Bug Fixes, Improvements, and New Features]]></description>
             <content:encoded><![CDATA[<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.
             </p><p>
-                168 Points |  <a href="https://news.ycombinator.com/item?id=37434117">61 comments</a>
+                230 Points |  <a href="https://news.ycombinator.com/item?id=37434117">84 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative (www.ecu.edu.au)]]></title>
+            <link>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</link>
+            <guid>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</guid>
+            <pubDate>Fri, 08 Sep 2023 15:49:56 GMT</pubDate>
+            <description><![CDATA[Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries]]></description>
+            <content:encoded><![CDATA[<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.
+            </p><p>
+                17 Points |  <a href="https://news.ycombinator.com/item?id=37435215">12 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -104,25 +126,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks (heatmap.news)]]></title>
-            <link>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</link>
-            <guid>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</guid>
-            <pubDate>Fri, 08 Sep 2023 16:06:37 GMT</pubDate>
-            <description><![CDATA[Microsoft Makes Major Investment in Carbon-Absorbing Rocks]]></description>
-            <content:encoded><![CDATA[<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.
+            <title><![CDATA[Apple vs. Meta: The Illusion of Privacy (growth.design)]]></title>
+            <link>https://growth.design/case-studies/apple-privacy-policy</link>
+            <guid>https://growth.design/case-studies/apple-privacy-policy</guid>
+            <pubDate>Fri, 08 Sep 2023 13:52:36 GMT</pubDate>
+            <description><![CDATA[N/A]]></description>
+            <content:encoded><![CDATA[<p>N/A
             </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37435454">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative (www.ecu.edu.au)]]></title>
-            <link>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</link>
-            <guid>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</guid>
-            <pubDate>Fri, 08 Sep 2023 15:49:56 GMT</pubDate>
-            <description><![CDATA[Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries]]></description>
-            <content:encoded><![CDATA[<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37435215">1 comments</a>
+                232 Points |  <a href="https://news.ycombinator.com/item?id=37433495">182 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -170,17 +181,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote) (www.ycombinator.com)]]></title>
-            <link>https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer</link>
-            <guid>https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer</guid>
-            <pubDate>Fri, 08 Sep 2023 12:00:41 GMT</pubDate>
-            <description><![CDATA[PolicyFly Seeks Senior Solutions Engineer to Modernize Specialty Insurance]]></description>
-            <content:encoded><![CDATA[<p>PolicyFly is seeking a Senior Solutions Engineer to lead the post-sales onboarding and implementation process for clients. The role involves developing a repeatable process for client onboarding, mapping client requirements, building insurance applications, and providing technical feedback to improve the onboarding experience. The ideal candidate should have experience in property and casualty insurance, scripting data processing pipelines, writing unit tests, and building enterprise applications. The company is focused on modernizing specialty insurance by providing immediate value to insurers and automating back-office operations. PolicyFly is a distributed remote team with a long-term vision for building network effects in the insurance industry.
-            </p><p>
-                1 Points |  <a href="https://news.ycombinator.com/item?id=37432420">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[The thinking path (www.robinsloan.com)]]></title>
             <link>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</link>
             <guid>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</guid>
@@ -203,68 +203,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A Study of Malicious Code in PyPI Ecosystem (about.honywen.com)]]></title>
-            <link>https://about.honywen.com/publication/2023ase/#</link>
-            <guid>https://about.honywen.com/publication/2023ase/#</guid>
-            <pubDate>Fri, 08 Sep 2023 14:12:27 GMT</pubDate>
-            <description><![CDATA[Understanding the State of Malicious Code in the PyPI Ecosystem]]></description>
-            <content:encoded><![CDATA[<p>This empirical study examines the characteristics and current state of malicious code in the PyPI ecosystem. The researchers collected a dataset of 4,669 malicious package files and classified them into five categories based on their behavior. The study found that over 50% of the malicious code exhibited multiple malicious behaviors, with information stealing and command execution being common. The analysis revealed that 74.81% of the malicious packages successfully entered end-user projects through source code installation, posing significant security risks. Furthermore, many reported malicious packages persisted in PyPI mirror servers globally, even after being discovered. The study provides insights into the lifecycle of malicious code in the PyPI ecosystem and suggests mitigations to enhance the security of the Python open-source ecosystem.
+            <title><![CDATA[Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (www.nature.com)]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06502-w</link>
+            <guid>https://www.nature.com/articles/s41586-023-06502-w</guid>
+            <pubDate>Wed, 06 Sep 2023 23:33:09 GMT</pubDate>
+            <description><![CDATA[Specialized Astrocytes Mediate Glutamatergic Gliotransmission in the CNS]]></description>
+            <content:encoded><![CDATA[<p>Specialized astrocytes in the central nervous system mediate glutamatergic gliotransmission, playing a role in brain circuitry assembly and function. Through the use of molecular, bioinformatic, and imaging approaches, researchers identified a subpopulation of astrocytes in the hippocampus that selectively expressed synaptic-like glutamate-release machinery. These astrocytes were found to respond to astrocyte-selective stimulations with subsecond glutamate release events at specific locations. Deletion of the vesicular glutamate transporter 1 (VGLUT1) in these astrocytes suppressed the glutamate release. The study provides insights into the complex roles of astrocytes in the central nervous system and identifies a potential therapeutic target.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37433743">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How Query Engines Work (howqueryengineswork.com)]]></title>
-            <link>https://howqueryengineswork.com/</link>
-            <guid>https://howqueryengineswork.com/</guid>
-            <pubDate>Thu, 07 Sep 2023 06:38:55 GMT</pubDate>
-            <description><![CDATA[How Query Engines Work: A Comprehensive Guide]]></description>
-            <content:encoded><![CDATA[<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.
-            </p><p>
-                207 Points |  <a href="https://news.ycombinator.com/item?id=37415494">32 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Scent of the afterlife? Scientists recreate recipe for Egyptian mummy balm (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37412649</link>
-            <guid>https://news.ycombinator.com/item?id=37412649</guid>
-            <pubDate>Wed, 06 Sep 2023 23:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                11 Points |  <a href="https://news.ycombinator.com/item?id=37412649">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How to build your own living structures (1974, 2011) (www.we-find-wildness.com)]]></title>
-            <link>https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/</link>
-            <guid>https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/</guid>
-            <pubDate>Fri, 08 Sep 2023 13:53:51 GMT</pubDate>
-            <description><![CDATA[How to Build Your Own Living Structures: A Guide to Utopian Architecture]]></description>
-            <content:encoded><![CDATA[<p>How to Build Your Own Living Structures: A Guide to Utopian Architecture
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37433515">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LibreWolf – Custom version of Firefox, focused on privacy, security and freedom (librewolf.net)]]></title>
-            <link>https://librewolf.net/</link>
-            <guid>https://librewolf.net/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:29:59 GMT</pubDate>
-            <description><![CDATA[LibreWolf: A Privacy-Focused Custom Version of Firefox]]></description>
-            <content:encoded><![CDATA[<p>LibreWolf is a custom version of Firefox that prioritizes privacy, security, and user freedom. It aims to enhance protection against tracking and fingerprinting techniques, remove telemetry and data collection, and disable anti-freedom features. The browser includes privacy-conscious search providers and a content blocker. It is regularly updated for the latest security and features, and is open source, allowing community participation. Contributions are welcome, and the project provides support for various operating systems. LibreWolf is not affiliated with Mozilla.
-            </p><p>
-                127 Points |  <a href="https://news.ycombinator.com/item?id=37431474">93 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NSO group iPhone zero-click, zero-day exploit captured in the wild (citizenlab.ca)]]></title>
-            <link>https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/</link>
-            <guid>https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/</guid>
-            <pubDate>Thu, 07 Sep 2023 20:21:01 GMT</pubDate>
-            <description><![CDATA[Apple Releases Update to Address Zero-Click Vulnerability Exploited by NSO Group's Pegasus Spyware]]></description>
-            <content:encoded><![CDATA[<p>Apple issues update to fix zero-click vulnerability exploited by NSO Group's Pegasus spyware. The exploit chain, known as BLASTPASS, targeted iPhones running the latest iOS version without user interaction. Citizen Lab discovered and disclosed the vulnerability to Apple, who issued two CVEs related to the exploit. Users are urged to update their devices immediately and consider enabling Lockdown Mode for added protection. The incident highlights the ongoing targeting of civil society organizations by sophisticated cyber threats. Apple's response and collaboration with Citizen Lab are commended.
-            </p><p>
-                1203 Points |  <a href="https://news.ycombinator.com/item?id=37425007">652 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37412834">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -279,6 +225,50 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[How Query Engines Work (howqueryengineswork.com)]]></title>
+            <link>https://howqueryengineswork.com/</link>
+            <guid>https://howqueryengineswork.com/</guid>
+            <pubDate>Thu, 07 Sep 2023 06:38:55 GMT</pubDate>
+            <description><![CDATA[How Query Engines Work: A Comprehensive Guide]]></description>
+            <content:encoded><![CDATA[<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.
+            </p><p>
+                207 Points |  <a href="https://news.ycombinator.com/item?id=37415494">32 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A Study of Malicious Code in PyPI Ecosystem (about.honywen.com)]]></title>
+            <link>https://about.honywen.com/publication/2023ase/#</link>
+            <guid>https://about.honywen.com/publication/2023ase/#</guid>
+            <pubDate>Fri, 08 Sep 2023 14:12:27 GMT</pubDate>
+            <description><![CDATA[Understanding the State of Malicious Code in the PyPI Ecosystem]]></description>
+            <content:encoded><![CDATA[<p>This empirical study examines the characteristics and current state of malicious code in the PyPI ecosystem. The researchers collected a dataset of 4,669 malicious package files and classified them into five categories based on their behavior. The study found that over 50% of the malicious code exhibited multiple malicious behaviors, with information stealing and command execution being common. The analysis revealed that 74.81% of the malicious packages successfully entered end-user projects through source code installation, posing significant security risks. Furthermore, many reported malicious packages persisted in PyPI mirror servers globally, even after being discovered. The study provides insights into the lifecycle of malicious code in the PyPI ecosystem and suggests mitigations to enhance the security of the Python open-source ecosystem.
+            </p><p>
+                19 Points |  <a href="https://news.ycombinator.com/item?id=37433743">11 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX can't launch its giant rocket again until fixes are made, FAA says (apnews.com)]]></title>
+            <link>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</link>
+            <guid>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</guid>
+            <pubDate>Fri, 08 Sep 2023 16:19:12 GMT</pubDate>
+            <description><![CDATA[FAA Requires SpaceX to Address Issues Before Launching Starship Mega Rocket Again]]></description>
+            <content:encoded><![CDATA[<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.
+            </p><p>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37435656">4 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NSO group iPhone zero-click, zero-day exploit captured in the wild (citizenlab.ca)]]></title>
+            <link>https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/</link>
+            <guid>https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/</guid>
+            <pubDate>Thu, 07 Sep 2023 20:21:01 GMT</pubDate>
+            <description><![CDATA[Apple Releases Update to Address Zero-Click Vulnerability Exploited by NSO Group's Pegasus Spyware]]></description>
+            <content:encoded><![CDATA[<p>Apple issues update to fix zero-click vulnerability exploited by NSO Group's Pegasus spyware. The exploit chain, known as BLASTPASS, targeted iPhones running the latest iOS version without user interaction. Citizen Lab discovered and disclosed the vulnerability to Apple, who issued two CVEs related to the exploit. Users are urged to update their devices immediately and consider enabling Lockdown Mode for added protection. The incident highlights the ongoing targeting of civil society organizations by sophisticated cyber threats. Apple's response and collaboration with Citizen Lab are commended.
+            </p><p>
+                1316 Points |  <a href="https://news.ycombinator.com/item?id=37425007">725 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[TSMC warns AI chip crunch will last another 18 months (www.theregister.com)]]></title>
             <link>https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/</link>
             <guid>https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/</guid>
@@ -290,6 +280,28 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Housewives Are One Surprising Solution to “Millennial Burnout” (www.pamelajhobart.com)]]></title>
+            <link>https://www.pamelajhobart.com/housewives-are-one-surprising-solution-to-millennial-burnout/</link>
+            <guid>https://www.pamelajhobart.com/housewives-are-one-surprising-solution-to-millennial-burnout/</guid>
+            <pubDate>Fri, 08 Sep 2023 15:42:15 GMT</pubDate>
+            <description><![CDATA[Housewives as a Solution to Millennial Burnout]]></description>
+            <content:encoded><![CDATA[<p>Housewives can be a solution to millennial burnout caused by the demands of the 24/7 information economy. The concept of 'total work' where work becomes the center of human life is the root cause of burnout. Housewives, who focus on maintaining the home and people in it, can provide emotional, logistical, and financial support without the added burden of a 50-hour work week. They can handle tasks that cause 'errand paralysis' for millennials, such as managing paperwork, running errands, and taking care of household needs. Having a housewife in the family can remind workers that life is bigger than work and help alleviate burnout. However, there are financial and personal risks involved, and the arrangement may not be suitable for everyone.
+            </p><p>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37435089">4 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to build your own living structures (1974, 2011) (www.we-find-wildness.com)]]></title>
+            <link>https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/</link>
+            <guid>https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:53:51 GMT</pubDate>
+            <description><![CDATA[How to Build Your Own Living Structures: A Guide to Utopian Architecture]]></description>
+            <content:encoded><![CDATA[<p>How to Build Your Own Living Structures: A Guide to Utopian Architecture
+            </p><p>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37433515">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore (www.techdirt.com)]]></title>
             <link>https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/</link>
             <guid>https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/</guid>
@@ -297,7 +309,18 @@
             <description><![CDATA[Rate Limit Exceeded]]></description>
             <content:encoded><![CDATA[<p>The request has been rate-limited due to excessive requests made within a short period of time. If you believe this is an error, please contact support.
             </p><p>
-                42 Points |  <a href="https://news.ycombinator.com/item?id=37433036">24 comments</a>
+                53 Points |  <a href="https://news.ycombinator.com/item?id=37433036">35 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LibreWolf – Custom version of Firefox, focused on privacy, security and freedom (librewolf.net)]]></title>
+            <link>https://librewolf.net/</link>
+            <guid>https://librewolf.net/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:29:59 GMT</pubDate>
+            <description><![CDATA[LibreWolf: A Privacy-Focused Custom Version of Firefox]]></description>
+            <content:encoded><![CDATA[<p>LibreWolf is a custom version of Firefox that prioritizes privacy, security, and user freedom. It aims to enhance protection against tracking and fingerprinting techniques, remove telemetry and data collection, and disable anti-freedom features. The browser includes privacy-conscious search providers and a content blocker. It is regularly updated for the latest security and features, and is open source, allowing community participation. Contributions are welcome, and the project provides support for various operating systems. LibreWolf is not affiliated with Mozilla.
+            </p><p>
+                139 Points |  <a href="https://news.ycombinator.com/item?id=37431474">106 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -309,28 +332,6 @@
             <content:encoded><![CDATA[<p>A guide to advanced speed cubing techniques and resources, including tips for solving Rubik's cube faster, customizing algorithms, and achieving record times. It also features collections of various algorithms, pretty patterns, and expert insights from renowned speed cubers. The page includes personal experiences from attending world championships and cube-related events, as well as links to additional resources for further exploration.
             </p><p>
                 81 Points |  <a href="https://news.ycombinator.com/item?id=37416999">36 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)]]></title>
-            <link>https://www.h2fly.de/</link>
-            <guid>https://www.h2fly.de/</guid>
-            <pubDate>Fri, 08 Sep 2023 13:42:42 GMT</pubDate>
-            <description><![CDATA[Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation]]></description>
-            <content:encoded><![CDATA[<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.
-            </p><p>
-                8 Points |  <a href="https://news.ycombinator.com/item?id=37433380">2 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO (www.cio.com)]]></title>
-            <link>https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html</link>
-            <guid>https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html</guid>
-            <pubDate>Fri, 08 Sep 2023 11:57:59 GMT</pubDate>
-            <description><![CDATA[IBM to Increase Cloud Costs by Up to 26% in 2024]]></description>
-            <content:encoded><![CDATA[<p>IBM plans to increase its cloud services costs by up to 26% in 2024, affecting infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS) offerings. The price hike will be steeper for international customers compared to those in the US. PaaS services, including Kubernetes Services and RedHat OpenShift, will see a 3% price increase globally. For IaaS offerings, the price hikes will apply to bare metal servers, virtual server instances, file and block storage, and networking infrastructure. The price changes will vary across different data centers, with some experiencing increases of up to 7.5%. IBM's Cloud Object Storage service will also see price increases of 25% to 26% globally. This move follows similar price hikes by other technology vendors to combat inflation and rising costs.
-            </p><p>
-                81 Points |  <a href="https://news.ycombinator.com/item?id=37432399">54 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
