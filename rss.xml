@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 20:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 20:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -34,7 +34,7 @@
             <description><![CDATA[Understanding the constexprness of C++20's std::string]]></description>
             <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.
             </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37431425">0 comments</a>
+                31 Points |  <a href="https://news.ycombinator.com/item?id=37431425">10 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -45,7 +45,7 @@
             <description><![CDATA[CVE-2023-4809: FreeBSD pf Bypass Vulnerability in IPv6 Firewalls]]></description>
             <content:encoded><![CDATA[<p>CVE-2023-4809: FreeBSD pf bypass vulnerability allows attackers to bypass rules in pf-based IPv6 firewalls. The vulnerability occurs when a non-compliant IPv6 atomic fragment is sent, containing multiple IPv6 fragmentation headers. FreeBSD handles these fragments by rebuilding the original packet but fails to apply any rules that apply to layers four and higher. As a result, the fragment bypasses the firewall and establishes two-way communication between the attacker and the victim. The vulnerability affects all FreeBSD versions up to 13.2-STABLE and 12.4-STABLE. The solution is to update FreeBSD to the latest version.
             </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37437530">0 comments</a>
+                29 Points |  <a href="https://news.ycombinator.com/item?id=37437530">10 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -56,7 +56,7 @@
             <description><![CDATA[Aardvark'd: The Fog Creek Documentary, 18 Years Later - A Look into the Early Days of Tech Startup Founders]]></description>
             <content:encoded><![CDATA[<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.
             </p><p>
-                228 Points |  <a href="https://news.ycombinator.com/item?id=37433186">63 comments</a>
+                246 Points |  <a href="https://news.ycombinator.com/item?id=37433186">76 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -71,17 +71,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Why we didn’t get a malaria vaccine sooner (worksinprogress.co)]]></title>
-            <link>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</link>
-            <guid>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</guid>
-            <pubDate>Fri, 08 Sep 2023 18:49:21 GMT</pubDate>
-            <description><![CDATA[The Challenges and Delays in Developing a Malaria Vaccine]]></description>
-            <content:encoded><![CDATA[<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37437739">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Bun v1.0.0 (github.com)]]></title>
             <link>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</link>
             <guid>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</guid>
@@ -89,7 +78,7 @@
             <description><![CDATA[Bun v1.0 Release: Bug Fixes, Improvements, and New Features]]></description>
             <content:encoded><![CDATA[<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.
             </p><p>
-                424 Points |  <a href="https://news.ycombinator.com/item?id=37434117">154 comments</a>
+                512 Points |  <a href="https://news.ycombinator.com/item?id=37434117">173 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -104,14 +93,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Large Language Models as Optimizers. +50% on Big Bench Hard (arxiv.org)]]></title>
-            <link>https://arxiv.org/abs/2309.03409</link>
-            <guid>https://arxiv.org/abs/2309.03409</guid>
-            <pubDate>Fri, 08 Sep 2023 14:37:30 GMT</pubDate>
-            <description><![CDATA[Leveraging Large Language Models as Optimizers: Introducing Optimization by PROmpting (OPRO)]]></description>
-            <content:encoded><![CDATA[<p>The paper introduces Optimization by PROmpting (OPRO), a method that leverages large language models (LLMs) as optimizers. OPRO uses natural language prompts to generate new solutions in each optimization step. The authors demonstrate the effectiveness of OPRO on linear regression, traveling salesman problems, and prompt optimization tasks. They show that prompts optimized by OPRO outperform human-designed prompts by up to 8% on GSM8K and by up to 50% on Big-Bench Hard tasks. The paper falls under the categories of Machine Learning, Artificial Intelligence, and Computation and Language.
+            <title><![CDATA[Why we didn’t get a malaria vaccine sooner (worksinprogress.co)]]></title>
+            <link>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</link>
+            <guid>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</guid>
+            <pubDate>Fri, 08 Sep 2023 18:49:21 GMT</pubDate>
+            <description><![CDATA[The Challenges and Delays in Developing a Malaria Vaccine]]></description>
+            <content:encoded><![CDATA[<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.
             </p><p>
-                65 Points |  <a href="https://news.ycombinator.com/item?id=37434069">20 comments</a>
+                50 Points |  <a href="https://news.ycombinator.com/item?id=37437739">25 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -126,6 +115,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Large Language Models as Optimizers. +50% on Big Bench Hard (arxiv.org)]]></title>
+            <link>https://arxiv.org/abs/2309.03409</link>
+            <guid>https://arxiv.org/abs/2309.03409</guid>
+            <pubDate>Fri, 08 Sep 2023 14:37:30 GMT</pubDate>
+            <description><![CDATA[Leveraging Large Language Models as Optimizers: Introducing Optimization by PROmpting (OPRO)]]></description>
+            <content:encoded><![CDATA[<p>The paper introduces Optimization by PROmpting (OPRO), a method that leverages large language models (LLMs) as optimizers. OPRO uses natural language prompts to generate new solutions in each optimization step. The authors demonstrate the effectiveness of OPRO on linear regression, traveling salesman problems, and prompt optimization tasks. They show that prompts optimized by OPRO outperform human-designed prompts by up to 8% on GSM8K and by up to 50% on Big-Bench Hard tasks. The paper falls under the categories of Machine Learning, Artificial Intelligence, and Computation and Language.
+            </p><p>
+                65 Points |  <a href="https://news.ycombinator.com/item?id=37434069">20 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI (together.ai)]]></title>
             <link>https://together.ai/privacy</link>
             <guid>https://together.ai/privacy</guid>
@@ -134,28 +134,6 @@
             <content:encoded><![CDATA[<p>Together Computer Inc's privacy policy outlines the collection, use, and sharing of personal data through their model training and inference platform. The policy applies to data collected through the services, training algorithms, company websites, and third-party sources. It does not cover personal data of company employees and candidates. The policy highlights the types of data collected, such as user names, IP addresses, and contact information, and explains how the company uses this data for purposes like improving the service and contacting users. It also discusses data retention, transfer, and security measures. The policy includes supplemental terms and conditions for regions like Europe and California.
             </p><p>
                 25 Points |  <a href="https://news.ycombinator.com/item?id=37436498">10 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)]]></title>
-            <link>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</link>
-            <guid>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</guid>
-            <pubDate>Fri, 08 Sep 2023 17:01:02 GMT</pubDate>
-            <description><![CDATA[Artie Seeks Founding Engineer for Real-Time Data Streaming Solution]]></description>
-            <content:encoded><![CDATA[<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.
-            </p><p>
-                1 Points |  <a href="https://news.ycombinator.com/item?id=37436236">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)]]></title>
-            <link>https://bitbashing.io/async-rust.html</link>
-            <guid>https://bitbashing.io/async-rust.html</guid>
-            <pubDate>Fri, 08 Sep 2023 16:10:55 GMT</pubDate>
-            <description><![CDATA[Challenges and Limitations of Async Rust for Concurrency]]></description>
-            <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.
-            </p><p>
-                302 Points |  <a href="https://news.ycombinator.com/item?id=37435515">236 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -170,14 +148,36 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)]]></title>
-            <link>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</link>
-            <guid>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</guid>
-            <pubDate>Fri, 08 Sep 2023 14:59:13 GMT</pubDate>
-            <description><![CDATA[Air pollution degrades floral scent, making it difficult for bees to find flowers]]></description>
-            <content:encoded><![CDATA[<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.
+            <title><![CDATA[Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)]]></title>
+            <link>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</link>
+            <guid>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</guid>
+            <pubDate>Fri, 08 Sep 2023 17:01:02 GMT</pubDate>
+            <description><![CDATA[Artie Seeks Founding Engineer for Real-Time Data Streaming Solution]]></description>
+            <content:encoded><![CDATA[<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.
             </p><p>
-                121 Points |  <a href="https://news.ycombinator.com/item?id=37434381">24 comments</a>
+                1 Points |  <a href="https://news.ycombinator.com/item?id=37436236">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Scammers Can Exploit Email Forwarding Flaws to Impersonate High-Profile Domains (today.ucsd.edu)]]></title>
+            <link>https://today.ucsd.edu/story/forwarding_based_spoofing</link>
+            <guid>https://today.ucsd.edu/story/forwarding_based_spoofing</guid>
+            <pubDate>Fri, 08 Sep 2023 19:45:08 GMT</pubDate>
+            <description><![CDATA[Security Flaws in Email Forwarding Allow Scammers to Impersonate High-profile Domains]]></description>
+            <content:encoded><![CDATA[<p>Researchers at the University of California San Diego have discovered security flaws in the email forwarding process that allow scammers to impersonate high-profile domains. This vulnerability affects tens of thousands of domains, including government organizations, financial service companies, and major news organizations. The researchers found that scammers can send spoofed emails that bypass the safeguards of email providers like Gmail and Outlook, increasing the likelihood of recipients opening malicious attachments or clicking on harmful links. The vulnerabilities arise from the delegation of email infrastructure to third-party providers and the assumption that each organization operates its own mailing infrastructure. While some providers have patched the issues, the researchers recommend disabling open forwarding and implementing stricter validation policies to address the root problem.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37438478">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)]]></title>
+            <link>https://bitbashing.io/async-rust.html</link>
+            <guid>https://bitbashing.io/async-rust.html</guid>
+            <pubDate>Fri, 08 Sep 2023 16:10:55 GMT</pubDate>
+            <description><![CDATA[Challenges and Limitations of Async Rust for Concurrency]]></description>
+            <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.
+            </p><p>
+                332 Points |  <a href="https://news.ycombinator.com/item?id=37435515">269 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -192,25 +192,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[China's ancient water pipe networks show no evidence of a centralized authority (phys.org)]]></title>
-            <link>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</link>
-            <guid>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</guid>
-            <pubDate>Thu, 07 Sep 2023 20:25:09 GMT</pubDate>
-            <description><![CDATA[Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority]]></description>
-            <content:encoded><![CDATA[<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.
+            <title><![CDATA[Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)]]></title>
+            <link>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</link>
+            <guid>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</guid>
+            <pubDate>Fri, 08 Sep 2023 14:59:13 GMT</pubDate>
+            <description><![CDATA[Air pollution degrades floral scent, making it difficult for bees to find flowers]]></description>
+            <content:encoded><![CDATA[<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.
             </p><p>
-                199 Points |  <a href="https://news.ycombinator.com/item?id=37425052">128 comments</a>
+                121 Points |  <a href="https://news.ycombinator.com/item?id=37434381">24 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)]]></title>
-            <link>https://eprint.iacr.org/2023/1053</link>
-            <guid>https://eprint.iacr.org/2023/1053</guid>
-            <pubDate>Fri, 08 Sep 2023 09:24:25 GMT</pubDate>
-            <description><![CDATA[ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet]]></description>
-            <content:encoded><![CDATA[<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.
+            <title><![CDATA[Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)]]></title>
+            <link>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</link>
+            <guid>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</guid>
+            <pubDate>Fri, 08 Sep 2023 03:36:11 GMT</pubDate>
+            <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
+            <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
             </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37431433">0 comments</a>
+                110 Points |  <a href="https://news.ycombinator.com/item?id=37428937">69 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -243,40 +243,18 @@
             <description><![CDATA[FTC Judge Finds Intuit's 'Free' TurboTax Ads Misled Consumers]]></description>
             <content:encoded><![CDATA[<p>FTC judge rules that Intuit's 'free' TurboTax ads were misleading, finding that the company deceived consumers by advertising its tax filing service as free when users had to pay to use it. The ruling includes evidence of commercials and online ads promoting the 'Free Edition' software. Intuit was also criticized for making its actually free Free File version difficult to find. The judge issued a cease-and-desist order, prohibiting Intuit from engaging in deceptive practices and requiring clear disclosure of any terms that would limit offers. Intuit responded by calling the investigation process flawed and questionable, stating that it already adheres to most advertising practices in the FTC's decision. The IRS is working on a government-backed free filing service for the 2024 tax season.
             </p><p>
-                151 Points |  <a href="https://news.ycombinator.com/item?id=37437311">25 comments</a>
+                189 Points |  <a href="https://news.ycombinator.com/item?id=37437311">36 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)]]></title>
-            <link>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</link>
-            <guid>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</guid>
-            <pubDate>Fri, 08 Sep 2023 03:36:11 GMT</pubDate>
-            <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
-            <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
+            <title><![CDATA[ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)]]></title>
+            <link>https://eprint.iacr.org/2023/1053</link>
+            <guid>https://eprint.iacr.org/2023/1053</guid>
+            <pubDate>Fri, 08 Sep 2023 09:24:25 GMT</pubDate>
+            <description><![CDATA[ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet]]></description>
+            <content:encoded><![CDATA[<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.
             </p><p>
-                110 Points |  <a href="https://news.ycombinator.com/item?id=37428937">69 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Heirloom Carbon: Absorbing CO2 from the air using crushed rocks (heatmap.news)]]></title>
-            <link>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</link>
-            <guid>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</guid>
-            <pubDate>Fri, 08 Sep 2023 16:06:37 GMT</pubDate>
-            <description><![CDATA[Microsoft Makes Major Investment in Carbon-Absorbing Rocks]]></description>
-            <content:encoded><![CDATA[<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.
-            </p><p>
-                75 Points |  <a href="https://news.ycombinator.com/item?id=37435454">64 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[FAA closes SpaceX Starship mishap investigation (apnews.com)]]></title>
-            <link>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</link>
-            <guid>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</guid>
-            <pubDate>Fri, 08 Sep 2023 16:19:12 GMT</pubDate>
-            <description><![CDATA[FAA Requires SpaceX to Address Issues Before Launching Starship Mega Rocket Again]]></description>
-            <content:encoded><![CDATA[<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.
-            </p><p>
-                117 Points |  <a href="https://news.ycombinator.com/item?id=37435656">91 comments</a>
+                5 Points |  <a href="https://news.ycombinator.com/item?id=37431433">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -288,6 +266,17 @@
             <content:encoded><![CDATA[<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.
             </p><p>
                 107 Points |  <a href="https://news.ycombinator.com/item?id=37433218">26 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Apple is reportedly spending ‘millions of dollars a day’ training AI (www.theverge.com)]]></title>
+            <link>https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending</link>
+            <guid>https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending</guid>
+            <pubDate>Fri, 08 Sep 2023 17:55:59 GMT</pubDate>
+            <description><![CDATA[Apple Reportedly Investing Millions in AI Training, Believes Ajax Model is More Powerful than ChatGPT]]></description>
+            <content:encoded><![CDATA[<p>Apple is reportedly investing millions of dollars per day into artificial intelligence, with multiple AI models being developed across different teams. The company's conversational AI unit, called 'Foundational Models,' is led by John Giannandrea and is working on chatbots and automating tasks with Siri. Other teams are focused on image generation and multimodal AI. Apple's most advanced language model, Ajax GPT, has been trained on over 200 billion parameters and is believed to be more powerful than OpenAI's GPT-3.5. The model is currently used internally and Apple has not commented on the report.
+            </p><p>
+                22 Points |  <a href="https://news.ycombinator.com/item?id=37437026">8 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -313,6 +302,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Heirloom Carbon: Absorbing CO2 from the air using crushed rocks (heatmap.news)]]></title>
+            <link>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</link>
+            <guid>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</guid>
+            <pubDate>Fri, 08 Sep 2023 16:06:37 GMT</pubDate>
+            <description><![CDATA[Microsoft Makes Major Investment in Carbon-Absorbing Rocks]]></description>
+            <content:encoded><![CDATA[<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.
+            </p><p>
+                75 Points |  <a href="https://news.ycombinator.com/item?id=37435454">64 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[A Study of Malicious Code in PyPI Ecosystem (about.honywen.com)]]></title>
             <link>https://about.honywen.com/publication/2023ase/#</link>
             <guid>https://about.honywen.com/publication/2023ase/#</guid>
@@ -324,6 +324,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Why walking helps us think (www.newyorker.com)]]></title>
+            <link>https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think</link>
+            <guid>https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think</guid>
+            <pubDate>Fri, 08 Sep 2023 13:18:41 GMT</pubDate>
+            <description><![CDATA[The Connection Between Walking, Thinking, and Writing]]></description>
+            <content:encoded><![CDATA[<p>Walking has been found to have a positive impact on thinking and creativity. When we walk, our heart pumps more blood and oxygen to the brain, leading to improved cognitive function. Walking also promotes new connections between brain cells and stimulates the growth of new neurons. The rhythm of walking creates a feedback loop with our mental state, allowing our thoughts to flow more freely. Walking in nature has been shown to be particularly beneficial for mental rejuvenation. Ultimately, walking and writing are similar activities that organize our thoughts and the world around us.
+            </p><p>
+                23 Points |  <a href="https://news.ycombinator.com/item?id=37433104">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Apple vs. Meta: The Illusion of Privacy (growth.design)]]></title>
             <link>https://growth.design/case-studies/apple-privacy-policy</link>
             <guid>https://growth.design/case-studies/apple-privacy-policy</guid>
@@ -331,18 +342,7 @@
             <description><![CDATA[N/A]]></description>
             <content:encoded><![CDATA[<p>N/A
             </p><p>
-                287 Points |  <a href="https://news.ycombinator.com/item?id=37433495">260 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Procreate Dreams (procreate.com)]]></title>
-            <link>https://procreate.com/dreams</link>
-            <guid>https://procreate.com/dreams</guid>
-            <pubDate>Fri, 08 Sep 2023 15:32:57 GMT</pubDate>
-            <description><![CDATA[Introducing Procreate Dreams: A Powerful Animation App for Creating Hand-Drawn Animations and Motion Graphics]]></description>
-            <content:encoded><![CDATA[<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.
-            </p><p>
-                351 Points |  <a href="https://news.ycombinator.com/item?id=37434918">130 comments</a>
+                312 Points |  <a href="https://news.ycombinator.com/item?id=37433495">290 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
