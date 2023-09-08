@@ -12,7 +12,7 @@
     "items": [
         {
             "id": "https://emoji.fly.dev",
-            "content_html": "<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.\n            </p><p>\n                53 Points |  <a href=\"https://news.ycombinator.com/item?id=37433523\">22 comments</a>\n            </p>",
+            "content_html": "<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.\n            </p><p>\n                83 Points |  <a href=\"https://news.ycombinator.com/item?id=37433523\">34 comments</a>\n            </p>",
             "url": "https://emoji.fly.dev",
             "title": "Emoji Generator with AI (emoji.fly.dev)",
             "summary": "A Collection of Diverse Emojis in Slackmoji AI Edition",
@@ -22,8 +22,30 @@
             }
         },
         {
+            "id": "https://community.appsmith.com/content/blog/evolution-git-dive-tech-history",
+            "content_html": "<p>The Evolution of Git: A Dive Into Tech History\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37434295\">29 comments</a>\n            </p>",
+            "url": "https://community.appsmith.com/content/blog/evolution-git-dive-tech-history",
+            "title": "Did you know Git was originally created in 10 days? (community.appsmith.com)",
+            "summary": "The Evolution of Git: From a Kernel Project Hiccup to a Essential Tool for Developers",
+            "date_modified": "2023-09-08T14:54:41.000Z",
+            "author": {
+                "name": "community.appsmith.com"
+            }
+        },
+        {
+            "id": "https://growth.design/case-studies/apple-privacy-policy",
+            "content_html": "<p>N/A\n            </p><p>\n                133 Points |  <a href=\"https://news.ycombinator.com/item?id=37433495\">82 comments</a>\n            </p>",
+            "url": "https://growth.design/case-studies/apple-privacy-policy",
+            "title": "Apple vs. Meta: The Illusion of Privacy (growth.design)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T13:52:36.000Z",
+            "author": {
+                "name": "growth.design"
+            }
+        },
+        {
             "id": "http://touchpianist.com/",
-            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                286 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">92 comments</a>\n            </p>",
+            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                339 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">104 comments</a>\n            </p>",
             "url": "http://touchpianist.com/",
             "title": "Touch Pianist (touchpianist.com)",
             "summary": "Menu of Pieces on a Mobile App",
@@ -44,17 +66,6 @@
             }
         },
         {
-            "id": "https://community.appsmith.com/content/blog/evolution-git-dive-tech-history",
-            "content_html": "<p>The Evolution of Git: A Dive Into Tech History\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37434295\">1 comments</a>\n            </p>",
-            "url": "https://community.appsmith.com/content/blog/evolution-git-dive-tech-history",
-            "title": "Did you know Git was originally created in 10 days? (community.appsmith.com)",
-            "summary": "The Evolution of Git: From a Kernel Project Hiccup to a Essential Tool for Developers",
-            "date_modified": "2023-09-08T14:54:41.000Z",
-            "author": {
-                "name": "community.appsmith.com"
-            }
-        },
-        {
             "id": "https://mtlynch.io/aardvarkd/",
             "content_html": "<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37433186\">0 comments</a>\n            </p>",
             "url": "https://mtlynch.io/aardvarkd/",
@@ -63,17 +74,6 @@
             "date_modified": "2023-09-08T13:26:45.000Z",
             "author": {
                 "name": "mtlynch.io"
-            }
-        },
-        {
-            "id": "https://growth.design/case-studies/apple-privacy-policy",
-            "content_html": "<p>N/A\n            </p><p>\n                92 Points |  <a href=\"https://news.ycombinator.com/item?id=37433495\">59 comments</a>\n            </p>",
-            "url": "https://growth.design/case-studies/apple-privacy-policy",
-            "title": "Apple vs. Meta: The Illusion of Privacy (growth.design)",
-            "summary": "N/A",
-            "date_modified": "2023-09-08T13:52:36.000Z",
-            "author": {
-                "name": "growth.design"
             }
         },
         {
@@ -99,6 +99,17 @@
             }
         },
         {
+            "id": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
+            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                28 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">10 comments</a>\n            </p>",
+            "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
+            "title": "Bun v1.0.0 (github.com)",
+            "summary": "Bun v1.0 Release: Bug Fixes, Improvements, and New Features",
+            "date_modified": "2023-09-08T14:41:03.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
             "id": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
             "content_html": "<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37426107\">10 comments</a>\n            </p>",
             "url": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
@@ -121,14 +132,14 @@
             }
         },
         {
-            "id": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
-            "content_html": "<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.\n            </p><p>\n                40 Points |  <a href=\"https://news.ycombinator.com/item?id=37428937\">12 comments</a>\n            </p>",
-            "url": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
-            "title": "Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)",
-            "summary": "Website Security Check: journals.sagepub.com",
-            "date_modified": "2023-09-08T03:36:11.000Z",
+            "id": "https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html",
+            "content_html": "<p>LGBTQ dating app Grindr loses nearly half of its staff after implementing a return-to-office policy. The policy required employees to either relocate to designated 'hub' cities or leave the company. Around 80 out of 178 workers were forced to leave as a result. The return-to-work policy is seen as retaliatory by the Communications Workers of America (CWA) in response to a union drive at the company. The CWA has filed an unfair labor practice charge against Grindr. This situation reflects the ongoing tensions between employers and workers regarding return-to-office policies in the post-pandemic era.\n            </p><p>\n                37 Points |  <a href=\"https://news.ycombinator.com/item?id=37434293\">17 comments</a>\n            </p>",
+            "url": "https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html",
+            "title": "Dating app Grindr loses nearly half its staff after trying to force RTO (www.cnn.com)",
+            "summary": "Grindr Loses Nearly Half of Staff After Enforcing Return-to-Office Policy",
+            "date_modified": "2023-09-08T14:54:37.000Z",
             "author": {
-                "name": "journals.sagepub.com"
+                "name": "www.cnn.com"
             }
         },
         {
@@ -143,6 +154,17 @@
             }
         },
         {
+            "id": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
+            "content_html": "<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.\n            </p><p>\n                40 Points |  <a href=\"https://news.ycombinator.com/item?id=37428937\">12 comments</a>\n            </p>",
+            "url": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
+            "title": "Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)",
+            "summary": "Website Security Check: journals.sagepub.com",
+            "date_modified": "2023-09-08T03:36:11.000Z",
+            "author": {
+                "name": "journals.sagepub.com"
+            }
+        },
+        {
             "id": "https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html",
             "content_html": "<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.\n            </p><p>\n                164 Points |  <a href=\"https://news.ycombinator.com/item?id=37425052\">100 comments</a>\n            </p>",
             "url": "https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html",
@@ -154,14 +176,14 @@
             }
         },
         {
-            "id": "https://about.honywen.com/publication/2023ase/#",
-            "content_html": "<p>This empirical study examines the characteristics and current state of malicious code in the PyPI ecosystem. The researchers collected a dataset of 4,669 malicious package files and classified them into five categories based on their behavior. The study found that over 50% of the malicious code exhibited multiple malicious behaviors, with information stealing and command execution being common. The analysis revealed that 74.81% of the malicious packages successfully entered end-user projects through source code installation, posing significant security risks. Furthermore, many reported malicious packages persisted in PyPI mirror servers globally, even after being discovered. The study provides insights into the lifecycle of malicious code in the PyPI ecosystem and suggests mitigations to enhance the security of the Python open-source ecosystem.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37433743\">1 comments</a>\n            </p>",
-            "url": "https://about.honywen.com/publication/2023ase/#",
-            "title": "A Study of Malicious Code in PyPI Ecosystem (about.honywen.com)",
-            "summary": "Understanding the State of Malicious Code in the PyPI Ecosystem",
-            "date_modified": "2023-09-08T14:12:27.000Z",
+            "id": "https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/",
+            "content_html": "<p>X updates its terms to prohibit crawling/scraping of its data without prior written consent. This update comes after X allowed itself to use public data for training its AI models. The new policy also mentions a mutual consent requirement for scraping or crawling. X had previously blocked unauthenticated access to the site, but later lifted the limitation with the condition that only the original post can be viewed. X has also updated its robots.txt file to block all bots and search engines. However, services like Brave Search API can still bypass this restriction. It remains to be seen if X will take legal action against third parties using its data for training AI models.\n            </p><p>\n                38 Points |  <a href=\"https://news.ycombinator.com/item?id=37433759\">37 comments</a>\n            </p>",
+            "url": "https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/",
+            "title": "X updates its Terms to prohibit crawling/scraping of its data (stackdiary.com)",
+            "summary": "X Updates Terms to Prohibit Crawling/Scraping of Data",
+            "date_modified": "2023-09-08T14:13:12.000Z",
             "author": {
-                "name": "about.honywen.com"
+                "name": "stackdiary.com"
             }
         },
         {
@@ -176,6 +198,28 @@
             }
         },
         {
+            "id": "https://about.honywen.com/publication/2023ase/#",
+            "content_html": "<p>This empirical study examines the characteristics and current state of malicious code in the PyPI ecosystem. The researchers collected a dataset of 4,669 malicious package files and classified them into five categories based on their behavior. The study found that over 50% of the malicious code exhibited multiple malicious behaviors, with information stealing and command execution being common. The analysis revealed that 74.81% of the malicious packages successfully entered end-user projects through source code installation, posing significant security risks. Furthermore, many reported malicious packages persisted in PyPI mirror servers globally, even after being discovered. The study provides insights into the lifecycle of malicious code in the PyPI ecosystem and suggests mitigations to enhance the security of the Python open-source ecosystem.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37433743\">1 comments</a>\n            </p>",
+            "url": "https://about.honywen.com/publication/2023ase/#",
+            "title": "A Study of Malicious Code in PyPI Ecosystem (about.honywen.com)",
+            "summary": "Understanding the State of Malicious Code in the PyPI Ecosystem",
+            "date_modified": "2023-09-08T14:12:27.000Z",
+            "author": {
+                "name": "about.honywen.com"
+            }
+        },
+        {
+            "id": "https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/",
+            "content_html": "<p>How to Build Your Own Living Structures: A Guide to Utopian Architecture\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37433515\">0 comments</a>\n            </p>",
+            "url": "https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/",
+            "title": "How to build your own living structures (1974, 2011) (www.we-find-wildness.com)",
+            "summary": "How to Build Your Own Living Structures: A Guide to Utopian Architecture",
+            "date_modified": "2023-09-08T13:53:51.000Z",
+            "author": {
+                "name": "www.we-find-wildness.com"
+            }
+        },
+        {
             "id": "https://librewolf.net/",
             "content_html": "<p>LibreWolf is a custom version of Firefox that prioritizes privacy, security, and user freedom. It aims to enhance protection against tracking and fingerprinting techniques, remove telemetry and data collection, and disable anti-freedom features. The browser includes privacy-conscious search providers and a content blocker. It is regularly updated for the latest security and features, and is open source, allowing community participation. Contributions are welcome, and the project provides support for various operating systems. LibreWolf is not affiliated with Mozilla.\n            </p><p>\n                104 Points |  <a href=\"https://news.ycombinator.com/item?id=37431474\">73 comments</a>\n            </p>",
             "url": "https://librewolf.net/",
@@ -184,28 +228,6 @@
             "date_modified": "2023-09-08T09:29:59.000Z",
             "author": {
                 "name": "librewolf.net"
-            }
-        },
-        {
-            "id": "https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/",
-            "content_html": "<p>X updates its terms to prohibit crawling/scraping of its data without prior written consent. This update comes after X allowed itself to use public data for training its AI models. The new policy also mentions a mutual consent requirement for scraping or crawling. X had previously blocked unauthenticated access to the site, but later lifted the limitation with the condition that only the original post can be viewed. X has also updated its robots.txt file to block all bots and search engines. However, services like Brave Search API can still bypass this restriction. It remains to be seen if X will take legal action against third parties using its data for training AI models.\n            </p><p>\n                25 Points |  <a href=\"https://news.ycombinator.com/item?id=37433759\">27 comments</a>\n            </p>",
-            "url": "https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/",
-            "title": "X updates its Terms to prohibit crawling/scraping of its data (stackdiary.com)",
-            "summary": "X Updates Terms to Prohibit Crawling/Scraping of Data",
-            "date_modified": "2023-09-08T14:13:12.000Z",
-            "author": {
-                "name": "stackdiary.com"
-            }
-        },
-        {
-            "id": "https://www.h2fly.de/",
-            "content_html": "<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37433380\">2 comments</a>\n            </p>",
-            "url": "https://www.h2fly.de/",
-            "title": "H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)",
-            "summary": "Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation",
-            "date_modified": "2023-09-08T13:42:42.000Z",
-            "author": {
-                "name": "www.h2fly.de"
             }
         },
         {
@@ -220,6 +242,17 @@
             }
         },
         {
+            "id": "https://rivet.ironcladapp.com/",
+            "content_html": "<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.\n            </p><p>\n                23 Points |  <a href=\"https://news.ycombinator.com/item?id=37433218\">6 comments</a>\n            </p>",
+            "url": "https://rivet.ironcladapp.com/",
+            "title": "Show HN: Rivet – open-source AI Agent dev env with real-world applications (rivet.ironcladapp.com)",
+            "summary": "Rivet: A Visual Programming Environment for Building AI Agents with LLMs",
+            "date_modified": "2023-09-08T13:29:05.000Z",
+            "author": {
+                "name": "rivet.ironcladapp.com"
+            }
+        },
+        {
             "id": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
             "content_html": "<p>TSMC warns that the shortage of advanced packaging capacity will continue to impact the availability of high-end GPUs until at least the end of 2024. The issue lies in the lack of capacity to stitch the silicon together, rather than a shortage of chips. TSMC can only meet about 80% of the demand for its chip on wafer on substrate (CoWoS) packaging technology, which is used in advanced chips for AI workloads. TSMC expects additional CoWoS capacity to come online within the next 18 months. This shortage affects not only Nvidia but also AMD's upcoming Instinct MI300-series accelerators.\n            </p><p>\n                57 Points |  <a href=\"https://news.ycombinator.com/item?id=37432948\">30 comments</a>\n            </p>",
             "url": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
@@ -228,28 +261,6 @@
             "date_modified": "2023-09-08T13:03:32.000Z",
             "author": {
                 "name": "www.theregister.com"
-            }
-        },
-        {
-            "id": "https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html",
-            "content_html": "<p>LGBTQ dating app Grindr loses nearly half of its staff after implementing a return-to-office policy. The policy required employees to either relocate to designated 'hub' cities or leave the company. Around 80 out of 178 workers were forced to leave as a result. The return-to-work policy is seen as retaliatory by the Communications Workers of America (CWA) in response to a union drive at the company. The CWA has filed an unfair labor practice charge against Grindr. This situation reflects the ongoing tensions between employers and workers regarding return-to-office policies in the post-pandemic era.\n            </p><p>\n                11 Points |  <a href=\"https://news.ycombinator.com/item?id=37434293\">3 comments</a>\n            </p>",
-            "url": "https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html",
-            "title": "Dating app Grindr loses nearly half its staff after trying to force RTO (www.cnn.com)",
-            "summary": "Grindr Loses Nearly Half of Staff After Enforcing Return-to-Office Policy",
-            "date_modified": "2023-09-08T14:54:37.000Z",
-            "author": {
-                "name": "www.cnn.com"
-            }
-        },
-        {
-            "id": "https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4",
-            "content_html": "<p>A study in China suggests that making small changes to food delivery apps could significantly reduce the consumption of single-use plastic cutlery. With over half a billion people using food delivery apps in China, the amount of plastic waste generated is a major concern. The study proposes using gentle nudges, such as defaulting to no cutlery or offering incentives for customers to opt out of receiving plastic cutlery. These simple changes could potentially save 22 billion sets of plastic cutlery per year. This research highlights the potential for technology to play a role in reducing plastic waste and promoting sustainable practices.\n            </p><p>\n                28 Points |  <a href=\"https://news.ycombinator.com/item?id=37433307\">21 comments</a>\n            </p>",
-            "url": "https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4",
-            "title": "China Offers Lesson in How to Cut Plastic Waste from Food Delivery (www.wsj.com)",
-            "summary": "Delivery App Tweak Could Save 22 Billion Sets of Plastic Cutlery a Year, Study Shows",
-            "date_modified": "2023-09-08T13:36:06.000Z",
-            "author": {
-                "name": "www.wsj.com"
             }
         },
         {
@@ -264,17 +275,6 @@
             }
         },
         {
-            "id": "https://rivet.ironcladapp.com/",
-            "content_html": "<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.\n            </p><p>\n                23 Points |  <a href=\"https://news.ycombinator.com/item?id=37433218\">6 comments</a>\n            </p>",
-            "url": "https://rivet.ironcladapp.com/",
-            "title": "Show HN: Rivet – open-source AI Agent dev env with real-world applications (rivet.ironcladapp.com)",
-            "summary": "Rivet: A Visual Programming Environment for Building AI Agents with LLMs",
-            "date_modified": "2023-09-08T13:29:05.000Z",
-            "author": {
-                "name": "rivet.ironcladapp.com"
-            }
-        },
-        {
             "id": "https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html",
             "content_html": "<p>IBM plans to increase its cloud services costs by up to 26% in 2024, affecting infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS) offerings. The price hike will be steeper for international customers compared to those in the US. PaaS services, including Kubernetes Services and RedHat OpenShift, will see a 3% price increase globally. For IaaS offerings, the price hikes will apply to bare metal servers, virtual server instances, file and block storage, and networking infrastructure. The price changes will vary across different data centers, with some experiencing increases of up to 7.5%. IBM's Cloud Object Storage service will also see price increases of 25% to 26% globally. This move follows similar price hikes by other technology vendors to combat inflation and rising costs.\n            </p><p>\n                59 Points |  <a href=\"https://news.ycombinator.com/item?id=37432399\">43 comments</a>\n            </p>",
             "url": "https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html",
@@ -283,6 +283,28 @@
             "date_modified": "2023-09-08T11:57:59.000Z",
             "author": {
                 "name": "www.cio.com"
+            }
+        },
+        {
+            "id": "https://www.h2fly.de/",
+            "content_html": "<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37433380\">2 comments</a>\n            </p>",
+            "url": "https://www.h2fly.de/",
+            "title": "H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)",
+            "summary": "Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation",
+            "date_modified": "2023-09-08T13:42:42.000Z",
+            "author": {
+                "name": "www.h2fly.de"
+            }
+        },
+        {
+            "id": "https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4",
+            "content_html": "<p>A study in China suggests that making small changes to food delivery apps could significantly reduce the consumption of single-use plastic cutlery. With over half a billion people using food delivery apps in China, the amount of plastic waste generated is a major concern. The study proposes using gentle nudges, such as defaulting to no cutlery or offering incentives for customers to opt out of receiving plastic cutlery. These simple changes could potentially save 22 billion sets of plastic cutlery per year. This research highlights the potential for technology to play a role in reducing plastic waste and promoting sustainable practices.\n            </p><p>\n                31 Points |  <a href=\"https://news.ycombinator.com/item?id=37433307\">32 comments</a>\n            </p>",
+            "url": "https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4",
+            "title": "China Offers Lesson in How to Cut Plastic Waste from Food Delivery (www.wsj.com)",
+            "summary": "Delivery App Tweak Could Save 22 Billion Sets of Plastic Cutlery a Year, Study Shows",
+            "date_modified": "2023-09-08T13:36:06.000Z",
+            "author": {
+                "name": "www.wsj.com"
             }
         },
         {
@@ -308,17 +330,6 @@
             }
         },
         {
-            "id": "https://richardstartin.github.io/posts/wallclock-profiler",
-            "content_html": "<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37415499\">0 comments</a>\n            </p>",
-            "url": "https://richardstartin.github.io/posts/wallclock-profiler",
-            "title": "Understanding Request Latency with Profiling (richardstartin.github.io)",
-            "summary": "Improving Request Latency in Java Applications with Profiling",
-            "date_modified": "2023-09-07T06:39:30.000Z",
-            "author": {
-                "name": "richardstartin.github.io"
-            }
-        },
-        {
             "id": "https://napi.rs/",
             "content_html": "<p>NAPI-RS is a framework for building pre-compiled Node.js addons in Rust. It brings native performance to Node.js and ensures memory safety through the Rust compiler. It allows for zero-copy data interaction between Rust and Node.js using Buffer and TypedArray. The framework also supports parallelism with minimal code. NAPI-RS is well-tested and compatible with both CommonJS and esm. It has a support matrix for different Node.js versions and platforms. The framework is sponsored by companies like Tailwind, prisma, CarGurus, and Parcel, and is used by various projects like AFFiNE, Polars, and Logseq.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37430595\">0 comments</a>\n            </p>",
             "url": "https://napi.rs/",
@@ -327,17 +338,6 @@
             "date_modified": "2023-09-08T07:27:12.000Z",
             "author": {
                 "name": "napi.rs"
-            }
-        },
-        {
-            "id": "https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/",
-            "content_html": "<p>NASA's Oxygen-Generating Experiment MOXIE has successfully completed its mission on Mars, demonstrating the feasibility of extracting oxygen from the Martian atmosphere. The device, which generated a total of 122 grams of oxygen during its 16 runs, exceeded expectations by producing twice as much oxygen as originally planned. MOXIE's success paves the way for future astronauts to produce oxygen for breathing and rocket propellant on Mars, reducing the need to transport large quantities of oxygen from Earth. The next step is to develop a full-scale system that includes an oxygen generator, as well as a way to liquefy and store the oxygen. This breakthrough technology has inspired the field of in-situ resource utilization and highlights the importance of developing technologies that enable astronauts to 'live off the land' on other planets.\n            </p><p>\n                28 Points |  <a href=\"https://news.ycombinator.com/item?id=37432622\">16 comments</a>\n            </p>",
-            "url": "https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/",
-            "title": "NASA's Oxygen-Generating Experiment Moxie Completes Mars Mission (mars.nasa.gov)",
-            "summary": "NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission",
-            "date_modified": "2023-09-08T12:25:24.000Z",
-            "author": {
-                "name": "mars.nasa.gov"
             }
         }
     ]
