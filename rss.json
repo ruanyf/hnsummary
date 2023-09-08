@@ -33,6 +33,17 @@
             }
         },
         {
+            "id": "https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract",
+            "content_html": "<p>New York law enforcement agencies, including the NYPD, have spent millions of dollars to track and analyze social media posts, according to documents obtained by the Surveillance Technology Oversight Project. The NYPD entered a contract with Voyager Labs, a surveillance company accused of using fake Facebook accounts to collect data. The company claims its products can use artificial intelligence to analyze online human behavior and detect and predict fraud and crimes. Another contract was revealed between the Queens district attorney and Israeli firm Cobwebs Technologies, which offers social network mapping products and tools to track location information through phones. The use of social media analytics tools by law enforcement raises ethical and legal concerns regarding privacy violations and unreasonable searches and seizures.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431962\">0 comments</a>\n            </p>",
+            "url": "https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract",
+            "title": "NYPD spent millions to contract with firm banned by Meta for fake profiles (www.theguardian.com)",
+            "summary": "NYPD Spends Millions on Surveillance Firm Banned by Meta for Fake Profiles",
+            "date_modified": "2023-09-08T10:45:13.000Z",
+            "author": {
+                "name": "www.theguardian.com"
+            }
+        },
+        {
             "id": "https://howqueryengineswork.com/",
             "content_html": "<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.\n            </p><p>\n                97 Points |  <a href=\"https://news.ycombinator.com/item?id=37415494\">22 comments</a>\n            </p>",
             "url": "https://howqueryengineswork.com/",
@@ -45,24 +56,13 @@
         },
         {
             "id": "https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty",
-            "content_html": "<p>Replacing an internal Node.js module with a native Rust module resulted in a 25x performance boost for a CDN Stats platform at Wix. The platform provides real-time data on the usage of compiled assets by customers, helping front-end developers optimize bundles. The process of parsing and aggregating data from tab-separated values files was initially slow and resource-intensive in Node.js. Attempts to optimize the code using the Wix Serverless framework and the Wix Node.js platform were unsuccessful. However, embedding Rust in Node.js using the NAPI library allowed for more efficient memory management and significantly improved performance. The use of Rust's memory management capabilities and type-driven development workflow led to a more scalable and optimized solution.\n            </p><p>\n                104 Points |  <a href=\"https://news.ycombinator.com/item?id=37415812\">69 comments</a>\n            </p>",
+            "content_html": "<p>Replacing an internal Node.js module with a native Rust module resulted in a 25x performance boost for a CDN Stats platform at Wix. The platform provides real-time data on the usage of compiled assets by customers, helping front-end developers optimize bundles. The process of parsing and aggregating data from tab-separated values files was initially slow and resource-intensive in Node.js. Attempts to optimize the code using the Wix Serverless framework and the Wix Node.js platform were unsuccessful. However, embedding Rust in Node.js using the NAPI library allowed for more efficient memory management and significantly improved performance. The use of Rust's memory management capabilities and type-driven development workflow led to a more scalable and optimized solution.\n            </p><p>\n                116 Points |  <a href=\"https://news.ycombinator.com/item?id=37415812\">80 comments</a>\n            </p>",
             "url": "https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty",
             "title": "My Node.js is a bit Rusty (gal.hagever.com)",
             "summary": "Boosting Performance: Replacing Node.js with Rust for CDN Stats at Wix",
             "date_modified": "2023-09-07T07:34:09.000Z",
             "author": {
                 "name": "gal.hagever.com"
-            }
-        },
-        {
-            "id": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
-            "content_html": "<p>UK air traffic control system experienced a failure due to a processing conflict caused by a flightplan with two separate waypoints that had identical designators. The root cause of the incident was the presence of duplicate waypoint names in the flightplan. The automated system shut down, and manual flightplan processing had to be implemented. Over 1,500 flights were cancelled, and more than 10% of operated flights were delayed as a result. The incident did not pose a safety concern, and a software adaptation is planned to prevent a recurrence.\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37430384\">35 comments</a>\n            </p>",
-            "url": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
-            "title": "Coincidentally-identical waypoint names foxed UK air traffic control system (www.flightglobal.com)",
-            "summary": "UK Air Traffic Control Failure Caused by Duplicate Waypoint Names in Flightplan",
-            "date_modified": "2023-09-08T06:57:33.000Z",
-            "author": {
-                "name": "www.flightglobal.com"
             }
         },
         {
@@ -88,6 +88,17 @@
             }
         },
         {
+            "id": "http://touchpianist.com/",
+            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">1 comments</a>\n            </p>",
+            "url": "http://touchpianist.com/",
+            "title": "Touch Pianist (touchpianist.com)",
+            "summary": "Menu of Pieces on a Mobile App",
+            "date_modified": "2023-09-08T09:56:08.000Z",
+            "author": {
+                "name": "touchpianist.com"
+            }
+        },
+        {
             "id": "https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like",
             "content_html": "<p>A reporter rides along with an ice road trucker in Alaska to experience the unique challenges and allure of trucking in the Arctic Circle. The trucking industry in Alaska is booming, with companies looking to hire more drivers to haul equipment on the Dalton Highway. The summer is a slower time for Alaskan trucking fleets, as the ice roads are too warm to maintain. In the winter, truck drivers from all over the U.S. come to Alaska to work as ice road truckers, earning significantly higher salaries than typical truck drivers. The reporter accompanies a driver on a journey from Anchorage to Fairbanks, and then from Fairbanks to Prudhoe Bay on the Dalton Highway, where they haul pipes for the oil fields. The Dalton Highway is known for its steep grades and challenging conditions.\n            </p><p>\n                168 Points |  <a href=\"https://news.ycombinator.com/item?id=37425855\">99 comments</a>\n            </p>",
             "url": "https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like",
@@ -96,61 +107,6 @@
             "date_modified": "2023-09-07T21:27:38.000Z",
             "author": {
                 "name": "www.freightwaves.com"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2004/05/17/the-silver-thief",
-            "content_html": "<p>The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37417306\">0 comments</a>\n            </p>",
-            "url": "https://www.newyorker.com/magazine/2004/05/17/the-silver-thief",
-            "title": "The Silver Thief (www.newyorker.com)",
-            "summary": "The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver",
-            "date_modified": "2023-09-07T11:16:55.000Z",
-            "author": {
-                "name": "www.newyorker.com"
-            }
-        },
-        {
-            "id": "https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984",
-            "content_html": "<p>The missing storage layer for AI, specifically Language Model Machines (LLMs), is identified as a crucial element to unlock greater AI capabilities. LLMs have the potential to revolutionize various industries and fields of research, but they suffer from hallucination and lack interpretability. The use of Retrieval Augmented Generation (RAG) systems, which combine LLMs with a retriever to generate responses, offers a solution. RAG systems reduce reliance on LLMs and provide finer control, modularity, and cheaper updates. The debate between fine-tuning models and using general models for RAG is deemed pointless, as both approaches have their advantages. The need for an AI-native, multi-modal, and embedded vector database is highlighted, with LanceDB being introduced as a solution that simplifies retrieval, filtering, and management of embeddings.\n            </p><p>\n                93 Points |  <a href=\"https://news.ycombinator.com/item?id=37420628\">36 comments</a>\n            </p>",
-            "url": "https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984",
-            "title": "LLMs, RAG, and the missing storage layer for AI (blog.lancedb.com)",
-            "summary": "The Missing Storage Layer for AI: Introducing LanceDB for Simplified Retrieval and Management of Embeddings",
-            "date_modified": "2023-09-07T15:41:38.000Z",
-            "author": {
-                "name": "blog.lancedb.com"
-            }
-        },
-        {
-            "id": "https://underjord.io/unpacking-elixir-syntax.html",
-            "content_html": "<p>Unpacking Elixir: Syntax\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37429922\">0 comments</a>\n            </p>",
-            "url": "https://underjord.io/unpacking-elixir-syntax.html",
-            "title": "Unpacking Elixir: Syntax (underjord.io)",
-            "summary": "Understanding the Syntax of Elixir",
-            "date_modified": "2023-09-08T05:57:27.000Z",
-            "author": {
-                "name": "underjord.io"
-            }
-        },
-        {
-            "id": "http://www-formal.stanford.edu/jmc/facts.txt",
-            "content_html": "<p>This file contains a collection of numerical facts and units conversions, as well as astronomical data related to moving Mars to a different location. The file can be loaded into Emacs and used within the editor. It provides various units of measurement and constants, such as the gravitational constant, Avogadro number, and Planck's constant. It also includes data on the masses, radii, densities, and orbital parameters of celestial bodies like Mercury, Venus, Earth, Mars, Jupiter, and the Moon. The file concludes with escape velocities and velocities of these celestial bodies.\n            </p><p>\n                209 Points |  <a href=\"https://news.ycombinator.com/item?id=37420812\">58 comments</a>\n            </p>",
-            "url": "http://www-formal.stanford.edu/jmc/facts.txt",
-            "title": "John McCarthy’s collection of numerical facts for use in elisp programs (www-formal.stanford.edu)",
-            "summary": "Numerical Facts, Units Conversions, and Astronomical Data for Moving Mars",
-            "date_modified": "2023-09-07T15:52:09.000Z",
-            "author": {
-                "name": "www-formal.stanford.edu"
-            }
-        },
-        {
-            "id": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
-            "content_html": "<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37431710\">0 comments</a>\n            </p>",
-            "url": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
-            "title": "Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)",
-            "summary": "Linux Support Improving for Arm-based Thinkpad X13S",
-            "date_modified": "2023-09-08T10:08:33.000Z",
-            "author": {
-                "name": "www.theregister.com"
             }
         },
         {
@@ -165,25 +121,36 @@
             }
         },
         {
-            "id": "https://github.com/leanprover/lean4/releases/tag/v4.0.0",
-            "content_html": "<p>Lean 4, the first official release of Lean 4, is now available. Regular releases of Lean 4 are planned, with a new 'minor' version approximately monthly. Backwards compatibility is not yet guaranteed, but all breaking changes will be documented. The release includes over 2000 commits since the previous milestone, with Leonardo de Moura leading in contributions. The release also provides links to the Lean community forum, Lean language website, Lean Focused Research Organization homepage, Lean community website, and Mathlib GitHub repository.\n            </p><p>\n                54 Points |  <a href=\"https://news.ycombinator.com/item?id=37429938\">21 comments</a>\n            </p>",
-            "url": "https://github.com/leanprover/lean4/releases/tag/v4.0.0",
-            "title": "Lean 4.0 (github.com)",
-            "summary": "Lean 4: First Official Release and Regular Monthly Updates Planned",
-            "date_modified": "2023-09-08T05:59:40.000Z",
+            "id": "https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984",
+            "content_html": "<p>The missing storage layer for AI, specifically Language Model Machines (LLMs), is identified as a crucial element to unlock greater AI capabilities. LLMs have the potential to revolutionize various industries and fields of research, but they suffer from hallucination and lack interpretability. The use of Retrieval Augmented Generation (RAG) systems, which combine LLMs with a retriever to generate responses, offers a solution. RAG systems reduce reliance on LLMs and provide finer control, modularity, and cheaper updates. The debate between fine-tuning models and using general models for RAG is deemed pointless, as both approaches have their advantages. The need for an AI-native, multi-modal, and embedded vector database is highlighted, with LanceDB being introduced as a solution that simplifies retrieval, filtering, and management of embeddings.\n            </p><p>\n                116 Points |  <a href=\"https://news.ycombinator.com/item?id=37420628\">46 comments</a>\n            </p>",
+            "url": "https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984",
+            "title": "LLMs, RAG, and the missing storage layer for AI (blog.lancedb.com)",
+            "summary": "The Missing Storage Layer for AI: Introducing LanceDB for Simplified Retrieval and Management of Embeddings",
+            "date_modified": "2023-09-07T15:41:38.000Z",
             "author": {
-                "name": "github.com"
+                "name": "blog.lancedb.com"
             }
         },
         {
-            "id": "https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb",
-            "content_html": "<p>The content is a code repository for a project called 'bert-for-laptops'. The latest commit was made by a user named 'samvher'. The file being worked on is 'BERT_for_laptops.ipynb'. The file contains 2163 lines of code and is 157 KB in size. The content seems to be related to using BERT (Bidirectional Encoder Representations from Transformers) for laptops, although the details of the project are not provided in the given information.\n            </p><p>\n                159 Points |  <a href=\"https://news.ycombinator.com/item?id=37425130\">33 comments</a>\n            </p>",
-            "url": "https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb",
-            "title": "A BERT for laptops, from scratch (github.com)",
-            "summary": "Code Repository for 'bert-for-laptops' Project",
-            "date_modified": "2023-09-07T20:30:27.000Z",
+            "id": "http://www-formal.stanford.edu/jmc/facts.txt",
+            "content_html": "<p>This file contains a collection of numerical facts and units conversions, as well as astronomical data related to moving Mars to a different location. The file can be loaded into Emacs and used within the editor. It provides various units of measurement and constants, such as the gravitational constant, Avogadro number, and Planck's constant. It also includes data on the masses, radii, densities, and orbital parameters of celestial bodies like Mercury, Venus, Earth, Mars, Jupiter, and the Moon. The file concludes with escape velocities and velocities of these celestial bodies.\n            </p><p>\n                209 Points |  <a href=\"https://news.ycombinator.com/item?id=37420812\">58 comments</a>\n            </p>",
+            "url": "http://www-formal.stanford.edu/jmc/facts.txt",
+            "title": "John McCarthy’s collection of numerical facts for use in elisp programs (www-formal.stanford.edu)",
+            "summary": "Numerical Facts, Units Conversions, and Astronomical Data for Moving Mars",
+            "date_modified": "2023-09-07T15:52:09.000Z",
             "author": {
-                "name": "github.com"
+                "name": "www-formal.stanford.edu"
+            }
+        },
+        {
+            "id": "https://underjord.io/unpacking-elixir-syntax.html",
+            "content_html": "<p>Unpacking Elixir: Syntax\n            </p><p>\n                70 Points |  <a href=\"https://news.ycombinator.com/item?id=37429922\">10 comments</a>\n            </p>",
+            "url": "https://underjord.io/unpacking-elixir-syntax.html",
+            "title": "Unpacking Elixir: Syntax (underjord.io)",
+            "summary": "Understanding the Syntax of Elixir",
+            "date_modified": "2023-09-08T05:57:27.000Z",
+            "author": {
+                "name": "underjord.io"
             }
         },
         {
@@ -198,25 +165,47 @@
             }
         },
         {
+            "id": "https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb",
+            "content_html": "<p>The content is a code repository for a project called 'bert-for-laptops'. The latest commit was made by a user named 'samvher'. The file being worked on is 'BERT_for_laptops.ipynb'. The file contains 2163 lines of code and is 157 KB in size. The content seems to be related to using BERT (Bidirectional Encoder Representations from Transformers) for laptops, although the details of the project are not provided in the given information.\n            </p><p>\n                159 Points |  <a href=\"https://news.ycombinator.com/item?id=37425130\">33 comments</a>\n            </p>",
+            "url": "https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb",
+            "title": "A BERT for laptops, from scratch (github.com)",
+            "summary": "Code Repository for 'bert-for-laptops' Project",
+            "date_modified": "2023-09-07T20:30:27.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
+            "id": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
+            "content_html": "<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37431710\">0 comments</a>\n            </p>",
+            "url": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
+            "title": "Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)",
+            "summary": "Linux Support Improving for Arm-based Thinkpad X13S",
+            "date_modified": "2023-09-08T10:08:33.000Z",
+            "author": {
+                "name": "www.theregister.com"
+            }
+        },
+        {
+            "id": "https://github.com/leanprover/lean4/releases/tag/v4.0.0",
+            "content_html": "<p>Lean 4, the first official release of Lean 4, is now available. Regular releases of Lean 4 are planned, with a new 'minor' version approximately monthly. Backwards compatibility is not yet guaranteed, but all breaking changes will be documented. The release includes over 2000 commits since the previous milestone, with Leonardo de Moura leading in contributions. The release also provides links to the Lean community forum, Lean language website, Lean Focused Research Organization homepage, Lean community website, and Mathlib GitHub repository.\n            </p><p>\n                54 Points |  <a href=\"https://news.ycombinator.com/item?id=37429938\">21 comments</a>\n            </p>",
+            "url": "https://github.com/leanprover/lean4/releases/tag/v4.0.0",
+            "title": "Lean 4.0 (github.com)",
+            "summary": "Lean 4: First Official Release and Regular Monthly Updates Planned",
+            "date_modified": "2023-09-08T05:59:40.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
             "id": "https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/",
-            "content_html": "<p>Google's Threat Analysis Group (TAG) has identified a new campaign by North Korean threat actors targeting security researchers. The actors use social media platforms to build relationships with their targets and then send malicious files containing 0-day exploits. TAG has discovered at least one actively exploited 0-day in the past few weeks. In addition, the threat actors have developed a Windows tool that can download and execute arbitrary code. TAG advises those who have downloaded or run this tool to take precautions. The vulnerability has been reported to the affected vendor and is being patched.\n            </p><p>\n                496 Points |  <a href=\"https://news.ycombinator.com/item?id=37420831\">230 comments</a>\n            </p>",
+            "content_html": "<p>Google's Threat Analysis Group (TAG) has identified a new campaign by North Korean threat actors targeting security researchers. The actors use social media platforms to build relationships with their targets and then send malicious files containing 0-day exploits. TAG has discovered at least one actively exploited 0-day in the past few weeks. In addition, the threat actors have developed a Windows tool that can download and execute arbitrary code. TAG advises those who have downloaded or run this tool to take precautions. The vulnerability has been reported to the affected vendor and is being patched.\n            </p><p>\n                525 Points |  <a href=\"https://news.ycombinator.com/item?id=37420831\">256 comments</a>\n            </p>",
             "url": "https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/",
             "title": "North Korean campaign targeting security researchers (blog.google)",
             "summary": "North Korean Threat Actors Target Security Researchers in New Campaign",
             "date_modified": "2023-09-07T15:53:23.000Z",
             "author": {
                 "name": "blog.google"
-            }
-        },
-        {
-            "id": "https://github.com/guardian/typerighter",
-            "content_html": "<p>Typerighter is a server-side service designed to check a document against a set of user-defined rules, similar to a spelling or grammar checker. It consists of two services: the checker and the rule manager. The tool is used at the Guardian to check content against their style guide. The Typerighter Rule Manager produces a JSON artifact that represents all the rules in the system, including user-defined regex rules and Language Tool pattern rules. Each rule corresponds to a Matcher that receives the document and returns a list of RuleMatch. The system consists of two Scala services: the rule-manager service and the checker service. The checker service uses a MatcherPool to manage incoming checks and accommodate different matchers. The services are built in Scala with the Play framework and use a Postgres database for data storage.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37417358\">0 comments</a>\n            </p>",
-            "url": "https://github.com/guardian/typerighter",
-            "title": "The Guardian's Typerighter (github.com)",
-            "summary": "Typerighter: A Server-Side Document Checking Service",
-            "date_modified": "2023-09-07T11:22:51.000Z",
-            "author": {
-                "name": "github.com"
             }
         },
         {
@@ -242,36 +231,14 @@
             }
         },
         {
-            "id": "https://apps.london.gov.uk/street-trees/",
-            "content_html": "<p>N/A\n            </p><p>\n                124 Points |  <a href=\"https://news.ycombinator.com/item?id=37424416\">61 comments</a>\n            </p>",
-            "url": "https://apps.london.gov.uk/street-trees/",
-            "title": "London Street Trees (apps.london.gov.uk)",
-            "summary": "N/A",
-            "date_modified": "2023-09-07T19:34:41.000Z",
+            "id": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
+            "content_html": "<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37426132\">0 comments</a>\n            </p>",
+            "url": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
+            "title": "Accidental Empires, Chapter 11 – Font Wars (1992) (www.cringely.com)",
+            "summary": "The Font Wars: How John Warnock Revolutionized Font Technology with PostScript",
+            "date_modified": "2023-09-07T21:55:05.000Z",
             "author": {
-                "name": "apps.london.gov.uk"
-            }
-        },
-        {
-            "id": "https://github.com/JuliaDebug/Cthulhu.jl",
-            "content_html": "<p>Cthulhu.jl is a debugging tool for type inference issues in Julia. It helps users identify the exact point where inference fails or behaves unexpectedly. The tool provides an interactive interface to explore type-annotated source code and allows users to descend into callees of a function. It also offers options to toggle the display of type annotations and view non-concrete types. Cthulhu can be used to debug type inference problems faster and analyze invalidation and inference triggers. However, there may be errors or omissions in mapping type inference results back to the source code.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37415505\">24 comments</a>\n            </p>",
-            "url": "https://github.com/JuliaDebug/Cthulhu.jl",
-            "title": "Cthulhu.jl – show type-inferred Julia code (github.com)",
-            "summary": "Cthulhu.jl: A Debugging Tool for Type Inference Issues in Julia",
-            "date_modified": "2023-09-07T06:40:36.000Z",
-            "author": {
-                "name": "github.com"
-            }
-        },
-        {
-            "id": "https://mathspp.com/blog/animations-from-first-principles-in-5-minutes",
-            "content_html": "<p>This blog post provides a step-by-step guide on creating animations from scratch using Python and pygame. It starts by explaining how to create a canvas and draw a circle using a parametrization function. The post then demonstrates how to animate the drawing of the circle by gradually adding points to the screen. It also shows how to animate other shapes, such as a figure eight. The post concludes by introducing the concept of morphing between two figures and provides a simple implementation for achieving this effect.\n            </p><p>\n                30 Points |  <a href=\"https://news.ycombinator.com/item?id=37417027\">3 comments</a>\n            </p>",
-            "url": "https://mathspp.com/blog/animations-from-first-principles-in-5-minutes",
-            "title": "Animations From First Principles (in 5 minutes) (mathspp.com)",
-            "summary": "Creating Animations from Scratch with Python and Pygame",
-            "date_modified": "2023-09-07T10:38:07.000Z",
-            "author": {
-                "name": "mathspp.com"
+                "name": "www.cringely.com"
             }
         },
         {
@@ -286,14 +253,36 @@
             }
         },
         {
-            "id": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
-            "content_html": "<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37426132\">0 comments</a>\n            </p>",
-            "url": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
-            "title": "Accidental Empires, Chapter 11 – Font Wars (1992) (www.cringely.com)",
-            "summary": "The Font Wars: How John Warnock Revolutionized Font Technology with PostScript",
-            "date_modified": "2023-09-07T21:55:05.000Z",
+            "id": "https://mathspp.com/blog/animations-from-first-principles-in-5-minutes",
+            "content_html": "<p>This blog post provides a step-by-step guide on creating animations from scratch using Python and pygame. It starts by explaining how to create a canvas and draw a circle using a parametrization function. The post then demonstrates how to animate the drawing of the circle by gradually adding points to the screen. It also shows how to animate other shapes, such as a figure eight. The post concludes by introducing the concept of morphing between two figures and provides a simple implementation for achieving this effect.\n            </p><p>\n                30 Points |  <a href=\"https://news.ycombinator.com/item?id=37417027\">3 comments</a>\n            </p>",
+            "url": "https://mathspp.com/blog/animations-from-first-principles-in-5-minutes",
+            "title": "Animations From First Principles (in 5 minutes) (mathspp.com)",
+            "summary": "Creating Animations from Scratch with Python and Pygame",
+            "date_modified": "2023-09-07T10:38:07.000Z",
             "author": {
-                "name": "www.cringely.com"
+                "name": "mathspp.com"
+            }
+        },
+        {
+            "id": "https://github.com/guardian/typerighter",
+            "content_html": "<p>Typerighter is a server-side service designed to check a document against a set of user-defined rules, similar to a spelling or grammar checker. It consists of two services: the checker and the rule manager. The tool is used at the Guardian to check content against their style guide. The Typerighter Rule Manager produces a JSON artifact that represents all the rules in the system, including user-defined regex rules and Language Tool pattern rules. Each rule corresponds to a Matcher that receives the document and returns a list of RuleMatch. The system consists of two Scala services: the rule-manager service and the checker service. The checker service uses a MatcherPool to manage incoming checks and accommodate different matchers. The services are built in Scala with the Play framework and use a Postgres database for data storage.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37417358\">0 comments</a>\n            </p>",
+            "url": "https://github.com/guardian/typerighter",
+            "title": "The Guardian's Typerighter (github.com)",
+            "summary": "Typerighter: A Server-Side Document Checking Service",
+            "date_modified": "2023-09-07T11:22:51.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
+            "id": "https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU",
+            "content_html": "<p>Chess is not as popular in Japan compared to Shōgi (Japanese chess) and Go. Shōgi has been a part of Japanese culture for centuries and has a large base of enthusiasts. Go, on the other hand, is believed to have been invented over 2,500 years ago in China and has a higher game complexity. The lack of financial support for chess in Japan and the familiarity of Shōgi to the people through media are some reasons why chess hasn't become popular. However, the Japan Chess Federation has been actively promoting chess in the country, leading to an increase in participation and growth of the game. While Japan doesn't have any grandmasters yet, there are high hopes for the future of chess in the country.\n            </p><p>\n                87 Points |  <a href=\"https://news.ycombinator.com/item?id=37428447\">64 comments</a>\n            </p>",
+            "url": "https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU",
+            "title": "Why isn't chess popular in Japan? (lichess.org)",
+            "summary": "Why Chess Isn't Popular in Japan: The Dominance of Shōgi and Go",
+            "date_modified": "2023-09-08T02:16:48.000Z",
+            "author": {
+                "name": "lichess.org"
             }
         },
         {
@@ -319,24 +308,35 @@
             }
         },
         {
-            "id": "https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU",
-            "content_html": "<p>Chess is not as popular in Japan compared to Shōgi (Japanese chess) and Go. Shōgi has been a part of Japanese culture for centuries and has a large base of enthusiasts. Go, on the other hand, is believed to have been invented over 2,500 years ago in China and has a higher game complexity. The lack of financial support for chess in Japan and the familiarity of Shōgi to the people through media are some reasons why chess hasn't become popular. However, the Japan Chess Federation has been actively promoting chess in the country, leading to an increase in participation and growth of the game. While Japan doesn't have any grandmasters yet, there are high hopes for the future of chess in the country.\n            </p><p>\n                87 Points |  <a href=\"https://news.ycombinator.com/item?id=37428447\">64 comments</a>\n            </p>",
-            "url": "https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU",
-            "title": "Why isn't chess popular in Japan? (lichess.org)",
-            "summary": "Why Chess Isn't Popular in Japan: The Dominance of Shōgi and Go",
-            "date_modified": "2023-09-08T02:16:48.000Z",
-            "author": {
-                "name": "lichess.org"
-            }
-        },
-        {
             "id": "https://news.ycombinator.com/item?id=37423893",
-            "content_html": "<p>No summary available\n            </p><p>\n                30 Points |  <a href=\"https://news.ycombinator.com/item?id=37423893\">5 comments</a>\n            </p>",
+            "content_html": "<p>No summary available\n            </p><p>\n                31 Points |  <a href=\"https://news.ycombinator.com/item?id=37423893\">5 comments</a>\n            </p>",
             "url": "https://news.ycombinator.com/item?id=37423893",
             "title": "NaNofuzz: A Usable Tool for Automatic Test Generation [pdf] (news.ycombinator.com)",
             "date_modified": "2023-09-07T18:58:15.000Z",
             "author": {
                 "name": "news.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html",
+            "content_html": "<p>Discovery of documents at the Pontifical Biblical Institute reveals how Catholic institutions in Rome sheltered Jewish individuals during the Nazi persecutions of the 1940s. The documents, compiled by Italian Jesuit Fr. Gozzolino Birolo, list the names of over 4,300 individuals, with 3,600 of them identified by name. The discovery sheds light on the role played by Catholic institutions in safeguarding Jewish lives during World War II. The documents were unveiled at a workshop in Rome, offering a glimpse into the untold stories hidden within its pages. The research was a collaborative effort involving prominent historians and was led by Dominik Markl and Canadian Jesuit Michael Kolarcik.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431159\">0 comments</a>\n            </p>",
+            "url": "https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html",
+            "title": "Discovery shines light on Church's protection of Jews during Nazi persecution (www.vaticannews.va)",
+            "summary": "Discovery at Pontifical Biblical Institute Reveals Catholic Institutions Sheltered Jews During Nazi Persecutions",
+            "date_modified": "2023-09-08T08:47:44.000Z",
+            "author": {
+                "name": "www.vaticannews.va"
+            }
+        },
+        {
+            "id": "https://blog.duolingo.com/words-shared-in-all-languages/",
+            "content_html": "<p>There are a few words that are shared across many languages, including words for tea, pineapple, and orange. However, the two words that are the same in almost every language are 'coffee' and 'chocolate'. These words have spread across the globe and have been adopted by different languages with slight variations in pronunciation and spelling. The word for coffee originated from the Arabic word 'qahwah' and has been borrowed into many languages, while the word for chocolate is based on a Nahuatl word that was adopted by Spanish-speaking communities and then spread worldwide. Knowing these two words can make you feel connected to speakers of almost every language.\n            </p><p>\n                198 Points |  <a href=\"https://news.ycombinator.com/item?id=37419864\">402 comments</a>\n            </p>",
+            "url": "https://blog.duolingo.com/words-shared-in-all-languages/",
+            "title": "Are any words the same in all languages? (blog.duolingo.com)",
+            "summary": "The Shared Words in Almost Every Language: Coffee and Chocolate",
+            "date_modified": "2023-09-07T14:58:59.000Z",
+            "author": {
+                "name": "blog.duolingo.com"
             }
         }
     ]
