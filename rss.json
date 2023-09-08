@@ -12,7 +12,7 @@
     "items": [
         {
             "id": "https://procreate.com/dreams",
-            "content_html": "<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.\n            </p><p>\n                127 Points |  <a href=\"https://news.ycombinator.com/item?id=37434918\">45 comments</a>\n            </p>",
+            "content_html": "<p>Procreate Dreams is a new animation app that allows users to create hand-drawn animations, motion graphics, and enhance them with photos, videos, and sound. It offers a range of features including drawing and painting tools, multi-touch timeline, audio and video editing capabilities, and stage creation. The app also provides live motion and effects adjustments, keyframes for precise animation control, real-time rendering, and onion skins for easy customization. Procreate Dreams supports text and type animation, as well as the import of custom fonts. It is designed for iPad and Apple Pencil, offering a natural and responsive painting experience. The app will be available for purchase on November 22 for $19.99 USD.\n            </p><p>\n                206 Points |  <a href=\"https://news.ycombinator.com/item?id=37434918\">70 comments</a>\n            </p>",
             "url": "https://procreate.com/dreams",
             "title": "Procreate Dreams (procreate.com)",
             "summary": "Introducing Procreate Dreams: A Powerful Animation App for Creating Hand-Drawn Animations and Motion Graphics",
@@ -22,69 +22,14 @@
             }
         },
         {
-            "id": "https://bitbashing.io/async-rust.html",
-            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.\n            </p><p>\n                184 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">113 comments</a>\n            </p>",
-            "url": "https://bitbashing.io/async-rust.html",
-            "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
-            "summary": "Challenges and Limitations of Async Rust for Concurrency",
-            "date_modified": "2023-09-08T16:10:55.000Z",
-            "author": {
-                "name": "bitbashing.io"
-            }
-        },
-        {
-            "id": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
-            "content_html": "<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.\n            </p><p>\n                50 Points |  <a href=\"https://news.ycombinator.com/item?id=37435454\">23 comments</a>\n            </p>",
-            "url": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
-            "title": "Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks (heatmap.news)",
-            "summary": "Microsoft Makes Major Investment in Carbon-Absorbing Rocks",
-            "date_modified": "2023-09-08T16:06:37.000Z",
-            "author": {
-                "name": "heatmap.news"
-            }
-        },
-        {
             "id": "https://emoji.fly.dev",
-            "content_html": "<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.\n            </p><p>\n                177 Points |  <a href=\"https://news.ycombinator.com/item?id=37433523\">77 comments</a>\n            </p>",
+            "content_html": "<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.\n            </p><p>\n                202 Points |  <a href=\"https://news.ycombinator.com/item?id=37433523\">91 comments</a>\n            </p>",
             "url": "https://emoji.fly.dev",
             "title": "Emoji Generator with AI (emoji.fly.dev)",
             "summary": "A Collection of Diverse Emojis in Slackmoji AI Edition",
             "date_modified": "2023-09-08T13:54:13.000Z",
             "author": {
                 "name": "emoji.fly.dev"
-            }
-        },
-        {
-            "id": "https://mtlynch.io/aardvarkd/",
-            "content_html": "<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.\n            </p><p>\n                123 Points |  <a href=\"https://news.ycombinator.com/item?id=37433186\">32 comments</a>\n            </p>",
-            "url": "https://mtlynch.io/aardvarkd/",
-            "title": "Aardvark'd: The Fog Creek Documentary, 18 Years Later (mtlynch.io)",
-            "summary": "Aardvark'd: The Fog Creek Documentary, 18 Years Later - A Look into the Early Days of Tech Startup Founders",
-            "date_modified": "2023-09-08T13:26:45.000Z",
-            "author": {
-                "name": "mtlynch.io"
-            }
-        },
-        {
-            "id": "http://touchpianist.com/",
-            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                394 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">133 comments</a>\n            </p>",
-            "url": "http://touchpianist.com/",
-            "title": "Touch Pianist (touchpianist.com)",
-            "summary": "Menu of Pieces on a Mobile App",
-            "date_modified": "2023-09-08T09:56:08.000Z",
-            "author": {
-                "name": "touchpianist.com"
-            }
-        },
-        {
-            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
-            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
-            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
-            "date_modified": "2023-09-08T17:01:02.000Z",
-            "author": {
-                "name": "www.ycombinator.com"
             }
         },
         {
@@ -99,8 +44,41 @@
             }
         },
         {
+            "id": "https://mtlynch.io/aardvarkd/",
+            "content_html": "<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.\n            </p><p>\n                159 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">42 comments</a>\n            </p>",
+            "url": "https://mtlynch.io/aardvarkd/",
+            "title": "Aardvark'd: The Fog Creek Documentary, 18 Years Later (mtlynch.io)",
+            "summary": "Aardvark'd: The Fog Creek Documentary, 18 Years Later - A Look into the Early Days of Tech Startup Founders",
+            "date_modified": "2023-09-08T13:26:45.000Z",
+            "author": {
+                "name": "mtlynch.io"
+            }
+        },
+        {
+            "id": "http://touchpianist.com/",
+            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                438 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">149 comments</a>\n            </p>",
+            "url": "http://touchpianist.com/",
+            "title": "Touch Pianist (touchpianist.com)",
+            "summary": "Menu of Pieces on a Mobile App",
+            "date_modified": "2023-09-08T09:56:08.000Z",
+            "author": {
+                "name": "touchpianist.com"
+            }
+        },
+        {
+            "id": "https://bitbashing.io/async-rust.html",
+            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.\n            </p><p>\n                245 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">186 comments</a>\n            </p>",
+            "url": "https://bitbashing.io/async-rust.html",
+            "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
+            "summary": "Challenges and Limitations of Async Rust for Concurrency",
+            "date_modified": "2023-09-08T16:10:55.000Z",
+            "author": {
+                "name": "bitbashing.io"
+            }
+        },
+        {
             "id": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
-            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                248 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">96 comments</a>\n            </p>",
+            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                312 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">122 comments</a>\n            </p>",
             "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
             "title": "Bun v1.0.0 (github.com)",
             "summary": "Bun v1.0 Release: Bug Fixes, Improvements, and New Features",
@@ -110,8 +88,41 @@
             }
         },
         {
+            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
+            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
+            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
+            "date_modified": "2023-09-08T17:01:02.000Z",
+            "author": {
+                "name": "www.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://www.bbc.co.uk/sport/american-football/66713731",
+            "content_html": "<p>College football athletes in the US are now able to earn money through endorsement deals and the use of their name, image, or likeness (NIL). This change in the rules governing their amateur status has allowed players to capitalize on their earning potential. The sport generates billions of dollars in revenue, with top football programs and coaches earning extraordinary sums. The significance of college football goes beyond financial figures, as it is deeply ingrained in the cultural fabric of communities across the nation. However, concerns have been raised about the potential imbalance and sustainability of the money now flowing to players. While NIL income has been beneficial for many athletes, there are challenges in managing academic and athletic responsibilities, as well as financial obligations.\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37412683\">16 comments</a>\n            </p>",
+            "url": "https://www.bbc.co.uk/sport/american-football/66713731",
+            "title": "College football in the US is awash with money (www.bbc.co.uk)",
+            "summary": "College Football Athletes Cash in on Endorsement Deals and NIL Opportunities",
+            "date_modified": "2023-09-06T23:13:57.000Z",
+            "author": {
+                "name": "www.bbc.co.uk"
+            }
+        },
+        {
+            "id": "https://gist.github.com/osy/45e612345376a65c56d0678834535166",
+            "content_html": "<p>TPM (Trusted Platform Module) is criticized for providing zero practical security due to its flawed architecture and broken implementations. The concept of 'trusted computing' was introduced primarily for DRM and ownership purposes, but it failed to impact the consumer market. However, there is a recent push to reintroduce TPM, with Microsoft requiring TPM 2.0 for Windows 11 and Google exploring its integration into web browsers. Even Canonical is adopting TPM for full-disk encryption in Ubuntu. The TPM is a microcontroller that stores keys, passwords, and certificates, aiming to enhance security. However, the TPM's threat model is flawed, relying on trusting all software running on the system up until the measurement is sealed. This raises concerns about future measurements and the potential for vulnerabilities. Overall, TPM's practical security benefits are questionable.\n            </p><p>\n                27 Points |  <a href=\"https://news.ycombinator.com/item?id=37435450\">20 comments</a>\n            </p>",
+            "url": "https://gist.github.com/osy/45e612345376a65c56d0678834535166",
+            "title": "TPM provides zero practical security (gist.github.com)",
+            "summary": "TPM's Practical Security Questioned Due to Flawed Architecture and Broken Implementations",
+            "date_modified": "2023-09-08T16:06:24.000Z",
+            "author": {
+                "name": "gist.github.com"
+            }
+        },
+        {
             "id": "https://arxiv.org/abs/2309.03409",
-            "content_html": "<p>The paper introduces Optimization by PROmpting (OPRO), a method that leverages large language models (LLMs) as optimizers. OPRO uses natural language prompts to generate new solutions in each optimization step. The authors demonstrate the effectiveness of OPRO on linear regression, traveling salesman problems, and prompt optimization tasks. They show that prompts optimized by OPRO outperform human-designed prompts by up to 8% on GSM8K and by up to 50% on Big-Bench Hard tasks. The paper falls under the categories of Machine Learning, Artificial Intelligence, and Computation and Language.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37434069\">0 comments</a>\n            </p>",
+            "content_html": "<p>The paper introduces Optimization by PROmpting (OPRO), a method that leverages large language models (LLMs) as optimizers. OPRO uses natural language prompts to generate new solutions in each optimization step. The authors demonstrate the effectiveness of OPRO on linear regression, traveling salesman problems, and prompt optimization tasks. They show that prompts optimized by OPRO outperform human-designed prompts by up to 8% on GSM8K and by up to 50% on Big-Bench Hard tasks. The paper falls under the categories of Machine Learning, Artificial Intelligence, and Computation and Language.\n            </p><p>\n                48 Points |  <a href=\"https://news.ycombinator.com/item?id=37434069\">10 comments</a>\n            </p>",
             "url": "https://arxiv.org/abs/2309.03409",
             "title": "Large Language Models as Optimizers. +50% on Big Bench Hard (arxiv.org)",
             "summary": "Leveraging Large Language Models as Optimizers: Introducing Optimization by PROmpting (OPRO)",
@@ -121,30 +132,8 @@
             }
         },
         {
-            "id": "https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution",
-            "content_html": "<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.\n            </p><p>\n                121 Points |  <a href=\"https://news.ycombinator.com/item?id=37434381\">24 comments</a>\n            </p>",
-            "url": "https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution",
-            "title": "Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)",
-            "summary": "Air pollution degrades floral scent, making it difficult for bees to find flowers",
-            "date_modified": "2023-09-08T14:59:13.000Z",
-            "author": {
-                "name": "www.birmingham.ac.uk"
-            }
-        },
-        {
-            "id": "https://growth.design/case-studies/apple-privacy-policy",
-            "content_html": "<p>N/A\n            </p><p>\n                232 Points |  <a href=\"https://news.ycombinator.com/item?id=37433495\">182 comments</a>\n            </p>",
-            "url": "https://growth.design/case-studies/apple-privacy-policy",
-            "title": "Apple vs. Meta: The Illusion of Privacy (growth.design)",
-            "summary": "N/A",
-            "date_modified": "2023-09-08T13:52:36.000Z",
-            "author": {
-                "name": "growth.design"
-            }
-        },
-        {
             "id": "https://oscarbenjamin.github.io/blog/czi/post1.html",
-            "content_html": "<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System\n            </p><p>\n                44 Points |  <a href=\"https://news.ycombinator.com/item?id=37430759\">15 comments</a>\n            </p>",
+            "content_html": "<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System\n            </p><p>\n                56 Points |  <a href=\"https://news.ycombinator.com/item?id=37430759\">25 comments</a>\n            </p>",
             "url": "https://oscarbenjamin.github.io/blog/czi/post1.html",
             "title": "Towards a New SymPy (oscarbenjamin.github.io)",
             "summary": "Foundations of a Computer Algebra System: Towards a Faster SymPy",
@@ -165,30 +154,30 @@
             }
         },
         {
-            "id": "https://gist.github.com/osy/45e612345376a65c56d0678834535166",
-            "content_html": "<p>TPM (Trusted Platform Module) is criticized for providing zero practical security due to its flawed architecture and broken implementations. The concept of 'trusted computing' was introduced primarily for DRM and ownership purposes, but it failed to impact the consumer market. However, there is a recent push to reintroduce TPM, with Microsoft requiring TPM 2.0 for Windows 11 and Google exploring its integration into web browsers. Even Canonical is adopting TPM for full-disk encryption in Ubuntu. The TPM is a microcontroller that stores keys, passwords, and certificates, aiming to enhance security. However, the TPM's threat model is flawed, relying on trusting all software running on the system up until the measurement is sealed. This raises concerns about future measurements and the potential for vulnerabilities. Overall, TPM's practical security benefits are questionable.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37435450\">0 comments</a>\n            </p>",
-            "url": "https://gist.github.com/osy/45e612345376a65c56d0678834535166",
-            "title": "TPM provides zero practical security (gist.github.com)",
-            "summary": "TPM's Practical Security Questioned Due to Flawed Architecture and Broken Implementations",
-            "date_modified": "2023-09-08T16:06:24.000Z",
+            "id": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
+            "content_html": "<p>Microsoft signs one of the biggest carbon removal deals to date with Heirloom Carbon, a startup that uses crushed rocks to absorb CO2 from the air. The deal involves capturing 315,000 metric tons of carbon over 10 years, equivalent to 75% of Microsoft's 2022 emissions. Heirloom's method involves heating limestone in an electric kiln to release CO2, then spreading the leftover calcium oxide on trays to absorb carbon from the air. The deal signifies confidence in Heirloom's approach and supports Microsoft's goal to become carbon negative by 2030. This type of long-term contract is similar to power purchase agreements in the renewable energy sector.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37435454\">42 comments</a>\n            </p>",
+            "url": "https://heatmap.news/economy/heirloom-carbon-microsoft-removal",
+            "title": "Heirloom Carbon: Absorbing CO2 from the air using crushed rocks (heatmap.news)",
+            "summary": "Microsoft Makes Major Investment in Carbon-Absorbing Rocks",
+            "date_modified": "2023-09-08T16:06:37.000Z",
             "author": {
-                "name": "gist.github.com"
+                "name": "heatmap.news"
             }
         },
         {
-            "id": "https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html",
-            "content_html": "<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL\n            </p><p>\n                94 Points |  <a href=\"https://news.ycombinator.com/item?id=37431560\">39 comments</a>\n            </p>",
-            "url": "https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html",
-            "title": "PgBouncer is useful, important, and fraught with peril (jpcamara.com)",
-            "summary": "The Significance and Challenges of PgBouncer for Scaling PostgreSQL",
-            "date_modified": "2023-09-08T09:43:22.000Z",
+            "id": "https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution",
+            "content_html": "<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.\n            </p><p>\n                121 Points |  <a href=\"https://news.ycombinator.com/item?id=37434381\">24 comments</a>\n            </p>",
+            "url": "https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution",
+            "title": "Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)",
+            "summary": "Air pollution degrades floral scent, making it difficult for bees to find flowers",
+            "date_modified": "2023-09-08T14:59:13.000Z",
             "author": {
-                "name": "jpcamara.com"
+                "name": "www.birmingham.ac.uk"
             }
         },
         {
             "id": "https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d",
-            "content_html": "<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.\n            </p><p>\n                26 Points |  <a href=\"https://news.ycombinator.com/item?id=37435656\">15 comments</a>\n            </p>",
+            "content_html": "<p>SpaceX must address multiple issues and apply for a modified FAA license before launching its Starship mega rocket again, following its failed debut that ended in an explosion. The Federal Aviation Administration (FAA) has closed its investigation into the incident and has identified 63 corrective actions for SpaceX to take. The April launch explosion resulted in debris being scattered for thousands of feet and a plume of pulverized concrete spreading for miles. SpaceX founder Elon Musk has made improvements to the rocket and launch pad, and a new Starship is ready for liftoff. NASA plans to use Starship for moon landings, while Musk aims to build a fleet for Mars missions.\n            </p><p>\n                46 Points |  <a href=\"https://news.ycombinator.com/item?id=37435656\">28 comments</a>\n            </p>",
             "url": "https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d",
             "title": "SpaceX can't launch its giant rocket again until fixes are made, FAA says (apnews.com)",
             "summary": "FAA Requires SpaceX to Address Issues Before Launching Starship Mega Rocket Again",
@@ -198,8 +187,41 @@
             }
         },
         {
+            "id": "https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html",
+            "content_html": "<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL\n            </p><p>\n                122 Points |  <a href=\"https://news.ycombinator.com/item?id=37431560\">49 comments</a>\n            </p>",
+            "url": "https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html",
+            "title": "PgBouncer is useful, important, and fraught with peril (jpcamara.com)",
+            "summary": "The Significance and Challenges of PgBouncer for Scaling PostgreSQL",
+            "date_modified": "2023-09-08T09:43:22.000Z",
+            "author": {
+                "name": "jpcamara.com"
+            }
+        },
+        {
+            "id": "https://growth.design/case-studies/apple-privacy-policy",
+            "content_html": "<p>N/A\n            </p><p>\n                259 Points |  <a href=\"https://news.ycombinator.com/item?id=37433495\">207 comments</a>\n            </p>",
+            "url": "https://growth.design/case-studies/apple-privacy-policy",
+            "title": "Apple vs. Meta: The Illusion of Privacy (growth.design)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T13:52:36.000Z",
+            "author": {
+                "name": "growth.design"
+            }
+        },
+        {
+            "id": "https://www.noahpinion.blog/p/our-climate-change-debates-are-out",
+            "content_html": "<p>The solar and battery revolution is transforming the climate change debate, as cheap renewable energy becomes increasingly viable. The article highlights how outdated discussions about climate change are, as they fail to account for the significant advancements in solar power and electric vehicles. The cost of solar power and lithium-ion batteries has dramatically decreased, making them more affordable and competitive than other forms of energy generation. The article also addresses concerns about intermittency, reliability, and scalability, noting that solar power with battery storage has proven to be reliable and scalable. The solar and battery revolution is already underway, with solar and battery storage accounting for a significant portion of new U.S. generating capacity additions. The technological advancements in solar and batteries should inform climate debates, promote optimism, reject the idea of degrowth, and influence policy prescriptions.\n            </p><p>\n                40 Points |  <a href=\"https://news.ycombinator.com/item?id=37435387\">14 comments</a>\n            </p>",
+            "url": "https://www.noahpinion.blog/p/our-climate-change-debates-are-out",
+            "title": "Solar and batteries are going to win, and our thinking needs to adjust (www.noahpinion.blog)",
+            "summary": "The Solar and Battery Revolution: Transforming the Climate Change Debate",
+            "date_modified": "2023-09-08T16:02:08.000Z",
+            "author": {
+                "name": "www.noahpinion.blog"
+            }
+        },
+        {
             "id": "https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html",
-            "content_html": "<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.\n            </p><p>\n                179 Points |  <a href=\"https://news.ycombinator.com/item?id=37425052\">112 comments</a>\n            </p>",
+            "content_html": "<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.\n            </p><p>\n                199 Points |  <a href=\"https://news.ycombinator.com/item?id=37425052\">128 comments</a>\n            </p>",
             "url": "https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html",
             "title": "China's ancient water pipe networks show no evidence of a centralized authority (phys.org)",
             "summary": "Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority",
@@ -220,14 +242,14 @@
             }
         },
         {
-            "id": "https://www.businessinsider.com/chatgpt-losing-hype-traffic-down-three-months-in-a-row-2023-9",
-            "content_html": "<p>ChatGPT, the popular chatbot developed by OpenAI, is experiencing a decline in website traffic and user engagement for the third consecutive month. The average time spent on the chatbot has decreased, and while the decline in visits seems to be stabilizing, it may be attributed to the summer break for students. Additionally, academics have found that ChatGPT's accuracy has diminished over time. Despite its initial popularity, the chatbot's performance has raised concerns among users, with complaints about its declining performance. OpenAI has not yet responded to these concerns.\n            </p><p>\n                13 Points |  <a href=\"https://news.ycombinator.com/item?id=37436298\">13 comments</a>\n            </p>",
-            "url": "https://www.businessinsider.com/chatgpt-losing-hype-traffic-down-three-months-in-a-row-2023-9",
-            "title": "ChatGPT is losing some of its hype, traffic falls for the third month in a row (www.businessinsider.com)",
-            "summary": "ChatGPT's Website Traffic and User Engagement Decline for Third Consecutive Month",
-            "date_modified": "2023-09-08T17:05:58.000Z",
+            "id": "https://rivet.ironcladapp.com/",
+            "content_html": "<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.\n            </p><p>\n                72 Points |  <a href=\"https://news.ycombinator.com/item?id=37433218\">16 comments</a>\n            </p>",
+            "url": "https://rivet.ironcladapp.com/",
+            "title": "Show HN: Rivet – open-source AI Agent dev env with real-world applications (rivet.ironcladapp.com)",
+            "summary": "Rivet: A Visual Programming Environment for Building AI Agents with LLMs",
+            "date_modified": "2023-09-08T13:29:05.000Z",
             "author": {
-                "name": "www.businessinsider.com"
+                "name": "rivet.ironcladapp.com"
             }
         },
         {
@@ -242,28 +264,6 @@
             }
         },
         {
-            "id": "https://www.nature.com/articles/s41586-023-06502-w",
-            "content_html": "<p>Specialized astrocytes in the central nervous system mediate glutamatergic gliotransmission, playing a role in brain circuitry assembly and function. Through the use of molecular, bioinformatic, and imaging approaches, researchers identified a subpopulation of astrocytes in the hippocampus that selectively expressed synaptic-like glutamate-release machinery. These astrocytes were found to respond to astrocyte-selective stimulations with subsecond glutamate release events at specific locations. Deletion of the vesicular glutamate transporter 1 (VGLUT1) in these astrocytes suppressed the glutamate release. The study provides insights into the complex roles of astrocytes in the central nervous system and identifies a potential therapeutic target.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37412834\">0 comments</a>\n            </p>",
-            "url": "https://www.nature.com/articles/s41586-023-06502-w",
-            "title": "Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (www.nature.com)",
-            "summary": "Specialized Astrocytes Mediate Glutamatergic Gliotransmission in the CNS",
-            "date_modified": "2023-09-06T23:33:09.000Z",
-            "author": {
-                "name": "www.nature.com"
-            }
-        },
-        {
-            "id": "https://rivet.ironcladapp.com/",
-            "content_html": "<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.\n            </p><p>\n                72 Points |  <a href=\"https://news.ycombinator.com/item?id=37433218\">16 comments</a>\n            </p>",
-            "url": "https://rivet.ironcladapp.com/",
-            "title": "Show HN: Rivet – open-source AI Agent dev env with real-world applications (rivet.ironcladapp.com)",
-            "summary": "Rivet: A Visual Programming Environment for Building AI Agents with LLMs",
-            "date_modified": "2023-09-08T13:29:05.000Z",
-            "author": {
-                "name": "rivet.ironcladapp.com"
-            }
-        },
-        {
             "id": "https://about.honywen.com/publication/2023ase/#",
             "content_html": "<p>This empirical study examines the characteristics and current state of malicious code in the PyPI ecosystem. The researchers collected a dataset of 4,669 malicious package files and classified them into five categories based on their behavior. The study found that over 50% of the malicious code exhibited multiple malicious behaviors, with information stealing and command execution being common. The analysis revealed that 74.81% of the malicious packages successfully entered end-user projects through source code installation, posing significant security risks. Furthermore, many reported malicious packages persisted in PyPI mirror servers globally, even after being discovered. The study provides insights into the lifecycle of malicious code in the PyPI ecosystem and suggests mitigations to enhance the security of the Python open-source ecosystem.\n            </p><p>\n                19 Points |  <a href=\"https://news.ycombinator.com/item?id=37433743\">11 comments</a>\n            </p>",
             "url": "https://about.honywen.com/publication/2023ase/#",
@@ -272,6 +272,17 @@
             "date_modified": "2023-09-08T14:12:27.000Z",
             "author": {
                 "name": "about.honywen.com"
+            }
+        },
+        {
+            "id": "https://www.nature.com/articles/s41586-023-06502-w",
+            "content_html": "<p>Specialized astrocytes in the central nervous system mediate glutamatergic gliotransmission, playing a role in brain circuitry assembly and function. Through the use of molecular, bioinformatic, and imaging approaches, researchers identified a subpopulation of astrocytes in the hippocampus that selectively expressed synaptic-like glutamate-release machinery. These astrocytes were found to respond to astrocyte-selective stimulations with subsecond glutamate release events at specific locations. Deletion of the vesicular glutamate transporter 1 (VGLUT1) in these astrocytes suppressed the glutamate release. The study provides insights into the complex roles of astrocytes in the central nervous system and identifies a potential therapeutic target.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37412834\">0 comments</a>\n            </p>",
+            "url": "https://www.nature.com/articles/s41586-023-06502-w",
+            "title": "Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (www.nature.com)",
+            "summary": "Specialized Astrocytes Mediate Glutamatergic Gliotransmission in the CNS",
+            "date_modified": "2023-09-06T23:33:09.000Z",
+            "author": {
+                "name": "www.nature.com"
             }
         },
         {
@@ -297,17 +308,6 @@
             }
         },
         {
-            "id": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
-            "content_html": "<p>TSMC warns that the shortage of advanced packaging capacity will continue to impact the availability of high-end GPUs until at least the end of 2024. The issue lies in the lack of capacity to stitch the silicon together, rather than a shortage of chips. TSMC can only meet about 80% of the demand for its chip on wafer on substrate (CoWoS) packaging technology, which is used in advanced chips for AI workloads. TSMC expects additional CoWoS capacity to come online within the next 18 months. This shortage affects not only Nvidia but also AMD's upcoming Instinct MI300-series accelerators.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37432948\">51 comments</a>\n            </p>",
-            "url": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
-            "title": "TSMC warns AI chip crunch will last another 18 months (www.theregister.com)",
-            "summary": "TSMC warns AI chip crunch will last another 18 months",
-            "date_modified": "2023-09-08T13:03:32.000Z",
-            "author": {
-                "name": "www.theregister.com"
-            }
-        },
-        {
             "id": "https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/",
             "content_html": "<p>The request has been rate-limited due to excessive requests made within a short period of time. If you believe this is an error, please contact support.\n            </p><p>\n                53 Points |  <a href=\"https://news.ycombinator.com/item?id=37433036\">35 comments</a>\n            </p>",
             "url": "https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/",
@@ -319,6 +319,17 @@
             }
         },
         {
+            "id": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
+            "content_html": "<p>TSMC warns that the shortage of advanced packaging capacity will continue to impact the availability of high-end GPUs until at least the end of 2024. The issue lies in the lack of capacity to stitch the silicon together, rather than a shortage of chips. TSMC can only meet about 80% of the demand for its chip on wafer on substrate (CoWoS) packaging technology, which is used in advanced chips for AI workloads. TSMC expects additional CoWoS capacity to come online within the next 18 months. This shortage affects not only Nvidia but also AMD's upcoming Instinct MI300-series accelerators.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37432948\">51 comments</a>\n            </p>",
+            "url": "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/",
+            "title": "TSMC warns AI chip crunch will last another 18 months (www.theregister.com)",
+            "summary": "TSMC warns AI chip crunch will last another 18 months",
+            "date_modified": "2023-09-08T13:03:32.000Z",
+            "author": {
+                "name": "www.theregister.com"
+            }
+        },
+        {
             "id": "http://www.ws.binghamton.edu/fridrich/cube.html",
             "content_html": "<p>A guide to advanced speed cubing techniques and resources, including tips for solving Rubik's cube faster, customizing algorithms, and achieving record times. It also features collections of various algorithms, pretty patterns, and expert insights from renowned speed cubers. The page includes personal experiences from attending world championships and cube-related events, as well as links to additional resources for further exploration.\n            </p><p>\n                81 Points |  <a href=\"https://news.ycombinator.com/item?id=37416999\">36 comments</a>\n            </p>",
             "url": "http://www.ws.binghamton.edu/fridrich/cube.html",
@@ -327,17 +338,6 @@
             "date_modified": "2023-09-07T10:33:33.000Z",
             "author": {
                 "name": "www.ws.binghamton.edu"
-            }
-        },
-        {
-            "id": "https://www.h2fly.de/",
-            "content_html": "<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.\n            </p><p>\n                16 Points |  <a href=\"https://news.ycombinator.com/item?id=37433380\">12 comments</a>\n            </p>",
-            "url": "https://www.h2fly.de/",
-            "title": "H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)",
-            "summary": "Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation",
-            "date_modified": "2023-09-08T13:42:42.000Z",
-            "author": {
-                "name": "www.h2fly.de"
             }
         }
     ]
