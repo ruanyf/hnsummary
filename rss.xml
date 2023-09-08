@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 22:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 22:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,17 @@
         </image>
         <category>Frontpage</category>
         <atom:link href="https://ruanyf.github.io/hnsummary/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Decoded: GNU Coreutils (maizure.org)]]></title>
+            <link>https://maizure.org/projects/decoded-gnu-coreutils/</link>
+            <guid>https://maizure.org/projects/decoded-gnu-coreutils/</guid>
+            <pubDate>Fri, 08 Sep 2023 21:15:52 GMT</pubDate>
+            <description><![CDATA[Decoding the GNU coreutils: Exploring the Design of Command-Line Utilities]]></description>
+            <content:encoded><![CDATA[<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37439535">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Show HN: Conway's Game of Life in TypeScript's type system (github.com)]]></title>
             <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
@@ -27,14 +38,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Decoded: GNU Coreutils (maizure.org)]]></title>
-            <link>https://maizure.org/projects/decoded-gnu-coreutils/</link>
-            <guid>https://maizure.org/projects/decoded-gnu-coreutils/</guid>
-            <pubDate>Fri, 08 Sep 2023 21:15:52 GMT</pubDate>
-            <description><![CDATA[Decoding the GNU coreutils: Exploring the Design of Command-Line Utilities]]></description>
-            <content:encoded><![CDATA[<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.
+            <title><![CDATA[NVIDIA introduces TensorRT-LLM for accelerating LLM inference on H100/A100 GPUs (developer.nvidia.com)]]></title>
+            <link>https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/</link>
+            <guid>https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/</guid>
+            <pubDate>Fri, 08 Sep 2023 20:54:39 GMT</pubDate>
+            <description><![CDATA[NVIDIA TensorRT-LLM Supercharges Large Language Model Inference on NVIDIA H100 GPUs]]></description>
+            <content:encoded><![CDATA[<p>NVIDIA TensorRT-LLM is an open-source software that enhances the performance of large language models (LLMs) on NVIDIA GPUs. It offers optimized kernels, pre- and post-processing steps, and multi-GPU/multi-node communication primitives. TensorRT-LLM improves ease of use and extensibility through an open-source modular Python API. It enables developers to experiment with new LLMs without deep knowledge of C++ or NVIDIA CUDA. The software also includes features like in-flight batching and FP8 quantization, which improve GPU usage and reduce memory consumption. TensorRT-LLM supports various LLMs, including Meta Llama 2, OpenAI GPT-2 and GPT-3, Falcon, and Mosaic MPT. It is available in early access and will be integrated into the NVIDIA NeMo framework.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37439535">0 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37439280">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -67,7 +78,7 @@
             <description><![CDATA[Menu of Pieces on a Mobile App]]></description>
             <content:encoded><![CDATA[<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.
             </p><p>
-                510 Points |  <a href="https://news.ycombinator.com/item?id=37431644">166 comments</a>
+                584 Points |  <a href="https://news.ycombinator.com/item?id=37431644">186 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -93,6 +104,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)]]></title>
+            <link>https://github.com/dancrossnyc/rxv64</link>
+            <guid>https://github.com/dancrossnyc/rxv64</guid>
+            <pubDate>Fri, 08 Sep 2023 21:03:19 GMT</pubDate>
+            <description><![CDATA[rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust]]></description>
+            <content:encoded><![CDATA[<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.
+            </p><p>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37439391">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Bun v1.0.0 (github.com)]]></title>
             <link>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</link>
             <guid>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</guid>
@@ -101,17 +123,6 @@
             <content:encoded><![CDATA[<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.
             </p><p>
                 586 Points |  <a href="https://news.ycombinator.com/item?id=37434117">193 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NVIDIA introduces TensorRT-LLM for accelerating LLM inference on H100/A100 GPUs (developer.nvidia.com)]]></title>
-            <link>https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/</link>
-            <guid>https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/</guid>
-            <pubDate>Fri, 08 Sep 2023 20:54:39 GMT</pubDate>
-            <description><![CDATA[NVIDIA TensorRT-LLM Supercharges Large Language Model Inference on NVIDIA H100 GPUs]]></description>
-            <content:encoded><![CDATA[<p>NVIDIA TensorRT-LLM is an open-source software that enhances the performance of large language models (LLMs) on NVIDIA GPUs. It offers optimized kernels, pre- and post-processing steps, and multi-GPU/multi-node communication primitives. TensorRT-LLM improves ease of use and extensibility through an open-source modular Python API. It enables developers to experiment with new LLMs without deep knowledge of C++ or NVIDIA CUDA. The software also includes features like in-flight batching and FP8 quantization, which improve GPU usage and reduce memory consumption. TensorRT-LLM supports various LLMs, including Meta Llama 2, OpenAI GPT-2 and GPT-3, Falcon, and Mosaic MPT. It is available in early access and will be integrated into the NVIDIA NeMo framework.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37439280">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -126,14 +137,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Why we didn’t get a malaria vaccine sooner (worksinprogress.co)]]></title>
-            <link>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</link>
-            <guid>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</guid>
-            <pubDate>Fri, 08 Sep 2023 18:49:21 GMT</pubDate>
-            <description><![CDATA[The Challenges and Delays in Developing a Malaria Vaccine]]></description>
-            <content:encoded><![CDATA[<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.
+            <title><![CDATA[Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)]]></title>
+            <link>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</link>
+            <guid>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</guid>
+            <pubDate>Fri, 08 Sep 2023 16:49:59 GMT</pubDate>
+            <description><![CDATA[Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market]]></description>
+            <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
             </p><p>
-                73 Points |  <a href="https://news.ycombinator.com/item?id=37437739">50 comments</a>
+                28 Points |  <a href="https://news.ycombinator.com/item?id=37436092">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -148,28 +159,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)]]></title>
-            <link>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</link>
-            <guid>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</guid>
-            <pubDate>Fri, 08 Sep 2023 16:49:59 GMT</pubDate>
-            <description><![CDATA[Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market]]></description>
-            <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
-            </p><p>
-                28 Points |  <a href="https://news.ycombinator.com/item?id=37436092">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)]]></title>
-            <link>https://github.com/dancrossnyc/rxv64</link>
-            <guid>https://github.com/dancrossnyc/rxv64</guid>
-            <pubDate>Fri, 08 Sep 2023 21:03:19 GMT</pubDate>
-            <description><![CDATA[rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust]]></description>
-            <content:encoded><![CDATA[<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37439391">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Artic Code Vault (archiveprogram.github.com)]]></title>
             <link>https://archiveprogram.github.com/arctic-vault/</link>
             <guid>https://archiveprogram.github.com/arctic-vault/</guid>
@@ -181,6 +170,27 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf] (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37438934</link>
+            <guid>https://news.ycombinator.com/item?id=37438934</guid>
+            <pubDate>Fri, 08 Sep 2023 20:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
+            </p><p>
+                45 Points |  <a href="https://news.ycombinator.com/item?id=37438934">22 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Absence of Data Privacy Law Is a National Security Threat (nationalinterest.org)]]></title>
+            <link>https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773</link>
+            <guid>https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773</guid>
+            <pubDate>Fri, 08 Sep 2023 21:17:24 GMT</pubDate>
+            <description><![CDATA[The Absence of Data Privacy Law: A Threat to National Security]]></description>
+            <content:encoded><![CDATA[<p>The absence of data privacy laws poses a national security threat as it allows foreign intelligence agencies to collect sensitive personal data. U.S. businesses have been involved in aiding China's mass surveillance and censorship programs, contributing to human rights violations. China has implemented privacy protections and strengthened its data security laws, benchmarking Europe's General Data Protection Regulation. China's intelligence agency has increased investments in open-source military intelligence and data collection. Multilateral security cooperation is crucial in countering cybersecurity threats and protecting liberal democratic values.
+            </p><p>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37439553">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)]]></title>
             <link>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</link>
             <guid>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</guid>
@@ -189,6 +199,17 @@
             <content:encoded><![CDATA[<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.
             </p><p>
                 1 Points |  <a href="https://news.ycombinator.com/item?id=37436236">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why we didn’t get a malaria vaccine sooner (worksinprogress.co)]]></title>
+            <link>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</link>
+            <guid>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</guid>
+            <pubDate>Fri, 08 Sep 2023 18:49:21 GMT</pubDate>
+            <description><![CDATA[The Challenges and Delays in Developing a Malaria Vaccine]]></description>
+            <content:encoded><![CDATA[<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.
+            </p><p>
+                76 Points |  <a href="https://news.ycombinator.com/item?id=37437739">67 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -214,17 +235,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)]]></title>
-            <link>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</link>
-            <guid>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</guid>
-            <pubDate>Fri, 08 Sep 2023 03:36:11 GMT</pubDate>
-            <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
-            <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
-            </p><p>
-                119 Points |  <a href="https://news.ycombinator.com/item?id=37428937">80 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[The thinking path (www.robinsloan.com)]]></title>
             <link>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</link>
             <guid>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</guid>
@@ -233,17 +243,6 @@
             <content:encoded><![CDATA[<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.
             </p><p>
                 92 Points |  <a href="https://news.ycombinator.com/item?id=37426107">20 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PgBouncer is useful, important, and fraught with peril (jpcamara.com)]]></title>
-            <link>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</link>
-            <guid>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</guid>
-            <pubDate>Fri, 08 Sep 2023 09:43:22 GMT</pubDate>
-            <description><![CDATA[The Significance and Challenges of PgBouncer for Scaling PostgreSQL]]></description>
-            <content:encoded><![CDATA[<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL
-            </p><p>
-                162 Points |  <a href="https://news.ycombinator.com/item?id=37431560">59 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -258,24 +257,47 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf] (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37438934</link>
-            <guid>https://news.ycombinator.com/item?id=37438934</guid>
-            <pubDate>Fri, 08 Sep 2023 20:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
+            <title><![CDATA[PgBouncer is useful, important, and fraught with peril (jpcamara.com)]]></title>
+            <link>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</link>
+            <guid>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</guid>
+            <pubDate>Fri, 08 Sep 2023 09:43:22 GMT</pubDate>
+            <description><![CDATA[The Significance and Challenges of PgBouncer for Scaling PostgreSQL]]></description>
+            <content:encoded><![CDATA[<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL
             </p><p>
-                30 Points |  <a href="https://news.ycombinator.com/item?id=37438934">11 comments</a>
+                162 Points |  <a href="https://news.ycombinator.com/item?id=37431560">59 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Absence of Data Privacy Law Is a National Security Threat (nationalinterest.org)]]></title>
-            <link>https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773</link>
-            <guid>https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773</guid>
-            <pubDate>Fri, 08 Sep 2023 21:17:24 GMT</pubDate>
-            <description><![CDATA[The Absence of Data Privacy Law: A Threat to National Security]]></description>
-            <content:encoded><![CDATA[<p>The absence of data privacy laws poses a national security threat as it allows foreign intelligence agencies to collect sensitive personal data. U.S. businesses have been involved in aiding China's mass surveillance and censorship programs, contributing to human rights violations. China has implemented privacy protections and strengthened its data security laws, benchmarking Europe's General Data Protection Regulation. China's intelligence agency has increased investments in open-source military intelligence and data collection. Multilateral security cooperation is crucial in countering cybersecurity threats and protecting liberal democratic values.
+            <title><![CDATA[ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)]]></title>
+            <link>https://eprint.iacr.org/2023/1053</link>
+            <guid>https://eprint.iacr.org/2023/1053</guid>
+            <pubDate>Fri, 08 Sep 2023 09:24:25 GMT</pubDate>
+            <description><![CDATA[ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet]]></description>
+            <content:encoded><![CDATA[<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.
             </p><p>
-                9 Points |  <a href="https://news.ycombinator.com/item?id=37439553">0 comments</a>
+                5 Points |  <a href="https://news.ycombinator.com/item?id=37431433">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)]]></title>
+            <link>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</link>
+            <guid>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</guid>
+            <pubDate>Fri, 08 Sep 2023 03:36:11 GMT</pubDate>
+            <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
+            <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
+            </p><p>
+                135 Points |  <a href="https://news.ycombinator.com/item?id=37428937">91 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sieve: An Email Filtering Language (RFC5228) (www.rfc-editor.org)]]></title>
+            <link>https://www.rfc-editor.org/info/rfc5228</link>
+            <guid>https://www.rfc-editor.org/info/rfc5228</guid>
+            <pubDate>Thu, 07 Sep 2023 08:54:00 GMT</pubDate>
+            <description><![CDATA[Sieve: An Email Filtering Language, a Proposed Standard]]></description>
+            <content:encoded><![CDATA[<p>Sieve: An Email Filtering Language is a proposed standard that describes a language for filtering email messages at the time of final delivery. It can be implemented on both mail clients and servers, and is designed to be extensible, simple, and independent of access protocol, mail architecture, and operating system. The language is suitable for use on mail servers where users may not be allowed to execute arbitrary programs. It does not have variables, loops, or the ability to shell out to external programs. The document provides the definition of status and stream as per RFC standards.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37416342">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -301,17 +323,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Sieve: An Email Filtering Language (RFC5228) (www.rfc-editor.org)]]></title>
-            <link>https://www.rfc-editor.org/info/rfc5228</link>
-            <guid>https://www.rfc-editor.org/info/rfc5228</guid>
-            <pubDate>Thu, 07 Sep 2023 08:54:00 GMT</pubDate>
-            <description><![CDATA[Sieve: An Email Filtering Language, a Proposed Standard]]></description>
-            <content:encoded><![CDATA[<p>Sieve: An Email Filtering Language is a proposed standard that describes a language for filtering email messages at the time of final delivery. It can be implemented on both mail clients and servers, and is designed to be extensible, simple, and independent of access protocol, mail architecture, and operating system. The language is suitable for use on mail servers where users may not be allowed to execute arbitrary programs. It does not have variables, loops, or the ability to shell out to external programs. The document provides the definition of status and stream as per RFC standards.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37416342">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)]]></title>
             <link>https://www.h2fly.de/</link>
             <guid>https://www.h2fly.de/</guid>
@@ -320,17 +331,6 @@
             <content:encoded><![CDATA[<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.
             </p><p>
                 16 Points |  <a href="https://news.ycombinator.com/item?id=37433380">12 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)]]></title>
-            <link>https://eprint.iacr.org/2023/1053</link>
-            <guid>https://eprint.iacr.org/2023/1053</guid>
-            <pubDate>Fri, 08 Sep 2023 09:24:25 GMT</pubDate>
-            <description><![CDATA[ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet]]></description>
-            <content:encoded><![CDATA[<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.
-            </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37431433">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
