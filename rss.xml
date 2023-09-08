@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 10:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 10:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -45,7 +45,7 @@
             <description><![CDATA[How Query Engines Work: A Comprehensive Guide]]></description>
             <content:encoded><![CDATA[<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.
             </p><p>
-                65 Points |  <a href="https://news.ycombinator.com/item?id=37415494">11 comments</a>
+                97 Points |  <a href="https://news.ycombinator.com/item?id=37415494">22 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -60,6 +60,28 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Coincidentally-identical waypoint names foxed UK air traffic control system (www.flightglobal.com)]]></title>
+            <link>https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article</link>
+            <guid>https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article</guid>
+            <pubDate>Fri, 08 Sep 2023 06:57:33 GMT</pubDate>
+            <description><![CDATA[UK Air Traffic Control Failure Caused by Duplicate Waypoint Names in Flightplan]]></description>
+            <content:encoded><![CDATA[<p>UK air traffic control system experienced a failure due to a processing conflict caused by a flightplan with two separate waypoints that had identical designators. The root cause of the incident was the presence of duplicate waypoint names in the flightplan. The automated system shut down, and manual flightplan processing had to be implemented. Over 1,500 flights were cancelled, and more than 10% of operated flights were delayed as a result. The incident did not pose a safety concern, and a software adaptation is planned to prevent a recurrence.
+            </p><p>
+                20 Points |  <a href="https://news.ycombinator.com/item?id=37430384">35 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN: HackYourNews – AI summaries of the top HN stories (hackyournews.com)]]></title>
+            <link>https://hackyournews.com/</link>
+            <guid>https://hackyournews.com/</guid>
+            <pubDate>Thu, 07 Sep 2023 23:30:33 GMT</pubDate>
+            <description><![CDATA[HackYourNews uses AI to summarize top HN stories]]></description>
+            <content:encoded><![CDATA[<p>HackYourNews is a website that uses OpenAI's gpt-3.5-turbo to provide AI summaries of the top Hacker News stories and their comments. The site offers a minimal design and a mobile view that is easy to skim on any device. The creator aims to help users focus on the most important stories while browsing aimlessly.
+            </p><p>
+                177 Points |  <a href="https://news.ycombinator.com/item?id=37427127">105 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[My speed cubing page (www.ws.binghamton.edu)]]></title>
             <link>http://www.ws.binghamton.edu/fridrich/cube.html</link>
             <guid>http://www.ws.binghamton.edu/fridrich/cube.html</guid>
@@ -71,28 +93,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: HackYourNews – AI summaries of the top HN stories (hackyournews.com)]]></title>
-            <link>https://hackyournews.com/</link>
-            <guid>https://hackyournews.com/</guid>
-            <pubDate>Thu, 07 Sep 2023 23:30:33 GMT</pubDate>
-            <description><![CDATA[HackYourNews uses AI to summarize top HN stories]]></description>
-            <content:encoded><![CDATA[<p>HackYourNews is a website that uses OpenAI's gpt-3.5-turbo to provide AI summaries of the top Hacker News stories and their comments. The site offers a minimal design and a mobile view that is easy to skim on any device. The creator aims to help users focus on the most important stories while browsing aimlessly.
-            </p><p>
-                148 Points |  <a href="https://news.ycombinator.com/item?id=37415494">94 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Coincidentally-identical waypoint names foxed UK air traffic control system (www.flightglobal.com)]]></title>
-            <link>https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article</link>
-            <guid>https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article</guid>
-            <pubDate>Fri, 08 Sep 2023 06:57:33 GMT</pubDate>
-            <description><![CDATA[UK Air Traffic Control Failure Caused by Duplicate Waypoint Names in Flightplan]]></description>
-            <content:encoded><![CDATA[<p>UK air traffic control system experienced a failure due to a processing conflict caused by a flightplan with two separate waypoints that had identical designators. The root cause of the incident was the presence of duplicate waypoint names in the flightplan. The automated system shut down, and manual flightplan processing had to be implemented. Over 1,500 flights were cancelled, and more than 10% of operated flights were delayed as a result. The incident did not pose a safety concern, and a software adaptation is planned to prevent a recurrence.
-            </p><p>
-                14 Points |  <a href="https://news.ycombinator.com/item?id=37430384">22 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[I rode with an ice road trucker to the Arctic Circle (www.freightwaves.com)]]></title>
             <link>https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like</link>
             <guid>https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like</guid>
@@ -100,7 +100,7 @@
             <description><![CDATA[Riding Along with an Ice Road Trucker in Alaska: Challenges and Allure of Trucking in the Arctic Circle]]></description>
             <content:encoded><![CDATA[<p>A reporter rides along with an ice road trucker in Alaska to experience the unique challenges and allure of trucking in the Arctic Circle. The trucking industry in Alaska is booming, with companies looking to hire more drivers to haul equipment on the Dalton Highway. The summer is a slower time for Alaskan trucking fleets, as the ice roads are too warm to maintain. In the winter, truck drivers from all over the U.S. come to Alaska to work as ice road truckers, earning significantly higher salaries than typical truck drivers. The reporter accompanies a driver on a journey from Anchorage to Fairbanks, and then from Fairbanks to Prudhoe Bay on the Dalton Highway, where they haul pipes for the oil fields. The Dalton Highway is known for its steep grades and challenging conditions.
             </p><p>
-                162 Points |  <a href="https://news.ycombinator.com/item?id=37425855">88 comments</a>
+                168 Points |  <a href="https://news.ycombinator.com/item?id=37425855">99 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -115,17 +115,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Unpacking Elixir: Syntax (underjord.io)]]></title>
-            <link>https://underjord.io/unpacking-elixir-syntax.html</link>
-            <guid>https://underjord.io/unpacking-elixir-syntax.html</guid>
-            <pubDate>Fri, 08 Sep 2023 05:57:27 GMT</pubDate>
-            <description><![CDATA[Understanding the Syntax of Elixir]]></description>
-            <content:encoded><![CDATA[<p>Unpacking Elixir: Syntax
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37429922">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[LLMs, RAG, and the missing storage layer for AI (blog.lancedb.com)]]></title>
             <link>https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984</link>
             <guid>https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984</guid>
@@ -137,6 +126,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Unpacking Elixir: Syntax (underjord.io)]]></title>
+            <link>https://underjord.io/unpacking-elixir-syntax.html</link>
+            <guid>https://underjord.io/unpacking-elixir-syntax.html</guid>
+            <pubDate>Fri, 08 Sep 2023 05:57:27 GMT</pubDate>
+            <description><![CDATA[Understanding the Syntax of Elixir]]></description>
+            <content:encoded><![CDATA[<p>Unpacking Elixir: Syntax
+            </p><p>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37429922">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[John McCarthy’s collection of numerical facts for use in elisp programs (www-formal.stanford.edu)]]></title>
             <link>http://www-formal.stanford.edu/jmc/facts.txt</link>
             <guid>http://www-formal.stanford.edu/jmc/facts.txt</guid>
@@ -145,6 +145,28 @@
             <content:encoded><![CDATA[<p>This file contains a collection of numerical facts and units conversions, as well as astronomical data related to moving Mars to a different location. The file can be loaded into Emacs and used within the editor. It provides various units of measurement and constants, such as the gravitational constant, Avogadro number, and Planck's constant. It also includes data on the masses, radii, densities, and orbital parameters of celestial bodies like Mercury, Venus, Earth, Mars, Jupiter, and the Moon. The file concludes with escape velocities and velocities of these celestial bodies.
             </p><p>
                 209 Points |  <a href="https://news.ycombinator.com/item?id=37420812">58 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)]]></title>
+            <link>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</link>
+            <guid>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</guid>
+            <pubDate>Fri, 08 Sep 2023 10:08:33 GMT</pubDate>
+            <description><![CDATA[Linux Support Improving for Arm-based Thinkpad X13S]]></description>
+            <content:encoded><![CDATA[<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37431710">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Request Latency with Profiling (richardstartin.github.io)]]></title>
+            <link>https://richardstartin.github.io/posts/wallclock-profiler</link>
+            <guid>https://richardstartin.github.io/posts/wallclock-profiler</guid>
+            <pubDate>Thu, 07 Sep 2023 06:39:30 GMT</pubDate>
+            <description><![CDATA[Improving Request Latency in Java Applications with Profiling]]></description>
+            <content:encoded><![CDATA[<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37415499">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -170,17 +192,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Understanding Request Latency with Profiling (richardstartin.github.io)]]></title>
-            <link>https://richardstartin.github.io/posts/wallclock-profiler</link>
-            <guid>https://richardstartin.github.io/posts/wallclock-profiler</guid>
-            <pubDate>Thu, 07 Sep 2023 06:39:30 GMT</pubDate>
-            <description><![CDATA[Improving Request Latency in Java Applications with Profiling]]></description>
-            <content:encoded><![CDATA[<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37415499">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo (en.wikipedia.org)]]></title>
             <link>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</link>
             <guid>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</guid>
@@ -203,6 +214,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[The Guardian's Typerighter (github.com)]]></title>
+            <link>https://github.com/guardian/typerighter</link>
+            <guid>https://github.com/guardian/typerighter</guid>
+            <pubDate>Thu, 07 Sep 2023 11:22:51 GMT</pubDate>
+            <description><![CDATA[Typerighter: A Server-Side Document Checking Service]]></description>
+            <content:encoded><![CDATA[<p>Typerighter is a server-side service designed to check a document against a set of user-defined rules, similar to a spelling or grammar checker. It consists of two services: the checker and the rule manager. The tool is used at the Guardian to check content against their style guide. The Typerighter Rule Manager produces a JSON artifact that represents all the rules in the system, including user-defined regex rules and Language Tool pattern rules. Each rule corresponds to a Matcher that receives the document and returns a list of RuleMatch. The system consists of two Scala services: the rule-manager service and the checker service. The checker service uses a MatcherPool to manage incoming checks and accommodate different matchers. The services are built in Scala with the Play framework and use a Postgres database for data storage.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37417358">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[What's new in Emacs 29.1 (www.masteringemacs.org)]]></title>
             <link>https://www.masteringemacs.org/article/whats-new-in-emacs-29-1</link>
             <guid>https://www.masteringemacs.org/article/whats-new-in-emacs-29-1</guid>
@@ -210,7 +232,7 @@
             <description><![CDATA[What's New in Emacs 29.1: Improved Code Parsing, Language Server Client, and More]]></description>
             <content:encoded><![CDATA[<p>Emacs 29.1 introduces several new features and improvements, including official tree-sitter support for better code parsing and editing, the inclusion of EGlot as a language server client, the integration of use-package for easier configuration management, enhancements to long line support, native SQLite support for improved performance, the ability to change the init directory for multiple Emacs versions, and the addition of pixel-scroll-precision-mode for smoother scrolling. The release also includes changes to installation, such as ahead-of-time native compilation and built-in support for tree-sitter and SQLite. The article provides detailed explanations and instructions for each new feature.
             </p><p>
-                152 Points |  <a href="https://news.ycombinator.com/item?id=37427279">82 comments</a>
+                165 Points |  <a href="https://news.ycombinator.com/item?id=37427279">92 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -236,25 +258,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)]]></title>
-            <link>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</link>
-            <guid>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</guid>
-            <pubDate>Fri, 08 Sep 2023 10:08:33 GMT</pubDate>
-            <description><![CDATA[Linux Support Improving for Arm-based Thinkpad X13S]]></description>
-            <content:encoded><![CDATA[<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.
+            <title><![CDATA[Cthulhu.jl – show type-inferred Julia code (github.com)]]></title>
+            <link>https://github.com/JuliaDebug/Cthulhu.jl</link>
+            <guid>https://github.com/JuliaDebug/Cthulhu.jl</guid>
+            <pubDate>Thu, 07 Sep 2023 06:40:36 GMT</pubDate>
+            <description><![CDATA[Cthulhu.jl: A Debugging Tool for Type Inference Issues in Julia]]></description>
+            <content:encoded><![CDATA[<p>Cthulhu.jl is a debugging tool for type inference issues in Julia. It helps users identify the exact point where inference fails or behaves unexpectedly. The tool provides an interactive interface to explore type-annotated source code and allows users to descend into callees of a function. It also offers options to toggle the display of type annotations and view non-concrete types. Cthulhu can be used to debug type inference problems faster and analyze invalidation and inference triggers. However, there may be errors or omissions in mapping type inference results back to the source code.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37431710">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nature Machine Intelligence: Federated Benchmarking of Medical AI (www.nature.com)]]></title>
-            <link>https://www.nature.com/articles/s42256-023-00652-2</link>
-            <guid>https://www.nature.com/articles/s42256-023-00652-2</guid>
-            <pubDate>Fri, 08 Sep 2023 02:28:36 GMT</pubDate>
-            <description><![CDATA[MedPerf: An Open Platform for Benchmarking Medical AI Models]]></description>
-            <content:encoded><![CDATA[<p>MedPerf is an open platform for benchmarking medical artificial intelligence (AI) models. It enables federated evaluation of AI models by securely distributing them to different healthcare organizations. This allows each facility to assess and verify the performance of AI models while prioritizing privacy. The platform addresses the challenges of accessing diverse and large-scale datasets for AI model evaluation, which is crucial for improving the generalizability of these models. MedPerf has already been used in various settings, including the FeTS challenge and academic pilot studies, demonstrating its scalability and user-friendliness. It aims to provide consistent methodologies for evaluating AI model performance, protect patient privacy, and foster collaboration among experts in the medical AI field.
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37428505">0 comments</a>
+                61 Points |  <a href="https://news.ycombinator.com/item?id=37415505">24 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -269,25 +280,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cthulhu.jl – show type-inferred Julia code (github.com)]]></title>
-            <link>https://github.com/JuliaDebug/Cthulhu.jl</link>
-            <guid>https://github.com/JuliaDebug/Cthulhu.jl</guid>
-            <pubDate>Thu, 07 Sep 2023 06:40:36 GMT</pubDate>
-            <description><![CDATA[Cthulhu.jl: A Debugging Tool for Type Inference Issues in Julia]]></description>
-            <content:encoded><![CDATA[<p>Cthulhu.jl is a debugging tool for type inference issues in Julia. It helps users identify the exact point where inference fails or behaves unexpectedly. The tool provides an interactive interface to explore type-annotated source code and allows users to descend into callees of a function. It also offers options to toggle the display of type annotations and view non-concrete types. Cthulhu can be used to debug type inference problems faster and analyze invalidation and inference triggers. However, there may be errors or omissions in mapping type inference results back to the source code.
+            <title><![CDATA[Nature Machine Intelligence: Federated Benchmarking of Medical AI (www.nature.com)]]></title>
+            <link>https://www.nature.com/articles/s42256-023-00652-2</link>
+            <guid>https://www.nature.com/articles/s42256-023-00652-2</guid>
+            <pubDate>Fri, 08 Sep 2023 02:28:36 GMT</pubDate>
+            <description><![CDATA[MedPerf: An Open Platform for Benchmarking Medical AI Models]]></description>
+            <content:encoded><![CDATA[<p>MedPerf is an open platform for benchmarking medical artificial intelligence (AI) models. It enables federated evaluation of AI models by securely distributing them to different healthcare organizations. This allows each facility to assess and verify the performance of AI models while prioritizing privacy. The platform addresses the challenges of accessing diverse and large-scale datasets for AI model evaluation, which is crucial for improving the generalizability of these models. MedPerf has already been used in various settings, including the FeTS challenge and academic pilot studies, demonstrating its scalability and user-friendliness. It aims to provide consistent methodologies for evaluating AI model performance, protect patient privacy, and foster collaboration among experts in the medical AI field.
             </p><p>
-                61 Points |  <a href="https://news.ycombinator.com/item?id=37415505">24 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Deciphering Mary Stuart’s lost letters from 1578-1584 (www.tandfonline.com)]]></title>
-            <link>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</link>
-            <guid>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</guid>
-            <pubDate>Thu, 07 Sep 2023 06:17:13 GMT</pubDate>
-            <description><![CDATA[Website www.tandfonline.com Requests Security Review of Connection]]></description>
-            <content:encoded><![CDATA[<p>The website www.tandfonline.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about the connection's safety. The website is utilizing Cloudflare for performance and security purposes. The Ray ID provided is 80346a40dbb01690, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.
-            </p><p>
-                15 Points |  <a href="https://news.ycombinator.com/item?id=37415356">0 comments</a>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37428505">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -299,6 +299,17 @@
             <content:encoded><![CDATA[<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.
             </p><p>
                 3 Points |  <a href="https://news.ycombinator.com/item?id=37426132">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Deciphering Mary Stuart’s lost letters from 1578-1584 (www.tandfonline.com)]]></title>
+            <link>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</link>
+            <guid>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</guid>
+            <pubDate>Thu, 07 Sep 2023 06:17:13 GMT</pubDate>
+            <description><![CDATA[Website www.tandfonline.com Requests Security Review of Connection]]></description>
+            <content:encoded><![CDATA[<p>The website www.tandfonline.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about the connection's safety. The website is utilizing Cloudflare for performance and security purposes. The Ray ID provided is 80346a40dbb01690, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.
+            </p><p>
+                15 Points |  <a href="https://news.ycombinator.com/item?id=37415356">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -331,17 +342,6 @@
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
                 30 Points |  <a href="https://news.ycombinator.com/item?id=37423893">5 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Are any words the same in all languages? (blog.duolingo.com)]]></title>
-            <link>https://blog.duolingo.com/words-shared-in-all-languages/</link>
-            <guid>https://blog.duolingo.com/words-shared-in-all-languages/</guid>
-            <pubDate>Thu, 07 Sep 2023 14:58:59 GMT</pubDate>
-            <description><![CDATA[The Shared Words in Almost Every Language: Coffee and Chocolate]]></description>
-            <content:encoded><![CDATA[<p>There are a few words that are shared across many languages, including words for tea, pineapple, and orange. However, the two words that are the same in almost every language are 'coffee' and 'chocolate'. These words have spread across the globe and have been adopted by different languages with slight variations in pronunciation and spelling. The word for coffee originated from the Arabic word 'qahwah' and has been borrowed into many languages, while the word for chocolate is based on a Nahuatl word that was adopted by Spanish-speaking communities and then spread worldwide. Knowing these two words can make you feel connected to speakers of almost every language.
-            </p><p>
-                198 Points |  <a href="https://news.ycombinator.com/item?id=37419864">402 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>

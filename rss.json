@@ -34,7 +34,7 @@
         },
         {
             "id": "https://howqueryengineswork.com/",
-            "content_html": "<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.\n            </p><p>\n                65 Points |  <a href=\"https://news.ycombinator.com/item?id=37415494\">11 comments</a>\n            </p>",
+            "content_html": "<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.\n            </p><p>\n                97 Points |  <a href=\"https://news.ycombinator.com/item?id=37415494\">22 comments</a>\n            </p>",
             "url": "https://howqueryengineswork.com/",
             "title": "How Query Engines Work (howqueryengineswork.com)",
             "summary": "How Query Engines Work: A Comprehensive Guide",
@@ -55,6 +55,28 @@
             }
         },
         {
+            "id": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
+            "content_html": "<p>UK air traffic control system experienced a failure due to a processing conflict caused by a flightplan with two separate waypoints that had identical designators. The root cause of the incident was the presence of duplicate waypoint names in the flightplan. The automated system shut down, and manual flightplan processing had to be implemented. Over 1,500 flights were cancelled, and more than 10% of operated flights were delayed as a result. The incident did not pose a safety concern, and a software adaptation is planned to prevent a recurrence.\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37430384\">35 comments</a>\n            </p>",
+            "url": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
+            "title": "Coincidentally-identical waypoint names foxed UK air traffic control system (www.flightglobal.com)",
+            "summary": "UK Air Traffic Control Failure Caused by Duplicate Waypoint Names in Flightplan",
+            "date_modified": "2023-09-08T06:57:33.000Z",
+            "author": {
+                "name": "www.flightglobal.com"
+            }
+        },
+        {
+            "id": "https://hackyournews.com/",
+            "content_html": "<p>HackYourNews is a website that uses OpenAI's gpt-3.5-turbo to provide AI summaries of the top Hacker News stories and their comments. The site offers a minimal design and a mobile view that is easy to skim on any device. The creator aims to help users focus on the most important stories while browsing aimlessly.\n            </p><p>\n                177 Points |  <a href=\"https://news.ycombinator.com/item?id=37427127\">105 comments</a>\n            </p>",
+            "url": "https://hackyournews.com/",
+            "title": "Show HN: HackYourNews – AI summaries of the top HN stories (hackyournews.com)",
+            "summary": "HackYourNews uses AI to summarize top HN stories",
+            "date_modified": "2023-09-07T23:30:33.000Z",
+            "author": {
+                "name": "hackyournews.com"
+            }
+        },
+        {
             "id": "http://www.ws.binghamton.edu/fridrich/cube.html",
             "content_html": "<p>A guide to advanced speed cubing techniques and resources, including tips for solving Rubik's cube faster, customizing algorithms, and achieving record times. It also features collections of various algorithms, pretty patterns, and expert insights from renowned speed cubers. The page includes personal experiences from attending world championships and cube-related events, as well as links to additional resources for further exploration.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37416999\">11 comments</a>\n            </p>",
             "url": "http://www.ws.binghamton.edu/fridrich/cube.html",
@@ -66,30 +88,8 @@
             }
         },
         {
-            "id": "https://hackyournews.com/",
-            "content_html": "<p>HackYourNews is a website that uses OpenAI's gpt-3.5-turbo to provide AI summaries of the top Hacker News stories and their comments. The site offers a minimal design and a mobile view that is easy to skim on any device. The creator aims to help users focus on the most important stories while browsing aimlessly.\n            </p><p>\n                148 Points |  <a href=\"https://news.ycombinator.com/item?id=37415494\">94 comments</a>\n            </p>",
-            "url": "https://hackyournews.com/",
-            "title": "Show HN: HackYourNews – AI summaries of the top HN stories (hackyournews.com)",
-            "summary": "HackYourNews uses AI to summarize top HN stories",
-            "date_modified": "2023-09-07T23:30:33.000Z",
-            "author": {
-                "name": "hackyournews.com"
-            }
-        },
-        {
-            "id": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
-            "content_html": "<p>UK air traffic control system experienced a failure due to a processing conflict caused by a flightplan with two separate waypoints that had identical designators. The root cause of the incident was the presence of duplicate waypoint names in the flightplan. The automated system shut down, and manual flightplan processing had to be implemented. Over 1,500 flights were cancelled, and more than 10% of operated flights were delayed as a result. The incident did not pose a safety concern, and a software adaptation is planned to prevent a recurrence.\n            </p><p>\n                14 Points |  <a href=\"https://news.ycombinator.com/item?id=37430384\">22 comments</a>\n            </p>",
-            "url": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
-            "title": "Coincidentally-identical waypoint names foxed UK air traffic control system (www.flightglobal.com)",
-            "summary": "UK Air Traffic Control Failure Caused by Duplicate Waypoint Names in Flightplan",
-            "date_modified": "2023-09-08T06:57:33.000Z",
-            "author": {
-                "name": "www.flightglobal.com"
-            }
-        },
-        {
             "id": "https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like",
-            "content_html": "<p>A reporter rides along with an ice road trucker in Alaska to experience the unique challenges and allure of trucking in the Arctic Circle. The trucking industry in Alaska is booming, with companies looking to hire more drivers to haul equipment on the Dalton Highway. The summer is a slower time for Alaskan trucking fleets, as the ice roads are too warm to maintain. In the winter, truck drivers from all over the U.S. come to Alaska to work as ice road truckers, earning significantly higher salaries than typical truck drivers. The reporter accompanies a driver on a journey from Anchorage to Fairbanks, and then from Fairbanks to Prudhoe Bay on the Dalton Highway, where they haul pipes for the oil fields. The Dalton Highway is known for its steep grades and challenging conditions.\n            </p><p>\n                162 Points |  <a href=\"https://news.ycombinator.com/item?id=37425855\">88 comments</a>\n            </p>",
+            "content_html": "<p>A reporter rides along with an ice road trucker in Alaska to experience the unique challenges and allure of trucking in the Arctic Circle. The trucking industry in Alaska is booming, with companies looking to hire more drivers to haul equipment on the Dalton Highway. The summer is a slower time for Alaskan trucking fleets, as the ice roads are too warm to maintain. In the winter, truck drivers from all over the U.S. come to Alaska to work as ice road truckers, earning significantly higher salaries than typical truck drivers. The reporter accompanies a driver on a journey from Anchorage to Fairbanks, and then from Fairbanks to Prudhoe Bay on the Dalton Highway, where they haul pipes for the oil fields. The Dalton Highway is known for its steep grades and challenging conditions.\n            </p><p>\n                168 Points |  <a href=\"https://news.ycombinator.com/item?id=37425855\">99 comments</a>\n            </p>",
             "url": "https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like",
             "title": "I rode with an ice road trucker to the Arctic Circle (www.freightwaves.com)",
             "summary": "Riding Along with an Ice Road Trucker in Alaska: Challenges and Allure of Trucking in the Arctic Circle",
@@ -110,17 +110,6 @@
             }
         },
         {
-            "id": "https://underjord.io/unpacking-elixir-syntax.html",
-            "content_html": "<p>Unpacking Elixir: Syntax\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37429922\">0 comments</a>\n            </p>",
-            "url": "https://underjord.io/unpacking-elixir-syntax.html",
-            "title": "Unpacking Elixir: Syntax (underjord.io)",
-            "summary": "Understanding the Syntax of Elixir",
-            "date_modified": "2023-09-08T05:57:27.000Z",
-            "author": {
-                "name": "underjord.io"
-            }
-        },
-        {
             "id": "https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984",
             "content_html": "<p>The missing storage layer for AI, specifically Language Model Machines (LLMs), is identified as a crucial element to unlock greater AI capabilities. LLMs have the potential to revolutionize various industries and fields of research, but they suffer from hallucination and lack interpretability. The use of Retrieval Augmented Generation (RAG) systems, which combine LLMs with a retriever to generate responses, offers a solution. RAG systems reduce reliance on LLMs and provide finer control, modularity, and cheaper updates. The debate between fine-tuning models and using general models for RAG is deemed pointless, as both approaches have their advantages. The need for an AI-native, multi-modal, and embedded vector database is highlighted, with LanceDB being introduced as a solution that simplifies retrieval, filtering, and management of embeddings.\n            </p><p>\n                93 Points |  <a href=\"https://news.ycombinator.com/item?id=37420628\">36 comments</a>\n            </p>",
             "url": "https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984",
@@ -132,6 +121,17 @@
             }
         },
         {
+            "id": "https://underjord.io/unpacking-elixir-syntax.html",
+            "content_html": "<p>Unpacking Elixir: Syntax\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37429922\">0 comments</a>\n            </p>",
+            "url": "https://underjord.io/unpacking-elixir-syntax.html",
+            "title": "Unpacking Elixir: Syntax (underjord.io)",
+            "summary": "Understanding the Syntax of Elixir",
+            "date_modified": "2023-09-08T05:57:27.000Z",
+            "author": {
+                "name": "underjord.io"
+            }
+        },
+        {
             "id": "http://www-formal.stanford.edu/jmc/facts.txt",
             "content_html": "<p>This file contains a collection of numerical facts and units conversions, as well as astronomical data related to moving Mars to a different location. The file can be loaded into Emacs and used within the editor. It provides various units of measurement and constants, such as the gravitational constant, Avogadro number, and Planck's constant. It also includes data on the masses, radii, densities, and orbital parameters of celestial bodies like Mercury, Venus, Earth, Mars, Jupiter, and the Moon. The file concludes with escape velocities and velocities of these celestial bodies.\n            </p><p>\n                209 Points |  <a href=\"https://news.ycombinator.com/item?id=37420812\">58 comments</a>\n            </p>",
             "url": "http://www-formal.stanford.edu/jmc/facts.txt",
@@ -140,6 +140,28 @@
             "date_modified": "2023-09-07T15:52:09.000Z",
             "author": {
                 "name": "www-formal.stanford.edu"
+            }
+        },
+        {
+            "id": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
+            "content_html": "<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37431710\">0 comments</a>\n            </p>",
+            "url": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
+            "title": "Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)",
+            "summary": "Linux Support Improving for Arm-based Thinkpad X13S",
+            "date_modified": "2023-09-08T10:08:33.000Z",
+            "author": {
+                "name": "www.theregister.com"
+            }
+        },
+        {
+            "id": "https://richardstartin.github.io/posts/wallclock-profiler",
+            "content_html": "<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37415499\">0 comments</a>\n            </p>",
+            "url": "https://richardstartin.github.io/posts/wallclock-profiler",
+            "title": "Understanding Request Latency with Profiling (richardstartin.github.io)",
+            "summary": "Improving Request Latency in Java Applications with Profiling",
+            "date_modified": "2023-09-07T06:39:30.000Z",
+            "author": {
+                "name": "richardstartin.github.io"
             }
         },
         {
@@ -165,17 +187,6 @@
             }
         },
         {
-            "id": "https://richardstartin.github.io/posts/wallclock-profiler",
-            "content_html": "<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37415499\">0 comments</a>\n            </p>",
-            "url": "https://richardstartin.github.io/posts/wallclock-profiler",
-            "title": "Understanding Request Latency with Profiling (richardstartin.github.io)",
-            "summary": "Improving Request Latency in Java Applications with Profiling",
-            "date_modified": "2023-09-07T06:39:30.000Z",
-            "author": {
-                "name": "richardstartin.github.io"
-            }
-        },
-        {
             "id": "https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo",
             "content_html": "<p>The sentence 'Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo' is a grammatically correct example of how homonyms and homophones can create complex linguistic constructs. It uses three meanings of the word buffalo: as a noun referring to a place named Buffalo, as a verb meaning to bully or baffle, and as a noun referring to the animal. The sentence claims that bison from Buffalo who are bullied by other bison in their community also bully other bison. The sentence is syntactically ambiguous and can be parsed in different ways. The idea of constructing a sentence using repetitions of 'buffalo' was independently discovered multiple times in the 20th century.\n            </p><p>\n                105 Points |  <a href=\"https://news.ycombinator.com/item?id=37425842\">55 comments</a>\n            </p>",
             "url": "https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo",
@@ -198,8 +209,19 @@
             }
         },
         {
+            "id": "https://github.com/guardian/typerighter",
+            "content_html": "<p>Typerighter is a server-side service designed to check a document against a set of user-defined rules, similar to a spelling or grammar checker. It consists of two services: the checker and the rule manager. The tool is used at the Guardian to check content against their style guide. The Typerighter Rule Manager produces a JSON artifact that represents all the rules in the system, including user-defined regex rules and Language Tool pattern rules. Each rule corresponds to a Matcher that receives the document and returns a list of RuleMatch. The system consists of two Scala services: the rule-manager service and the checker service. The checker service uses a MatcherPool to manage incoming checks and accommodate different matchers. The services are built in Scala with the Play framework and use a Postgres database for data storage.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37417358\">0 comments</a>\n            </p>",
+            "url": "https://github.com/guardian/typerighter",
+            "title": "The Guardian's Typerighter (github.com)",
+            "summary": "Typerighter: A Server-Side Document Checking Service",
+            "date_modified": "2023-09-07T11:22:51.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
             "id": "https://www.masteringemacs.org/article/whats-new-in-emacs-29-1",
-            "content_html": "<p>Emacs 29.1 introduces several new features and improvements, including official tree-sitter support for better code parsing and editing, the inclusion of EGlot as a language server client, the integration of use-package for easier configuration management, enhancements to long line support, native SQLite support for improved performance, the ability to change the init directory for multiple Emacs versions, and the addition of pixel-scroll-precision-mode for smoother scrolling. The release also includes changes to installation, such as ahead-of-time native compilation and built-in support for tree-sitter and SQLite. The article provides detailed explanations and instructions for each new feature.\n            </p><p>\n                152 Points |  <a href=\"https://news.ycombinator.com/item?id=37427279\">82 comments</a>\n            </p>",
+            "content_html": "<p>Emacs 29.1 introduces several new features and improvements, including official tree-sitter support for better code parsing and editing, the inclusion of EGlot as a language server client, the integration of use-package for easier configuration management, enhancements to long line support, native SQLite support for improved performance, the ability to change the init directory for multiple Emacs versions, and the addition of pixel-scroll-precision-mode for smoother scrolling. The release also includes changes to installation, such as ahead-of-time native compilation and built-in support for tree-sitter and SQLite. The article provides detailed explanations and instructions for each new feature.\n            </p><p>\n                165 Points |  <a href=\"https://news.ycombinator.com/item?id=37427279\">92 comments</a>\n            </p>",
             "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-29-1",
             "title": "What's new in Emacs 29.1 (www.masteringemacs.org)",
             "summary": "What's New in Emacs 29.1: Improved Code Parsing, Language Server Client, and More",
@@ -231,25 +253,14 @@
             }
         },
         {
-            "id": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
-            "content_html": "<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37431710\">0 comments</a>\n            </p>",
-            "url": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
-            "title": "Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)",
-            "summary": "Linux Support Improving for Arm-based Thinkpad X13S",
-            "date_modified": "2023-09-08T10:08:33.000Z",
+            "id": "https://github.com/JuliaDebug/Cthulhu.jl",
+            "content_html": "<p>Cthulhu.jl is a debugging tool for type inference issues in Julia. It helps users identify the exact point where inference fails or behaves unexpectedly. The tool provides an interactive interface to explore type-annotated source code and allows users to descend into callees of a function. It also offers options to toggle the display of type annotations and view non-concrete types. Cthulhu can be used to debug type inference problems faster and analyze invalidation and inference triggers. However, there may be errors or omissions in mapping type inference results back to the source code.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37415505\">24 comments</a>\n            </p>",
+            "url": "https://github.com/JuliaDebug/Cthulhu.jl",
+            "title": "Cthulhu.jl – show type-inferred Julia code (github.com)",
+            "summary": "Cthulhu.jl: A Debugging Tool for Type Inference Issues in Julia",
+            "date_modified": "2023-09-07T06:40:36.000Z",
             "author": {
-                "name": "www.theregister.com"
-            }
-        },
-        {
-            "id": "https://www.nature.com/articles/s42256-023-00652-2",
-            "content_html": "<p>MedPerf is an open platform for benchmarking medical artificial intelligence (AI) models. It enables federated evaluation of AI models by securely distributing them to different healthcare organizations. This allows each facility to assess and verify the performance of AI models while prioritizing privacy. The platform addresses the challenges of accessing diverse and large-scale datasets for AI model evaluation, which is crucial for improving the generalizability of these models. MedPerf has already been used in various settings, including the FeTS challenge and academic pilot studies, demonstrating its scalability and user-friendliness. It aims to provide consistent methodologies for evaluating AI model performance, protect patient privacy, and foster collaboration among experts in the medical AI field.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37428505\">0 comments</a>\n            </p>",
-            "url": "https://www.nature.com/articles/s42256-023-00652-2",
-            "title": "Nature Machine Intelligence: Federated Benchmarking of Medical AI (www.nature.com)",
-            "summary": "MedPerf: An Open Platform for Benchmarking Medical AI Models",
-            "date_modified": "2023-09-08T02:28:36.000Z",
-            "author": {
-                "name": "www.nature.com"
+                "name": "github.com"
             }
         },
         {
@@ -264,25 +275,14 @@
             }
         },
         {
-            "id": "https://github.com/JuliaDebug/Cthulhu.jl",
-            "content_html": "<p>Cthulhu.jl is a debugging tool for type inference issues in Julia. It helps users identify the exact point where inference fails or behaves unexpectedly. The tool provides an interactive interface to explore type-annotated source code and allows users to descend into callees of a function. It also offers options to toggle the display of type annotations and view non-concrete types. Cthulhu can be used to debug type inference problems faster and analyze invalidation and inference triggers. However, there may be errors or omissions in mapping type inference results back to the source code.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37415505\">24 comments</a>\n            </p>",
-            "url": "https://github.com/JuliaDebug/Cthulhu.jl",
-            "title": "Cthulhu.jl – show type-inferred Julia code (github.com)",
-            "summary": "Cthulhu.jl: A Debugging Tool for Type Inference Issues in Julia",
-            "date_modified": "2023-09-07T06:40:36.000Z",
+            "id": "https://www.nature.com/articles/s42256-023-00652-2",
+            "content_html": "<p>MedPerf is an open platform for benchmarking medical artificial intelligence (AI) models. It enables federated evaluation of AI models by securely distributing them to different healthcare organizations. This allows each facility to assess and verify the performance of AI models while prioritizing privacy. The platform addresses the challenges of accessing diverse and large-scale datasets for AI model evaluation, which is crucial for improving the generalizability of these models. MedPerf has already been used in various settings, including the FeTS challenge and academic pilot studies, demonstrating its scalability and user-friendliness. It aims to provide consistent methodologies for evaluating AI model performance, protect patient privacy, and foster collaboration among experts in the medical AI field.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37428505\">0 comments</a>\n            </p>",
+            "url": "https://www.nature.com/articles/s42256-023-00652-2",
+            "title": "Nature Machine Intelligence: Federated Benchmarking of Medical AI (www.nature.com)",
+            "summary": "MedPerf: An Open Platform for Benchmarking Medical AI Models",
+            "date_modified": "2023-09-08T02:28:36.000Z",
             "author": {
-                "name": "github.com"
-            }
-        },
-        {
-            "id": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
-            "content_html": "<p>The website www.tandfonline.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about the connection's safety. The website is utilizing Cloudflare for performance and security purposes. The Ray ID provided is 80346a40dbb01690, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37415356\">0 comments</a>\n            </p>",
-            "url": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
-            "title": "Deciphering Mary Stuart’s lost letters from 1578-1584 (www.tandfonline.com)",
-            "summary": "Website www.tandfonline.com Requests Security Review of Connection",
-            "date_modified": "2023-09-07T06:17:13.000Z",
-            "author": {
-                "name": "www.tandfonline.com"
+                "name": "www.nature.com"
             }
         },
         {
@@ -294,6 +294,17 @@
             "date_modified": "2023-09-07T21:55:05.000Z",
             "author": {
                 "name": "www.cringely.com"
+            }
+        },
+        {
+            "id": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
+            "content_html": "<p>The website www.tandfonline.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about the connection's safety. The website is utilizing Cloudflare for performance and security purposes. The Ray ID provided is 80346a40dbb01690, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37415356\">0 comments</a>\n            </p>",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
+            "title": "Deciphering Mary Stuart’s lost letters from 1578-1584 (www.tandfonline.com)",
+            "summary": "Website www.tandfonline.com Requests Security Review of Connection",
+            "date_modified": "2023-09-07T06:17:13.000Z",
+            "author": {
+                "name": "www.tandfonline.com"
             }
         },
         {
@@ -326,17 +337,6 @@
             "date_modified": "2023-09-07T18:58:15.000Z",
             "author": {
                 "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://blog.duolingo.com/words-shared-in-all-languages/",
-            "content_html": "<p>There are a few words that are shared across many languages, including words for tea, pineapple, and orange. However, the two words that are the same in almost every language are 'coffee' and 'chocolate'. These words have spread across the globe and have been adopted by different languages with slight variations in pronunciation and spelling. The word for coffee originated from the Arabic word 'qahwah' and has been borrowed into many languages, while the word for chocolate is based on a Nahuatl word that was adopted by Spanish-speaking communities and then spread worldwide. Knowing these two words can make you feel connected to speakers of almost every language.\n            </p><p>\n                198 Points |  <a href=\"https://news.ycombinator.com/item?id=37419864\">402 comments</a>\n            </p>",
-            "url": "https://blog.duolingo.com/words-shared-in-all-languages/",
-            "title": "Are any words the same in all languages? (blog.duolingo.com)",
-            "summary": "The Shared Words in Almost Every Language: Coffee and Chocolate",
-            "date_modified": "2023-09-07T14:58:59.000Z",
-            "author": {
-                "name": "blog.duolingo.com"
             }
         }
     ]
