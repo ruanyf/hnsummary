@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 09:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 10:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -34,7 +34,7 @@
             <description><![CDATA[Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority]]></description>
             <content:encoded><![CDATA[<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.
             </p><p>
-                49 Points |  <a href="https://news.ycombinator.com/item?id=37425052">23 comments</a>
+                87 Points |  <a href="https://news.ycombinator.com/item?id=37425052">35 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -82,14 +82,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Silver Thief (www.newyorker.com)]]></title>
-            <link>https://www.newyorker.com/magazine/2004/05/17/the-silver-thief</link>
-            <guid>https://www.newyorker.com/magazine/2004/05/17/the-silver-thief</guid>
-            <pubDate>Thu, 07 Sep 2023 11:16:55 GMT</pubDate>
-            <description><![CDATA[The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver]]></description>
-            <content:encoded><![CDATA[<p>The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver
+            <title><![CDATA[Coincidentally-identical waypoint names foxed UK air traffic control system (www.flightglobal.com)]]></title>
+            <link>https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article</link>
+            <guid>https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article</guid>
+            <pubDate>Fri, 08 Sep 2023 06:57:33 GMT</pubDate>
+            <description><![CDATA[UK Air Traffic Control Failure Caused by Duplicate Waypoint Names in Flightplan]]></description>
+            <content:encoded><![CDATA[<p>UK air traffic control system experienced a failure due to a processing conflict caused by a flightplan with two separate waypoints that had identical designators. The root cause of the incident was the presence of duplicate waypoint names in the flightplan. The automated system shut down, and manual flightplan processing had to be implemented. Over 1,500 flights were cancelled, and more than 10% of operated flights were delayed as a result. The incident did not pose a safety concern, and a software adaptation is planned to prevent a recurrence.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37417306">0 comments</a>
+                14 Points |  <a href="https://news.ycombinator.com/item?id=37430384">22 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -104,6 +104,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[The Silver Thief (www.newyorker.com)]]></title>
+            <link>https://www.newyorker.com/magazine/2004/05/17/the-silver-thief</link>
+            <guid>https://www.newyorker.com/magazine/2004/05/17/the-silver-thief</guid>
+            <pubDate>Thu, 07 Sep 2023 11:16:55 GMT</pubDate>
+            <description><![CDATA[The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver]]></description>
+            <content:encoded><![CDATA[<p>The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37417306">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Unpacking Elixir: Syntax (underjord.io)]]></title>
             <link>https://underjord.io/unpacking-elixir-syntax.html</link>
             <guid>https://underjord.io/unpacking-elixir-syntax.html</guid>
@@ -112,17 +123,6 @@
             <content:encoded><![CDATA[<p>Unpacking Elixir: Syntax
             </p><p>
                 4 Points |  <a href="https://news.ycombinator.com/item?id=37429922">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[We built an AI-powered Magic the Gathering card generator (txt.cohere.com)]]></title>
-            <link>https://txt.cohere.com/urzas-ai/</link>
-            <guid>https://txt.cohere.com/urzas-ai/</guid>
-            <pubDate>Fri, 08 Sep 2023 00:53:34 GMT</pubDate>
-            <description><![CDATA[How Urza's AI Uses AI to Generate Magic the Gathering Cards]]></description>
-            <content:encoded><![CDATA[<p>Urza's AI is a website that uses AI to generate Magic the Gathering cards. The creators used a combination of language AI and text-to-image AI to generate the cards. They used a large language model to generate the text of the cards, and a neural network model to generate the images. The result was impressive, with realistic and playable cards being generated. The website received over 38,000 visitors within the first four days of launch. The creators believe that APIs like this are the future of AI development, as they provide access to powerful models without the need for expertise or infrastructure.
-            </p><p>
-                58 Points |  <a href="https://news.ycombinator.com/item?id=37427854">42 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -170,6 +170,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Understanding Request Latency with Profiling (richardstartin.github.io)]]></title>
+            <link>https://richardstartin.github.io/posts/wallclock-profiler</link>
+            <guid>https://richardstartin.github.io/posts/wallclock-profiler</guid>
+            <pubDate>Thu, 07 Sep 2023 06:39:30 GMT</pubDate>
+            <description><![CDATA[Improving Request Latency in Java Applications with Profiling]]></description>
+            <content:encoded><![CDATA[<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37415499">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo (en.wikipedia.org)]]></title>
             <link>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</link>
             <guid>https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo</guid>
@@ -203,6 +214,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[We built an AI-powered Magic the Gathering card generator (txt.cohere.com)]]></title>
+            <link>https://txt.cohere.com/urzas-ai/</link>
+            <guid>https://txt.cohere.com/urzas-ai/</guid>
+            <pubDate>Fri, 08 Sep 2023 00:53:34 GMT</pubDate>
+            <description><![CDATA[How Urza's AI Uses AI to Generate Magic the Gathering Cards]]></description>
+            <content:encoded><![CDATA[<p>Urza's AI is a website that uses AI to generate Magic the Gathering cards. The creators used a combination of language AI and text-to-image AI to generate the cards. They used a large language model to generate the text of the cards, and a neural network model to generate the images. The result was impressive, with realistic and playable cards being generated. The website received over 38,000 visitors within the first four days of launch. The creators believe that APIs like this are the future of AI development, as they provide access to powerful models without the need for expertise or infrastructure.
+            </p><p>
+                78 Points |  <a href="https://news.ycombinator.com/item?id=37427854">54 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[London Street Trees (apps.london.gov.uk)]]></title>
             <link>https://apps.london.gov.uk/street-trees/</link>
             <guid>https://apps.london.gov.uk/street-trees/</guid>
@@ -214,6 +236,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)]]></title>
+            <link>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</link>
+            <guid>https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/</guid>
+            <pubDate>Fri, 08 Sep 2023 10:08:33 GMT</pubDate>
+            <description><![CDATA[Linux Support Improving for Arm-based Thinkpad X13S]]></description>
+            <content:encoded><![CDATA[<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37431710">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Nature Machine Intelligence: Federated Benchmarking of Medical AI (www.nature.com)]]></title>
             <link>https://www.nature.com/articles/s42256-023-00652-2</link>
             <guid>https://www.nature.com/articles/s42256-023-00652-2</guid>
@@ -222,17 +255,6 @@
             <content:encoded><![CDATA[<p>MedPerf is an open platform for benchmarking medical artificial intelligence (AI) models. It enables federated evaluation of AI models by securely distributing them to different healthcare organizations. This allows each facility to assess and verify the performance of AI models while prioritizing privacy. The platform addresses the challenges of accessing diverse and large-scale datasets for AI model evaluation, which is crucial for improving the generalizability of these models. MedPerf has already been used in various settings, including the FeTS challenge and academic pilot studies, demonstrating its scalability and user-friendliness. It aims to provide consistent methodologies for evaluating AI model performance, protect patient privacy, and foster collaboration among experts in the medical AI field.
             </p><p>
                 4 Points |  <a href="https://news.ycombinator.com/item?id=37428505">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Understanding Request Latency with Profiling (richardstartin.github.io)]]></title>
-            <link>https://richardstartin.github.io/posts/wallclock-profiler</link>
-            <guid>https://richardstartin.github.io/posts/wallclock-profiler</guid>
-            <pubDate>Thu, 07 Sep 2023 06:39:30 GMT</pubDate>
-            <description><![CDATA[Improving Request Latency in Java Applications with Profiling]]></description>
-            <content:encoded><![CDATA[<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37415499">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -258,17 +280,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Accidental Empires, Chapter 11 – Font Wars (1992) (www.cringely.com)]]></title>
-            <link>https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/</link>
-            <guid>https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/</guid>
-            <pubDate>Thu, 07 Sep 2023 21:55:05 GMT</pubDate>
-            <description><![CDATA[The Font Wars: How John Warnock Revolutionized Font Technology with PostScript]]></description>
-            <content:encoded><![CDATA[<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37426132">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Deciphering Mary Stuart’s lost letters from 1578-1584 (www.tandfonline.com)]]></title>
             <link>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</link>
             <guid>https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677</guid>
@@ -280,14 +291,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Coincidentally-identical waypoint names foxed UK air traffic control system (www.flightglobal.com)]]></title>
-            <link>https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article</link>
-            <guid>https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article</guid>
-            <pubDate>Fri, 08 Sep 2023 06:57:33 GMT</pubDate>
-            <description><![CDATA[UK Air Traffic Control Failure Caused by Duplicate Waypoint Names in Flightplan]]></description>
-            <content:encoded><![CDATA[<p>UK air traffic control system experienced a failure due to a processing conflict caused by a flightplan with two separate waypoints that had identical designators. The root cause of the incident was the presence of duplicate waypoint names in the flightplan. The automated system shut down, and manual flightplan processing had to be implemented. Over 1,500 flights were cancelled, and more than 10% of operated flights were delayed as a result. The incident did not pose a safety concern, and a software adaptation is planned to prevent a recurrence.
+            <title><![CDATA[Accidental Empires, Chapter 11 – Font Wars (1992) (www.cringely.com)]]></title>
+            <link>https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/</link>
+            <guid>https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/</guid>
+            <pubDate>Thu, 07 Sep 2023 21:55:05 GMT</pubDate>
+            <description><![CDATA[The Font Wars: How John Warnock Revolutionized Font Technology with PostScript]]></description>
+            <content:encoded><![CDATA[<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.
             </p><p>
-                8 Points |  <a href="https://news.ycombinator.com/item?id=37430384">12 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37426132">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -298,28 +309,7 @@
             <description><![CDATA[Google integrates user-tracking ad platform directly into Chrome]]></description>
             <content:encoded><![CDATA[<p>Google's Chrome browser has rolled out its invasive new ad platform, known as the 'Privacy Sandbox,' which tracks users and generates a list of advertising topics to share with web pages. Despite opposition, Google is implementing this feature as it owns Chrome and is a major advertising company. The ad platform launch announcement was not prominently featured, indicating that Google knows it won't be popular. The argument for this platform is that it is a step towards a more private web, as it promises to turn off third-party tracking cookies in the future. However, this platform only affects Chrome users, as Apple and Firefox have been blocking third-party cookies for years. Chrome does have controls to disable the ad platform, but Google plans to block third-party cookies in 2024.
             </p><p>
-                564 Points |  <a href="https://news.ycombinator.com/item?id=37427227">350 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NaNofuzz: A Usable Tool for Automatic Test Generation [pdf] (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37423893</link>
-            <guid>https://news.ycombinator.com/item?id=37423893</guid>
-            <pubDate>Thu, 07 Sep 2023 18:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                29 Points |  <a href="https://news.ycombinator.com/item?id=37423893">5 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Slack AI (slack.com)]]></title>
-            <link>https://slack.com/ai?nojsmode=1</link>
-            <guid>https://slack.com/ai?nojsmode=1</guid>
-            <pubDate>Fri, 08 Sep 2023 07:21:22 GMT</pubDate>
-            <description><![CDATA[Sign up for Slack AI Beta and Test New Features]]></description>
-            <content:encoded><![CDATA[<p>Sign up to be the first to try the beta and test new features of Slack AI. The AI-powered search feature allows users to get their questions answered in real-time. Users can also jump straight to key highlights on any channel and summarize long threads with just one click. The announcement provides more details for those interested. Fill out the registration form to sign up for the beta. 
-            </p><p>
-                12 Points |  <a href="https://news.ycombinator.com/item?id=37430557">10 comments</a>
+                651 Points |  <a href="https://news.ycombinator.com/item?id=37427227">392 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -331,6 +321,16 @@
             <content:encoded><![CDATA[<p>Chess is not as popular in Japan compared to Shōgi (Japanese chess) and Go. Shōgi has been a part of Japanese culture for centuries and has a large base of enthusiasts. Go, on the other hand, is believed to have been invented over 2,500 years ago in China and has a higher game complexity. The lack of financial support for chess in Japan and the familiarity of Shōgi to the people through media are some reasons why chess hasn't become popular. However, the Japan Chess Federation has been actively promoting chess in the country, leading to an increase in participation and growth of the game. While Japan doesn't have any grandmasters yet, there are high hopes for the future of chess in the country.
             </p><p>
                 87 Points |  <a href="https://news.ycombinator.com/item?id=37428447">64 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NaNofuzz: A Usable Tool for Automatic Test Generation [pdf] (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37423893</link>
+            <guid>https://news.ycombinator.com/item?id=37423893</guid>
+            <pubDate>Thu, 07 Sep 2023 18:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
+            </p><p>
+                30 Points |  <a href="https://news.ycombinator.com/item?id=37423893">5 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>

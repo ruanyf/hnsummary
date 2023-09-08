@@ -23,7 +23,7 @@
         },
         {
             "id": "https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html",
-            "content_html": "<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.\n            </p><p>\n                49 Points |  <a href=\"https://news.ycombinator.com/item?id=37425052\">23 comments</a>\n            </p>",
+            "content_html": "<p>Ancient ceramic water pipes discovered in China reveal that neolithic communities were capable of complex engineering without a centralized state authority, according to a study by University College London. The network of pipes and drainage ditches at the site of Pingliangtai, dating back 4,000 years, demonstrates communal cooperation in building and maintaining the system. The settlement shows little evidence of social hierarchy, with uniformly small houses and no signs of significant inequality. The discovery challenges the belief that only centralized states could undertake such engineering feats, highlighting the capabilities of more egalitarian and communal societies. The advanced water management system at Pingliangtai required significant community-wide planning and coordination.\n            </p><p>\n                87 Points |  <a href=\"https://news.ycombinator.com/item?id=37425052\">35 comments</a>\n            </p>",
             "url": "https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html",
             "title": "China's ancient water pipe networks show no evidence of a centralized authority (phys.org)",
             "summary": "Ancient Chinese water pipes reveal neolithic communities' engineering capabilities without centralized authority",
@@ -77,14 +77,14 @@
             }
         },
         {
-            "id": "https://www.newyorker.com/magazine/2004/05/17/the-silver-thief",
-            "content_html": "<p>The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37417306\">0 comments</a>\n            </p>",
-            "url": "https://www.newyorker.com/magazine/2004/05/17/the-silver-thief",
-            "title": "The Silver Thief (www.newyorker.com)",
-            "summary": "The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver",
-            "date_modified": "2023-09-07T11:16:55.000Z",
+            "id": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
+            "content_html": "<p>UK air traffic control system experienced a failure due to a processing conflict caused by a flightplan with two separate waypoints that had identical designators. The root cause of the incident was the presence of duplicate waypoint names in the flightplan. The automated system shut down, and manual flightplan processing had to be implemented. Over 1,500 flights were cancelled, and more than 10% of operated flights were delayed as a result. The incident did not pose a safety concern, and a software adaptation is planned to prevent a recurrence.\n            </p><p>\n                14 Points |  <a href=\"https://news.ycombinator.com/item?id=37430384\">22 comments</a>\n            </p>",
+            "url": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
+            "title": "Coincidentally-identical waypoint names foxed UK air traffic control system (www.flightglobal.com)",
+            "summary": "UK Air Traffic Control Failure Caused by Duplicate Waypoint Names in Flightplan",
+            "date_modified": "2023-09-08T06:57:33.000Z",
             "author": {
-                "name": "www.newyorker.com"
+                "name": "www.flightglobal.com"
             }
         },
         {
@@ -99,6 +99,17 @@
             }
         },
         {
+            "id": "https://www.newyorker.com/magazine/2004/05/17/the-silver-thief",
+            "content_html": "<p>The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37417306\">0 comments</a>\n            </p>",
+            "url": "https://www.newyorker.com/magazine/2004/05/17/the-silver-thief",
+            "title": "The Silver Thief (www.newyorker.com)",
+            "summary": "The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver",
+            "date_modified": "2023-09-07T11:16:55.000Z",
+            "author": {
+                "name": "www.newyorker.com"
+            }
+        },
+        {
             "id": "https://underjord.io/unpacking-elixir-syntax.html",
             "content_html": "<p>Unpacking Elixir: Syntax\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37429922\">0 comments</a>\n            </p>",
             "url": "https://underjord.io/unpacking-elixir-syntax.html",
@@ -107,17 +118,6 @@
             "date_modified": "2023-09-08T05:57:27.000Z",
             "author": {
                 "name": "underjord.io"
-            }
-        },
-        {
-            "id": "https://txt.cohere.com/urzas-ai/",
-            "content_html": "<p>Urza's AI is a website that uses AI to generate Magic the Gathering cards. The creators used a combination of language AI and text-to-image AI to generate the cards. They used a large language model to generate the text of the cards, and a neural network model to generate the images. The result was impressive, with realistic and playable cards being generated. The website received over 38,000 visitors within the first four days of launch. The creators believe that APIs like this are the future of AI development, as they provide access to powerful models without the need for expertise or infrastructure.\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37427854\">42 comments</a>\n            </p>",
-            "url": "https://txt.cohere.com/urzas-ai/",
-            "title": "We built an AI-powered Magic the Gathering card generator (txt.cohere.com)",
-            "summary": "How Urza's AI Uses AI to Generate Magic the Gathering Cards",
-            "date_modified": "2023-09-08T00:53:34.000Z",
-            "author": {
-                "name": "txt.cohere.com"
             }
         },
         {
@@ -165,6 +165,17 @@
             }
         },
         {
+            "id": "https://richardstartin.github.io/posts/wallclock-profiler",
+            "content_html": "<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37415499\">0 comments</a>\n            </p>",
+            "url": "https://richardstartin.github.io/posts/wallclock-profiler",
+            "title": "Understanding Request Latency with Profiling (richardstartin.github.io)",
+            "summary": "Improving Request Latency in Java Applications with Profiling",
+            "date_modified": "2023-09-07T06:39:30.000Z",
+            "author": {
+                "name": "richardstartin.github.io"
+            }
+        },
+        {
             "id": "https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo",
             "content_html": "<p>The sentence 'Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo' is a grammatically correct example of how homonyms and homophones can create complex linguistic constructs. It uses three meanings of the word buffalo: as a noun referring to a place named Buffalo, as a verb meaning to bully or baffle, and as a noun referring to the animal. The sentence claims that bison from Buffalo who are bullied by other bison in their community also bully other bison. The sentence is syntactically ambiguous and can be parsed in different ways. The idea of constructing a sentence using repetitions of 'buffalo' was independently discovered multiple times in the 20th century.\n            </p><p>\n                105 Points |  <a href=\"https://news.ycombinator.com/item?id=37425842\">55 comments</a>\n            </p>",
             "url": "https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo",
@@ -198,6 +209,17 @@
             }
         },
         {
+            "id": "https://txt.cohere.com/urzas-ai/",
+            "content_html": "<p>Urza's AI is a website that uses AI to generate Magic the Gathering cards. The creators used a combination of language AI and text-to-image AI to generate the cards. They used a large language model to generate the text of the cards, and a neural network model to generate the images. The result was impressive, with realistic and playable cards being generated. The website received over 38,000 visitors within the first four days of launch. The creators believe that APIs like this are the future of AI development, as they provide access to powerful models without the need for expertise or infrastructure.\n            </p><p>\n                78 Points |  <a href=\"https://news.ycombinator.com/item?id=37427854\">54 comments</a>\n            </p>",
+            "url": "https://txt.cohere.com/urzas-ai/",
+            "title": "We built an AI-powered Magic the Gathering card generator (txt.cohere.com)",
+            "summary": "How Urza's AI Uses AI to Generate Magic the Gathering Cards",
+            "date_modified": "2023-09-08T00:53:34.000Z",
+            "author": {
+                "name": "txt.cohere.com"
+            }
+        },
+        {
             "id": "https://apps.london.gov.uk/street-trees/",
             "content_html": "<p>N/A\n            </p><p>\n                124 Points |  <a href=\"https://news.ycombinator.com/item?id=37424416\">61 comments</a>\n            </p>",
             "url": "https://apps.london.gov.uk/street-trees/",
@@ -209,6 +231,17 @@
             }
         },
         {
+            "id": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
+            "content_html": "<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37431710\">0 comments</a>\n            </p>",
+            "url": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
+            "title": "Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)",
+            "summary": "Linux Support Improving for Arm-based Thinkpad X13S",
+            "date_modified": "2023-09-08T10:08:33.000Z",
+            "author": {
+                "name": "www.theregister.com"
+            }
+        },
+        {
             "id": "https://www.nature.com/articles/s42256-023-00652-2",
             "content_html": "<p>MedPerf is an open platform for benchmarking medical artificial intelligence (AI) models. It enables federated evaluation of AI models by securely distributing them to different healthcare organizations. This allows each facility to assess and verify the performance of AI models while prioritizing privacy. The platform addresses the challenges of accessing diverse and large-scale datasets for AI model evaluation, which is crucial for improving the generalizability of these models. MedPerf has already been used in various settings, including the FeTS challenge and academic pilot studies, demonstrating its scalability and user-friendliness. It aims to provide consistent methodologies for evaluating AI model performance, protect patient privacy, and foster collaboration among experts in the medical AI field.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37428505\">0 comments</a>\n            </p>",
             "url": "https://www.nature.com/articles/s42256-023-00652-2",
@@ -217,17 +250,6 @@
             "date_modified": "2023-09-08T02:28:36.000Z",
             "author": {
                 "name": "www.nature.com"
-            }
-        },
-        {
-            "id": "https://richardstartin.github.io/posts/wallclock-profiler",
-            "content_html": "<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37415499\">0 comments</a>\n            </p>",
-            "url": "https://richardstartin.github.io/posts/wallclock-profiler",
-            "title": "Understanding Request Latency with Profiling (richardstartin.github.io)",
-            "summary": "Improving Request Latency in Java Applications with Profiling",
-            "date_modified": "2023-09-07T06:39:30.000Z",
-            "author": {
-                "name": "richardstartin.github.io"
             }
         },
         {
@@ -253,17 +275,6 @@
             }
         },
         {
-            "id": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
-            "content_html": "<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37426132\">0 comments</a>\n            </p>",
-            "url": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
-            "title": "Accidental Empires, Chapter 11 – Font Wars (1992) (www.cringely.com)",
-            "summary": "The Font Wars: How John Warnock Revolutionized Font Technology with PostScript",
-            "date_modified": "2023-09-07T21:55:05.000Z",
-            "author": {
-                "name": "www.cringely.com"
-            }
-        },
-        {
             "id": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
             "content_html": "<p>The website www.tandfonline.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about the connection's safety. The website is utilizing Cloudflare for performance and security purposes. The Ray ID provided is 80346a40dbb01690, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37415356\">0 comments</a>\n            </p>",
             "url": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
@@ -275,46 +286,25 @@
             }
         },
         {
-            "id": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
-            "content_html": "<p>UK air traffic control system experienced a failure due to a processing conflict caused by a flightplan with two separate waypoints that had identical designators. The root cause of the incident was the presence of duplicate waypoint names in the flightplan. The automated system shut down, and manual flightplan processing had to be implemented. Over 1,500 flights were cancelled, and more than 10% of operated flights were delayed as a result. The incident did not pose a safety concern, and a software adaptation is planned to prevent a recurrence.\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37430384\">12 comments</a>\n            </p>",
-            "url": "https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article",
-            "title": "Coincidentally-identical waypoint names foxed UK air traffic control system (www.flightglobal.com)",
-            "summary": "UK Air Traffic Control Failure Caused by Duplicate Waypoint Names in Flightplan",
-            "date_modified": "2023-09-08T06:57:33.000Z",
+            "id": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
+            "content_html": "<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37426132\">0 comments</a>\n            </p>",
+            "url": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
+            "title": "Accidental Empires, Chapter 11 – Font Wars (1992) (www.cringely.com)",
+            "summary": "The Font Wars: How John Warnock Revolutionized Font Technology with PostScript",
+            "date_modified": "2023-09-07T21:55:05.000Z",
             "author": {
-                "name": "www.flightglobal.com"
+                "name": "www.cringely.com"
             }
         },
         {
             "id": "https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/",
-            "content_html": "<p>Google's Chrome browser has rolled out its invasive new ad platform, known as the 'Privacy Sandbox,' which tracks users and generates a list of advertising topics to share with web pages. Despite opposition, Google is implementing this feature as it owns Chrome and is a major advertising company. The ad platform launch announcement was not prominently featured, indicating that Google knows it won't be popular. The argument for this platform is that it is a step towards a more private web, as it promises to turn off third-party tracking cookies in the future. However, this platform only affects Chrome users, as Apple and Firefox have been blocking third-party cookies for years. Chrome does have controls to disable the ad platform, but Google plans to block third-party cookies in 2024.\n            </p><p>\n                564 Points |  <a href=\"https://news.ycombinator.com/item?id=37427227\">350 comments</a>\n            </p>",
+            "content_html": "<p>Google's Chrome browser has rolled out its invasive new ad platform, known as the 'Privacy Sandbox,' which tracks users and generates a list of advertising topics to share with web pages. Despite opposition, Google is implementing this feature as it owns Chrome and is a major advertising company. The ad platform launch announcement was not prominently featured, indicating that Google knows it won't be popular. The argument for this platform is that it is a step towards a more private web, as it promises to turn off third-party tracking cookies in the future. However, this platform only affects Chrome users, as Apple and Firefox have been blocking third-party cookies for years. Chrome does have controls to disable the ad platform, but Google plans to block third-party cookies in 2024.\n            </p><p>\n                651 Points |  <a href=\"https://news.ycombinator.com/item?id=37427227\">392 comments</a>\n            </p>",
             "url": "https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/",
             "title": "Chrome now tracks users and shares a “topic” list with advertisers (arstechnica.com)",
             "summary": "Google integrates user-tracking ad platform directly into Chrome",
             "date_modified": "2023-09-07T23:41:24.000Z",
             "author": {
                 "name": "arstechnica.com"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37423893",
-            "content_html": "<p>No summary available\n            </p><p>\n                29 Points |  <a href=\"https://news.ycombinator.com/item?id=37423893\">5 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37423893",
-            "title": "NaNofuzz: A Usable Tool for Automatic Test Generation [pdf] (news.ycombinator.com)",
-            "date_modified": "2023-09-07T18:58:15.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://slack.com/ai?nojsmode=1",
-            "content_html": "<p>Sign up to be the first to try the beta and test new features of Slack AI. The AI-powered search feature allows users to get their questions answered in real-time. Users can also jump straight to key highlights on any channel and summarize long threads with just one click. The announcement provides more details for those interested. Fill out the registration form to sign up for the beta. \n            </p><p>\n                12 Points |  <a href=\"https://news.ycombinator.com/item?id=37430557\">10 comments</a>\n            </p>",
-            "url": "https://slack.com/ai?nojsmode=1",
-            "title": "Slack AI (slack.com)",
-            "summary": "Sign up for Slack AI Beta and Test New Features",
-            "date_modified": "2023-09-08T07:21:22.000Z",
-            "author": {
-                "name": "slack.com"
             }
         },
         {
@@ -326,6 +316,16 @@
             "date_modified": "2023-09-08T02:16:48.000Z",
             "author": {
                 "name": "lichess.org"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=37423893",
+            "content_html": "<p>No summary available\n            </p><p>\n                30 Points |  <a href=\"https://news.ycombinator.com/item?id=37423893\">5 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37423893",
+            "title": "NaNofuzz: A Usable Tool for Automatic Test Generation [pdf] (news.ycombinator.com)",
+            "date_modified": "2023-09-07T18:58:15.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
             }
         },
         {
