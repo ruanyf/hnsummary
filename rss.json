@@ -11,14 +11,14 @@
     },
     "items": [
         {
-            "id": "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/",
-            "content_html": "<p>Apple issues update to fix zero-click vulnerability exploited by NSO Group's Pegasus spyware. The exploit chain, known as BLASTPASS, targeted iPhones running the latest iOS version without user interaction. Citizen Lab discovered and disclosed the vulnerability to Apple, who issued two CVEs related to the exploit. Users are urged to update their devices immediately and consider enabling Lockdown Mode for added protection. The incident highlights the ongoing targeting of civil society organizations by sophisticated cyber threats. Apple's response and collaboration with Citizen Lab are commended.\n            </p><p>\n                1039 Points |  <a href=\"https://news.ycombinator.com/item?id=37425007\">585 comments</a>\n            </p>",
-            "url": "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/",
-            "title": "NSO group iPhone zero-click, zero-day exploit captured in the wild (citizenlab.ca)",
-            "summary": "Apple Releases Update to Address Zero-Click Vulnerability Exploited by NSO Group's Pegasus Spyware",
-            "date_modified": "2023-09-07T20:21:01.000Z",
+            "id": "http://touchpianist.com/",
+            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">15 comments</a>\n            </p>",
+            "url": "http://touchpianist.com/",
+            "title": "Touch Pianist (touchpianist.com)",
+            "summary": "Menu of Pieces on a Mobile App",
+            "date_modified": "2023-09-08T09:56:08.000Z",
             "author": {
-                "name": "citizenlab.ca"
+                "name": "touchpianist.com"
             }
         },
         {
@@ -44,17 +44,6 @@
             }
         },
         {
-            "id": "http://touchpianist.com/",
-            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">1 comments</a>\n            </p>",
-            "url": "http://touchpianist.com/",
-            "title": "Touch Pianist (touchpianist.com)",
-            "summary": "Menu of Pieces on a Mobile App",
-            "date_modified": "2023-09-08T09:56:08.000Z",
-            "author": {
-                "name": "touchpianist.com"
-            }
-        },
-        {
             "id": "https://howqueryengineswork.com/",
             "content_html": "<p>This book provides an in-depth exploration of how query engines work, covering topics such as Apache Arrow, type systems, data sources, logical plans, DataFrames, physical plans, query planning, query optimizers, query execution, SQL support, parallel and distributed query execution, testing, benchmarks, and further resources. The author expresses gratitude to their family, Matthew Powers, the Apache Arrow community, and colleagues at RMS for their support and inspiration. The book is available for purchase in multiple formats.\n            </p><p>\n                97 Points |  <a href=\"https://news.ycombinator.com/item?id=37415494\">22 comments</a>\n            </p>",
             "url": "https://howqueryengineswork.com/",
@@ -77,14 +66,25 @@
             }
         },
         {
-            "id": "https://hackyournews.com/",
-            "content_html": "<p>HackYourNews is a website that uses OpenAI's gpt-3.5-turbo to provide AI summaries of the top Hacker News stories and their comments. The site offers a minimal design and a mobile view that is easy to skim on any device. The creator aims to help users focus on the most important stories while browsing aimlessly.\n            </p><p>\n                177 Points |  <a href=\"https://news.ycombinator.com/item?id=37427127\">105 comments</a>\n            </p>",
-            "url": "https://hackyournews.com/",
-            "title": "Show HN: HackYourNews – AI summaries of the top HN stories (hackyournews.com)",
-            "summary": "HackYourNews uses AI to summarize top HN stories",
-            "date_modified": "2023-09-07T23:30:33.000Z",
+            "id": "https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer",
+            "content_html": "<p>PolicyFly is seeking a Senior Solutions Engineer to lead the post-sales onboarding and implementation process for clients. The role involves developing a repeatable process for client onboarding, mapping client requirements, building insurance applications, and providing technical feedback to improve the onboarding experience. The ideal candidate should have experience in property and casualty insurance, scripting data processing pipelines, writing unit tests, and building enterprise applications. The company is focused on modernizing specialty insurance by providing immediate value to insurers and automating back-office operations. PolicyFly is a distributed remote team with a long-term vision for building network effects in the insurance industry.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37432420\">0 comments</a>\n            </p>",
+            "url": "https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer",
+            "title": "PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote) (www.ycombinator.com)",
+            "summary": "PolicyFly Seeks Senior Solutions Engineer to Modernize Specialty Insurance",
+            "date_modified": "2023-09-08T12:00:41.000Z",
             "author": {
-                "name": "hackyournews.com"
+                "name": "www.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/",
+            "content_html": "<p>Apple issues update to fix zero-click vulnerability exploited by NSO Group's Pegasus spyware. The exploit chain, known as BLASTPASS, targeted iPhones running the latest iOS version without user interaction. Citizen Lab discovered and disclosed the vulnerability to Apple, who issued two CVEs related to the exploit. Users are urged to update their devices immediately and consider enabling Lockdown Mode for added protection. The incident highlights the ongoing targeting of civil society organizations by sophisticated cyber threats. Apple's response and collaboration with Citizen Lab are commended.\n            </p><p>\n                1203 Points |  <a href=\"https://news.ycombinator.com/item?id=37425007\">652 comments</a>\n            </p>",
+            "url": "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/",
+            "title": "NSO group iPhone zero-click, zero-day exploit captured in the wild (citizenlab.ca)",
+            "summary": "Apple Releases Update to Address Zero-Click Vulnerability Exploited by NSO Group's Pegasus Spyware",
+            "date_modified": "2023-09-07T20:21:01.000Z",
+            "author": {
+                "name": "citizenlab.ca"
             }
         },
         {
@@ -99,14 +99,14 @@
             }
         },
         {
-            "id": "https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like",
-            "content_html": "<p>A reporter rides along with an ice road trucker in Alaska to experience the unique challenges and allure of trucking in the Arctic Circle. The trucking industry in Alaska is booming, with companies looking to hire more drivers to haul equipment on the Dalton Highway. The summer is a slower time for Alaskan trucking fleets, as the ice roads are too warm to maintain. In the winter, truck drivers from all over the U.S. come to Alaska to work as ice road truckers, earning significantly higher salaries than typical truck drivers. The reporter accompanies a driver on a journey from Anchorage to Fairbanks, and then from Fairbanks to Prudhoe Bay on the Dalton Highway, where they haul pipes for the oil fields. The Dalton Highway is known for its steep grades and challenging conditions.\n            </p><p>\n                168 Points |  <a href=\"https://news.ycombinator.com/item?id=37425855\">99 comments</a>\n            </p>",
-            "url": "https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like",
-            "title": "I rode with an ice road trucker to the Arctic Circle (www.freightwaves.com)",
-            "summary": "Riding Along with an Ice Road Trucker in Alaska: Challenges and Allure of Trucking in the Arctic Circle",
-            "date_modified": "2023-09-07T21:27:38.000Z",
+            "id": "https://hackyournews.com/",
+            "content_html": "<p>HackYourNews is a website that uses OpenAI's gpt-3.5-turbo to provide AI summaries of the top Hacker News stories and their comments. The site offers a minimal design and a mobile view that is easy to skim on any device. The creator aims to help users focus on the most important stories while browsing aimlessly.\n            </p><p>\n                177 Points |  <a href=\"https://news.ycombinator.com/item?id=37427127\">105 comments</a>\n            </p>",
+            "url": "https://hackyournews.com/",
+            "title": "Show HN: HackYourNews – AI summaries of the top HN stories (hackyournews.com)",
+            "summary": "HackYourNews uses AI to summarize top HN stories",
+            "date_modified": "2023-09-07T23:30:33.000Z",
             "author": {
-                "name": "www.freightwaves.com"
+                "name": "hackyournews.com"
             }
         },
         {
@@ -121,6 +121,17 @@
             }
         },
         {
+            "id": "https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like",
+            "content_html": "<p>A reporter rides along with an ice road trucker in Alaska to experience the unique challenges and allure of trucking in the Arctic Circle. The trucking industry in Alaska is booming, with companies looking to hire more drivers to haul equipment on the Dalton Highway. The summer is a slower time for Alaskan trucking fleets, as the ice roads are too warm to maintain. In the winter, truck drivers from all over the U.S. come to Alaska to work as ice road truckers, earning significantly higher salaries than typical truck drivers. The reporter accompanies a driver on a journey from Anchorage to Fairbanks, and then from Fairbanks to Prudhoe Bay on the Dalton Highway, where they haul pipes for the oil fields. The Dalton Highway is known for its steep grades and challenging conditions.\n            </p><p>\n                189 Points |  <a href=\"https://news.ycombinator.com/item?id=37425855\">110 comments</a>\n            </p>",
+            "url": "https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like",
+            "title": "I rode with an ice road trucker to the Arctic Circle (www.freightwaves.com)",
+            "summary": "Riding Along with an Ice Road Trucker in Alaska: Challenges and Allure of Trucking in the Arctic Circle",
+            "date_modified": "2023-09-07T21:27:38.000Z",
+            "author": {
+                "name": "www.freightwaves.com"
+            }
+        },
+        {
             "id": "https://richardstartin.github.io/posts/wallclock-profiler",
             "content_html": "<p>Understanding Request Latency with Profiling: Exploring how to improve request latency in Java applications using profiling techniques, specifically focusing on Datadog's Java wallclock profiler. The blog post discusses the limitations of traditional profiling methods and introduces async-profiler as a more effective alternative. It explains the benefits of async-profiler, such as its better CPU profiler and the ability to unwind native parts of the stack. The post also delves into the sampling strategy and the use of a tracer managed thread filter to improve sample relevance. Overall, the blog provides insights into how to analyze and optimize request latency without making any code changes.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37415499\">0 comments</a>\n            </p>",
             "url": "https://richardstartin.github.io/posts/wallclock-profiler",
@@ -129,6 +140,17 @@
             "date_modified": "2023-09-07T06:39:30.000Z",
             "author": {
                 "name": "richardstartin.github.io"
+            }
+        },
+        {
+            "id": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
+            "content_html": "<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37431710\">12 comments</a>\n            </p>",
+            "url": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
+            "title": "Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)",
+            "summary": "Linux Support Improving for Arm-based Thinkpad X13S",
+            "date_modified": "2023-09-08T10:08:33.000Z",
+            "author": {
+                "name": "www.theregister.com"
             }
         },
         {
@@ -143,28 +165,6 @@
             }
         },
         {
-            "id": "https://underjord.io/unpacking-elixir-syntax.html",
-            "content_html": "<p>Unpacking Elixir: Syntax\n            </p><p>\n                70 Points |  <a href=\"https://news.ycombinator.com/item?id=37429922\">10 comments</a>\n            </p>",
-            "url": "https://underjord.io/unpacking-elixir-syntax.html",
-            "title": "Unpacking Elixir: Syntax (underjord.io)",
-            "summary": "Understanding the Syntax of Elixir",
-            "date_modified": "2023-09-08T05:57:27.000Z",
-            "author": {
-                "name": "underjord.io"
-            }
-        },
-        {
-            "id": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
-            "content_html": "<p>Linux support for the Arm-based Thinkpad X13S is improving, with the latest release of Armbian offering preliminary support for this Snapdragon laptop. The X13S, which is closer to an ordinary x86-based laptop, has faced challenges in getting Linux support, but progress has been made. Ubuntu Lunar's GNOME is now usable on the Arm Thinkpad, and even X.org works, making non-GNOME desktops feasible. Armbian, a project that builds specially-configured kernels for a variety of single-board computers, also offers support for the X13S, although it is still a work-in-progress. While Linux support for the X13S is not yet fully ready, Ubuntu is close to being usable, and Armbian provides a viable option with some limitations.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37431710\">0 comments</a>\n            </p>",
-            "url": "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/",
-            "title": "Linux on the Arm-Based ThinkPad X13S: Getting There (www.theregister.com)",
-            "summary": "Linux Support Improving for Arm-based Thinkpad X13S",
-            "date_modified": "2023-09-08T10:08:33.000Z",
-            "author": {
-                "name": "www.theregister.com"
-            }
-        },
-        {
             "id": "https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984",
             "content_html": "<p>The missing storage layer for AI, specifically Language Model Machines (LLMs), is identified as a crucial element to unlock greater AI capabilities. LLMs have the potential to revolutionize various industries and fields of research, but they suffer from hallucination and lack interpretability. The use of Retrieval Augmented Generation (RAG) systems, which combine LLMs with a retriever to generate responses, offers a solution. RAG systems reduce reliance on LLMs and provide finer control, modularity, and cheaper updates. The debate between fine-tuning models and using general models for RAG is deemed pointless, as both approaches have their advantages. The need for an AI-native, multi-modal, and embedded vector database is highlighted, with LanceDB being introduced as a solution that simplifies retrieval, filtering, and management of embeddings.\n            </p><p>\n                116 Points |  <a href=\"https://news.ycombinator.com/item?id=37420628\">46 comments</a>\n            </p>",
             "url": "https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984",
@@ -176,19 +176,19 @@
             }
         },
         {
-            "id": "https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb",
-            "content_html": "<p>The content is a code repository for a project called 'bert-for-laptops'. The latest commit was made by a user named 'samvher'. The file being worked on is 'BERT_for_laptops.ipynb'. The file contains 2163 lines of code and is 157 KB in size. The content seems to be related to using BERT (Bidirectional Encoder Representations from Transformers) for laptops, although the details of the project are not provided in the given information.\n            </p><p>\n                159 Points |  <a href=\"https://news.ycombinator.com/item?id=37425130\">33 comments</a>\n            </p>",
-            "url": "https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb",
-            "title": "A BERT for laptops, from scratch (github.com)",
-            "summary": "Code Repository for 'bert-for-laptops' Project",
-            "date_modified": "2023-09-07T20:30:27.000Z",
+            "id": "https://underjord.io/unpacking-elixir-syntax.html",
+            "content_html": "<p>Unpacking Elixir: Syntax\n            </p><p>\n                70 Points |  <a href=\"https://news.ycombinator.com/item?id=37429922\">10 comments</a>\n            </p>",
+            "url": "https://underjord.io/unpacking-elixir-syntax.html",
+            "title": "Unpacking Elixir: Syntax (underjord.io)",
+            "summary": "Understanding the Syntax of Elixir",
+            "date_modified": "2023-09-08T05:57:27.000Z",
             "author": {
-                "name": "github.com"
+                "name": "underjord.io"
             }
         },
         {
             "id": "https://github.com/leanprover/lean4/releases/tag/v4.0.0",
-            "content_html": "<p>Lean 4, the first official release of Lean 4, is now available. Regular releases of Lean 4 are planned, with a new 'minor' version approximately monthly. Backwards compatibility is not yet guaranteed, but all breaking changes will be documented. The release includes over 2000 commits since the previous milestone, with Leonardo de Moura leading in contributions. The release also provides links to the Lean community forum, Lean language website, Lean Focused Research Organization homepage, Lean community website, and Mathlib GitHub repository.\n            </p><p>\n                54 Points |  <a href=\"https://news.ycombinator.com/item?id=37429938\">21 comments</a>\n            </p>",
+            "content_html": "<p>Lean 4, the first official release of Lean 4, is now available. Regular releases of Lean 4 are planned, with a new 'minor' version approximately monthly. Backwards compatibility is not yet guaranteed, but all breaking changes will be documented. The release includes over 2000 commits since the previous milestone, with Leonardo de Moura leading in contributions. The release also provides links to the Lean community forum, Lean language website, Lean Focused Research Organization homepage, Lean community website, and Mathlib GitHub repository.\n            </p><p>\n                69 Points |  <a href=\"https://news.ycombinator.com/item?id=37429938\">32 comments</a>\n            </p>",
             "url": "https://github.com/leanprover/lean4/releases/tag/v4.0.0",
             "title": "Lean 4.0 (github.com)",
             "summary": "Lean 4: First Official Release and Regular Monthly Updates Planned",
@@ -220,17 +220,6 @@
             }
         },
         {
-            "id": "https://www.masteringemacs.org/article/whats-new-in-emacs-29-1",
-            "content_html": "<p>Emacs 29.1 introduces several new features and improvements, including official tree-sitter support for better code parsing and editing, the inclusion of EGlot as a language server client, the integration of use-package for easier configuration management, enhancements to long line support, native SQLite support for improved performance, the ability to change the init directory for multiple Emacs versions, and the addition of pixel-scroll-precision-mode for smoother scrolling. The release also includes changes to installation, such as ahead-of-time native compilation and built-in support for tree-sitter and SQLite. The article provides detailed explanations and instructions for each new feature.\n            </p><p>\n                165 Points |  <a href=\"https://news.ycombinator.com/item?id=37427279\">92 comments</a>\n            </p>",
-            "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-29-1",
-            "title": "What's new in Emacs 29.1 (www.masteringemacs.org)",
-            "summary": "What's New in Emacs 29.1: Improved Code Parsing, Language Server Client, and More",
-            "date_modified": "2023-09-07T23:46:12.000Z",
-            "author": {
-                "name": "www.masteringemacs.org"
-            }
-        },
-        {
             "id": "https://txt.cohere.com/urzas-ai/",
             "content_html": "<p>Urza's AI is a website that uses AI to generate Magic the Gathering cards. The creators used a combination of language AI and text-to-image AI to generate the cards. They used a large language model to generate the text of the cards, and a neural network model to generate the images. The result was impressive, with realistic and playable cards being generated. The website received over 38,000 visitors within the first four days of launch. The creators believe that APIs like this are the future of AI development, as they provide access to powerful models without the need for expertise or infrastructure.\n            </p><p>\n                78 Points |  <a href=\"https://news.ycombinator.com/item?id=37427854\">54 comments</a>\n            </p>",
             "url": "https://txt.cohere.com/urzas-ai/",
@@ -239,28 +228,6 @@
             "date_modified": "2023-09-08T00:53:34.000Z",
             "author": {
                 "name": "txt.cohere.com"
-            }
-        },
-        {
-            "id": "https://mathspp.com/blog/animations-from-first-principles-in-5-minutes",
-            "content_html": "<p>This blog post provides a step-by-step guide on creating animations from scratch using Python and pygame. It starts by explaining how to create a canvas and draw a circle using a parametrization function. The post then demonstrates how to animate the drawing of the circle by gradually adding points to the screen. It also shows how to animate other shapes, such as a figure eight. The post concludes by introducing the concept of morphing between two figures and provides a simple implementation for achieving this effect.\n            </p><p>\n                30 Points |  <a href=\"https://news.ycombinator.com/item?id=37417027\">3 comments</a>\n            </p>",
-            "url": "https://mathspp.com/blog/animations-from-first-principles-in-5-minutes",
-            "title": "Animations From First Principles (in 5 minutes) (mathspp.com)",
-            "summary": "Creating Animations from Scratch with Python and Pygame",
-            "date_modified": "2023-09-07T10:38:07.000Z",
-            "author": {
-                "name": "mathspp.com"
-            }
-        },
-        {
-            "id": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
-            "content_html": "<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37426132\">0 comments</a>\n            </p>",
-            "url": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
-            "title": "Accidental Empires, Chapter 11 – Font Wars (1992) (www.cringely.com)",
-            "summary": "The Font Wars: How John Warnock Revolutionized Font Technology with PostScript",
-            "date_modified": "2023-09-07T21:55:05.000Z",
-            "author": {
-                "name": "www.cringely.com"
             }
         },
         {
@@ -275,14 +242,25 @@
             }
         },
         {
-            "id": "https://napi.rs/",
-            "content_html": "<p>NAPI-RS is a framework for building pre-compiled Node.js addons in Rust. It brings native performance to Node.js and ensures memory safety through the Rust compiler. It allows for zero-copy data interaction between Rust and Node.js using Buffer and TypedArray. The framework also supports parallelism with minimal code. NAPI-RS is well-tested and compatible with both CommonJS and esm. It has a support matrix for different Node.js versions and platforms. The framework is sponsored by companies like Tailwind, prisma, CarGurus, and Parcel, and is used by various projects like AFFiNE, Polars, and Logseq.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37430595\">0 comments</a>\n            </p>",
-            "url": "https://napi.rs/",
-            "title": "Napi: Build compiled Node.js add-ons in Rust (napi.rs)",
-            "summary": "NAPI-RS: A Rust framework for high-performance Node.js addons",
-            "date_modified": "2023-09-08T07:27:12.000Z",
+            "id": "https://www.masteringemacs.org/article/whats-new-in-emacs-29-1",
+            "content_html": "<p>Emacs 29.1 introduces several new features and improvements, including official tree-sitter support for better code parsing and editing, the inclusion of EGlot as a language server client, the integration of use-package for easier configuration management, enhancements to long line support, native SQLite support for improved performance, the ability to change the init directory for multiple Emacs versions, and the addition of pixel-scroll-precision-mode for smoother scrolling. The release also includes changes to installation, such as ahead-of-time native compilation and built-in support for tree-sitter and SQLite. The article provides detailed explanations and instructions for each new feature.\n            </p><p>\n                165 Points |  <a href=\"https://news.ycombinator.com/item?id=37427279\">92 comments</a>\n            </p>",
+            "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-29-1",
+            "title": "What's new in Emacs 29.1 (www.masteringemacs.org)",
+            "summary": "What's New in Emacs 29.1: Improved Code Parsing, Language Server Client, and More",
+            "date_modified": "2023-09-07T23:46:12.000Z",
             "author": {
-                "name": "napi.rs"
+                "name": "www.masteringemacs.org"
+            }
+        },
+        {
+            "id": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
+            "content_html": "<p>The Font Wars: How John Warnock's brilliance in computer graphics led to the development of PostScript, a language that revolutionized the way letters and numbers are described and displayed. Warnock's solution to the hidden surface problem in a graphics program caught the attention of the programming world, propelling him to fame. He later co-developed JaM, Interpress, and PostScript, which allowed for the creation of outline fonts. PostScript described letters and numbers as mathematical formulas, enabling the storage of character descriptions as lines, curves, and color fill instructions. This breakthrough in font technology had a significant impact on desktop publishing and the way words and pictures are displayed on computer screens and printed pages.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37426132\">0 comments</a>\n            </p>",
+            "url": "https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/",
+            "title": "Accidental Empires, Chapter 11 – Font Wars (1992) (www.cringely.com)",
+            "summary": "The Font Wars: How John Warnock Revolutionized Font Technology with PostScript",
+            "date_modified": "2023-09-07T21:55:05.000Z",
+            "author": {
+                "name": "www.cringely.com"
             }
         },
         {
@@ -297,14 +275,14 @@
             }
         },
         {
-            "id": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
-            "content_html": "<p>The website www.tandfonline.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about the connection's safety. The website is utilizing Cloudflare for performance and security purposes. The Ray ID provided is 80346a40dbb01690, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37415356\">0 comments</a>\n            </p>",
-            "url": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
-            "title": "Deciphering Mary Stuart’s lost letters from 1578-1584 (www.tandfonline.com)",
-            "summary": "Website www.tandfonline.com Requests Security Review of Connection",
-            "date_modified": "2023-09-07T06:17:13.000Z",
+            "id": "https://mathspp.com/blog/animations-from-first-principles-in-5-minutes",
+            "content_html": "<p>This blog post provides a step-by-step guide on creating animations from scratch using Python and pygame. It starts by explaining how to create a canvas and draw a circle using a parametrization function. The post then demonstrates how to animate the drawing of the circle by gradually adding points to the screen. It also shows how to animate other shapes, such as a figure eight. The post concludes by introducing the concept of morphing between two figures and provides a simple implementation for achieving this effect.\n            </p><p>\n                30 Points |  <a href=\"https://news.ycombinator.com/item?id=37417027\">3 comments</a>\n            </p>",
+            "url": "https://mathspp.com/blog/animations-from-first-principles-in-5-minutes",
+            "title": "Animations From First Principles (in 5 minutes) (mathspp.com)",
+            "summary": "Creating Animations from Scratch with Python and Pygame",
+            "date_modified": "2023-09-07T10:38:07.000Z",
             "author": {
-                "name": "www.tandfonline.com"
+                "name": "mathspp.com"
             }
         },
         {
@@ -319,8 +297,30 @@
             }
         },
         {
+            "id": "https://napi.rs/",
+            "content_html": "<p>NAPI-RS is a framework for building pre-compiled Node.js addons in Rust. It brings native performance to Node.js and ensures memory safety through the Rust compiler. It allows for zero-copy data interaction between Rust and Node.js using Buffer and TypedArray. The framework also supports parallelism with minimal code. NAPI-RS is well-tested and compatible with both CommonJS and esm. It has a support matrix for different Node.js versions and platforms. The framework is sponsored by companies like Tailwind, prisma, CarGurus, and Parcel, and is used by various projects like AFFiNE, Polars, and Logseq.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37430595\">0 comments</a>\n            </p>",
+            "url": "https://napi.rs/",
+            "title": "Napi: Build compiled Node.js add-ons in Rust (napi.rs)",
+            "summary": "NAPI-RS: A Rust framework for high-performance Node.js addons",
+            "date_modified": "2023-09-08T07:27:12.000Z",
+            "author": {
+                "name": "napi.rs"
+            }
+        },
+        {
+            "id": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
+            "content_html": "<p>The website www.tandfonline.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about the connection's safety. The website is utilizing Cloudflare for performance and security purposes. The Ray ID provided is 80346a40dbb01690, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37415356\">0 comments</a>\n            </p>",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677",
+            "title": "Deciphering Mary Stuart’s lost letters from 1578-1584 (www.tandfonline.com)",
+            "summary": "Website www.tandfonline.com Requests Security Review of Connection",
+            "date_modified": "2023-09-07T06:17:13.000Z",
+            "author": {
+                "name": "www.tandfonline.com"
+            }
+        },
+        {
             "id": "https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/",
-            "content_html": "<p>Google's Chrome browser has rolled out its invasive new ad platform, known as the 'Privacy Sandbox,' which tracks users and generates a list of advertising topics to share with web pages. Despite opposition, Google is implementing this feature as it owns Chrome and is a major advertising company. The ad platform launch announcement was not prominently featured, indicating that Google knows it won't be popular. The argument for this platform is that it is a step towards a more private web, as it promises to turn off third-party tracking cookies in the future. However, this platform only affects Chrome users, as Apple and Firefox have been blocking third-party cookies for years. Chrome does have controls to disable the ad platform, but Google plans to block third-party cookies in 2024.\n            </p><p>\n                651 Points |  <a href=\"https://news.ycombinator.com/item?id=37427227\">392 comments</a>\n            </p>",
+            "content_html": "<p>Google's Chrome browser has rolled out its invasive new ad platform, known as the 'Privacy Sandbox,' which tracks users and generates a list of advertising topics to share with web pages. Despite opposition, Google is implementing this feature as it owns Chrome and is a major advertising company. The ad platform launch announcement was not prominently featured, indicating that Google knows it won't be popular. The argument for this platform is that it is a step towards a more private web, as it promises to turn off third-party tracking cookies in the future. However, this platform only affects Chrome users, as Apple and Firefox have been blocking third-party cookies for years. Chrome does have controls to disable the ad platform, but Google plans to block third-party cookies in 2024.\n            </p><p>\n                728 Points |  <a href=\"https://news.ycombinator.com/item?id=37427227\">436 comments</a>\n            </p>",
             "url": "https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/",
             "title": "Chrome now tracks users and shares a “topic” list with advertisers (arstechnica.com)",
             "summary": "Google integrates user-tracking ad platform directly into Chrome",
@@ -330,13 +330,14 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37423893",
-            "content_html": "<p>No summary available\n            </p><p>\n                32 Points |  <a href=\"https://news.ycombinator.com/item?id=37423893\">6 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37423893",
-            "title": "NaNofuzz: A Usable Tool for Automatic Test Generation [pdf] (news.ycombinator.com)",
-            "date_modified": "2023-09-07T18:58:15.000Z",
+            "id": "https://www.newyorker.com/magazine/2004/05/17/the-silver-thief",
+            "content_html": "<p>The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37417306\">0 comments</a>\n            </p>",
+            "url": "https://www.newyorker.com/magazine/2004/05/17/the-silver-thief",
+            "title": "The Silver Thief (www.newyorker.com)",
+            "summary": "The Silver Thief: A Meticulous Burglar's Obsession with Sterling Silver",
+            "date_modified": "2023-09-07T11:16:55.000Z",
             "author": {
-                "name": "news.ycombinator.com"
+                "name": "www.newyorker.com"
             }
         }
     ]
