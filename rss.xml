@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 20:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 21:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -56,7 +56,7 @@
             <description><![CDATA[The Many Types of Plastic Used By LEGO]]></description>
             <content:encoded><![CDATA[<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.
             </p><p>
-                249 Points |  <a href="https://news.ycombinator.com/item?id=37444268">76 comments</a>
+                266 Points |  <a href="https://news.ycombinator.com/item?id=37444268">87 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -67,29 +67,7 @@
             <description><![CDATA['PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design']]></description>
             <content:encoded><![CDATA[<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.
             </p><p>
-                49 Points |  <a href="https://news.ycombinator.com/item?id=37445951">12 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)]]></title>
-            <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
-            <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
-            <pubDate>Fri, 08 Sep 2023 23:45:55 GMT</pubDate>
-            <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
-            <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
-            </p><p>
-                25 Points |  <a href="https://news.ycombinator.com/item?id=37440696">94 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
-            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
-            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
-            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
-            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
-            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
-            </p><p>
-                16 Points |  <a href="https://news.ycombinator.com/item?id=37448005">2 comments</a>
+                101 Points |  <a href="https://news.ycombinator.com/item?id=37445951">22 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -104,6 +82,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)]]></title>
+            <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
+            <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
+            <pubDate>Fri, 08 Sep 2023 23:45:55 GMT</pubDate>
+            <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
+            <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
+            </p><p>
+                43 Points |  <a href="https://news.ycombinator.com/item?id=37440696">107 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Birth of the Gentoo Linux Distribution (www.funtoo.org)]]></title>
             <link>https://www.funtoo.org/Making_the_Distribution,_Part_1</link>
             <guid>https://www.funtoo.org/Making_the_Distribution,_Part_1</guid>
@@ -115,13 +104,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37432336</link>
-            <guid>https://news.ycombinator.com/item?id=37432336</guid>
-            <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
+            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
+            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
+            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
+            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
+            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
+            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
             </p><p>
-                38 Points |  <a href="https://news.ycombinator.com/item?id=37432336">32 comments</a>
+                51 Points |  <a href="https://news.ycombinator.com/item?id=37448005">12 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -132,18 +122,7 @@
             <description><![CDATA[A Collection of Tutorials, Tips, and Information on Drones and DJI Products]]></description>
             <content:encoded><![CDATA[<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.
             </p><p>
-                105 Points |  <a href="https://news.ycombinator.com/item?id=37445963">71 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Order of the Occult Hand (en.wikipedia.org)]]></title>
-            <link>https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand</link>
-            <guid>https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand</guid>
-            <pubDate>Sat, 09 Sep 2023 19:53:38 GMT</pubDate>
-            <description><![CDATA[The Order of the Occult Hand: A Secret Society of Journalists]]></description>
-            <content:encoded><![CDATA[<p>The Order of the Occult Hand is a secret society of American journalists who insert the phrase 'It was as if an occult hand had...' into their articles as an inside joke. The phrase was introduced by Joseph Flanders in 1965, and his colleagues formed the Order to commemorate it. The tradition spread to other media outlets and even internationally. The Order's secrecy was exposed in 2004, but it continues to operate and has chosen a new secret phrase in 2006. In 2020, a journalism challenge was announced to encourage the use of a meaningless telltale phrase in news articles.
-            </p><p>
-                12 Points |  <a href="https://news.ycombinator.com/item?id=37449620">2 comments</a>
+                120 Points |  <a href="https://news.ycombinator.com/item?id=37445963">83 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -158,14 +137,24 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)]]></title>
-            <link>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</link>
-            <guid>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</guid>
-            <pubDate>Thu, 07 Sep 2023 07:32:48 GMT</pubDate>
-            <description><![CDATA[Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology]]></description>
-            <content:encoded><![CDATA[<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.
+            <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37432336</link>
+            <guid>https://news.ycombinator.com/item?id=37432336</guid>
+            <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                90 Points |  <a href="https://news.ycombinator.com/item?id=37415804">38 comments</a>
+                41 Points |  <a href="https://news.ycombinator.com/item?id=37432336">34 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Order of the Occult Hand (en.wikipedia.org)]]></title>
+            <link>https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand</link>
+            <guid>https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand</guid>
+            <pubDate>Sat, 09 Sep 2023 19:53:38 GMT</pubDate>
+            <description><![CDATA[The Order of the Occult Hand: A Secret Society of Journalists]]></description>
+            <content:encoded><![CDATA[<p>The Order of the Occult Hand is a secret society of American journalists who insert the phrase 'It was as if an occult hand had...' into their articles as an inside joke. The phrase was introduced by Joseph Flanders in 1965, and his colleagues formed the Order to commemorate it. The tradition spread to other media outlets and even internationally. The Order's secrecy was exposed in 2004, but it continues to operate and has chosen a new secret phrase in 2006. In 2020, a journalism challenge was announced to encourage the use of a meaningless telltale phrase in news articles.
+            </p><p>
+                12 Points |  <a href="https://news.ycombinator.com/item?id=37449620">2 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -180,58 +169,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Development of the C Language (2003) (cm.bell-labs.co)]]></title>
-            <link>http://cm.bell-labs.co/who/dmr/chist.html</link>
-            <guid>http://cm.bell-labs.co/who/dmr/chist.html</guid>
-            <pubDate>Sat, 09 Sep 2023 06:33:32 GMT</pubDate>
-            <description><![CDATA['The Development and Evolution of the C Programming Language']]></description>
-            <content:encoded><![CDATA[<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.
+            <title><![CDATA[Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)]]></title>
+            <link>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</link>
+            <guid>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</guid>
+            <pubDate>Thu, 07 Sep 2023 07:32:48 GMT</pubDate>
+            <description><![CDATA[Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology]]></description>
+            <content:encoded><![CDATA[<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.
             </p><p>
-                142 Points |  <a href="https://news.ycombinator.com/item?id=37442810">20 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why you might want async in your project (notgull.net)]]></title>
-            <link>https://notgull.net/why-you-want-async/</link>
-            <guid>https://notgull.net/why-you-want-async/</guid>
-            <pubDate>Sat, 09 Sep 2023 18:17:56 GMT</pubDate>
-            <description><![CDATA['Why you might actually want async in your project']]></description>
-            <content:encoded><![CDATA[<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.
-            </p><p>
-                69 Points |  <a href="https://news.ycombinator.com/item?id=37448460">51 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Public restrooms are hard to find in America (www.washingtonpost.com)]]></title>
-            <link>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</link>
-            <guid>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</guid>
-            <pubDate>Sat, 09 Sep 2023 14:52:20 GMT</pubDate>
-            <description><![CDATA['The Problem of Inaccessible Public Restrooms in America']]></description>
-            <content:encoded><![CDATA[<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.
-            </p><p>
-                111 Points |  <a href="https://news.ycombinator.com/item?id=37446083">255 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)]]></title>
-            <link>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</link>
-            <guid>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</guid>
-            <pubDate>Sat, 09 Sep 2023 15:54:15 GMT</pubDate>
-            <description><![CDATA[Canadian Housing Prices Continue to Soar, Outpacing U.S. Market]]></description>
-            <content:encoded><![CDATA[<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.
-            </p><p>
-                140 Points |  <a href="https://news.ycombinator.com/item?id=37446790">328 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)]]></title>
-            <link>https://www.thebookseller.com/features/berkeley-hotel-hostage</link>
-            <guid>https://www.thebookseller.com/features/berkeley-hotel-hostage</guid>
-            <pubDate>Sat, 09 Sep 2023 11:12:22 GMT</pubDate>
-            <description><![CDATA[N/A]]></description>
-            <content:encoded><![CDATA[<p>N/A
-            </p><p>
-                57 Points |  <a href="https://news.ycombinator.com/item?id=37444066">15 comments</a>
+                105 Points |  <a href="https://news.ycombinator.com/item?id=37415804">48 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -243,6 +188,39 @@
             <content:encoded><![CDATA[<p>This patch for FFmpeg's proresdec2 fixes and ports the cached reader. The changes include moving back to the regular get_bits API, reducing the lookup to switch the coding method, and using shorter reads for the end of the bitstream. The patch also provides speedup results for Win64 and Win32 platforms. The cached reader version shows a 20% speedup on Win64 and a 14% speedup on Win32.
             </p><p>
                 17 Points |  <a href="https://news.ycombinator.com/item?id=37446430">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Development of the C Language (2003) (cm.bell-labs.co)]]></title>
+            <link>http://cm.bell-labs.co/who/dmr/chist.html</link>
+            <guid>http://cm.bell-labs.co/who/dmr/chist.html</guid>
+            <pubDate>Sat, 09 Sep 2023 06:33:32 GMT</pubDate>
+            <description><![CDATA['The Development and Evolution of the C Programming Language']]></description>
+            <content:encoded><![CDATA[<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.
+            </p><p>
+                142 Points |  <a href="https://news.ycombinator.com/item?id=37442810">20 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Public restrooms are hard to find in America (www.washingtonpost.com)]]></title>
+            <link>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</link>
+            <guid>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</guid>
+            <pubDate>Sat, 09 Sep 2023 14:52:20 GMT</pubDate>
+            <description><![CDATA['The Problem of Inaccessible Public Restrooms in America']]></description>
+            <content:encoded><![CDATA[<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.
+            </p><p>
+                142 Points |  <a href="https://news.ycombinator.com/item?id=37446083">297 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)]]></title>
+            <link>https://www.thebookseller.com/features/berkeley-hotel-hostage</link>
+            <guid>https://www.thebookseller.com/features/berkeley-hotel-hostage</guid>
+            <pubDate>Sat, 09 Sep 2023 11:12:22 GMT</pubDate>
+            <description><![CDATA[N/A]]></description>
+            <content:encoded><![CDATA[<p>N/A
+            </p><p>
+                57 Points |  <a href="https://news.ycombinator.com/item?id=37444066">15 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -268,6 +246,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[The end of the subscription era is coming (nickfthilton.medium.com)]]></title>
+            <link>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</link>
+            <guid>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</guid>
+            <pubDate>Sat, 09 Sep 2023 17:36:41 GMT</pubDate>
+            <description><![CDATA[The Impact of Subscription Models on Media and Creators]]></description>
+            <content:encoded><![CDATA[<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.
+            </p><p>
+                93 Points |  <a href="https://news.ycombinator.com/item?id=37447915">86 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)]]></title>
             <link>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</link>
             <guid>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</guid>
@@ -276,6 +265,17 @@
             <content:encoded><![CDATA[<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.
             </p><p>
                 7 Points |  <a href="https://news.ycombinator.com/item?id=37443395">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)]]></title>
+            <link>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</link>
+            <guid>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</guid>
+            <pubDate>Sat, 09 Sep 2023 15:54:15 GMT</pubDate>
+            <description><![CDATA[Canadian Housing Prices Continue to Soar, Outpacing U.S. Market]]></description>
+            <content:encoded><![CDATA[<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.
+            </p><p>
+                140 Points |  <a href="https://news.ycombinator.com/item?id=37446790">328 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -290,24 +290,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37444477</link>
-            <guid>https://news.ycombinator.com/item?id=37444477</guid>
-            <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                151 Points |  <a href="https://news.ycombinator.com/item?id=37444477">24 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Google's Statement on the UK Online Safety Bill (bills.parliament.uk)]]></title>
+            <title><![CDATA[Google's Statement on the UK Online Safety Bill [pdf] (bills.parliament.uk)]]></title>
             <link>https://bills.parliament.uk/publications/46675/documents/1885</link>
             <guid>https://bills.parliament.uk/publications/46675/documents/1885</guid>
             <pubDate>Sat, 09 Sep 2023 09:36:58 GMT</pubDate>
             <description><![CDATA[Security Check on bills.parliament.uk]]></description>
             <content:encoded><![CDATA[<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.
             </p><p>
-                48 Points |  <a href="https://news.ycombinator.com/item?id=37443634">27 comments</a>
+                62 Points |  <a href="https://news.ycombinator.com/item?id=37443634">37 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -322,6 +312,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (www.livescience.com)]]></title>
+            <link>https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab</link>
+            <guid>https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab</guid>
+            <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
+            <description><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab]]></description>
+            <content:encoded><![CDATA[<p>Scientists have used CRISPR gene-editing technology to transform cancer cells into healthy muscle tissue in the lab. By disabling a specific protein complex in cells of rhabdomyosarcoma (RMS), a rare cancer in skeletal muscle tissue, the tumor cells turned into healthy muscle cells. This process, known as differentiation therapy, has already been tested in other types of cancer and could be a promising new treatment option for patients with RMS. The study identified a protein complex that could serve as a target for therapy, and drugs that inhibit this complex are already being developed.
+            </p><p>
+                155 Points |  <a href="https://news.ycombinator.com/item?id=37444477">24 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Telescript (programming language) (en.wikipedia.org)]]></title>
             <link>https://en.wikipedia.org/wiki/Telescript_(programming_language)</link>
             <guid>https://en.wikipedia.org/wiki/Telescript_(programming_language)</guid>
@@ -333,14 +334,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The end of the subscription era is coming (nickfthilton.medium.com)]]></title>
-            <link>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</link>
-            <guid>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</guid>
-            <pubDate>Sat, 09 Sep 2023 17:36:41 GMT</pubDate>
-            <description><![CDATA[The Impact of Subscription Models on Media and Creators]]></description>
-            <content:encoded><![CDATA[<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.
+            <title><![CDATA[Morocco earthquake kills more than 1,000 (www.nbcnews.com)]]></title>
+            <link>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</link>
+            <guid>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</guid>
+            <pubDate>Sat, 09 Sep 2023 13:40:15 GMT</pubDate>
+            <description><![CDATA['Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates']]></description>
+            <content:encoded><![CDATA[<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.
             </p><p>
-                93 Points |  <a href="https://news.ycombinator.com/item?id=37447915">86 comments</a>
+                196 Points |  <a href="https://news.ycombinator.com/item?id=37445284">110 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
