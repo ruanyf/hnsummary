@@ -11,18 +11,8 @@
     },
     "items": [
         {
-            "id": "https://news.ycombinator.com/item?id=37449921",
-            "content_html": "<p>No summary available\n            </p><p>\n                65 Points |  <a href=\"https://news.ycombinator.com/item?id=37449921\">32 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37449921",
-            "title": "Alert: No Google Topics in Vivaldi (news.ycombinator.com)",
-            "date_modified": "2023-09-09T20:24:54.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
             "id": "https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/",
-            "content_html": "<p>iPadOS 17 now supports UVC (USB Video Class) devices, allowing iPads to recognize external webcams, cameras, and other devices connected over USB-C. Federico Viticci tested this feature and found that he could use a Game Boy Camera as his iPad Pro's webcam during FaceTime calls. He also experimented with using a game capture card to play Nintendo Switch and Steam Deck games on his iPad's display. This unexpected functionality showcases the versatility of iPadOS 17 and its potential for creative and gaming applications.\n            </p><p>\n                17 Points |  <a href=\"https://news.ycombinator.com/item?id=37428491\">4 comments</a>\n            </p>",
+            "content_html": "<p>iPadOS 17 now supports UVC (USB Video Class) devices, allowing iPads to recognize external webcams, cameras, and other devices connected over USB-C. Federico Viticci tested this feature and found that he could use a Game Boy Camera as his iPad Pro's webcam during FaceTime calls. He also experimented with using a game capture card to play Nintendo Switch and Steam Deck games on his iPad's display. This unexpected functionality showcases the versatility of iPadOS 17 and its potential for creative and gaming applications.\n            </p><p>\n                172 Points |  <a href=\"https://news.ycombinator.com/item?id=37428491\">17 comments</a>\n            </p>",
             "url": "https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/",
             "title": "I used a Game Boy camera for Facetime video calls in iPadOS 17 (www.macstories.net)",
             "summary": "'I Used a Game Boy Camera for FaceTime Video Calls in iPadOS 17 and It Was Glorious'",
@@ -33,7 +23,7 @@
         },
         {
             "id": "https://benchmarks.llmonitor.com",
-            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                359 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">219 comments</a>\n            </p>",
+            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                441 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">246 comments</a>\n            </p>",
             "url": "https://benchmarks.llmonitor.com",
             "title": "Asking 60 LLMs a set of 20 questions (benchmarks.llmonitor.com)",
             "summary": "'Script Tests Reasoning and Creativity of 60+ Models Using Prompts'",
@@ -54,30 +44,19 @@
             }
         },
         {
-            "id": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
-            "content_html": "<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.\n            </p><p>\n                266 Points |  <a href=\"https://news.ycombinator.com/item?id=37444268\">87 comments</a>\n            </p>",
-            "url": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
-            "title": "Every type of plastic used by LEGO (2022) (bricknerd.com)",
-            "summary": "The Many Types of Plastic Used By LEGO",
-            "date_modified": "2023-09-09T11:43:59.000Z",
+            "id": "https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html",
+            "content_html": "<p>Scientists from Ames National Laboratory have developed a machine learning model that can predict the Curie temperature of new material combinations, a crucial factor in designing permanent magnet materials. This model is a significant step towards using artificial intelligence to discover new magnetic materials without critical elements like cobalt and rare earth elements. The team trained the model using experimental data and theoretical modeling, saving time and resources compared to traditional experimentation. The success of the model in predicting the Curie temperature of material candidates shows promise for designing new permanent magnets for various technological applications.\n            </p><p>\n                14 Points |  <a href=\"https://news.ycombinator.com/item?id=37412845\">0 comments</a>\n            </p>",
+            "url": "https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html",
+            "title": "Researchers use AI to find new magnetic materials without critical elements (phys.org)",
+            "summary": "Researchers Use AI to Predict Curie Temperature of New Magnetic Materials",
+            "date_modified": "2023-09-06T23:35:23.000Z",
             "author": {
-                "name": "bricknerd.com"
-            }
-        },
-        {
-            "id": "https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/",
-            "content_html": "<p>John Le Carré's Cornwall home, Tregiffian Cottage, is up for sale for $3.7 million. The 5,000-square-foot house, where Le Carré wrote many of his novels, features a detached writing studio, a library with bespoke joinery, and a safe room. The property offers stunning views and a picturesque setting. Le Carré's son, Nick Cornwell, described the cottage as a place filled with wildlife and natural beauty, making it an ideal space for rest, work, or self-reflection.\n            </p><p>\n                26 Points |  <a href=\"https://news.ycombinator.com/item?id=37449439\">23 comments</a>\n            </p>",
-            "url": "https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/",
-            "title": "English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale (lithub.com)",
-            "summary": "'John Le Carré's Cornwall Home, Tregiffian Cottage, Hits the Market for $3.7 Million'",
-            "date_modified": "2023-09-09T19:34:44.000Z",
-            "author": {
-                "name": "lithub.com"
+                "name": "phys.org"
             }
         },
         {
             "id": "https://neurosciencenews.com/sequential-memory-human-trait-23888/",
-            "content_html": "<p>Humans possess a unique ability to recognize and remember sequential information, according to a study. Bonobos, our closest relatives, struggle to learn the order of stimuli in the same way as humans. This finding sheds light on the cognitive distinctions between humans and other animals, explaining why only humans possess certain cultural abilities like language and advanced planning. Sequential memory may be the foundational block behind many uniquely human behaviors and capabilities.\n            </p><p>\n                13 Points |  <a href=\"https://news.ycombinator.com/item?id=37419739\">15 comments</a>\n            </p>",
+            "content_html": "<p>Humans possess a unique ability to recognize and remember sequential information, according to a study. Bonobos, our closest relatives, struggle to learn the order of stimuli in the same way as humans. This finding sheds light on the cognitive distinctions between humans and other animals, explaining why only humans possess certain cultural abilities like language and advanced planning. Sequential memory may be the foundational block behind many uniquely human behaviors and capabilities.\n            </p><p>\n                24 Points |  <a href=\"https://news.ycombinator.com/item?id=37419739\">38 comments</a>\n            </p>",
             "url": "https://neurosciencenews.com/sequential-memory-human-trait-23888/",
             "title": "Sequential Memory Is a Unique Human Trait (neurosciencenews.com)",
             "summary": "Sequential Memory Is a Unique Human Trait",
@@ -87,47 +66,14 @@
             }
         },
         {
-            "id": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
-            "content_html": "<p>Freshpaint is a Customer Data Platform that helps businesses collect and integrate customer data. They offer a PHI Management Platform for healthcare providers and a Customer Data Platform for teams to collect and activate customer data. The company is fully remote and values freedom and ownership in work. They are backed by leading investors and have a deep analytics and growth experienced team. The role of Software Engineer at Freshpaint involves scaling infrastructure, designing new data processing systems, and building user experiences.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37450228\">0 comments</a>\n            </p>",
-            "url": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
-            "title": "Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform (jobs.ashbyhq.com)",
-            "summary": "Freshpaint: Simplifying Customer Data Collection and Integration",
-            "date_modified": "2023-09-09T21:00:20.000Z",
+            "id": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
+            "content_html": "<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.\n            </p><p>\n                288 Points |  <a href=\"https://news.ycombinator.com/item?id=37444268\">97 comments</a>\n            </p>",
+            "url": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
+            "title": "Every type of plastic used by LEGO (2022) (bricknerd.com)",
+            "summary": "The Many Types of Plastic Used By LEGO",
+            "date_modified": "2023-09-09T11:43:59.000Z",
             "author": {
-                "name": "jobs.ashbyhq.com"
-            }
-        },
-        {
-            "id": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
-            "content_html": "<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37445951\">22 comments</a>\n            </p>",
-            "url": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
-            "title": "PAROL6 Desktop Robot Arm (github.com)",
-            "summary": "'PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design'",
-            "date_modified": "2023-09-09T14:37:45.000Z",
-            "author": {
-                "name": "github.com"
-            }
-        },
-        {
-            "id": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
-            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                43 Points |  <a href=\"https://news.ycombinator.com/item?id=37440696\">107 comments</a>\n            </p>",
-            "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
-            "title": "Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)",
-            "summary": "'Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76'",
-            "date_modified": "2023-09-08T23:45:55.000Z",
-            "author": {
-                "name": "www.washingtonpost.com"
-            }
-        },
-        {
-            "id": "https://daily.jstor.org/a-teen-celebrity-in-1804/",
-            "content_html": "<p>In 1804, thirteen-year-old actor William Henry West Betty became a sensation in London, with crowds mobbing theaters and camped outside his home. This article explores the phenomenon of Bettymania and how it was carefully orchestrated through paid critics, merchandise, and strategic audience placement. While some critics saw it as a national embarrassment, Betty's fame and fee skyrocketed, but he eventually faded from the public eye. This story sheds light on the early history of celebrity culture and the fleeting nature of child stardom.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37433784\">1 comments</a>\n            </p>",
-            "url": "https://daily.jstor.org/a-teen-celebrity-in-1804/",
-            "title": "A Teen Celebrity in 1804 (daily.jstor.org)",
-            "summary": "'A Teen Celebrity in 1804: The Phenomenon of Bettymania and the Fleeting Nature of Child Stardom'",
-            "date_modified": "2023-09-08T14:15:01.000Z",
-            "author": {
-                "name": "daily.jstor.org"
+                "name": "bricknerd.com"
             }
         },
         {
@@ -142,14 +88,14 @@
             }
         },
         {
-            "id": "https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love",
-            "content_html": "<p>Wong Kar Wai's 2000 film 'In the Mood for Love' has had a significant influence on popular culture, with its unique aesthetic and storytelling. The film, set in 1960s Hong Kong, follows two individuals who discover that their spouses are having an affair and become entangled themselves. Wong's personal history and diverse influences shaped the film's style, which combines elements of French New Wave filmmaking, American mystery, and Chinese literature. 'In the Mood for Love' is a visually stunning and emotionally resonant work that continues to captivate audiences.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37413027\">0 comments</a>\n            </p>",
-            "url": "https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love",
-            "title": "The era-defining aesthetic of “In the Mood for Love” (www.newyorker.com)",
-            "summary": "'In the Mood for Love': Wong Kar Wai's Influential Masterpiece",
-            "date_modified": "2023-09-06T23:55:59.000Z",
+            "id": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
+            "content_html": "<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.\n            </p><p>\n                120 Points |  <a href=\"https://news.ycombinator.com/item?id=37445951\">32 comments</a>\n            </p>",
+            "url": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
+            "title": "PAROL6 Desktop Robot Arm (github.com)",
+            "summary": "'PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design'",
+            "date_modified": "2023-09-09T14:37:45.000Z",
             "author": {
-                "name": "www.newyorker.com"
+                "name": "github.com"
             }
         },
         {
@@ -164,8 +110,52 @@
             }
         },
         {
+            "id": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
+            "content_html": "<p>Freshpaint is a Customer Data Platform that helps businesses collect and integrate customer data. They offer a PHI Management Platform for healthcare providers and a Customer Data Platform for teams to collect and activate customer data. The company is fully remote and values freedom and ownership in work. They are backed by leading investors and have a deep analytics and growth experienced team. The role of Software Engineer at Freshpaint involves scaling infrastructure, designing new data processing systems, and building user experiences.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37450228\">0 comments</a>\n            </p>",
+            "url": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn",
+            "title": "Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform (jobs.ashbyhq.com)",
+            "summary": "Freshpaint: Simplifying Customer Data Collection and Integration",
+            "date_modified": "2023-09-09T21:00:20.000Z",
+            "author": {
+                "name": "jobs.ashbyhq.com"
+            }
+        },
+        {
+            "id": "https://daily.jstor.org/a-teen-celebrity-in-1804/",
+            "content_html": "<p>In 1804, thirteen-year-old actor William Henry West Betty became a sensation in London, with crowds mobbing theaters and camped outside his home. This article explores the phenomenon of Bettymania and how it was carefully orchestrated through paid critics, merchandise, and strategic audience placement. While some critics saw it as a national embarrassment, Betty's fame and fee skyrocketed, but he eventually faded from the public eye. This story sheds light on the early history of celebrity culture and the fleeting nature of child stardom.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37433784\">1 comments</a>\n            </p>",
+            "url": "https://daily.jstor.org/a-teen-celebrity-in-1804/",
+            "title": "A Teen Celebrity in 1804 (daily.jstor.org)",
+            "summary": "'A Teen Celebrity in 1804: The Phenomenon of Bettymania and the Fleeting Nature of Child Stardom'",
+            "date_modified": "2023-09-08T14:15:01.000Z",
+            "author": {
+                "name": "daily.jstor.org"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love",
+            "content_html": "<p>Wong Kar Wai's 2000 film 'In the Mood for Love' has had a significant influence on popular culture, with its unique aesthetic and storytelling. The film, set in 1960s Hong Kong, follows two individuals who discover that their spouses are having an affair and become entangled themselves. Wong's personal history and diverse influences shaped the film's style, which combines elements of French New Wave filmmaking, American mystery, and Chinese literature. 'In the Mood for Love' is a visually stunning and emotionally resonant work that continues to captivate audiences.\n            </p><p>\n                42 Points |  <a href=\"https://news.ycombinator.com/item?id=37413027\">12 comments</a>\n            </p>",
+            "url": "https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love",
+            "title": "The era-defining aesthetic of “In the Mood for Love” (www.newyorker.com)",
+            "summary": "'In the Mood for Love': Wong Kar Wai's Influential Masterpiece",
+            "date_modified": "2023-09-06T23:55:59.000Z",
+            "author": {
+                "name": "www.newyorker.com"
+            }
+        },
+        {
+            "id": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
+            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                71 Points |  <a href=\"https://news.ycombinator.com/item?id=37440696\">123 comments</a>\n            </p>",
+            "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
+            "title": "Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)",
+            "summary": "'Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76'",
+            "date_modified": "2023-09-08T23:45:55.000Z",
+            "author": {
+                "name": "www.washingtonpost.com"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=37432336",
-            "content_html": "<p>No summary available\n            </p><p>\n                50 Points |  <a href=\"https://news.ycombinator.com/item?id=37432336\">37 comments</a>\n            </p>",
+            "content_html": "<p>No summary available\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37432336\">44 comments</a>\n            </p>",
             "url": "https://news.ycombinator.com/item?id=37432336",
             "title": "A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)",
             "date_modified": "2023-09-08T11:49:55.000Z",
@@ -185,19 +175,8 @@
             }
         },
         {
-            "id": "https://notgull.net/why-you-want-async/",
-            "content_html": "<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.\n            </p><p>\n                90 Points |  <a href=\"https://news.ycombinator.com/item?id=37448460\">74 comments</a>\n            </p>",
-            "url": "https://notgull.net/why-you-want-async/",
-            "title": "Why you might want async in your project (notgull.net)",
-            "summary": "'Why you might actually want async in your project'",
-            "date_modified": "2023-09-09T18:17:56.000Z",
-            "author": {
-                "name": "notgull.net"
-            }
-        },
-        {
             "id": "https://github.com/Ads-cmu/WhatsApp-Llama",
-            "content_html": "<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.\n            </p><p>\n                51 Points |  <a href=\"https://news.ycombinator.com/item?id=37448005\">12 comments</a>\n            </p>",
+            "content_html": "<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.\n            </p><p>\n                70 Points |  <a href=\"https://news.ycombinator.com/item?id=37448005\">29 comments</a>\n            </p>",
             "url": "https://github.com/Ads-cmu/WhatsApp-Llama",
             "title": "Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)",
             "summary": "Fine-tune Llama 7b to Mimic Your WhatsApp Style",
@@ -218,25 +197,14 @@
             }
         },
         {
-            "id": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
-            "content_html": "<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.\n            </p><p>\n                119 Points |  <a href=\"https://news.ycombinator.com/item?id=37415804\">58 comments</a>\n            </p>",
-            "url": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
-            "title": "Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)",
-            "summary": "Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology",
-            "date_modified": "2023-09-07T07:32:48.000Z",
+            "id": "https://notgull.net/why-you-want-async/",
+            "content_html": "<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37448460\">87 comments</a>\n            </p>",
+            "url": "https://notgull.net/why-you-want-async/",
+            "title": "Why you might want async in your project (notgull.net)",
+            "summary": "'Why you might actually want async in your project'",
+            "date_modified": "2023-09-09T18:17:56.000Z",
             "author": {
-                "name": "www.tomshardware.com"
-            }
-        },
-        {
-            "id": "https://forum.dji.com/thread-293546-1-1.html",
-            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                133 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">96 comments</a>\n            </p>",
-            "url": "https://forum.dji.com/thread-293546-1-1.html",
-            "title": "DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)",
-            "summary": "A Collection of Tutorials, Tips, and Information on Drones and DJI Products",
-            "date_modified": "2023-09-09T14:38:53.000Z",
-            "author": {
-                "name": "forum.dji.com"
+                "name": "notgull.net"
             }
         },
         {
@@ -251,14 +219,35 @@
             }
         },
         {
-            "id": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
-            "content_html": "<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.\n            </p><p>\n                162 Points |  <a href=\"https://news.ycombinator.com/item?id=37446083\">341 comments</a>\n            </p>",
-            "url": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
-            "title": "Public restrooms are hard to find in America (www.washingtonpost.com)",
-            "summary": "'The Problem of Inaccessible Public Restrooms in America'",
-            "date_modified": "2023-09-09T14:52:20.000Z",
+            "id": "https://mycophobia.org/desktop_gui_minimalism.html",
+            "content_html": "<p>The author reflects on their experience with different desktop environments in Linux and their desire for a minimalist GUI. They discuss the evolution of GUIs, the influence of the original Macintosh interface, and their vision for a GUI environment that combines the flexibility of a window manager with the usability of a desktop. The author explores concepts such as spatial file management, customizable application launchers, and the need for efficient task management. They conclude by advocating for a GUI that prioritizes maximum usability and flexibility with minimal components.\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37448554\">6 comments</a>\n            </p>",
+            "url": "https://mycophobia.org/desktop_gui_minimalism.html",
+            "title": "On Desktop GUI Minimalism (mycophobia.org)",
+            "summary": "Reflections on Linux Desktop Environments and the Quest for a Minimalist GUI",
+            "date_modified": "2023-09-09T18:23:18.000Z",
             "author": {
-                "name": "www.washingtonpost.com"
+                "name": "mycophobia.org"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=37449921",
+            "content_html": "<p>No summary available\n            </p><p>\n                93 Points |  <a href=\"https://news.ycombinator.com/item?id=37449921\">63 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37449921",
+            "title": "No Google Topics in Vivaldi (news.ycombinator.com)",
+            "date_modified": "2023-09-09T20:24:54.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
+            "content_html": "<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.\n            </p><p>\n                131 Points |  <a href=\"https://news.ycombinator.com/item?id=37415804\">69 comments</a>\n            </p>",
+            "url": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
+            "title": "Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)",
+            "summary": "Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology",
+            "date_modified": "2023-09-07T07:32:48.000Z",
+            "author": {
+                "name": "www.tomshardware.com"
             }
         },
         {
@@ -270,6 +259,28 @@
             "date_modified": "2023-09-09T11:12:22.000Z",
             "author": {
                 "name": "www.thebookseller.com"
+            }
+        },
+        {
+            "id": "https://forum.dji.com/thread-293546-1-1.html",
+            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                133 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">96 comments</a>\n            </p>",
+            "url": "https://forum.dji.com/thread-293546-1-1.html",
+            "title": "DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)",
+            "summary": "A Collection of Tutorials, Tips, and Information on Drones and DJI Products",
+            "date_modified": "2023-09-09T14:38:53.000Z",
+            "author": {
+                "name": "forum.dji.com"
+            }
+        },
+        {
+            "id": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
+            "content_html": "<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.\n            </p><p>\n                162 Points |  <a href=\"https://news.ycombinator.com/item?id=37446083\">341 comments</a>\n            </p>",
+            "url": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
+            "title": "Public restrooms are hard to find in America (www.washingtonpost.com)",
+            "summary": "'The Problem of Inaccessible Public Restrooms in America'",
+            "date_modified": "2023-09-09T14:52:20.000Z",
+            "author": {
+                "name": "www.washingtonpost.com"
             }
         },
         {
@@ -295,28 +306,6 @@
             }
         },
         {
-            "id": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
-            "content_html": "<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.\n            </p><p>\n                158 Points |  <a href=\"https://news.ycombinator.com/item?id=37446790\">371 comments</a>\n            </p>",
-            "url": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
-            "title": "The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)",
-            "summary": "Canadian Housing Prices Continue to Soar, Outpacing U.S. Market",
-            "date_modified": "2023-09-09T15:54:15.000Z",
-            "author": {
-                "name": "awealthofcommonsense.com"
-            }
-        },
-        {
-            "id": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
-            "content_html": "<p>Telescript is an agent-oriented programming language developed by General Magic as part of the Magic Cap system. It allowed end-user devices to upload programs to servers and take advantage of their capabilities. However, General Magic failed to find a niche in the market and Telescript services were eventually deprecated. The language was object-oriented and used a modified C-like syntax. It introduced the concepts of agents and places, which interacted with each other to perform tasks.\n            </p><p>\n                32 Points |  <a href=\"https://news.ycombinator.com/item?id=37429362\">17 comments</a>\n            </p>",
-            "url": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
-            "title": "Telescript (programming language) (en.wikipedia.org)",
-            "summary": "'Telescript: An Agent-Oriented Programming Language for Uploading Programs to Servers'",
-            "date_modified": "2023-09-08T04:34:38.000Z",
-            "author": {
-                "name": "en.wikipedia.org"
-            }
-        },
-        {
             "id": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
             "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                78 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">52 comments</a>\n            </p>",
             "url": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
@@ -325,6 +314,17 @@
             "date_modified": "2023-09-07T22:39:13.000Z",
             "author": {
                 "name": "devblogs.microsoft.com"
+            }
+        },
+        {
+            "id": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
+            "content_html": "<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.\n            </p><p>\n                158 Points |  <a href=\"https://news.ycombinator.com/item?id=37446790\">371 comments</a>\n            </p>",
+            "url": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
+            "title": "The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)",
+            "summary": "Canadian Housing Prices Continue to Soar, Outpacing U.S. Market",
+            "date_modified": "2023-09-09T15:54:15.000Z",
+            "author": {
+                "name": "awealthofcommonsense.com"
             }
         },
         {
