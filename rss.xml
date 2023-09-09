@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 19:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 20:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,73 +23,51 @@
             <description><![CDATA['Script Tests Reasoning and Creativity of 60+ Models Using Prompts']]></description>
             <content:encoded><![CDATA[<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.
             </p><p>
-                277 Points |  <a href="https://news.ycombinator.com/item?id=37445401">154 comments</a>
+                316 Points |  <a href="https://news.ycombinator.com/item?id=37445401">191 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The End of the Subscription Era Is Coming (nickfthilton.medium.com)]]></title>
-            <link>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</link>
-            <guid>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</guid>
-            <pubDate>Sat, 09 Sep 2023 17:36:41 GMT</pubDate>
-            <description><![CDATA[The Impact of Subscription Models on Media and Creators]]></description>
-            <content:encoded><![CDATA[<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.
+            <title><![CDATA[Show HN: I built a Python web framework from scratch (github.com)]]></title>
+            <link>https://github.com/ZeroIntensity/view.py</link>
+            <guid>https://github.com/ZeroIntensity/view.py</guid>
+            <pubDate>Sat, 09 Sep 2023 18:47:54 GMT</pubDate>
+            <description><![CDATA['view.py: A Lightning-Fast and Modern Web Framework in Alpha Stage']]></description>
+            <content:encoded><![CDATA[<p>view.py is a lightning-fast, modern web framework that is currently in a high alpha stage of development. It requires CPython 3.8+ for installation. The framework offers a simple and efficient way to build web applications. It is actively seeking new contributors and provides installation instructions for Linux/macOS and Windows. view.py aims to provide a fast and modern solution for web development.
             </p><p>
-                50 Points |  <a href="https://news.ycombinator.com/item?id=37447915">25 comments</a>
+                22 Points |  <a href="https://news.ycombinator.com/item?id=37448914">4 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Intel Announces Arm Investment, Talks Up RISC-V (www.tomshardware.com)]]></title>
-            <link>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</link>
-            <guid>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</guid>
-            <pubDate>Thu, 07 Sep 2023 07:32:48 GMT</pubDate>
-            <description><![CDATA[Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology]]></description>
-            <content:encoded><![CDATA[<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.
+            <title><![CDATA[You might want async in your project (notgull.net)]]></title>
+            <link>https://notgull.net/why-you-want-async/</link>
+            <guid>https://notgull.net/why-you-want-async/</guid>
+            <pubDate>Sat, 09 Sep 2023 18:17:56 GMT</pubDate>
+            <description><![CDATA['Why you might actually want async in your project']]></description>
+            <content:encoded><![CDATA[<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.
             </p><p>
-                70 Points |  <a href="https://news.ycombinator.com/item?id=37415804">25 comments</a>
+                29 Points |  <a href="https://news.ycombinator.com/item?id=37448460">10 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zinc batteries that offer an alternative to lithium just got a big boost (www.technologyreview.com)]]></title>
-            <link>https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/</link>
-            <guid>https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/</guid>
-            <pubDate>Sat, 09 Sep 2023 18:21:46 GMT</pubDate>
-            <description><![CDATA['Eos Energy Receives $400 Million Loan from US Department of Energy for Zinc Batteries']]></description>
-            <content:encoded><![CDATA[<p>The US Department of Energy has provided a $400 million loan to battery maker Eos Energy, which offers zinc-halide batteries as an alternative to lithium-ion batteries. Eos hopes that its zinc-based technology can store renewable energy at a lower cost than lithium-ion batteries. The loan is the first of its kind from the DOE's Loan Program Office to a battery maker focused on alternatives to lithium-ion cells. The funding will support the expansion of Eos's manufacturing capacity.
-            </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37448526">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Lab-grown Meat is not a Climate Change Solution (www.climatedrift.com)]]></title>
-            <link>https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution</link>
-            <guid>https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution</guid>
-            <pubDate>Sat, 09 Sep 2023 18:19:00 GMT</pubDate>
-            <description><![CDATA['Lab-grown Meat Unlikely to Mitigate Greenhouse Gas Emissions from Livestock Farming', Says Expert]]></description>
-            <content:encoded><![CDATA[<p>Lab-grown meat is unlikely to be a viable solution for mitigating greenhouse gas emissions from livestock farming. While it offers the allure of reducing emissions while still enjoying meat, the technology faces significant challenges in scaling up production and may not even work at the proposed scale. Additionally, there are already existing alternatives, such as policy measures and market-driven changes, that have a better chance of achieving emission reductions. Lab-grown meat should not be considered a climate solution.
-            </p><p>
-                12 Points |  <a href="https://news.ycombinator.com/item?id=37448476">10 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Every type of plastic used by Lego (2022) (bricknerd.com)]]></title>
+            <title><![CDATA[Every type of plastic used by LEGO (2022) (bricknerd.com)]]></title>
             <link>https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22</link>
             <guid>https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22</guid>
             <pubDate>Sat, 09 Sep 2023 11:43:59 GMT</pubDate>
             <description><![CDATA[The Many Types of Plastic Used By LEGO]]></description>
             <content:encoded><![CDATA[<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.
             </p><p>
-                197 Points |  <a href="https://news.ycombinator.com/item?id=37444268">55 comments</a>
+                249 Points |  <a href="https://news.ycombinator.com/item?id=37444268">76 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)]]></title>
-            <link>https://forum.dji.com/thread-293546-1-1.html</link>
-            <guid>https://forum.dji.com/thread-293546-1-1.html</guid>
-            <pubDate>Sat, 09 Sep 2023 14:38:53 GMT</pubDate>
-            <description><![CDATA[A Collection of Tutorials, Tips, and Information on Drones and DJI Products]]></description>
-            <content:encoded><![CDATA[<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.
+            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
+            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
+            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
+            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
+            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
+            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
             </p><p>
-                92 Points |  <a href="https://news.ycombinator.com/item?id=37445963">55 comments</a>
+                16 Points |  <a href="https://news.ycombinator.com/item?id=37448005">2 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -104,6 +82,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)]]></title>
+            <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
+            <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
+            <pubDate>Fri, 08 Sep 2023 23:45:55 GMT</pubDate>
+            <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
+            <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
+            </p><p>
+                25 Points |  <a href="https://news.ycombinator.com/item?id=37440696">94 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Birth of the Gentoo Linux Distribution (www.funtoo.org)]]></title>
             <link>https://www.funtoo.org/Making_the_Distribution,_Part_1</link>
             <guid>https://www.funtoo.org/Making_the_Distribution,_Part_1</guid>
@@ -115,101 +104,57 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Block the Blue – Twitter Verified Blocker (chrome.google.com)]]></title>
-            <link>https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn</link>
-            <guid>https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn</guid>
-            <pubDate>Sat, 09 Sep 2023 17:35:08 GMT</pubDate>
-            <description><![CDATA[Chrome Web Store Introduces New Preview Experience]]></description>
-            <content:encoded><![CDATA[<p>The Chrome Web Store is introducing a new preview experience for users to test out. The store offers extensions, themes, and various categories of apps. It also has a privacy policy and terms of service that have been updated. The purpose of the Chrome Web Store is to provide users with a curated collection of apps and extensions for their Chrome browser.
+            <title><![CDATA[The end of the subscription era is coming (nickfthilton.medium.com)]]></title>
+            <link>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</link>
+            <guid>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</guid>
+            <pubDate>Sat, 09 Sep 2023 17:36:41 GMT</pubDate>
+            <description><![CDATA[The Impact of Subscription Models on Media and Creators]]></description>
+            <content:encoded><![CDATA[<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.
             </p><p>
-                55 Points |  <a href="https://news.ycombinator.com/item?id=37447892">30 comments</a>
+                82 Points |  <a href="https://news.ycombinator.com/item?id=37447915">63 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A History of Carrying Capacity (www.wsj.com)]]></title>
-            <link>https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a</link>
-            <guid>https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a</guid>
-            <pubDate>Sat, 09 Sep 2023 16:43:12 GMT</pubDate>
-            <description><![CDATA['Equality in Pockets': The Fight for Gender Equality in Clothing]]></description>
-            <content:encoded><![CDATA[<p>In the late 19th century, women demanded 'equality in pockets' as they noticed a divergence in the development and availability of pockets in men's and women's clothing. This article highlights the historical context of pockets and how they became a symbol of gender inequality. The demand for equal pockets was seen as a part of the broader fight for women's rights, including the right to vote.
+            <title><![CDATA[DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)]]></title>
+            <link>https://forum.dji.com/thread-293546-1-1.html</link>
+            <guid>https://forum.dji.com/thread-293546-1-1.html</guid>
+            <pubDate>Sat, 09 Sep 2023 14:38:53 GMT</pubDate>
+            <description><![CDATA[A Collection of Tutorials, Tips, and Information on Drones and DJI Products]]></description>
+            <content:encoded><![CDATA[<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.
             </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37447315">0 comments</a>
+                105 Points |  <a href="https://news.ycombinator.com/item?id=37445963">71 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)]]></title>
-            <link>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</link>
-            <guid>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</guid>
-            <pubDate>Sat, 09 Sep 2023 15:54:15 GMT</pubDate>
-            <description><![CDATA[Canadian Housing Prices Continue to Soar, Outpacing U.S. Market]]></description>
-            <content:encoded><![CDATA[<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.
+            <title><![CDATA[I used a Game Boy camera for Facetime video calls in iPadOS 17 (www.macstories.net)]]></title>
+            <link>https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/</link>
+            <guid>https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/</guid>
+            <pubDate>Fri, 08 Sep 2023 02:26:44 GMT</pubDate>
+            <description><![CDATA['I Used a Game Boy Camera for FaceTime Video Calls in iPadOS 17 and It Was Glorious']]></description>
+            <content:encoded><![CDATA[<p>iPadOS 17 now supports UVC (USB Video Class) devices, allowing iPads to recognize external webcams, cameras, and other devices connected over USB-C. Federico Viticci tested this feature and found that he could use a Game Boy Camera as his iPad Pro's webcam during FaceTime calls. He also experimented with using a game capture card to play Nintendo Switch and Steam Deck games on his iPad's display. This unexpected functionality showcases the versatility of iPadOS 17 and its potential for creative and gaming applications.
             </p><p>
-                96 Points |  <a href="https://news.ycombinator.com/item?id=37446790">232 comments</a>
+                17 Points |  <a href="https://news.ycombinator.com/item?id=37428491">4 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Development of the M1 Garand and Its Implications (acoup.blog)]]></title>
-            <link>https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/</link>
-            <guid>https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/</guid>
-            <pubDate>Fri, 08 Sep 2023 08:01:09 GMT</pubDate>
-            <description><![CDATA['The M1 Garand: A Missed Opportunity for US Rifle Development']]></description>
-            <content:encoded><![CDATA[<p>The M1 Garand, considered the best battle rifle of World War II, had a significant impact on subsequent US rifle development. While it provided advantages such as increased rate of fire and improved accuracy, it missed the opportunity to become a modern assault rifle. The US did not field its first true assault rifle until two decades after the concept was invented by the Germans. The article explores the development of the M1 Garand and the factors that influenced its design.
+            <title><![CDATA[Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)]]></title>
+            <link>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</link>
+            <guid>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</guid>
+            <pubDate>Thu, 07 Sep 2023 07:32:48 GMT</pubDate>
+            <description><![CDATA[Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology]]></description>
+            <content:encoded><![CDATA[<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.
             </p><p>
-                74 Points |  <a href="https://news.ycombinator.com/item?id=37430842">48 comments</a>
+                90 Points |  <a href="https://news.ycombinator.com/item?id=37415804">38 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ask HN: What cool desk ideas do you have for a home office? (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37447980</link>
-            <guid>https://news.ycombinator.com/item?id=37447980</guid>
-            <pubDate>Sat, 09 Sep 2023 17:41:46 GMT</pubDate>
+            <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37432336</link>
+            <guid>https://news.ycombinator.com/item?id=37432336</guid>
+            <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                20 Points |  <a href="https://news.ycombinator.com/item?id=37447980">23 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)]]></title>
-            <link>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</link>
-            <guid>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</guid>
-            <pubDate>Sat, 09 Sep 2023 08:44:52 GMT</pubDate>
-            <description><![CDATA[Building a Kubernetes Cluster with Talos on Hetzner: Part I]]></description>
-            <content:encoded><![CDATA[<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.
-            </p><p>
-                146 Points |  <a href="https://news.ycombinator.com/item?id=37443404">47 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Development of the C Language (2003) (cm.bell-labs.co)]]></title>
-            <link>http://cm.bell-labs.co/who/dmr/chist.html</link>
-            <guid>http://cm.bell-labs.co/who/dmr/chist.html</guid>
-            <pubDate>Sat, 09 Sep 2023 06:33:32 GMT</pubDate>
-            <description><![CDATA['The Development and Evolution of the C Programming Language']]></description>
-            <content:encoded><![CDATA[<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.
-            </p><p>
-                142 Points |  <a href="https://news.ycombinator.com/item?id=37442810">20 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: Productonboarding.com – Mobbin for SaaS product onboarding (productonboarding.com)]]></title>
-            <link>https://productonboarding.com</link>
-            <guid>https://productonboarding.com</guid>
-            <pubDate>Sat, 09 Sep 2023 16:56:08 GMT</pubDate>
-            <description><![CDATA[A Collection of Product Onboarding Examples from Various Companies]]></description>
-            <content:encoded><![CDATA[<p>This is a list of various product onboarding examples from different companies, including announcements, banners, checklists, forms, surveys, and more. The examples come from companies like Brex, Figma, Github, Google, Mercury, Notion, Stripe, Super, and Vimeo. The list showcases different approaches to product education, new user onboarding, feature adoption, and product updates. It provides a valuable resource for understanding how companies onboard their users and educate them about their products.
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37447445">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring (skio.com)]]></title>
-            <link>https://skio.com/careers/</link>
-            <guid>https://skio.com/careers/</guid>
-            <pubDate>Sat, 09 Sep 2023 12:01:05 GMT</pubDate>
-            <description><![CDATA['Skio: A Startup Helping Brands Sell Subscriptions on Shopify with a Unique Business Model']]></description>
-            <content:encoded><![CDATA[<p>Skio is a startup that helps brands on Shopify sell subscriptions and stands out with its transaction fee business model. The company has a flat organizational structure, minimal meeting culture, and a big long-term vision for building network effects. The founder, Kennan, has a track record of success and an EV-based decision-making approach. Skio is currently hiring for various positions in engineering, product, sales, customer experience, growth, and more.
-            </p><p>
-                1 Points |  <a href="https://news.ycombinator.com/item?id=37444354">0 comments</a>
+                26 Points |  <a href="https://news.ycombinator.com/item?id=37432336">28 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -224,6 +169,50 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[The Development of the C Language (2003) (cm.bell-labs.co)]]></title>
+            <link>http://cm.bell-labs.co/who/dmr/chist.html</link>
+            <guid>http://cm.bell-labs.co/who/dmr/chist.html</guid>
+            <pubDate>Sat, 09 Sep 2023 06:33:32 GMT</pubDate>
+            <description><![CDATA['The Development and Evolution of the C Programming Language']]></description>
+            <content:encoded><![CDATA[<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.
+            </p><p>
+                142 Points |  <a href="https://news.ycombinator.com/item?id=37442810">20 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)]]></title>
+            <link>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</link>
+            <guid>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</guid>
+            <pubDate>Sat, 09 Sep 2023 15:54:15 GMT</pubDate>
+            <description><![CDATA[Canadian Housing Prices Continue to Soar, Outpacing U.S. Market]]></description>
+            <content:encoded><![CDATA[<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.
+            </p><p>
+                127 Points |  <a href="https://news.ycombinator.com/item?id=37446790">293 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Public restrooms are hard to find in America (www.washingtonpost.com)]]></title>
+            <link>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</link>
+            <guid>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</guid>
+            <pubDate>Sat, 09 Sep 2023 14:52:20 GMT</pubDate>
+            <description><![CDATA['The Problem of Inaccessible Public Restrooms in America']]></description>
+            <content:encoded><![CDATA[<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.
+            </p><p>
+                111 Points |  <a href="https://news.ycombinator.com/item?id=37446083">255 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Australia to give cats a curfew because they are murdering so many other animals (www.insider.com)]]></title>
+            <link>https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9</link>
+            <guid>https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9</guid>
+            <pubDate>Sat, 09 Sep 2023 18:53:07 GMT</pubDate>
+            <description><![CDATA['Australia Considers Cat Curfews and Ownership Limits to Protect Biodiversity']]></description>
+            <content:encoded><![CDATA[<p>Australia considers cat curfews and ownership limits to protect biodiversity from the estimated 2 billion animals killed by cats each year. The government proposal aims to standardize rules already in place in some local governments and gain public support for managing cats. The measures are seen as necessary to protect the country's ecosystems and highly susceptible species. The Australian public appears largely supportive of the measures.
+            </p><p>
+                16 Points |  <a href="https://news.ycombinator.com/item?id=37449001">8 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)]]></title>
             <link>https://www.thebookseller.com/features/berkeley-hotel-hostage</link>
             <guid>https://www.thebookseller.com/features/berkeley-hotel-hostage</guid>
@@ -235,57 +224,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Public restrooms are hard to find in America (www.washingtonpost.com)]]></title>
-            <link>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</link>
-            <guid>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</guid>
-            <pubDate>Sat, 09 Sep 2023 14:52:20 GMT</pubDate>
-            <description><![CDATA['The Problem of Inaccessible Public Restrooms in America']]></description>
-            <content:encoded><![CDATA[<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.
+            <title><![CDATA[Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge migrations (skio.com)]]></title>
+            <link>https://skio.com/careers/</link>
+            <guid>https://skio.com/careers/</guid>
+            <pubDate>Sat, 09 Sep 2023 12:01:05 GMT</pubDate>
+            <description><![CDATA['Skio: A Startup Helping Brands Sell Subscriptions on Shopify with a Unique Business Model']]></description>
+            <content:encoded><![CDATA[<p>Skio is a startup that helps brands on Shopify sell subscriptions and stands out with its transaction fee business model. The company has a flat organizational structure, minimal meeting culture, and a big long-term vision for building network effects. The founder, Kennan, has a track record of success and an EV-based decision-making approach. Skio is currently hiring for various positions in engineering, product, sales, customer experience, growth, and more.
             </p><p>
-                77 Points |  <a href="https://news.ycombinator.com/item?id=37446083">200 comments</a>
+                1 Points |  <a href="https://news.ycombinator.com/item?id=37444354">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37444477</link>
-            <guid>https://news.ycombinator.com/item?id=37444477</guid>
-            <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
+            <title><![CDATA[Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)]]></title>
+            <link>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</link>
+            <guid>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</guid>
+            <pubDate>Sat, 09 Sep 2023 08:44:52 GMT</pubDate>
+            <description><![CDATA[Building a Kubernetes Cluster with Talos on Hetzner: Part I]]></description>
+            <content:encoded><![CDATA[<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.
             </p><p>
-                131 Points |  <a href="https://news.ycombinator.com/item?id=37444477">18 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)]]></title>
-            <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
-            <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
-            <pubDate>Sat, 09 Sep 2023 11:42:16 GMT</pubDate>
-            <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
-            <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
-            </p><p>
-                140 Points |  <a href="https://news.ycombinator.com/item?id=37444257">85 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Telescript Programming Language (en.wikipedia.org)]]></title>
-            <link>https://en.wikipedia.org/wiki/Telescript_(programming_language)</link>
-            <guid>https://en.wikipedia.org/wiki/Telescript_(programming_language)</guid>
-            <pubDate>Fri, 08 Sep 2023 04:34:38 GMT</pubDate>
-            <description><![CDATA['Telescript: An Agent-Oriented Programming Language for Uploading Programs to Servers']]></description>
-            <content:encoded><![CDATA[<p>Telescript is an agent-oriented programming language developed by General Magic as part of the Magic Cap system. It allowed end-user devices to upload programs to servers and take advantage of their capabilities. However, General Magic failed to find a niche in the market and Telescript services were eventually deprecated. The language was object-oriented and used a modified C-like syntax. It introduced the concepts of agents and places, which interacted with each other to perform tasks.
-            </p><p>
-                11 Points |  <a href="https://news.ycombinator.com/item?id=37429362">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Morocco earthquake kills more than 1,000 (www.nbcnews.com)]]></title>
-            <link>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</link>
-            <guid>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</guid>
-            <pubDate>Sat, 09 Sep 2023 13:40:15 GMT</pubDate>
-            <description><![CDATA['Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates']]></description>
-            <content:encoded><![CDATA[<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.
-            </p><p>
-                136 Points |  <a href="https://news.ycombinator.com/item?id=37445284">86 comments</a>
+                146 Points |  <a href="https://news.ycombinator.com/item?id=37443404">47 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -300,25 +257,13 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Advanced NLP with SpaCy (course.spacy.io)]]></title>
-            <link>https://course.spacy.io/en/</link>
-            <guid>https://course.spacy.io/en/</guid>
-            <pubDate>Sat, 09 Sep 2023 05:36:22 GMT</pubDate>
-            <description><![CDATA[Mastering Natural Language Processing with spaCy]]></description>
-            <content:encoded><![CDATA[<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.
+            <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37444477</link>
+            <guid>https://news.ycombinator.com/item?id=37444477</guid>
+            <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                87 Points |  <a href="https://news.ycombinator.com/item?id=37442574">32 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What happens when you shift a register by more than the register size? (devblogs.microsoft.com)]]></title>
-            <link>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</link>
-            <guid>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</guid>
-            <pubDate>Thu, 07 Sep 2023 22:39:13 GMT</pubDate>
-            <description><![CDATA[Different Processor Architectures Behave Differently When Shifting Registers]]></description>
-            <content:encoded><![CDATA[<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.
-            </p><p>
-                64 Points |  <a href="https://news.ycombinator.com/item?id=37426598">40 comments</a>
+                145 Points |  <a href="https://news.ycombinator.com/item?id=37444477">22 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -333,13 +278,68 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[What happens when you shift a register by more than the register size? (devblogs.microsoft.com)]]></title>
+            <link>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</link>
+            <guid>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</guid>
+            <pubDate>Thu, 07 Sep 2023 22:39:13 GMT</pubDate>
+            <description><![CDATA[Different Processor Architectures Behave Differently When Shifting Registers]]></description>
+            <content:encoded><![CDATA[<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.
+            </p><p>
+                64 Points |  <a href="https://news.ycombinator.com/item?id=37426598">40 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Morocco earthquake kills more than 1,000 (www.nbcnews.com)]]></title>
+            <link>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</link>
+            <guid>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</guid>
+            <pubDate>Sat, 09 Sep 2023 13:40:15 GMT</pubDate>
+            <description><![CDATA['Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates']]></description>
+            <content:encoded><![CDATA[<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.
+            </p><p>
+                172 Points |  <a href="https://news.ycombinator.com/item?id=37445284">97 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Telescript (programming language) (en.wikipedia.org)]]></title>
+            <link>https://en.wikipedia.org/wiki/Telescript_(programming_language)</link>
+            <guid>https://en.wikipedia.org/wiki/Telescript_(programming_language)</guid>
+            <pubDate>Fri, 08 Sep 2023 04:34:38 GMT</pubDate>
+            <description><![CDATA['Telescript: An Agent-Oriented Programming Language for Uploading Programs to Servers']]></description>
+            <content:encoded><![CDATA[<p>Telescript is an agent-oriented programming language developed by General Magic as part of the Magic Cap system. It allowed end-user devices to upload programs to servers and take advantage of their capabilities. However, General Magic failed to find a niche in the market and Telescript services were eventually deprecated. The language was object-oriented and used a modified C-like syntax. It introduced the concepts of agents and places, which interacted with each other to perform tasks.
+            </p><p>
+                32 Points |  <a href="https://news.ycombinator.com/item?id=37429362">17 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A History of Carrying Capacity (www.wsj.com)]]></title>
+            <link>https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a</link>
+            <guid>https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a</guid>
+            <pubDate>Sat, 09 Sep 2023 16:43:12 GMT</pubDate>
+            <description><![CDATA['Equality in Pockets': The Fight for Gender Equality in Clothing]]></description>
+            <content:encoded><![CDATA[<p>In the late 19th century, women demanded 'equality in pockets' as they noticed a divergence in the development and availability of pockets in men's and women's clothing. This article highlights the historical context of pockets and how they became a symbol of gender inequality. The demand for equal pockets was seen as a part of the broader fight for women's rights, including the right to vote.
+            </p><p>
+                6 Points |  <a href="https://news.ycombinator.com/item?id=37447315">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)]]></title>
             <link>https://news.ycombinator.com/item?id=37413926</link>
             <guid>https://news.ycombinator.com/item?id=37413926</guid>
             <pubDate>Thu, 07 Sep 2023 02:16:49 GMT</pubDate>
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                32 Points |  <a href="https://news.ycombinator.com/item?id=37413926">11 comments</a>
+                33 Points |  <a href="https://news.ycombinator.com/item?id=37413926">11 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Half of Glaciers Vanish with 1.5 Degrees of Warming (www.nasa.gov)]]></title>
+            <link>https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/</link>
+            <guid>https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/</guid>
+            <pubDate>Sat, 09 Sep 2023 19:31:50 GMT</pubDate>
+            <description><![CDATA['NASA Study: Glaciers Could Lose 40% of Mass by 2100 Due to Global Warming']]></description>
+            <content:encoded><![CDATA[<p>A study funded by NASA predicts that glaciers around the world could lose up to 40% of their mass by 2100 due to global warming. With a temperature increase of 1.5 degrees Celsius, 50% of the world's glaciers would disappear and contribute to a 9 centimeter rise in sea levels by 2100. If warming reaches 4 degrees Celsius, 80% of the world's glaciers will disappear and contribute to a 15 centimeter rise in sea levels. The study emphasizes the importance of taking action to mitigate climate change.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37449413">0 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>

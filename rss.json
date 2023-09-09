@@ -12,7 +12,7 @@
     "items": [
         {
             "id": "https://benchmarks.llmonitor.com",
-            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                277 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">154 comments</a>\n            </p>",
+            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                316 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">191 comments</a>\n            </p>",
             "url": "https://benchmarks.llmonitor.com",
             "title": "Asking 60 LLMs a set of 20 questions (benchmarks.llmonitor.com)",
             "summary": "'Script Tests Reasoning and Creativity of 60+ Models Using Prompts'",
@@ -22,54 +22,32 @@
             }
         },
         {
-            "id": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
-            "content_html": "<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.\n            </p><p>\n                50 Points |  <a href=\"https://news.ycombinator.com/item?id=37447915\">25 comments</a>\n            </p>",
-            "url": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
-            "title": "The End of the Subscription Era Is Coming (nickfthilton.medium.com)",
-            "summary": "The Impact of Subscription Models on Media and Creators",
-            "date_modified": "2023-09-09T17:36:41.000Z",
+            "id": "https://github.com/ZeroIntensity/view.py",
+            "content_html": "<p>view.py is a lightning-fast, modern web framework that is currently in a high alpha stage of development. It requires CPython 3.8+ for installation. The framework offers a simple and efficient way to build web applications. It is actively seeking new contributors and provides installation instructions for Linux/macOS and Windows. view.py aims to provide a fast and modern solution for web development.\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37448914\">4 comments</a>\n            </p>",
+            "url": "https://github.com/ZeroIntensity/view.py",
+            "title": "Show HN: I built a Python web framework from scratch (github.com)",
+            "summary": "'view.py: A Lightning-Fast and Modern Web Framework in Alpha Stage'",
+            "date_modified": "2023-09-09T18:47:54.000Z",
             "author": {
-                "name": "nickfthilton.medium.com"
+                "name": "github.com"
             }
         },
         {
-            "id": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
-            "content_html": "<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.\n            </p><p>\n                70 Points |  <a href=\"https://news.ycombinator.com/item?id=37415804\">25 comments</a>\n            </p>",
-            "url": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
-            "title": "Intel Announces Arm Investment, Talks Up RISC-V (www.tomshardware.com)",
-            "summary": "Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology",
-            "date_modified": "2023-09-07T07:32:48.000Z",
+            "id": "https://notgull.net/why-you-want-async/",
+            "content_html": "<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.\n            </p><p>\n                29 Points |  <a href=\"https://news.ycombinator.com/item?id=37448460\">10 comments</a>\n            </p>",
+            "url": "https://notgull.net/why-you-want-async/",
+            "title": "You might want async in your project (notgull.net)",
+            "summary": "'Why you might actually want async in your project'",
+            "date_modified": "2023-09-09T18:17:56.000Z",
             "author": {
-                "name": "www.tomshardware.com"
-            }
-        },
-        {
-            "id": "https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/",
-            "content_html": "<p>The US Department of Energy has provided a $400 million loan to battery maker Eos Energy, which offers zinc-halide batteries as an alternative to lithium-ion batteries. Eos hopes that its zinc-based technology can store renewable energy at a lower cost than lithium-ion batteries. The loan is the first of its kind from the DOE's Loan Program Office to a battery maker focused on alternatives to lithium-ion cells. The funding will support the expansion of Eos's manufacturing capacity.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37448526\">0 comments</a>\n            </p>",
-            "url": "https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/",
-            "title": "Zinc batteries that offer an alternative to lithium just got a big boost (www.technologyreview.com)",
-            "summary": "'Eos Energy Receives $400 Million Loan from US Department of Energy for Zinc Batteries'",
-            "date_modified": "2023-09-09T18:21:46.000Z",
-            "author": {
-                "name": "www.technologyreview.com"
-            }
-        },
-        {
-            "id": "https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution",
-            "content_html": "<p>Lab-grown meat is unlikely to be a viable solution for mitigating greenhouse gas emissions from livestock farming. While it offers the allure of reducing emissions while still enjoying meat, the technology faces significant challenges in scaling up production and may not even work at the proposed scale. Additionally, there are already existing alternatives, such as policy measures and market-driven changes, that have a better chance of achieving emission reductions. Lab-grown meat should not be considered a climate solution.\n            </p><p>\n                12 Points |  <a href=\"https://news.ycombinator.com/item?id=37448476\">10 comments</a>\n            </p>",
-            "url": "https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution",
-            "title": "Lab-grown Meat is not a Climate Change Solution (www.climatedrift.com)",
-            "summary": "'Lab-grown Meat Unlikely to Mitigate Greenhouse Gas Emissions from Livestock Farming', Says Expert",
-            "date_modified": "2023-09-09T18:19:00.000Z",
-            "author": {
-                "name": "www.climatedrift.com"
+                "name": "notgull.net"
             }
         },
         {
             "id": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
-            "content_html": "<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.\n            </p><p>\n                197 Points |  <a href=\"https://news.ycombinator.com/item?id=37444268\">55 comments</a>\n            </p>",
+            "content_html": "<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.\n            </p><p>\n                249 Points |  <a href=\"https://news.ycombinator.com/item?id=37444268\">76 comments</a>\n            </p>",
             "url": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
-            "title": "Every type of plastic used by Lego (2022) (bricknerd.com)",
+            "title": "Every type of plastic used by LEGO (2022) (bricknerd.com)",
             "summary": "The Many Types of Plastic Used By LEGO",
             "date_modified": "2023-09-09T11:43:59.000Z",
             "author": {
@@ -77,14 +55,14 @@
             }
         },
         {
-            "id": "https://forum.dji.com/thread-293546-1-1.html",
-            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                92 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">55 comments</a>\n            </p>",
-            "url": "https://forum.dji.com/thread-293546-1-1.html",
-            "title": "DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)",
-            "summary": "A Collection of Tutorials, Tips, and Information on Drones and DJI Products",
-            "date_modified": "2023-09-09T14:38:53.000Z",
+            "id": "https://github.com/Ads-cmu/WhatsApp-Llama",
+            "content_html": "<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.\n            </p><p>\n                16 Points |  <a href=\"https://news.ycombinator.com/item?id=37448005\">2 comments</a>\n            </p>",
+            "url": "https://github.com/Ads-cmu/WhatsApp-Llama",
+            "title": "Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)",
+            "summary": "Fine-tune Llama 7b to Mimic Your WhatsApp Style",
+            "date_modified": "2023-09-09T17:43:11.000Z",
             "author": {
-                "name": "forum.dji.com"
+                "name": "github.com"
             }
         },
         {
@@ -99,6 +77,17 @@
             }
         },
         {
+            "id": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
+            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                25 Points |  <a href=\"https://news.ycombinator.com/item?id=37440696\">94 comments</a>\n            </p>",
+            "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
+            "title": "Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)",
+            "summary": "'Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76'",
+            "date_modified": "2023-09-08T23:45:55.000Z",
+            "author": {
+                "name": "www.washingtonpost.com"
+            }
+        },
+        {
             "id": "https://www.funtoo.org/Making_the_Distribution,_Part_1",
             "content_html": "<p>Daniel Robbins shares his Linux journey, from becoming a Stampede Linux developer to starting his own distribution called Enoch. He emphasizes the potential of Linux to change, improve, and break things, as well as the importance of the Linux community. Robbins also discusses his experience dealing with difficult developers and offers advice on managing them.\n            </p><p>\n                19 Points |  <a href=\"https://news.ycombinator.com/item?id=37446509\">1 comments</a>\n            </p>",
             "url": "https://www.funtoo.org/Making_the_Distribution,_Part_1",
@@ -110,101 +99,57 @@
             }
         },
         {
-            "id": "https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn",
-            "content_html": "<p>The Chrome Web Store is introducing a new preview experience for users to test out. The store offers extensions, themes, and various categories of apps. It also has a privacy policy and terms of service that have been updated. The purpose of the Chrome Web Store is to provide users with a curated collection of apps and extensions for their Chrome browser.\n            </p><p>\n                55 Points |  <a href=\"https://news.ycombinator.com/item?id=37447892\">30 comments</a>\n            </p>",
-            "url": "https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn",
-            "title": "Block the Blue – Twitter Verified Blocker (chrome.google.com)",
-            "summary": "Chrome Web Store Introduces New Preview Experience",
-            "date_modified": "2023-09-09T17:35:08.000Z",
+            "id": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
+            "content_html": "<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.\n            </p><p>\n                82 Points |  <a href=\"https://news.ycombinator.com/item?id=37447915\">63 comments</a>\n            </p>",
+            "url": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
+            "title": "The end of the subscription era is coming (nickfthilton.medium.com)",
+            "summary": "The Impact of Subscription Models on Media and Creators",
+            "date_modified": "2023-09-09T17:36:41.000Z",
             "author": {
-                "name": "chrome.google.com"
+                "name": "nickfthilton.medium.com"
             }
         },
         {
-            "id": "https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a",
-            "content_html": "<p>In the late 19th century, women demanded 'equality in pockets' as they noticed a divergence in the development and availability of pockets in men's and women's clothing. This article highlights the historical context of pockets and how they became a symbol of gender inequality. The demand for equal pockets was seen as a part of the broader fight for women's rights, including the right to vote.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37447315\">0 comments</a>\n            </p>",
-            "url": "https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a",
-            "title": "A History of Carrying Capacity (www.wsj.com)",
-            "summary": "'Equality in Pockets': The Fight for Gender Equality in Clothing",
-            "date_modified": "2023-09-09T16:43:12.000Z",
+            "id": "https://forum.dji.com/thread-293546-1-1.html",
+            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                105 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">71 comments</a>\n            </p>",
+            "url": "https://forum.dji.com/thread-293546-1-1.html",
+            "title": "DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)",
+            "summary": "A Collection of Tutorials, Tips, and Information on Drones and DJI Products",
+            "date_modified": "2023-09-09T14:38:53.000Z",
             "author": {
-                "name": "www.wsj.com"
+                "name": "forum.dji.com"
             }
         },
         {
-            "id": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
-            "content_html": "<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.\n            </p><p>\n                96 Points |  <a href=\"https://news.ycombinator.com/item?id=37446790\">232 comments</a>\n            </p>",
-            "url": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
-            "title": "The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)",
-            "summary": "Canadian Housing Prices Continue to Soar, Outpacing U.S. Market",
-            "date_modified": "2023-09-09T15:54:15.000Z",
+            "id": "https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/",
+            "content_html": "<p>iPadOS 17 now supports UVC (USB Video Class) devices, allowing iPads to recognize external webcams, cameras, and other devices connected over USB-C. Federico Viticci tested this feature and found that he could use a Game Boy Camera as his iPad Pro's webcam during FaceTime calls. He also experimented with using a game capture card to play Nintendo Switch and Steam Deck games on his iPad's display. This unexpected functionality showcases the versatility of iPadOS 17 and its potential for creative and gaming applications.\n            </p><p>\n                17 Points |  <a href=\"https://news.ycombinator.com/item?id=37428491\">4 comments</a>\n            </p>",
+            "url": "https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/",
+            "title": "I used a Game Boy camera for Facetime video calls in iPadOS 17 (www.macstories.net)",
+            "summary": "'I Used a Game Boy Camera for FaceTime Video Calls in iPadOS 17 and It Was Glorious'",
+            "date_modified": "2023-09-08T02:26:44.000Z",
             "author": {
-                "name": "awealthofcommonsense.com"
+                "name": "www.macstories.net"
             }
         },
         {
-            "id": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
-            "content_html": "<p>The M1 Garand, considered the best battle rifle of World War II, had a significant impact on subsequent US rifle development. While it provided advantages such as increased rate of fire and improved accuracy, it missed the opportunity to become a modern assault rifle. The US did not field its first true assault rifle until two decades after the concept was invented by the Germans. The article explores the development of the M1 Garand and the factors that influenced its design.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37430842\">48 comments</a>\n            </p>",
-            "url": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
-            "title": "The Development of the M1 Garand and Its Implications (acoup.blog)",
-            "summary": "'The M1 Garand: A Missed Opportunity for US Rifle Development'",
-            "date_modified": "2023-09-08T08:01:09.000Z",
+            "id": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
+            "content_html": "<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.\n            </p><p>\n                90 Points |  <a href=\"https://news.ycombinator.com/item?id=37415804\">38 comments</a>\n            </p>",
+            "url": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
+            "title": "Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)",
+            "summary": "Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology",
+            "date_modified": "2023-09-07T07:32:48.000Z",
             "author": {
-                "name": "acoup.blog"
+                "name": "www.tomshardware.com"
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37447980",
-            "content_html": "<p>No summary available\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37447980\">23 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37447980",
-            "title": "Ask HN: What cool desk ideas do you have for a home office? (news.ycombinator.com)",
-            "date_modified": "2023-09-09T17:41:46.000Z",
+            "id": "https://news.ycombinator.com/item?id=37432336",
+            "content_html": "<p>No summary available\n            </p><p>\n                26 Points |  <a href=\"https://news.ycombinator.com/item?id=37432336\">28 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37432336",
+            "title": "A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)",
+            "date_modified": "2023-09-08T11:49:55.000Z",
             "author": {
                 "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
-            "content_html": "<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.\n            </p><p>\n                146 Points |  <a href=\"https://news.ycombinator.com/item?id=37443404\">47 comments</a>\n            </p>",
-            "url": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
-            "title": "Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)",
-            "summary": "Building a Kubernetes Cluster with Talos on Hetzner: Part I",
-            "date_modified": "2023-09-09T08:44:52.000Z",
-            "author": {
-                "name": "datavirke.dk"
-            }
-        },
-        {
-            "id": "http://cm.bell-labs.co/who/dmr/chist.html",
-            "content_html": "<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.\n            </p><p>\n                142 Points |  <a href=\"https://news.ycombinator.com/item?id=37442810\">20 comments</a>\n            </p>",
-            "url": "http://cm.bell-labs.co/who/dmr/chist.html",
-            "title": "The Development of the C Language (2003) (cm.bell-labs.co)",
-            "summary": "'The Development and Evolution of the C Programming Language'",
-            "date_modified": "2023-09-09T06:33:32.000Z",
-            "author": {
-                "name": "cm.bell-labs.co"
-            }
-        },
-        {
-            "id": "https://productonboarding.com",
-            "content_html": "<p>This is a list of various product onboarding examples from different companies, including announcements, banners, checklists, forms, surveys, and more. The examples come from companies like Brex, Figma, Github, Google, Mercury, Notion, Stripe, Super, and Vimeo. The list showcases different approaches to product education, new user onboarding, feature adoption, and product updates. It provides a valuable resource for understanding how companies onboard their users and educate them about their products.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37447445\">0 comments</a>\n            </p>",
-            "url": "https://productonboarding.com",
-            "title": "Show HN: Productonboarding.com – Mobbin for SaaS product onboarding (productonboarding.com)",
-            "summary": "A Collection of Product Onboarding Examples from Various Companies",
-            "date_modified": "2023-09-09T16:56:08.000Z",
-            "author": {
-                "name": "productonboarding.com"
-            }
-        },
-        {
-            "id": "https://skio.com/careers/",
-            "content_html": "<p>Skio is a startup that helps brands on Shopify sell subscriptions and stands out with its transaction fee business model. The company has a flat organizational structure, minimal meeting culture, and a big long-term vision for building network effects. The founder, Kennan, has a track record of success and an EV-based decision-making approach. Skio is currently hiring for various positions in engineering, product, sales, customer experience, growth, and more.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37444354\">0 comments</a>\n            </p>",
-            "url": "https://skio.com/careers/",
-            "title": "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring (skio.com)",
-            "summary": "'Skio: A Startup Helping Brands Sell Subscriptions on Shopify with a Unique Business Model'",
-            "date_modified": "2023-09-09T12:01:05.000Z",
-            "author": {
-                "name": "skio.com"
             }
         },
         {
@@ -219,6 +164,50 @@
             }
         },
         {
+            "id": "http://cm.bell-labs.co/who/dmr/chist.html",
+            "content_html": "<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.\n            </p><p>\n                142 Points |  <a href=\"https://news.ycombinator.com/item?id=37442810\">20 comments</a>\n            </p>",
+            "url": "http://cm.bell-labs.co/who/dmr/chist.html",
+            "title": "The Development of the C Language (2003) (cm.bell-labs.co)",
+            "summary": "'The Development and Evolution of the C Programming Language'",
+            "date_modified": "2023-09-09T06:33:32.000Z",
+            "author": {
+                "name": "cm.bell-labs.co"
+            }
+        },
+        {
+            "id": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
+            "content_html": "<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.\n            </p><p>\n                127 Points |  <a href=\"https://news.ycombinator.com/item?id=37446790\">293 comments</a>\n            </p>",
+            "url": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
+            "title": "The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)",
+            "summary": "Canadian Housing Prices Continue to Soar, Outpacing U.S. Market",
+            "date_modified": "2023-09-09T15:54:15.000Z",
+            "author": {
+                "name": "awealthofcommonsense.com"
+            }
+        },
+        {
+            "id": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
+            "content_html": "<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.\n            </p><p>\n                111 Points |  <a href=\"https://news.ycombinator.com/item?id=37446083\">255 comments</a>\n            </p>",
+            "url": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
+            "title": "Public restrooms are hard to find in America (www.washingtonpost.com)",
+            "summary": "'The Problem of Inaccessible Public Restrooms in America'",
+            "date_modified": "2023-09-09T14:52:20.000Z",
+            "author": {
+                "name": "www.washingtonpost.com"
+            }
+        },
+        {
+            "id": "https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9",
+            "content_html": "<p>Australia considers cat curfews and ownership limits to protect biodiversity from the estimated 2 billion animals killed by cats each year. The government proposal aims to standardize rules already in place in some local governments and gain public support for managing cats. The measures are seen as necessary to protect the country's ecosystems and highly susceptible species. The Australian public appears largely supportive of the measures.\n            </p><p>\n                16 Points |  <a href=\"https://news.ycombinator.com/item?id=37449001\">8 comments</a>\n            </p>",
+            "url": "https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9",
+            "title": "Australia to give cats a curfew because they are murdering so many other animals (www.insider.com)",
+            "summary": "'Australia Considers Cat Curfews and Ownership Limits to Protect Biodiversity'",
+            "date_modified": "2023-09-09T18:53:07.000Z",
+            "author": {
+                "name": "www.insider.com"
+            }
+        },
+        {
             "id": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
             "content_html": "<p>N/A\n            </p><p>\n                57 Points |  <a href=\"https://news.ycombinator.com/item?id=37444066\">15 comments</a>\n            </p>",
             "url": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
@@ -230,57 +219,25 @@
             }
         },
         {
-            "id": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
-            "content_html": "<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.\n            </p><p>\n                77 Points |  <a href=\"https://news.ycombinator.com/item?id=37446083\">200 comments</a>\n            </p>",
-            "url": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
-            "title": "Public restrooms are hard to find in America (www.washingtonpost.com)",
-            "summary": "'The Problem of Inaccessible Public Restrooms in America'",
-            "date_modified": "2023-09-09T14:52:20.000Z",
+            "id": "https://skio.com/careers/",
+            "content_html": "<p>Skio is a startup that helps brands on Shopify sell subscriptions and stands out with its transaction fee business model. The company has a flat organizational structure, minimal meeting culture, and a big long-term vision for building network effects. The founder, Kennan, has a track record of success and an EV-based decision-making approach. Skio is currently hiring for various positions in engineering, product, sales, customer experience, growth, and more.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37444354\">0 comments</a>\n            </p>",
+            "url": "https://skio.com/careers/",
+            "title": "Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge migrations (skio.com)",
+            "summary": "'Skio: A Startup Helping Brands Sell Subscriptions on Shopify with a Unique Business Model'",
+            "date_modified": "2023-09-09T12:01:05.000Z",
             "author": {
-                "name": "www.washingtonpost.com"
+                "name": "skio.com"
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37444477",
-            "content_html": "<p>No summary available\n            </p><p>\n                131 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">18 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37444477",
-            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
-            "date_modified": "2023-09-09T12:20:20.000Z",
+            "id": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
+            "content_html": "<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.\n            </p><p>\n                146 Points |  <a href=\"https://news.ycombinator.com/item?id=37443404\">47 comments</a>\n            </p>",
+            "url": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
+            "title": "Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)",
+            "summary": "Building a Kubernetes Cluster with Talos on Hetzner: Part I",
+            "date_modified": "2023-09-09T08:44:52.000Z",
             "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
-            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                140 Points |  <a href=\"https://news.ycombinator.com/item?id=37444257\">85 comments</a>\n            </p>",
-            "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
-            "title": "Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)",
-            "summary": "'Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76'",
-            "date_modified": "2023-09-09T11:42:16.000Z",
-            "author": {
-                "name": "www.washingtonpost.com"
-            }
-        },
-        {
-            "id": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
-            "content_html": "<p>Telescript is an agent-oriented programming language developed by General Magic as part of the Magic Cap system. It allowed end-user devices to upload programs to servers and take advantage of their capabilities. However, General Magic failed to find a niche in the market and Telescript services were eventually deprecated. The language was object-oriented and used a modified C-like syntax. It introduced the concepts of agents and places, which interacted with each other to perform tasks.\n            </p><p>\n                11 Points |  <a href=\"https://news.ycombinator.com/item?id=37429362\">1 comments</a>\n            </p>",
-            "url": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
-            "title": "The Telescript Programming Language (en.wikipedia.org)",
-            "summary": "'Telescript: An Agent-Oriented Programming Language for Uploading Programs to Servers'",
-            "date_modified": "2023-09-08T04:34:38.000Z",
-            "author": {
-                "name": "en.wikipedia.org"
-            }
-        },
-        {
-            "id": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
-            "content_html": "<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.\n            </p><p>\n                136 Points |  <a href=\"https://news.ycombinator.com/item?id=37445284\">86 comments</a>\n            </p>",
-            "url": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
-            "title": "Morocco earthquake kills more than 1,000 (www.nbcnews.com)",
-            "summary": "'Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates'",
-            "date_modified": "2023-09-09T13:40:15.000Z",
-            "author": {
-                "name": "www.nbcnews.com"
+                "name": "datavirke.dk"
             }
         },
         {
@@ -295,25 +252,13 @@
             }
         },
         {
-            "id": "https://course.spacy.io/en/",
-            "content_html": "<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.\n            </p><p>\n                87 Points |  <a href=\"https://news.ycombinator.com/item?id=37442574\">32 comments</a>\n            </p>",
-            "url": "https://course.spacy.io/en/",
-            "title": "Advanced NLP with SpaCy (course.spacy.io)",
-            "summary": "Mastering Natural Language Processing with spaCy",
-            "date_modified": "2023-09-09T05:36:22.000Z",
+            "id": "https://news.ycombinator.com/item?id=37444477",
+            "content_html": "<p>No summary available\n            </p><p>\n                145 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">22 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37444477",
+            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
+            "date_modified": "2023-09-09T12:20:20.000Z",
             "author": {
-                "name": "course.spacy.io"
-            }
-        },
-        {
-            "id": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
-            "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                64 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">40 comments</a>\n            </p>",
-            "url": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
-            "title": "What happens when you shift a register by more than the register size? (devblogs.microsoft.com)",
-            "summary": "Different Processor Architectures Behave Differently When Shifting Registers",
-            "date_modified": "2023-09-07T22:39:13.000Z",
-            "author": {
-                "name": "devblogs.microsoft.com"
+                "name": "news.ycombinator.com"
             }
         },
         {
@@ -328,13 +273,68 @@
             }
         },
         {
+            "id": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
+            "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                64 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">40 comments</a>\n            </p>",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
+            "title": "What happens when you shift a register by more than the register size? (devblogs.microsoft.com)",
+            "summary": "Different Processor Architectures Behave Differently When Shifting Registers",
+            "date_modified": "2023-09-07T22:39:13.000Z",
+            "author": {
+                "name": "devblogs.microsoft.com"
+            }
+        },
+        {
+            "id": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
+            "content_html": "<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.\n            </p><p>\n                172 Points |  <a href=\"https://news.ycombinator.com/item?id=37445284\">97 comments</a>\n            </p>",
+            "url": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
+            "title": "Morocco earthquake kills more than 1,000 (www.nbcnews.com)",
+            "summary": "'Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates'",
+            "date_modified": "2023-09-09T13:40:15.000Z",
+            "author": {
+                "name": "www.nbcnews.com"
+            }
+        },
+        {
+            "id": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
+            "content_html": "<p>Telescript is an agent-oriented programming language developed by General Magic as part of the Magic Cap system. It allowed end-user devices to upload programs to servers and take advantage of their capabilities. However, General Magic failed to find a niche in the market and Telescript services were eventually deprecated. The language was object-oriented and used a modified C-like syntax. It introduced the concepts of agents and places, which interacted with each other to perform tasks.\n            </p><p>\n                32 Points |  <a href=\"https://news.ycombinator.com/item?id=37429362\">17 comments</a>\n            </p>",
+            "url": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
+            "title": "Telescript (programming language) (en.wikipedia.org)",
+            "summary": "'Telescript: An Agent-Oriented Programming Language for Uploading Programs to Servers'",
+            "date_modified": "2023-09-08T04:34:38.000Z",
+            "author": {
+                "name": "en.wikipedia.org"
+            }
+        },
+        {
+            "id": "https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a",
+            "content_html": "<p>In the late 19th century, women demanded 'equality in pockets' as they noticed a divergence in the development and availability of pockets in men's and women's clothing. This article highlights the historical context of pockets and how they became a symbol of gender inequality. The demand for equal pockets was seen as a part of the broader fight for women's rights, including the right to vote.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37447315\">0 comments</a>\n            </p>",
+            "url": "https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a",
+            "title": "A History of Carrying Capacity (www.wsj.com)",
+            "summary": "'Equality in Pockets': The Fight for Gender Equality in Clothing",
+            "date_modified": "2023-09-09T16:43:12.000Z",
+            "author": {
+                "name": "www.wsj.com"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=37413926",
-            "content_html": "<p>No summary available\n            </p><p>\n                32 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">11 comments</a>\n            </p>",
+            "content_html": "<p>No summary available\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">11 comments</a>\n            </p>",
             "url": "https://news.ycombinator.com/item?id=37413926",
             "title": "Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)",
             "date_modified": "2023-09-07T02:16:49.000Z",
             "author": {
                 "name": "news.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/",
+            "content_html": "<p>A study funded by NASA predicts that glaciers around the world could lose up to 40% of their mass by 2100 due to global warming. With a temperature increase of 1.5 degrees Celsius, 50% of the world's glaciers would disappear and contribute to a 9 centimeter rise in sea levels by 2100. If warming reaches 4 degrees Celsius, 80% of the world's glaciers will disappear and contribute to a 15 centimeter rise in sea levels. The study emphasizes the importance of taking action to mitigate climate change.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37449413\">0 comments</a>\n            </p>",
+            "url": "https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/",
+            "title": "Half of Glaciers Vanish with 1.5 Degrees of Warming (www.nasa.gov)",
+            "summary": "'NASA Study: Glaciers Could Lose 40% of Mass by 2100 Due to Global Warming'",
+            "date_modified": "2023-09-09T19:31:50.000Z",
+            "author": {
+                "name": "www.nasa.gov"
             }
         }
     ]
