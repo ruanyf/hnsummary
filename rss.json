@@ -12,7 +12,7 @@
     "items": [
         {
             "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, including using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                31 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">3 comments</a>\n            </p>",
+            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, including using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                51 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">13 comments</a>\n            </p>",
             "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
             "title": "Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)",
             "summary": "Benchmarking Julia and Mojo Mandelbrot Code",
@@ -23,13 +23,24 @@
         },
         {
             "id": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
-            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity to observe it. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun only every 437 years, spending most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                12 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">0 comments</a>\n            </p>",
+            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity to observe it. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun only every 437 years, spending most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                66 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">12 comments</a>\n            </p>",
             "url": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
             "title": "Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)",
             "summary": "Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend",
             "date_modified": "2023-09-07T00:48:16.000Z",
             "author": {
                 "name": "www.theguardian.com"
+            }
+        },
+        {
+            "id": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
+            "content_html": "<p>Ruby outperforms C in terms of performance optimization, challenging the common wisdom of rewriting slow code as C extensions. The article presents a benchmark comparing the performance of a pure Ruby implementation of the GraphQL parser with a C extension. It also explores the impact of YJIT optimizations on both implementations. The results show that YJIT can achieve faster speeds than a C extension when used with the pure Ruby implementation. Additionally, a hand-written recursive descent parser in pure Ruby called TinyGQL is introduced and compared to the GraphQL C extension. With YJIT enabled, TinyGQL outperforms the C extension by 30%. These findings suggest that rewriting slow code in pure Ruby can be a viable alternative to using C extensions for performance optimization.\n            </p><p>\n                10 Points |  <a href=\"https://news.ycombinator.com/item?id=37422705\">0 comments</a>\n            </p>",
+            "url": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
+            "title": "Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)",
+            "summary": "Ruby Outperforms C: Breaking the Catch-22 in Performance Optimization",
+            "date_modified": "2023-09-07T17:43:12.000Z",
+            "author": {
+                "name": "railsatscale.com"
             }
         },
         {
@@ -44,17 +55,6 @@
             }
         },
         {
-            "id": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
-            "content_html": "<p>N/A\n            </p><p>\n                94 Points |  <a href=\"https://news.ycombinator.com/item?id=37440631\">10 comments</a>\n            </p>",
-            "url": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
-            "title": "LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)",
-            "summary": "N/A",
-            "date_modified": "2023-09-08T23:38:39.000Z",
-            "author": {
-                "name": "msprout.notion.site"
-            }
-        },
-        {
             "id": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
             "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.\n            </p><p>\n                127 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">75 comments</a>\n            </p>",
             "url": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
@@ -66,14 +66,25 @@
             }
         },
         {
-            "id": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
-            "content_html": "<p>The website www.science.org is checking the security of your connection before allowing access. This is likely due to the use of Cloudflare for performance and security. The Ray ID provided is 803b4673adb9ce94. It is important for websites to ensure secure connections to protect user data. The review process is necessary to prevent unauthorized access or data breaches. Once the security check is completed, users will be able to proceed to the website.\n            </p><p>\n                66 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">10 comments</a>\n            </p>",
-            "url": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
-            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.science.org)",
-            "summary": "Security Check Required for Access to www.science.org",
-            "date_modified": "2023-09-08T23:17:21.000Z",
+            "id": "https://material.io/blog/2023-google-fonts-redesign",
+            "content_html": "<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new site navigation using Material 3 Navigation Rail, an improved mobile experience with a bottom navigation bar, and a new sidebar for searching and filtering fonts and icons. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. Overall, the redesign aims to enhance the user experience and make it easier to find the right assets for projects.\n            </p><p>\n                29 Points |  <a href=\"https://news.ycombinator.com/item?id=37441683\">16 comments</a>\n            </p>",
+            "url": "https://material.io/blog/2023-google-fonts-redesign",
+            "title": "The new Google Fonts: find what you’re looking for (material.io)",
+            "summary": "Google Fonts Redesigns Website to Improve Font and Icon Search",
+            "date_modified": "2023-09-09T02:38:22.000Z",
             "author": {
-                "name": "www.science.org"
+                "name": "material.io"
+            }
+        },
+        {
+            "id": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
+            "content_html": "<p>N/A\n            </p><p>\n                129 Points |  <a href=\"https://news.ycombinator.com/item?id=37440631\">23 comments</a>\n            </p>",
+            "url": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
+            "title": "LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T23:38:39.000Z",
+            "author": {
+                "name": "msprout.notion.site"
             }
         },
         {
@@ -99,14 +110,25 @@
             }
         },
         {
-            "id": "https://material.io/blog/2023-google-fonts-redesign",
-            "content_html": "<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new site navigation using Material 3 Navigation Rail, an improved mobile experience with a bottom navigation bar, and a new sidebar for searching and filtering fonts and icons. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. Overall, the redesign aims to enhance the user experience and make it easier to find the right assets for projects.\n            </p><p>\n                12 Points |  <a href=\"https://news.ycombinator.com/item?id=37441683\">4 comments</a>\n            </p>",
-            "url": "https://material.io/blog/2023-google-fonts-redesign",
-            "title": "The new Google Fonts: find what you’re looking for (material.io)",
-            "summary": "Google Fonts Redesigns Website to Improve Font and Icon Search",
-            "date_modified": "2023-09-09T02:38:22.000Z",
+            "id": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
+            "content_html": "<p>The website www.science.org is checking the security of your connection before allowing access. This is likely due to the use of Cloudflare for performance and security. The Ray ID provided is 803b4673adb9ce94. It is important for websites to ensure secure connections to protect user data. The review process is necessary to prevent unauthorized access or data breaches. Once the security check is completed, users will be able to proceed to the website.\n            </p><p>\n                66 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">10 comments</a>\n            </p>",
+            "url": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
+            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.science.org)",
+            "summary": "Security Check Required for Access to www.science.org",
+            "date_modified": "2023-09-08T23:17:21.000Z",
             "author": {
-                "name": "material.io"
+                "name": "www.science.org"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
+            "content_html": "<p>The Power of Food for People with Dementia explores the potential benefits of using food to trigger memories and improve the quality of life for individuals with dementia. The article shares personal experiences of the author's father's decline due to dementia and highlights the moments of joy and connection that food brought to him. It discusses a unique event called the Dinner Party, organized by a playwright and actor in collaboration with the Global Brain Health Institute, where individuals with cognitive impairment share stories of their favorite foods and then recreate and enjoy those dishes. The article also touches on the therapeutic effects of creative activities and musical memory for dementia patients. Overall, the Dinner Party aims to explore the power of food in enhancing neuroplasticity and improving the lives of individuals with dementia.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37413566\">0 comments</a>\n            </p>",
+            "url": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
+            "title": "The Power of Food for People with Dementia (www.newyorker.com)",
+            "summary": "The Power of Food for People with Dementia",
+            "date_modified": "2023-09-07T01:15:10.000Z",
+            "author": {
+                "name": "www.newyorker.com"
             }
         },
         {
@@ -132,17 +154,6 @@
             }
         },
         {
-            "id": "https://twitter.com/typesfast/status/1700092765798048093",
-            "content_html": "<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.\n            </p><p>\n                302 Points |  <a href=\"https://news.ycombinator.com/item?id=37433681\">392 comments</a>\n            </p>",
-            "url": "https://twitter.com/typesfast/status/1700092765798048093",
-            "title": "Flexport is rescinding a bunch of signed offer letters (twitter.com)",
-            "summary": "Twitter Requires Switch to Supported Browser",
-            "date_modified": "2023-09-08T14:07:55.000Z",
-            "author": {
-                "name": "twitter.com"
-            }
-        },
-        {
             "id": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
             "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                810 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">277 comments</a>\n            </p>",
             "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
@@ -151,71 +162,6 @@
             "date_modified": "2023-09-08T14:41:03.000Z",
             "author": {
                 "name": "github.com"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37441168",
-            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37441168",
-            "title": "Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)",
-            "date_modified": "2023-09-09T01:02:29.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
-            "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and IoT. This is due to the company's shift from innovation to financialization, prioritizing stock buybacks over investments in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for technological advancements. The company's focus on maximizing shareholder value has hindered its competitive position in the US information-and-communication-technology industry. This article explores Cisco's transformation from an innovative enterprise to a financialized one and discusses the implications for the industry's global competitiveness.\n            </p><p>\n                28 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">13 comments</a>\n            </p>",
-            "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
-            "title": "Cisco Systems and Financialization (www.ineteconomics.org)",
-            "summary": "Cisco Systems' Financialization and its Impact on US Technology Competitiveness",
-            "date_modified": "2023-09-07T06:34:22.000Z",
-            "author": {
-                "name": "www.ineteconomics.org"
-            }
-        },
-        {
-            "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
-            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.\n            </p><p>\n                94 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">70 comments</a>\n            </p>",
-            "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
-            "title": "Just how constexpr is C++20’s std:string? (quuxplusone.github.io)",
-            "summary": "Understanding the constexprness of C++20's std::string",
-            "date_modified": "2023-09-08T09:23:27.000Z",
-            "author": {
-                "name": "quuxplusone.github.io"
-            }
-        },
-        {
-            "id": "https://bitbashing.io/async-rust.html",
-            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.\n            </p><p>\n                500 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">418 comments</a>\n            </p>",
-            "url": "https://bitbashing.io/async-rust.html",
-            "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
-            "summary": "Challenges and Limitations of Async Rust for Concurrency",
-            "date_modified": "2023-09-08T16:10:55.000Z",
-            "author": {
-                "name": "bitbashing.io"
-            }
-        },
-        {
-            "id": "https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html",
-            "content_html": "<p>Teaching old C code new tricks with Nim\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37441829\">0 comments</a>\n            </p>",
-            "url": "https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html",
-            "title": "Teaching old C code new tricks with Nim (peterme.net)",
-            "summary": "Using Nim to Improve Error Handling in C Code",
-            "date_modified": "2023-09-09T03:01:29.000Z",
-            "author": {
-                "name": "peterme.net"
-            }
-        },
-        {
-            "id": "https://arxiv.org/abs/2309.00149",
-            "content_html": "<p>TurboGP is a Python-based Genetic Programming (GP) library designed for machine learning tasks. It offers modern features not found in other GP implementations, including island and cellular population schemes, various genetic operations, and online learning. One of TurboGP's unique features is its support for different types of GP nodes, allowing for different abstraction levels and making it useful for processing diverse data sources. The paper provides a brief overview of TurboGP's capabilities and highlights its potential applications in neural and evolutionary computing and machine learning. The library's flexibility and advanced features make it a valuable tool for researchers and practitioners in the field.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37418528\">0 comments</a>\n            </p>",
-            "url": "https://arxiv.org/abs/2309.00149",
-            "title": "TurboGP: A flexible and advanced Python based GP library (arxiv.org)",
-            "summary": "TurboGP: A Flexible and Advanced Python-Based GP Library",
-            "date_modified": "2023-09-07T13:21:17.000Z",
-            "author": {
-                "name": "arxiv.org"
             }
         },
         {
@@ -230,14 +176,79 @@
             }
         },
         {
-            "id": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
-            "content_html": "<p>The Power of Food for People with Dementia explores the potential benefits of using food to trigger memories and improve the quality of life for individuals with dementia. The article shares personal experiences of the author's father's decline due to dementia and highlights the moments of joy and connection that food brought to him. It discusses a unique event called the Dinner Party, organized by a playwright and actor in collaboration with the Global Brain Health Institute, where individuals with cognitive impairment share stories of their favorite foods and then recreate and enjoy those dishes. The article also touches on the therapeutic effects of creative activities and musical memory for dementia patients. Overall, the Dinner Party aims to explore the power of food in enhancing neuroplasticity and improving the lives of individuals with dementia.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37413566\">0 comments</a>\n            </p>",
-            "url": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
-            "title": "The Power of Food for People with Dementia (www.newyorker.com)",
-            "summary": "The Power of Food for People with Dementia",
-            "date_modified": "2023-09-07T01:15:10.000Z",
+            "id": "https://news.ycombinator.com/item?id=37441168",
+            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37441168",
+            "title": "Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)",
+            "date_modified": "2023-09-09T01:02:29.000Z",
             "author": {
-                "name": "www.newyorker.com"
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
+            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.\n            </p><p>\n                94 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">70 comments</a>\n            </p>",
+            "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
+            "title": "Just how constexpr is C++20’s std:string? (quuxplusone.github.io)",
+            "summary": "Understanding the constexprness of C++20's std::string",
+            "date_modified": "2023-09-08T09:23:27.000Z",
+            "author": {
+                "name": "quuxplusone.github.io"
+            }
+        },
+        {
+            "id": "https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html",
+            "content_html": "<p>Teaching old C code new tricks with Nim\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37441829\">0 comments</a>\n            </p>",
+            "url": "https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html",
+            "title": "Teaching old C code new tricks with Nim (peterme.net)",
+            "summary": "Using Nim to Improve Error Handling in C Code",
+            "date_modified": "2023-09-09T03:01:29.000Z",
+            "author": {
+                "name": "peterme.net"
+            }
+        },
+        {
+            "id": "https://bitbashing.io/async-rust.html",
+            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.\n            </p><p>\n                564 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">469 comments</a>\n            </p>",
+            "url": "https://bitbashing.io/async-rust.html",
+            "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
+            "summary": "Challenges and Limitations of Async Rust for Concurrency",
+            "date_modified": "2023-09-08T16:10:55.000Z",
+            "author": {
+                "name": "bitbashing.io"
+            }
+        },
+        {
+            "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and IoT. This is due to the company's shift from innovation to financialization, prioritizing stock buybacks over investments in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for technological advancements. The company's focus on maximizing shareholder value has hindered its competitive position in the US information-and-communication-technology industry. This article explores Cisco's transformation from an innovative enterprise to a financialized one and discusses the implications for the industry's global competitiveness.\n            </p><p>\n                28 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">13 comments</a>\n            </p>",
+            "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "title": "Cisco Systems and Financialization (www.ineteconomics.org)",
+            "summary": "Cisco Systems' Financialization and its Impact on US Technology Competitiveness",
+            "date_modified": "2023-09-07T06:34:22.000Z",
+            "author": {
+                "name": "www.ineteconomics.org"
+            }
+        },
+        {
+            "id": "https://arxiv.org/abs/2309.00149",
+            "content_html": "<p>TurboGP is a Python-based Genetic Programming (GP) library designed for machine learning tasks. It offers modern features not found in other GP implementations, including island and cellular population schemes, various genetic operations, and online learning. One of TurboGP's unique features is its support for different types of GP nodes, allowing for different abstraction levels and making it useful for processing diverse data sources. The paper provides a brief overview of TurboGP's capabilities and highlights its potential applications in neural and evolutionary computing and machine learning. The library's flexibility and advanced features make it a valuable tool for researchers and practitioners in the field.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37418528\">0 comments</a>\n            </p>",
+            "url": "https://arxiv.org/abs/2309.00149",
+            "title": "TurboGP: A flexible and advanced Python based GP library (arxiv.org)",
+            "summary": "TurboGP: A Flexible and Advanced Python-Based GP Library",
+            "date_modified": "2023-09-07T13:21:17.000Z",
+            "author": {
+                "name": "arxiv.org"
+            }
+        },
+        {
+            "id": "https://github.com/JHRobotics/softgpu",
+            "content_html": "<p>SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines is a compilation of four projects that provide virtual machine support for VGA adapters and Windows 95/98/Me guest systems. It requires specific versions of DirectX, Visual C runtime, and OpenGL. The SoftGPU driver offers three render drivers: softpipe, llvmlipe, and SVGA3D. Each renderer has different requirements and supports various features and applications/games. The hypervisor translation to real HW GPU is also discussed. The installation process and system requirements are outlined, along with instructions for setting up a VirtualBox VM with hardware acceleration. The summary concludes with a note about performance optimization for newer CPUs.\n            </p><p>\n                11 Points |  <a href=\"https://news.ycombinator.com/item?id=37440392\">0 comments</a>\n            </p>",
+            "url": "https://github.com/JHRobotics/softgpu",
+            "title": "SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines (github.com)",
+            "summary": "SoftGPU: SW and HW Accelerated Driver for Windows 9x Virtual Machines",
+            "date_modified": "2023-09-08T23:06:30.000Z",
+            "author": {
+                "name": "github.com"
             }
         },
         {
@@ -274,14 +285,14 @@
             }
         },
         {
-            "id": "https://archiveprogram.github.com/arctic-vault/",
-            "content_html": "<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is a long-term archival facility located in a decommissioned coal mine in the Svalbard archipelago. The archive is designed to last 1,000 years and is considered a stable site for preserving humanity's collective knowledge. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributions, GitHub created the Arctic Code Vault Badge displayed on developers' profiles. The vault contains open source software from millions of developers worldwide.\n            </p><p>\n                14 Points |  <a href=\"https://news.ycombinator.com/item?id=37429645\">10 comments</a>\n            </p>",
-            "url": "https://archiveprogram.github.com/arctic-vault/",
-            "title": "Artic Code Vault (archiveprogram.github.com)",
-            "summary": "GitHub Creates Arctic Code Vault to Preserve Open Source Software",
-            "date_modified": "2023-09-08T05:16:57.000Z",
+            "id": "http://touchpianist.com/",
+            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                584 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">186 comments</a>\n            </p>",
+            "url": "http://touchpianist.com/",
+            "title": "Touch Pianist (touchpianist.com)",
+            "summary": "Menu of Pieces on a Mobile App",
+            "date_modified": "2023-09-08T09:56:08.000Z",
             "author": {
-                "name": "archiveprogram.github.com"
+                "name": "touchpianist.com"
             }
         },
         {
@@ -296,36 +307,14 @@
             }
         },
         {
-            "id": "http://touchpianist.com/",
-            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                584 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">186 comments</a>\n            </p>",
-            "url": "http://touchpianist.com/",
-            "title": "Touch Pianist (touchpianist.com)",
-            "summary": "Menu of Pieces on a Mobile App",
-            "date_modified": "2023-09-08T09:56:08.000Z",
+            "id": "https://archiveprogram.github.com/arctic-vault/",
+            "content_html": "<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is a long-term archival facility located in a decommissioned coal mine in the Svalbard archipelago. The archive is designed to last 1,000 years and is considered a stable site for preserving humanity's collective knowledge. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributions, GitHub created the Arctic Code Vault Badge displayed on developers' profiles. The vault contains open source software from millions of developers worldwide.\n            </p><p>\n                36 Points |  <a href=\"https://news.ycombinator.com/item?id=37429645\">24 comments</a>\n            </p>",
+            "url": "https://archiveprogram.github.com/arctic-vault/",
+            "title": "Arctic Code Vault (archiveprogram.github.com)",
+            "summary": "GitHub Creates Arctic Code Vault to Preserve Open Source Software",
+            "date_modified": "2023-09-08T05:16:57.000Z",
             "author": {
-                "name": "touchpianist.com"
-            }
-        },
-        {
-            "id": "https://github.com/JHRobotics/softgpu",
-            "content_html": "<p>SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines is a compilation of four projects that provide virtual machine support for VGA adapters and Windows 95/98/Me guest systems. It requires specific versions of DirectX, Visual C runtime, and OpenGL. The SoftGPU driver offers three render drivers: softpipe, llvmlipe, and SVGA3D. Each renderer has different requirements and supports various features and applications/games. The hypervisor translation to real HW GPU is also discussed. The installation process and system requirements are outlined, along with instructions for setting up a VirtualBox VM with hardware acceleration. The summary concludes with a note about performance optimization for newer CPUs.\n            </p><p>\n                11 Points |  <a href=\"https://news.ycombinator.com/item?id=37440392\">0 comments</a>\n            </p>",
-            "url": "https://github.com/JHRobotics/softgpu",
-            "title": "SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines (github.com)",
-            "summary": "SoftGPU: SW and HW Accelerated Driver for Windows 9x Virtual Machines",
-            "date_modified": "2023-09-08T23:06:30.000Z",
-            "author": {
-                "name": "github.com"
-            }
-        },
-        {
-            "id": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
-            "content_html": "<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.\n            </p><p>\n                132 Points |  <a href=\"https://news.ycombinator.com/item?id=37426107\">30 comments</a>\n            </p>",
-            "url": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
-            "title": "The thinking path (www.robinsloan.com)",
-            "summary": "Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness",
-            "date_modified": "2023-09-07T21:52:02.000Z",
-            "author": {
-                "name": "www.robinsloan.com"
+                "name": "archiveprogram.github.com"
             }
         },
         {
@@ -337,6 +326,17 @@
             "date_modified": "2023-09-08T09:24:25.000Z",
             "author": {
                 "name": "eprint.iacr.org"
+            }
+        },
+        {
+            "id": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
+            "content_html": "<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.\n            </p><p>\n                132 Points |  <a href=\"https://news.ycombinator.com/item?id=37426107\">30 comments</a>\n            </p>",
+            "url": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
+            "title": "The thinking path (www.robinsloan.com)",
+            "summary": "Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness",
+            "date_modified": "2023-09-07T21:52:02.000Z",
+            "author": {
+                "name": "www.robinsloan.com"
             }
         }
     ]
