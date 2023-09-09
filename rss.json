@@ -12,7 +12,7 @@
     "items": [
         {
             "id": "https://maizure.org/projects/decoded-gnu-coreutils/",
-            "content_html": "<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.\n            </p><p>\n                147 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">36 comments</a>\n            </p>",
+            "content_html": "<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.\n            </p><p>\n                158 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">46 comments</a>\n            </p>",
             "url": "https://maizure.org/projects/decoded-gnu-coreutils/",
             "title": "Decoded: GNU Coreutils (2018) (maizure.org)",
             "summary": "Decoding the GNU coreutils: Exploring the Design of Command-Line Utilities",
@@ -23,7 +23,7 @@
         },
         {
             "id": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
-            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.\n            </p><p>\n                75 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">35 comments</a>\n            </p>",
+            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.\n            </p><p>\n                97 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">50 comments</a>\n            </p>",
             "url": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
             "title": "Snoop unto them as they snoop unto you (blog.dataparty.xyz)",
             "summary": "DEFCON 31 Releases Official Videos and Offers Support Options",
@@ -44,17 +44,6 @@
             }
         },
         {
-            "id": "https://github.com/dancrossnyc/rxv64",
-            "content_html": "<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37439391\">0 comments</a>\n            </p>",
-            "url": "https://github.com/dancrossnyc/rxv64",
-            "title": "The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)",
-            "summary": "rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust",
-            "date_modified": "2023-09-08T21:03:19.000Z",
-            "author": {
-                "name": "github.com"
-            }
-        },
-        {
             "id": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
             "content_html": "<p>N/A\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37440631\">0 comments</a>\n            </p>",
             "url": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
@@ -66,6 +55,17 @@
             }
         },
         {
+            "id": "https://github.com/dancrossnyc/rxv64",
+            "content_html": "<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37439391\">0 comments</a>\n            </p>",
+            "url": "https://github.com/dancrossnyc/rxv64",
+            "title": "The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)",
+            "summary": "rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust",
+            "date_modified": "2023-09-08T21:03:19.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
             "id": "https://today.ucsd.edu/story/forwarding_based_spoofing",
             "content_html": "<p>Researchers at the University of California San Diego have discovered security flaws in the email forwarding process that allow scammers to impersonate high-profile domains. This vulnerability affects tens of thousands of domains, including government organizations, financial service companies, and major news organizations. The researchers found that scammers can send spoofed emails that bypass the safeguards of email providers like Gmail and Outlook, increasing the likelihood of recipients opening malicious attachments or clicking on harmful links. The vulnerabilities arise from the delegation of email infrastructure to third-party providers and the assumption that each organization operates its own mailing infrastructure. While some providers have patched the issues, the researchers recommend disabling open forwarding and implementing stricter validation policies to address the root problem.\n            </p><p>\n                87 Points |  <a href=\"https://news.ycombinator.com/item?id=37438478\">31 comments</a>\n            </p>",
             "url": "https://today.ucsd.edu/story/forwarding_based_spoofing",
@@ -74,27 +74,6 @@
             "date_modified": "2023-09-08T19:45:08.000Z",
             "author": {
                 "name": "today.ucsd.edu"
-            }
-        },
-        {
-            "id": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
-            "content_html": "<p>Using LD_PRELOAD to manipulate the behavior of applications\n            </p><p>\n                80 Points |  <a href=\"https://news.ycombinator.com/item?id=37439125\">50 comments</a>\n            </p>",
-            "url": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
-            "title": "Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)",
-            "summary": "Manipulating Application Behavior with LD_PRELOAD",
-            "date_modified": "2023-09-08T20:41:20.000Z",
-            "author": {
-                "name": "rafalcieslak.wordpress.com"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37441168",
-            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37441168",
-            "title": "Generally Intelligent (YC S17) Is Hiring Technical Interviewers (news.ycombinator.com)",
-            "date_modified": "2023-09-09T01:02:29.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
             }
         },
         {
@@ -120,25 +99,24 @@
             }
         },
         {
-            "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
-            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.\n            </p><p>\n                81 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">59 comments</a>\n            </p>",
-            "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
-            "title": "Just how constexpr is C++20’s std:string? (quuxplusone.github.io)",
-            "summary": "Understanding the constexprness of C++20's std::string",
-            "date_modified": "2023-09-08T09:23:27.000Z",
+            "id": "https://news.ycombinator.com/item?id=37441168",
+            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37441168",
+            "title": "Generally Intelligent (YC S17) Is Hiring Technical Interviewers (news.ycombinator.com)",
+            "date_modified": "2023-09-09T01:02:29.000Z",
             "author": {
-                "name": "quuxplusone.github.io"
+                "name": "news.ycombinator.com"
             }
         },
         {
-            "id": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
-            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                730 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">245 comments</a>\n            </p>",
-            "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
-            "title": "Bun v1.0.0 (github.com)",
-            "summary": "Bun v1.0 Release: Bug Fixes, Improvements, and New Features",
-            "date_modified": "2023-09-08T14:41:03.000Z",
+            "id": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
+            "content_html": "<p>Using LD_PRELOAD to manipulate the behavior of applications\n            </p><p>\n                80 Points |  <a href=\"https://news.ycombinator.com/item?id=37439125\">50 comments</a>\n            </p>",
+            "url": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
+            "title": "Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)",
+            "summary": "Manipulating Application Behavior with LD_PRELOAD",
+            "date_modified": "2023-09-08T20:41:20.000Z",
             "author": {
-                "name": "github.com"
+                "name": "rafalcieslak.wordpress.com"
             }
         },
         {
@@ -153,6 +131,50 @@
             }
         },
         {
+            "id": "https://twitter.com/typesfast/status/1700092765798048093",
+            "content_html": "<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.\n            </p><p>\n                249 Points |  <a href=\"https://news.ycombinator.com/item?id=37433681\">301 comments</a>\n            </p>",
+            "url": "https://twitter.com/typesfast/status/1700092765798048093",
+            "title": "Flexport is rescinding a bunch of signed offer letters (twitter.com)",
+            "summary": "Twitter Requires Switch to Supported Browser",
+            "date_modified": "2023-09-08T14:07:55.000Z",
+            "author": {
+                "name": "twitter.com"
+            }
+        },
+        {
+            "id": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
+            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                730 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">245 comments</a>\n            </p>",
+            "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
+            "title": "Bun v1.0.0 (github.com)",
+            "summary": "Bun v1.0 Release: Bug Fixes, Improvements, and New Features",
+            "date_modified": "2023-09-08T14:41:03.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
+            "id": "https://www.ask-polly.com/p/how-do-you-know-when-your-art-is",
+            "content_html": "<p>Navigating the uncertainty of artistic success and the fear of judgment is a natural part of the creative process. The author shares their own experiences of self-doubt and the importance of tolerating discomfort in order to grow as an artist. They emphasize that feeling negative and upset about one's art is a sign of caring deeply about it, and that enduring the pain of creating art can ultimately make one stronger. The article concludes by highlighting the universal fear of being unloved and the transformative power of facing that fear through art.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37412887\">10 comments</a>\n            </p>",
+            "url": "https://www.ask-polly.com/p/how-do-you-know-when-your-art-is",
+            "title": "'How Do You Know When Your Art Is Good?' (www.ask-polly.com)",
+            "summary": "Embracing Uncertainty and Enduring Pain: The Journey of an Artist",
+            "date_modified": "2023-09-06T23:39:18.000Z",
+            "author": {
+                "name": "www.ask-polly.com"
+            }
+        },
+        {
+            "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
+            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.\n            </p><p>\n                81 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">59 comments</a>\n            </p>",
+            "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
+            "title": "Just how constexpr is C++20’s std:string? (quuxplusone.github.io)",
+            "summary": "Understanding the constexprness of C++20's std::string",
+            "date_modified": "2023-09-08T09:23:27.000Z",
+            "author": {
+                "name": "quuxplusone.github.io"
+            }
+        },
+        {
             "id": "https://bitbashing.io/async-rust.html",
             "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.\n            </p><p>\n                500 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">418 comments</a>\n            </p>",
             "url": "https://bitbashing.io/async-rust.html",
@@ -164,14 +186,14 @@
             }
         },
         {
-            "id": "https://twitter.com/typesfast/status/1700092765798048093",
-            "content_html": "<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.\n            </p><p>\n                220 Points |  <a href=\"https://news.ycombinator.com/item?id=37433681\">253 comments</a>\n            </p>",
-            "url": "https://twitter.com/typesfast/status/1700092765798048093",
-            "title": "Flexport is rescinding a bunch of signed offer letters (twitter.com)",
-            "summary": "Twitter Requires Switch to Supported Browser",
-            "date_modified": "2023-09-08T14:07:55.000Z",
+            "id": "https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9",
+            "content_html": "<p>Uber CEO Dara Khosrowshahi reveals that his time as a driver for the company showed him a lack of quality in the driver product. He made an all-hands presentation titled 'Why we suck' based on his experiences. Khosrowshahi realized that the company was too focused on the rider and eater product and didn't pay enough attention to the driver product. He later shared what he learned with the company and set a new expectation. Despite his experiences, Khosrowshahi underestimated the cost of an Uber ride in New York City. \n            </p><p>\n                50 Points |  <a href=\"https://news.ycombinator.com/item?id=37441125\">58 comments</a>\n            </p>",
+            "url": "https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9",
+            "title": "Uber CEO’s time moonlighting as a driver sparked all-hands called 'Why we suck.' (www.businessinsider.com)",
+            "summary": "Uber CEO's Time as a Driver Reveals Lack of Quality in Driver Product",
+            "date_modified": "2023-09-09T00:55:01.000Z",
             "author": {
-                "name": "twitter.com"
+                "name": "www.businessinsider.com"
             }
         },
         {
@@ -186,25 +208,14 @@
             }
         },
         {
-            "id": "https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9",
-            "content_html": "<p>Uber CEO Dara Khosrowshahi reveals that his time as a driver for the company showed him a lack of quality in the driver product. He made an all-hands presentation titled 'Why we suck' based on his experiences. Khosrowshahi realized that the company was too focused on the rider and eater product and didn't pay enough attention to the driver product. He later shared what he learned with the company and set a new expectation. Despite his experiences, Khosrowshahi underestimated the cost of an Uber ride in New York City. \n            </p><p>\n                21 Points |  <a href=\"https://news.ycombinator.com/item?id=37441125\">20 comments</a>\n            </p>",
-            "url": "https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9",
-            "title": "Uber CEO’s time moonlighting as a driver sparked all-hands called 'Why we suck.' (www.businessinsider.com)",
-            "summary": "Uber CEO's Time as a Driver Reveals Lack of Quality in Driver Product",
-            "date_modified": "2023-09-09T00:55:01.000Z",
+            "id": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
+            "content_html": "<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.\n            </p><p>\n                93 Points |  <a href=\"https://news.ycombinator.com/item?id=37436092\">41 comments</a>\n            </p>",
+            "url": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
+            "title": "Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)",
+            "summary": "Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market",
+            "date_modified": "2023-09-08T16:49:59.000Z",
             "author": {
-                "name": "www.businessinsider.com"
-            }
-        },
-        {
-            "id": "https://www.ask-polly.com/p/how-do-you-know-when-your-art-is",
-            "content_html": "<p>Navigating the uncertainty of artistic success and the fear of judgment is a natural part of the creative process. The author shares their own experiences of self-doubt and the importance of tolerating discomfort in order to grow as an artist. They emphasize that feeling negative and upset about one's art is a sign of caring deeply about it, and that enduring the pain of creating art can ultimately make one stronger. The article concludes by highlighting the universal fear of being unloved and the transformative power of facing that fear through art.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37412887\">0 comments</a>\n            </p>",
-            "url": "https://www.ask-polly.com/p/how-do-you-know-when-your-art-is",
-            "title": "'How Do You Know When Your Art Is Good?' (www.ask-polly.com)",
-            "summary": "Embracing Uncertainty and Enduring Pain: The Journey of an Artist",
-            "date_modified": "2023-09-06T23:39:18.000Z",
-            "author": {
-                "name": "www.ask-polly.com"
+                "name": "www.tomshardware.com"
             }
         },
         {
@@ -219,17 +230,6 @@
             }
         },
         {
-            "id": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
-            "content_html": "<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.\n            </p><p>\n                85 Points |  <a href=\"https://news.ycombinator.com/item?id=37436092\">31 comments</a>\n            </p>",
-            "url": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
-            "title": "Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)",
-            "summary": "Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market",
-            "date_modified": "2023-09-08T16:49:59.000Z",
-            "author": {
-                "name": "www.tomshardware.com"
-            }
-        },
-        {
             "id": "https://oscarbenjamin.github.io/blog/czi/post1.html",
             "content_html": "<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System\n            </p><p>\n                100 Points |  <a href=\"https://news.ycombinator.com/item?id=37430759\">45 comments</a>\n            </p>",
             "url": "https://oscarbenjamin.github.io/blog/czi/post1.html",
@@ -238,17 +238,6 @@
             "date_modified": "2023-09-08T07:50:49.000Z",
             "author": {
                 "name": "oscarbenjamin.github.io"
-            }
-        },
-        {
-            "id": "https://github-guessr.vercel.app/",
-            "content_html": "<p>N/A\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37432067\">27 comments</a>\n            </p>",
-            "url": "https://github-guessr.vercel.app/",
-            "title": "GitHubGuessr (github-guessr.vercel.app)",
-            "summary": "N/A",
-            "date_modified": "2023-09-08T11:09:44.000Z",
-            "author": {
-                "name": "github-guessr.vercel.app"
             }
         },
         {
@@ -263,25 +252,14 @@
             }
         },
         {
-            "id": "https://david.rothlis.net/emacs/howtolearn.html",
-            "content_html": "<p>This guide to Emacs is aimed at computer programmers who want to master the text editor. It acknowledges that the learning curve for Emacs is steep but promises to help users reach the next level of programming in months rather than years. The guide emphasizes self-driven discovery using Emacs' built-in help, debugging facilities, and source code. The author asks for commitment and patience from readers, urging them to give up their favorite IDE's features for at least a month or two. The next section explores why Emacs is worth the effort.\n            </p><p>\n                52 Points |  <a href=\"https://news.ycombinator.com/item?id=37438842\">21 comments</a>\n            </p>",
-            "url": "https://david.rothlis.net/emacs/howtolearn.html",
-            "title": "How to Learn Emacs (2012) (david.rothlis.net)",
-            "summary": "Mastering Emacs: A Guide for Programmers",
-            "date_modified": "2023-09-08T20:16:58.000Z",
+            "id": "https://github-guessr.vercel.app/",
+            "content_html": "<p>N/A\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37432067\">27 comments</a>\n            </p>",
+            "url": "https://github-guessr.vercel.app/",
+            "title": "GitHubGuessr (github-guessr.vercel.app)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T11:09:44.000Z",
             "author": {
-                "name": "david.rothlis.net"
-            }
-        },
-        {
-            "id": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
-            "content_html": "<p>Fixing catastrophic backtracking in regular expressions in Python by using a non-greedy pattern. The article discusses how a regex pattern with a greedy subpattern can lead to exponential runtime on strings with many newlines, causing the application to become stuck. By making the repeating subpattern non-greedy and adding the re.DOTALL flag to match newlines, the runtime becomes linear instead of exponential. The article provides a comparison of the performance between the problematic regex and the fixed regex using a test script. The results show that the problematic regex performs poorly on long input sequences, while the fixed regex scales much better. The article concludes with a log-log plot illustrating the exponential relationship between input size and execution time for the problematic regex.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37422355\">0 comments</a>\n            </p>",
-            "url": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
-            "title": "Debugging Catastrophic Backtracking for Regular Expressions in Python (krishnanchandra.com)",
-            "summary": "Fixing Catastrophic Backtracking in Regular Expressions in Python",
-            "date_modified": "2023-09-07T17:22:12.000Z",
-            "author": {
-                "name": "krishnanchandra.com"
+                "name": "github-guessr.vercel.app"
             }
         },
         {
@@ -293,28 +271,6 @@
             "date_modified": "2023-09-08T09:24:25.000Z",
             "author": {
                 "name": "eprint.iacr.org"
-            }
-        },
-        {
-            "id": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
-            "content_html": "<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.\n            </p><p>\n                145 Points |  <a href=\"https://news.ycombinator.com/item?id=37428937\">102 comments</a>\n            </p>",
-            "url": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
-            "title": "Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)",
-            "summary": "Website Security Check: journals.sagepub.com",
-            "date_modified": "2023-09-08T03:36:11.000Z",
-            "author": {
-                "name": "journals.sagepub.com"
-            }
-        },
-        {
-            "id": "https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/",
-            "content_html": "<p>Atari acquires retro gaming forum AtariAge to enhance its IP and games available for its hardware. The founder of AtariAge will become Atari's internal historian, and Atari has promised not to censor speech on the forums. The acquisition has been mostly met with approval by the community, as enthusiasm for an obsolete platform alone is not sustainable. However, some users have expressed concerns about monetization and Atari's reputation. The acquisition aligns with Atari's plans to revive the 2600 console and support vintage cartridges.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37440943\">3 comments</a>\n            </p>",
-            "url": "https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/",
-            "title": "Atari pulls nostalgia power move and buys homebrew community forum (www.theregister.com)",
-            "summary": "Atari Acquires Retro Gaming Forum AtariAge to Enhance IP and Games",
-            "date_modified": "2023-09-09T00:20:36.000Z",
-            "author": {
-                "name": "www.theregister.com"
             }
         },
         {
@@ -330,13 +286,57 @@
         },
         {
             "id": "https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/",
-            "content_html": "<p>Researcher uncovers treasures from the transition to computer phototypesetting in the 1970s while digging through the New York Times morgue. The morgue contains millions of newspaper clippings, photographs, and other materials organized by subject matter. The researcher explores the transition from hot metal composition to computer phototypesetting at The Times in the 1970s, delving into the reasons behind the newspaper's delayed adoption of the technology. The visit to the morgue reveals internal publications documenting the transition and photos of the typesetting room. The researcher shares their process of organizing and analyzing the materials for their book on the topic.\n            </p><p>\n                25 Points |  <a href=\"https://news.ycombinator.com/item?id=37426116\">7 comments</a>\n            </p>",
+            "content_html": "<p>Researcher uncovers treasures from the transition to computer phototypesetting in the 1970s while digging through the New York Times morgue. The morgue contains millions of newspaper clippings, photographs, and other materials organized by subject matter. The researcher explores the transition from hot metal composition to computer phototypesetting at The Times in the 1970s, delving into the reasons behind the newspaper's delayed adoption of the technology. The visit to the morgue reveals internal publications documenting the transition and photos of the typesetting room. The researcher shares their process of organizing and analyzing the materials for their book on the topic.\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37426116\">17 comments</a>\n            </p>",
             "url": "https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/",
             "title": "Digging through the New York Times morgue (buttondown.email)",
             "summary": "Uncovering Treasures: Exploring the Transition to Computer Phototypesetting at The New York Times",
             "date_modified": "2023-09-07T21:53:14.000Z",
             "author": {
                 "name": "buttondown.email"
+            }
+        },
+        {
+            "id": "https://david.rothlis.net/emacs/howtolearn.html",
+            "content_html": "<p>This guide to Emacs is aimed at computer programmers who want to master the text editor. It acknowledges that the learning curve for Emacs is steep but promises to help users reach the next level of programming in months rather than years. The guide emphasizes self-driven discovery using Emacs' built-in help, debugging facilities, and source code. The author asks for commitment and patience from readers, urging them to give up their favorite IDE's features for at least a month or two. The next section explores why Emacs is worth the effort.\n            </p><p>\n                52 Points |  <a href=\"https://news.ycombinator.com/item?id=37438842\">21 comments</a>\n            </p>",
+            "url": "https://david.rothlis.net/emacs/howtolearn.html",
+            "title": "How to Learn Emacs (2012) (david.rothlis.net)",
+            "summary": "Mastering Emacs: A Guide for Programmers",
+            "date_modified": "2023-09-08T20:16:58.000Z",
+            "author": {
+                "name": "david.rothlis.net"
+            }
+        },
+        {
+            "id": "https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/",
+            "content_html": "<p>Atari acquires retro gaming forum AtariAge to enhance its IP and games available for its hardware. The founder of AtariAge will become Atari's internal historian, and Atari has promised not to censor speech on the forums. The acquisition has been mostly met with approval by the community, as enthusiasm for an obsolete platform alone is not sustainable. However, some users have expressed concerns about monetization and Atari's reputation. The acquisition aligns with Atari's plans to revive the 2600 console and support vintage cartridges.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37440943\">3 comments</a>\n            </p>",
+            "url": "https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/",
+            "title": "Atari pulls nostalgia power move and buys homebrew community forum (www.theregister.com)",
+            "summary": "Atari Acquires Retro Gaming Forum AtariAge to Enhance IP and Games",
+            "date_modified": "2023-09-09T00:20:36.000Z",
+            "author": {
+                "name": "www.theregister.com"
+            }
+        },
+        {
+            "id": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
+            "content_html": "<p>Fixing catastrophic backtracking in regular expressions in Python by using a non-greedy pattern. The article discusses how a regex pattern with a greedy subpattern can lead to exponential runtime on strings with many newlines, causing the application to become stuck. By making the repeating subpattern non-greedy and adding the re.DOTALL flag to match newlines, the runtime becomes linear instead of exponential. The article provides a comparison of the performance between the problematic regex and the fixed regex using a test script. The results show that the problematic regex performs poorly on long input sequences, while the fixed regex scales much better. The article concludes with a log-log plot illustrating the exponential relationship between input size and execution time for the problematic regex.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37422355\">0 comments</a>\n            </p>",
+            "url": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
+            "title": "Debugging Catastrophic Backtracking for Regular Expressions in Python (krishnanchandra.com)",
+            "summary": "Fixing Catastrophic Backtracking in Regular Expressions in Python",
+            "date_modified": "2023-09-07T17:22:12.000Z",
+            "author": {
+                "name": "krishnanchandra.com"
+            }
+        },
+        {
+            "id": "https://emoji.fly.dev",
+            "content_html": "<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.\n            </p><p>\n                267 Points |  <a href=\"https://news.ycombinator.com/item?id=37433523\">128 comments</a>\n            </p>",
+            "url": "https://emoji.fly.dev",
+            "title": "Emoji Generator with AI (emoji.fly.dev)",
+            "summary": "A Collection of Diverse Emojis in Slackmoji AI Edition",
+            "date_modified": "2023-09-08T13:54:13.000Z",
+            "author": {
+                "name": "emoji.fly.dev"
             }
         }
     ]
