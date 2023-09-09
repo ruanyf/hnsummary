@@ -12,7 +12,7 @@
     "items": [
         {
             "id": "https://benchmarks.llmonitor.com",
-            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                59 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">30 comments</a>\n            </p>",
+            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                110 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">63 comments</a>\n            </p>",
             "url": "https://benchmarks.llmonitor.com",
             "title": "Comparing 60 LLMs with a set of 20 prompts (benchmarks.llmonitor.com)",
             "summary": "'Script Tests Reasoning and Creativity of 60+ Models Using Prompts'",
@@ -23,7 +23,7 @@
         },
         {
             "id": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
-            "content_html": "<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.\n            </p><p>\n                137 Points |  <a href=\"https://news.ycombinator.com/item?id=37444268\">29 comments</a>\n            </p>",
+            "content_html": "<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.\n            </p><p>\n                166 Points |  <a href=\"https://news.ycombinator.com/item?id=37444268\">40 comments</a>\n            </p>",
             "url": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
             "title": "Every type of plastic used by Lego (2022) (bricknerd.com)",
             "summary": "The Many Types of Plastic Used By LEGO",
@@ -34,7 +34,7 @@
         },
         {
             "id": "https://developer.penteston.com",
-            "content_html": "<p>PENTESTON offers API requests that enhance the security of computer systems, networks, and applications. These APIs allow developers and security professionals to integrate security features into their projects. To access the full capabilities of PENTESTON, users need an API key, which can be obtained by registering and logging into their account. With the API key, users can seamlessly integrate PENTESTON's scanning tools into their applications and ensure optimal network security.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37445582\">0 comments</a>\n            </p>",
+            "content_html": "<p>PENTESTON offers API requests that enhance the security of computer systems, networks, and applications. These APIs allow developers and security professionals to integrate security features into their projects. To access the full capabilities of PENTESTON, users need an API key, which can be obtained by registering and logging into their account. With the API key, users can seamlessly integrate PENTESTON's scanning tools into their applications and ensure optimal network security.\n            </p><p>\n                25 Points |  <a href=\"https://news.ycombinator.com/item?id=37445582\">11 comments</a>\n            </p>",
             "url": "https://developer.penteston.com",
             "title": "Running over 20 top-notch cybersecurity tools with API (developer.penteston.com)",
             "summary": "Enhance Your Network Security with PENTESTON's API Requests",
@@ -44,18 +44,52 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37445668",
-            "content_html": "<p>No summary available\n            </p><p>\n                27 Points |  <a href=\"https://news.ycombinator.com/item?id=37445668\">17 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37445668",
-            "title": "Ask HN: Will Google delete inactive gmail accounts that forward email? (news.ycombinator.com)",
-            "date_modified": "2023-09-09T14:11:40.000Z",
+            "id": "https://forum.dji.com/thread-293546-1-1.html",
+            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">7 comments</a>\n            </p>",
+            "url": "https://forum.dji.com/thread-293546-1-1.html",
+            "title": "DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)",
+            "summary": "A Collection of Tutorials, Tips, and Information on Drones and DJI Products",
+            "date_modified": "2023-09-09T14:38:53.000Z",
             "author": {
-                "name": "news.ycombinator.com"
+                "name": "forum.dji.com"
+            }
+        },
+        {
+            "id": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
+            "content_html": "<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37445951\">2 comments</a>\n            </p>",
+            "url": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
+            "title": "PAROL6 Desktop Robot Arm (github.com)",
+            "summary": "'PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design'",
+            "date_modified": "2023-09-09T14:37:45.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
+            "id": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
+            "content_html": "<p>The M1 Garand, considered the best battle rifle of World War II, had a significant impact on subsequent US rifle development. While it provided advantages such as increased rate of fire and improved accuracy, it missed the opportunity to become a modern assault rifle. The US did not field its first true assault rifle until two decades after the concept was invented by the Germans. The article explores the development of the M1 Garand and the factors that influenced its design.\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37430842\">9 comments</a>\n            </p>",
+            "url": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
+            "title": "Michael Taylor on the Development of the M1 Garand and Its Implications (acoup.blog)",
+            "summary": "'The M1 Garand: A Missed Opportunity for US Rifle Development'",
+            "date_modified": "2023-09-08T08:01:09.000Z",
+            "author": {
+                "name": "acoup.blog"
+            }
+        },
+        {
+            "id": "https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/",
+            "content_html": "<p>Investors accounted for 30% of home purchases in Canada in the first quarter of this year, up from 28% in the same period last year, according to data from the Bank of Canada. Meanwhile, the percentage of first-time homebuyers decreased to 43% from 48% in the same period. The data highlights the growing influence of investors in the Canadian housing market, which can amplify house price cycles. The central bank's data also reveal increasing vulnerabilities in the Canadian economy, including rising delinquencies for car loans and instalment loans.\n            </p><p>\n                73 Points |  <a href=\"https://news.ycombinator.com/item?id=37445732\">40 comments</a>\n            </p>",
+            "url": "https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/",
+            "title": "Investors account for 30 per cent of home buying in Canada, data show (www.theglobeandmail.com)",
+            "summary": "Investors Make Up 30% of Home Purchases in Canada, Data Shows",
+            "date_modified": "2023-09-09T14:18:15.000Z",
+            "author": {
+                "name": "www.theglobeandmail.com"
             }
         },
         {
             "id": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
-            "content_html": "<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.\n            </p><p>\n                387 Points |  <a href=\"https://news.ycombinator.com/item?id=37443644\">185 comments</a>\n            </p>",
+            "content_html": "<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.\n            </p><p>\n                444 Points |  <a href=\"https://news.ycombinator.com/item?id=37443644\">219 comments</a>\n            </p>",
             "url": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
             "title": "Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla (foundation.mozilla.org)",
             "summary": "foundation.mozilla.org Checking Site Connection Security with Cloudflare",
@@ -65,18 +99,8 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37413926",
-            "content_html": "<p>No summary available\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">5 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37413926",
-            "title": "Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)",
-            "date_modified": "2023-09-07T02:16:49.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
             "id": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
-            "content_html": "<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.\n            </p><p>\n                69 Points |  <a href=\"https://news.ycombinator.com/item?id=37443404\">15 comments</a>\n            </p>",
+            "content_html": "<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37443404\">32 comments</a>\n            </p>",
             "url": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
             "title": "Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)",
             "summary": "Building a Kubernetes Cluster with Talos on Hetzner: Part I",
@@ -97,35 +121,24 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37444477",
-            "content_html": "<p>No summary available\n            </p><p>\n                60 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">1 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37444477",
-            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
-            "date_modified": "2023-09-09T12:20:20.000Z",
+            "id": "https://news.ycombinator.com/item?id=37413926",
+            "content_html": "<p>No summary available\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">8 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37413926",
+            "title": "Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)",
+            "date_modified": "2023-09-07T02:16:49.000Z",
             "author": {
                 "name": "news.ycombinator.com"
             }
         },
         {
             "id": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
-            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                79 Points |  <a href=\"https://news.ycombinator.com/item?id=37444257\">50 comments</a>\n            </p>",
+            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                98 Points |  <a href=\"https://news.ycombinator.com/item?id=37444257\">64 comments</a>\n            </p>",
             "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
             "title": "Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)",
             "summary": "'Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76'",
             "date_modified": "2023-09-09T11:42:16.000Z",
             "author": {
                 "name": "www.washingtonpost.com"
-            }
-        },
-        {
-            "id": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
-            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                149 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">94 comments</a>\n            </p>",
-            "url": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
-            "title": "Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)",
-            "summary": "Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend",
-            "date_modified": "2023-09-07T00:48:16.000Z",
-            "author": {
-                "name": "www.theguardian.com"
             }
         },
         {
@@ -140,6 +153,38 @@
             }
         },
         {
+            "id": "https://news.ycombinator.com/item?id=37444477",
+            "content_html": "<p>No summary available\n            </p><p>\n                78 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">6 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37444477",
+            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
+            "date_modified": "2023-09-09T12:20:20.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
+            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                149 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">94 comments</a>\n            </p>",
+            "url": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
+            "title": "Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)",
+            "summary": "Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend",
+            "date_modified": "2023-09-07T00:48:16.000Z",
+            "author": {
+                "name": "www.theguardian.com"
+            }
+        },
+        {
+            "id": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
+            "content_html": "<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.\n            </p><p>\n                85 Points |  <a href=\"https://news.ycombinator.com/item?id=37445284\">53 comments</a>\n            </p>",
+            "url": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
+            "title": "Morocco earthquake kills more than 1,000 (www.nbcnews.com)",
+            "summary": "'Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates'",
+            "date_modified": "2023-09-09T13:40:15.000Z",
+            "author": {
+                "name": "www.nbcnews.com"
+            }
+        },
+        {
             "id": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
             "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                45 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">24 comments</a>\n            </p>",
             "url": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
@@ -151,35 +196,14 @@
             }
         },
         {
-            "id": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
-            "content_html": "<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37445284\">20 comments</a>\n            </p>",
-            "url": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
-            "title": "Morocco earthquake kills more than 1,000 (www.nbcnews.com)",
-            "summary": "'Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates'",
-            "date_modified": "2023-09-09T13:40:15.000Z",
+            "id": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
+            "content_html": "<p>Telescript is an agent-oriented programming language developed by General Magic as part of the Magic Cap system. It allowed end-user devices to upload programs to servers and take advantage of their capabilities. However, General Magic failed to find a niche in the market and Telescript services were eventually deprecated. The language was object-oriented and used a modified C-like syntax. It introduced the concepts of agents and places, which interacted with each other to perform tasks.\n            </p><p>\n                11 Points |  <a href=\"https://news.ycombinator.com/item?id=37429362\">1 comments</a>\n            </p>",
+            "url": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
+            "title": "The Telescript Programming Language (en.wikipedia.org)",
+            "summary": "'Telescript: An Agent-Oriented Programming Language for Uploading Programs to Servers'",
+            "date_modified": "2023-09-08T04:34:38.000Z",
             "author": {
-                "name": "www.nbcnews.com"
-            }
-        },
-        {
-            "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                156 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">95 comments</a>\n            </p>",
-            "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "title": "Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)",
-            "summary": "Optimizing Julia Code for Mandelbrot Set Calculation",
-            "date_modified": "2023-09-09T03:42:53.000Z",
-            "author": {
-                "name": "discourse.julialang.org"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37444184",
-            "content_html": "<p>No summary available\n            </p><p>\n                55 Points |  <a href=\"https://news.ycombinator.com/item?id=37444184\">35 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37444184",
-            "title": "Ask HN: Looking for a resource on Linux kernel module development (news.ycombinator.com)",
-            "date_modified": "2023-09-09T11:32:06.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
+                "name": "en.wikipedia.org"
             }
         },
         {
@@ -205,14 +229,36 @@
             }
         },
         {
-            "id": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
-            "content_html": "<p>Telescript is an agent-oriented programming language developed by General Magic as part of the Magic Cap system. It allowed end-user devices to upload programs to servers and take advantage of their capabilities. However, General Magic failed to find a niche in the market and Telescript services were eventually deprecated. The language was object-oriented and used a modified C-like syntax. It introduced the concepts of agents and places, which interacted with each other to perform tasks.\n            </p><p>\n                11 Points |  <a href=\"https://news.ycombinator.com/item?id=37429362\">1 comments</a>\n            </p>",
-            "url": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
-            "title": "The Telescript Programming Language (en.wikipedia.org)",
-            "summary": "'Telescript: An Agent-Oriented Programming Language for Uploading Programs to Servers'",
-            "date_modified": "2023-09-08T04:34:38.000Z",
+            "id": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
+            "content_html": "<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443395\">0 comments</a>\n            </p>",
+            "url": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
+            "title": "Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)",
+            "summary": "'Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023",
+            "date_modified": "2023-09-09T08:44:07.000Z",
             "author": {
-                "name": "en.wikipedia.org"
+                "name": "icfp23.sigplan.org"
+            }
+        },
+        {
+            "id": "https://privacysandbox.com/intl/en_us/news/privacy-sandbox-for-the-web-reaches-general-availability/",
+            "content_html": "<p>Google's Privacy Sandbox for the Web has reached 'general availability' on Chrome, marking a significant step towards a more private web. The initiative, introduced in 2019, aims to improve privacy while still providing businesses with necessary tools. The general availability of Privacy Sandbox APIs allows advertising providers and developers to scale the usage of these technologies. Additionally, new ad privacy controls have been rolled out in Chrome, giving users more control over how Privacy Sandbox technologies are used to deliver ads.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37444159\">1 comments</a>\n            </p>",
+            "url": "https://privacysandbox.com/intl/en_us/news/privacy-sandbox-for-the-web-reaches-general-availability/",
+            "title": "Privacy Sandbox for the Web reaches general availability (privacysandbox.com)",
+            "summary": "'Privacy Sandbox for the Web' Reaches General Availability on Chrome",
+            "date_modified": "2023-09-09T11:27:54.000Z",
+            "author": {
+                "name": "privacysandbox.com"
+            }
+        },
+        {
+            "id": "https://twitter.com/coinfabrik/status/1700495960151912518",
+            "content_html": "<p>This message informs users that their current browser is no longer supported for using Twitter. They are advised to switch to a supported browser, with a list of supported browsers available in the Help Center. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint, as well as copyright information.\n            </p><p>\n                16 Points |  <a href=\"https://news.ycombinator.com/item?id=37445947\">3 comments</a>\n            </p>",
+            "url": "https://twitter.com/coinfabrik/status/1700495960151912518",
+            "title": "Binance is facing liquidity issues on certain blockchains (twitter.com)",
+            "summary": "'Twitter Requires Supported Browser for Access'",
+            "date_modified": "2023-09-09T14:37:39.000Z",
+            "author": {
+                "name": "twitter.com"
             }
         },
         {
@@ -224,6 +270,38 @@
             "date_modified": "2023-09-07T01:15:10.000Z",
             "author": {
                 "name": "www.newyorker.com"
+            }
+        },
+        {
+            "id": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
+            "content_html": "<p>N/A\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37444066\">1 comments</a>\n            </p>",
+            "url": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
+            "title": "The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)",
+            "summary": "N/A",
+            "date_modified": "2023-09-09T11:12:22.000Z",
+            "author": {
+                "name": "www.thebookseller.com"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=37444184",
+            "content_html": "<p>No summary available\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37444184\">40 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37444184",
+            "title": "Ask HN: Looking for a resource on Linux kernel module development (news.ycombinator.com)",
+            "date_modified": "2023-09-09T11:32:06.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
+            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                170 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">108 comments</a>\n            </p>",
+            "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
+            "title": "Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)",
+            "summary": "Optimizing Julia Code for Mandelbrot Set Calculation",
+            "date_modified": "2023-09-09T03:42:53.000Z",
+            "author": {
+                "name": "discourse.julialang.org"
             }
         },
         {
@@ -239,45 +317,12 @@
         },
         {
             "id": "https://news.ycombinator.com/item?id=37444841",
-            "content_html": "<p>No summary available\n            </p><p>\n                19 Points |  <a href=\"https://news.ycombinator.com/item?id=37444841\">9 comments</a>\n            </p>",
+            "content_html": "<p>No summary available\n            </p><p>\n                29 Points |  <a href=\"https://news.ycombinator.com/item?id=37444841\">29 comments</a>\n            </p>",
             "url": "https://news.ycombinator.com/item?id=37444841",
             "title": "Google redraws the borders on maps depending on who’s looking (2020) (news.ycombinator.com)",
             "date_modified": "2023-09-09T13:00:12.000Z",
             "author": {
                 "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://privacysandbox.com/intl/en_us/news/privacy-sandbox-for-the-web-reaches-general-availability/",
-            "content_html": "<p>Google's Privacy Sandbox for the Web has reached 'general availability' on Chrome, marking a significant step towards a more private web. The initiative, introduced in 2019, aims to improve privacy while still providing businesses with necessary tools. The general availability of Privacy Sandbox APIs allows advertising providers and developers to scale the usage of these technologies. Additionally, new ad privacy controls have been rolled out in Chrome, giving users more control over how Privacy Sandbox technologies are used to deliver ads.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37444159\">1 comments</a>\n            </p>",
-            "url": "https://privacysandbox.com/intl/en_us/news/privacy-sandbox-for-the-web-reaches-general-availability/",
-            "title": "Privacy Sandbox for the Web reaches general availability (privacysandbox.com)",
-            "summary": "'Privacy Sandbox for the Web' Reaches General Availability on Chrome",
-            "date_modified": "2023-09-09T11:27:54.000Z",
-            "author": {
-                "name": "privacysandbox.com"
-            }
-        },
-        {
-            "id": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "content_html": "<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443395\">0 comments</a>\n            </p>",
-            "url": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "title": "Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)",
-            "summary": "'Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023",
-            "date_modified": "2023-09-09T08:44:07.000Z",
-            "author": {
-                "name": "icfp23.sigplan.org"
-            }
-        },
-        {
-            "id": "https://timotijhof.net/posts/2023/an-internet-of-php/",
-            "content_html": "<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes\n            </p><p>\n                230 Points |  <a href=\"https://news.ycombinator.com/item?id=37415747\">208 comments</a>\n            </p>",
-            "url": "https://timotijhof.net/posts/2023/an-internet-of-php/",
-            "title": "An Internet of PHP (timotijhof.net)",
-            "summary": "PHP's Dominance in the Internet: Statistics and Anecdotes",
-            "date_modified": "2023-09-07T07:23:33.000Z",
-            "author": {
-                "name": "timotijhof.net"
             }
         },
         {
@@ -289,50 +334,6 @@
             "date_modified": "2023-09-09T07:02:21.000Z",
             "author": {
                 "name": "www.libraryofshortstories.com"
-            }
-        },
-        {
-            "id": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
-            "content_html": "<p>The Creative Class, consisting of creators, curators, critics, and hangers-on, has a distinct aesthetic that blends businesswear with vintage, sports wear, and work wear. They treat their job as leisure and their leisure as job, reflecting a cool, nonchalant, versatile, durable, and comfortable style. The Creative Class accumulates cultural capital by commenting, repurposing, and reinterpreting past and present culture, creating something modern and new while maintaining familiarity. They play a critical role in the modern economy by directing consumers' time, attention, and money towards aspirational things, places, and ideas.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37416882\">0 comments</a>\n            </p>",
-            "url": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
-            "title": "Creative Money Aesthetics (andjelicaaa.substack.com)",
-            "summary": "The Aesthetic and Influence of the Creative Class in Business",
-            "date_modified": "2023-09-07T10:18:43.000Z",
-            "author": {
-                "name": "andjelicaaa.substack.com"
-            }
-        },
-        {
-            "id": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
-            "content_html": "<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!\n            </p><p>\n                42 Points |  <a href=\"https://news.ycombinator.com/item?id=37414659\">11 comments</a>\n            </p>",
-            "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
-            "title": "The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)",
-            "summary": "'Spot It!' Card Game: The Math Behind the Matching Symbols",
-            "date_modified": "2023-09-07T04:08:50.000Z",
-            "author": {
-                "name": "www.smithsonianmag.com"
-            }
-        },
-        {
-            "id": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
-            "content_html": "<p>N/A\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37444066\">1 comments</a>\n            </p>",
-            "url": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
-            "title": "The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)",
-            "summary": "N/A",
-            "date_modified": "2023-09-09T11:12:22.000Z",
-            "author": {
-                "name": "www.thebookseller.com"
-            }
-        },
-        {
-            "id": "https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/",
-            "content_html": "<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.\n            </p><p>\n                226 Points |  <a href=\"https://news.ycombinator.com/item?id=37441982\">58 comments</a>\n            </p>",
-            "url": "https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/",
-            "title": "FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)",
-            "summary": "FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free'",
-            "date_modified": "2023-09-09T03:26:37.000Z",
-            "author": {
-                "name": "arstechnica.com"
             }
         }
     ]
