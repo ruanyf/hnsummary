@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 06:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 07:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -20,10 +20,21 @@
             <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
             <guid>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</guid>
             <pubDate>Sat, 09 Sep 2023 03:42:53 GMT</pubDate>
-            <description><![CDATA[Benchmarking Julia and Mojo Mandelbrot Code]]></description>
-            <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, including using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
+            <description><![CDATA[Optimizing Julia Code for Mandelbrot Set Calculation]]></description>
+            <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
             </p><p>
-                51 Points |  <a href="https://news.ycombinator.com/item?id=37442064">13 comments</a>
+                72 Points |  <a href="https://news.ycombinator.com/item?id=37442064">26 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)]]></title>
+            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
+            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
+            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
+            <description><![CDATA[Ruby Outperforms C: Breaking the Catch-22 in Performance Optimization]]></description>
+            <content:encoded><![CDATA[<p>Ruby outperforms C in terms of performance optimization, challenging the common wisdom of rewriting slow code as C extensions. The article presents a benchmark comparing the performance of a pure Ruby implementation of the GraphQL parser with a C extension. It also explores the impact of YJIT optimizations on both implementations. The results show that YJIT can achieve faster speeds than a C extension when used with the pure Ruby implementation. Additionally, a hand-written recursive descent parser in pure Ruby called TinyGQL is introduced and compared to the GraphQL C extension. With YJIT enabled, TinyGQL outperforms the C extension by 30%. These findings suggest that rewriting slow code in pure Ruby can be a viable alternative to using C extensions for performance optimization.
+            </p><p>
+                35 Points |  <a href="https://news.ycombinator.com/item?id=37422705">19 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -38,14 +49,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)]]></title>
-            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
-            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
-            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
-            <description><![CDATA[Ruby Outperforms C: Breaking the Catch-22 in Performance Optimization]]></description>
-            <content:encoded><![CDATA[<p>Ruby outperforms C in terms of performance optimization, challenging the common wisdom of rewriting slow code as C extensions. The article presents a benchmark comparing the performance of a pure Ruby implementation of the GraphQL parser with a C extension. It also explores the impact of YJIT optimizations on both implementations. The results show that YJIT can achieve faster speeds than a C extension when used with the pure Ruby implementation. Additionally, a hand-written recursive descent parser in pure Ruby called TinyGQL is introduced and compared to the GraphQL C extension. With YJIT enabled, TinyGQL outperforms the C extension by 30%. These findings suggest that rewriting slow code in pure Ruby can be a viable alternative to using C extensions for performance optimization.
+            <title><![CDATA[The new Google Fonts: find what you’re looking for (material.io)]]></title>
+            <link>https://material.io/blog/2023-google-fonts-redesign</link>
+            <guid>https://material.io/blog/2023-google-fonts-redesign</guid>
+            <pubDate>Sat, 09 Sep 2023 02:38:22 GMT</pubDate>
+            <description><![CDATA[Google Fonts Redesigns Website to Improve Font and Icon Search]]></description>
+            <content:encoded><![CDATA[<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new site navigation using Material 3 Navigation Rail, an improved mobile experience with a bottom navigation bar, and a new sidebar for searching and filtering fonts and icons. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. Overall, the redesign aims to enhance the user experience and make it easier to find the right assets for projects.
             </p><p>
-                10 Points |  <a href="https://news.ycombinator.com/item?id=37422705">0 comments</a>
+                41 Points |  <a href="https://news.ycombinator.com/item?id=37441683">27 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -67,18 +78,7 @@
             <description><![CDATA[DEFCON 31 Releases Official Videos and Offers Support Options]]></description>
             <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.
             </p><p>
-                127 Points |  <a href="https://news.ycombinator.com/item?id=37440104">75 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The new Google Fonts: find what you’re looking for (material.io)]]></title>
-            <link>https://material.io/blog/2023-google-fonts-redesign</link>
-            <guid>https://material.io/blog/2023-google-fonts-redesign</guid>
-            <pubDate>Sat, 09 Sep 2023 02:38:22 GMT</pubDate>
-            <description><![CDATA[Google Fonts Redesigns Website to Improve Font and Icon Search]]></description>
-            <content:encoded><![CDATA[<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new site navigation using Material 3 Navigation Rail, an improved mobile experience with a bottom navigation bar, and a new sidebar for searching and filtering fonts and icons. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. Overall, the redesign aims to enhance the user experience and make it easier to find the right assets for projects.
-            </p><p>
-                29 Points |  <a href="https://news.ycombinator.com/item?id=37441683">16 comments</a>
+                161 Points |  <a href="https://news.ycombinator.com/item?id=37440104">85 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -111,7 +111,18 @@
             <description><![CDATA[rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust]]></description>
             <content:encoded><![CDATA[<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.
             </p><p>
-                86 Points |  <a href="https://news.ycombinator.com/item?id=37439391">14 comments</a>
+                106 Points |  <a href="https://news.ycombinator.com/item?id=37439391">24 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[An Internet of PHP (timotijhof.net)]]></title>
+            <link>https://timotijhof.net/posts/2023/an-internet-of-php/</link>
+            <guid>https://timotijhof.net/posts/2023/an-internet-of-php/</guid>
+            <pubDate>Thu, 07 Sep 2023 07:23:33 GMT</pubDate>
+            <description><![CDATA[PHP Maintains its Dominance as the Preferred Language for Websites and CMS]]></description>
+            <content:encoded><![CDATA[<p>PHP Continues to Dominate the Internet as the Language of Choice for Websites and Content Management Systems
+            </p><p>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37415747">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -137,14 +148,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: Conway's Game of Life in TypeScript's type system (github.com)]]></title>
-            <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
-            <guid>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</guid>
-            <pubDate>Fri, 08 Sep 2023 19:11:47 GMT</pubDate>
-            <description><![CDATA[Code File for TypeScript Implementation of Game of Life]]></description>
-            <content:encoded><![CDATA[<p>This is a code file for a TypeScript implementation of the Game of Life. The code consists of 203 lines and is approximately 7.24 KB in size. It appears to be a random file within a larger project called 'cursed-typescript'.
+            <title><![CDATA[Advanced NLP with SpaCy (course.spacy.io)]]></title>
+            <link>https://course.spacy.io/en/</link>
+            <guid>https://course.spacy.io/en/</guid>
+            <pubDate>Sat, 09 Sep 2023 05:36:22 GMT</pubDate>
+            <description><![CDATA[Learn to Build Advanced Natural Language Understanding Systems with spaCy]]></description>
+            <content:encoded><![CDATA[<p>This article provides an overview of the chapters in a course on using spaCy for text processing and natural language understanding. The chapters cover topics such as finding words, phrases, names, and concepts, large-scale data analysis, processing pipelines, and training a neural network model. The course aims to teach users how to use spaCy to build advanced natural language understanding systems using rule-based and machine learning approaches. The author, Ines, is a core developer of spaCy and specializes in developer tools for AI, machine learning, and NLP.
             </p><p>
-                113 Points |  <a href="https://news.ycombinator.com/item?id=37438028">31 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37442574">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -159,25 +170,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Bun v1.0.0 (github.com)]]></title>
-            <link>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</link>
-            <guid>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</guid>
-            <pubDate>Fri, 08 Sep 2023 14:41:03 GMT</pubDate>
-            <description><![CDATA[Bun v1.0 Release: Bug Fixes, Improvements, and New Features]]></description>
-            <content:encoded><![CDATA[<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.
+            <title><![CDATA[Show HN: Conway's Game of Life in TypeScript's type system (github.com)]]></title>
+            <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
+            <guid>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</guid>
+            <pubDate>Fri, 08 Sep 2023 19:11:47 GMT</pubDate>
+            <description><![CDATA[Code File for TypeScript Implementation of Game of Life]]></description>
+            <content:encoded><![CDATA[<p>This is a code file for a TypeScript implementation of the Game of Life. The code consists of 203 lines and is approximately 7.24 KB in size. It appears to be a random file within a larger project called 'cursed-typescript'.
             </p><p>
-                810 Points |  <a href="https://news.ycombinator.com/item?id=37434117">277 comments</a>
+                113 Points |  <a href="https://news.ycombinator.com/item?id=37438028">31 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)]]></title>
-            <link>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</link>
-            <guid>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</guid>
-            <pubDate>Sat, 09 Sep 2023 03:26:37 GMT</pubDate>
-            <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
-            <content:encoded><![CDATA[<p>Intuit has been ruled by the Federal Trade Commission's chief administrative law judge to have violated US law with deceptive advertising for TurboTax. The judge ordered Intuit to stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the judge's ruling as being in favor of the FTC's own lawsuit. The ruling stated that Intuit engaged in deceptive advertising by falsely claiming that consumers could file their taxes online for free using TurboTax. If the ruling survives appeal, it will be in effect for 20 years.
+            <title><![CDATA[TurboGP: A flexible and advanced Python based GP library (arxiv.org)]]></title>
+            <link>https://arxiv.org/abs/2309.00149</link>
+            <guid>https://arxiv.org/abs/2309.00149</guid>
+            <pubDate>Thu, 07 Sep 2023 13:21:17 GMT</pubDate>
+            <description><![CDATA[TurboGP: A Flexible and Advanced Python-Based GP Library]]></description>
+            <content:encoded><![CDATA[<p>TurboGP is a Python-based Genetic Programming (GP) library designed for machine learning tasks. It offers modern features not found in other GP implementations, including island and cellular population schemes, various genetic operations, and online learning. One of TurboGP's unique features is its support for different types of GP nodes, allowing for different abstraction levels and making it useful for processing diverse data sources. The paper provides a brief overview of TurboGP's capabilities and highlights its potential applications in neural and evolutionary computing and machine learning. The library's flexibility and advanced features make it a valuable tool for researchers and practitioners in the field.
             </p><p>
-                16 Points |  <a href="https://news.ycombinator.com/item?id=37441982">1 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37418528">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -191,25 +202,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
-            <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
-            <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:23:27 GMT</pubDate>
-            <description><![CDATA[Understanding the constexprness of C++20's std::string]]></description>
-            <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.
+            <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)]]></title>
+            <link>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</link>
+            <guid>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</guid>
+            <pubDate>Sat, 09 Sep 2023 03:26:37 GMT</pubDate>
+            <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
+            <content:encoded><![CDATA[<p>Intuit has been ruled by the Federal Trade Commission's chief administrative law judge to have violated US law with deceptive advertising for TurboTax. The judge ordered Intuit to stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the judge's ruling as being in favor of the FTC's own lawsuit. The ruling stated that Intuit engaged in deceptive advertising by falsely claiming that consumers could file their taxes online for free using TurboTax. If the ruling survives appeal, it will be in effect for 20 years.
             </p><p>
-                94 Points |  <a href="https://news.ycombinator.com/item?id=37431425">70 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Teaching old C code new tricks with Nim (peterme.net)]]></title>
-            <link>https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html</link>
-            <guid>https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html</guid>
-            <pubDate>Sat, 09 Sep 2023 03:01:29 GMT</pubDate>
-            <description><![CDATA[Using Nim to Improve Error Handling in C Code]]></description>
-            <content:encoded><![CDATA[<p>Teaching old C code new tricks with Nim
-            </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37441829">0 comments</a>
+                110 Points |  <a href="https://news.ycombinator.com/item?id=37441982">11 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -224,6 +224,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
+            <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
+            <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:23:27 GMT</pubDate>
+            <description><![CDATA[Understanding the constexprness of C++20's std::string]]></description>
+            <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.
+            </p><p>
+                94 Points |  <a href="https://news.ycombinator.com/item?id=37431425">70 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Cisco Systems and Financialization (www.ineteconomics.org)]]></title>
             <link>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</link>
             <guid>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</guid>
@@ -231,18 +242,18 @@
             <description><![CDATA[Cisco Systems' Financialization and its Impact on US Technology Competitiveness]]></description>
             <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and IoT. This is due to the company's shift from innovation to financialization, prioritizing stock buybacks over investments in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for technological advancements. The company's focus on maximizing shareholder value has hindered its competitive position in the US information-and-communication-technology industry. This article explores Cisco's transformation from an innovative enterprise to a financialized one and discusses the implications for the industry's global competitiveness.
             </p><p>
-                28 Points |  <a href="https://news.ycombinator.com/item?id=37415456">13 comments</a>
+                35 Points |  <a href="https://news.ycombinator.com/item?id=37415456">28 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TurboGP: A flexible and advanced Python based GP library (arxiv.org)]]></title>
-            <link>https://arxiv.org/abs/2309.00149</link>
-            <guid>https://arxiv.org/abs/2309.00149</guid>
-            <pubDate>Thu, 07 Sep 2023 13:21:17 GMT</pubDate>
-            <description><![CDATA[TurboGP: A Flexible and Advanced Python-Based GP Library]]></description>
-            <content:encoded><![CDATA[<p>TurboGP is a Python-based Genetic Programming (GP) library designed for machine learning tasks. It offers modern features not found in other GP implementations, including island and cellular population schemes, various genetic operations, and online learning. One of TurboGP's unique features is its support for different types of GP nodes, allowing for different abstraction levels and making it useful for processing diverse data sources. The paper provides a brief overview of TurboGP's capabilities and highlights its potential applications in neural and evolutionary computing and machine learning. The library's flexibility and advanced features make it a valuable tool for researchers and practitioners in the field.
+            <title><![CDATA[As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)]]></title>
+            <link>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</link>
+            <guid>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</guid>
+            <pubDate>Sat, 09 Sep 2023 06:00:57 GMT</pubDate>
+            <description><![CDATA[Australia's Eucalyptus Tree: A Catalyst for Global Wildfires]]></description>
+            <content:encoded><![CDATA[<p>The Role of Australia's Eucalyptus Tree in Global Wildfires
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37418528">0 comments</a>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37442671">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -264,7 +275,7 @@
             <description><![CDATA[Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market]]></description>
             <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
             </p><p>
-                113 Points |  <a href="https://news.ycombinator.com/item?id=37436092">51 comments</a>
+                125 Points |  <a href="https://news.ycombinator.com/item?id=37436092">61 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -276,17 +287,6 @@
             <content:encoded><![CDATA[<p>The website www.science.org is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is 803b0eb75fbdcf4d, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.
             </p><p>
                 3 Points |  <a href="https://news.ycombinator.com/item?id=37412738">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GitHubGuessr (github-guessr.vercel.app)]]></title>
-            <link>https://github-guessr.vercel.app/</link>
-            <guid>https://github-guessr.vercel.app/</guid>
-            <pubDate>Fri, 08 Sep 2023 11:09:44 GMT</pubDate>
-            <description><![CDATA[N/A]]></description>
-            <content:encoded><![CDATA[<p>N/A
-            </p><p>
-                80 Points |  <a href="https://news.ycombinator.com/item?id=37432067">38 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -312,17 +312,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Arctic Code Vault (archiveprogram.github.com)]]></title>
-            <link>https://archiveprogram.github.com/arctic-vault/</link>
-            <guid>https://archiveprogram.github.com/arctic-vault/</guid>
-            <pubDate>Fri, 08 Sep 2023 05:16:57 GMT</pubDate>
-            <description><![CDATA[GitHub Creates Arctic Code Vault to Preserve Open Source Software]]></description>
-            <content:encoded><![CDATA[<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is a long-term archival facility located in a decommissioned coal mine in the Svalbard archipelago. The archive is designed to last 1,000 years and is considered a stable site for preserving humanity's collective knowledge. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributions, GitHub created the Arctic Code Vault Badge displayed on developers' profiles. The vault contains open source software from millions of developers worldwide.
-            </p><p>
-                36 Points |  <a href="https://news.ycombinator.com/item?id=37429645">24 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)]]></title>
             <link>https://eprint.iacr.org/2023/1053</link>
             <guid>https://eprint.iacr.org/2023/1053</guid>
@@ -331,6 +320,17 @@
             <content:encoded><![CDATA[<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.
             </p><p>
                 5 Points |  <a href="https://news.ycombinator.com/item?id=37431433">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Arctic Code Vault (archiveprogram.github.com)]]></title>
+            <link>https://archiveprogram.github.com/arctic-vault/</link>
+            <guid>https://archiveprogram.github.com/arctic-vault/</guid>
+            <pubDate>Fri, 08 Sep 2023 05:16:57 GMT</pubDate>
+            <description><![CDATA[GitHub Creates Arctic Code Vault to Preserve Open Source Software]]></description>
+            <content:encoded><![CDATA[<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is a long-term archival facility located in a decommissioned coal mine in the Svalbard archipelago. The archive is designed to last 1,000 years and is considered a stable site for preserving humanity's collective knowledge. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributions, GitHub created the Arctic Code Vault Badge displayed on developers' profiles. The vault contains open source software from millions of developers worldwide.
+            </p><p>
+                36 Points |  <a href="https://news.ycombinator.com/item?id=37429645">24 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
