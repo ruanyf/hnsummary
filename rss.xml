@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 21:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 22:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -16,14 +16,13 @@
         <category>Frontpage</category>
         <atom:link href="https://ruanyf.github.io/hnsummary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Asking 60 LLMs a set of 20 questions (benchmarks.llmonitor.com)]]></title>
-            <link>https://benchmarks.llmonitor.com</link>
-            <guid>https://benchmarks.llmonitor.com</guid>
-            <pubDate>Sat, 09 Sep 2023 13:51:33 GMT</pubDate>
-            <description><![CDATA['Script Tests Reasoning and Creativity of 60+ Models Using Prompts']]></description>
-            <content:encoded><![CDATA[<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.
+            <title><![CDATA[Alert: No Google Topics in Vivaldi (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37449921</link>
+            <guid>https://news.ycombinator.com/item?id=37449921</guid>
+            <pubDate>Sat, 09 Sep 2023 20:24:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                359 Points |  <a href="https://news.ycombinator.com/item?id=37445401">219 comments</a>
+                65 Points |  <a href="https://news.ycombinator.com/item?id=37449921">32 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -38,14 +37,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: I built a Python web framework from scratch (github.com)]]></title>
+            <title><![CDATA[Asking 60 LLMs a set of 20 questions (benchmarks.llmonitor.com)]]></title>
+            <link>https://benchmarks.llmonitor.com</link>
+            <guid>https://benchmarks.llmonitor.com</guid>
+            <pubDate>Sat, 09 Sep 2023 13:51:33 GMT</pubDate>
+            <description><![CDATA['Script Tests Reasoning and Creativity of 60+ Models Using Prompts']]></description>
+            <content:encoded><![CDATA[<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.
+            </p><p>
+                359 Points |  <a href="https://news.ycombinator.com/item?id=37445401">219 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN: I built a Python web framework (github.com)]]></title>
             <link>https://github.com/ZeroIntensity/view.py</link>
             <guid>https://github.com/ZeroIntensity/view.py</guid>
             <pubDate>Sat, 09 Sep 2023 18:47:54 GMT</pubDate>
             <description><![CDATA['view.py: A Lightning-Fast and Modern Web Framework in Alpha Stage']]></description>
             <content:encoded><![CDATA[<p>view.py is a lightning-fast, modern web framework that is currently in a high alpha stage of development. It requires CPython 3.8+ for installation. The framework offers a simple and efficient way to build web applications. It is actively seeking new contributors and provides installation instructions for Linux/macOS and Windows. view.py aims to provide a fast and modern solution for web development.
             </p><p>
-                22 Points |  <a href="https://news.ycombinator.com/item?id=37448914">4 comments</a>
+                76 Points |  <a href="https://news.ycombinator.com/item?id=37448914">33 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -60,6 +70,39 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale (lithub.com)]]></title>
+            <link>https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/</link>
+            <guid>https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/</guid>
+            <pubDate>Sat, 09 Sep 2023 19:34:44 GMT</pubDate>
+            <description><![CDATA['John Le Carré's Cornwall Home, Tregiffian Cottage, Hits the Market for $3.7 Million']]></description>
+            <content:encoded><![CDATA[<p>John Le Carré's Cornwall home, Tregiffian Cottage, is up for sale for $3.7 million. The 5,000-square-foot house, where Le Carré wrote many of his novels, features a detached writing studio, a library with bespoke joinery, and a safe room. The property offers stunning views and a picturesque setting. Le Carré's son, Nick Cornwell, described the cottage as a place filled with wildlife and natural beauty, making it an ideal space for rest, work, or self-reflection.
+            </p><p>
+                26 Points |  <a href="https://news.ycombinator.com/item?id=37449439">23 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sequential Memory Is a Unique Human Trait (neurosciencenews.com)]]></title>
+            <link>https://neurosciencenews.com/sequential-memory-human-trait-23888/</link>
+            <guid>https://neurosciencenews.com/sequential-memory-human-trait-23888/</guid>
+            <pubDate>Thu, 07 Sep 2023 14:50:54 GMT</pubDate>
+            <description><![CDATA[Sequential Memory Is a Unique Human Trait]]></description>
+            <content:encoded><![CDATA[<p>Humans possess a unique ability to recognize and remember sequential information, according to a study. Bonobos, our closest relatives, struggle to learn the order of stimuli in the same way as humans. This finding sheds light on the cognitive distinctions between humans and other animals, explaining why only humans possess certain cultural abilities like language and advanced planning. Sequential memory may be the foundational block behind many uniquely human behaviors and capabilities.
+            </p><p>
+                13 Points |  <a href="https://news.ycombinator.com/item?id=37419739">15 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform (jobs.ashbyhq.com)]]></title>
+            <link>https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn</link>
+            <guid>https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn</guid>
+            <pubDate>Sat, 09 Sep 2023 21:00:20 GMT</pubDate>
+            <description><![CDATA[Freshpaint: Simplifying Customer Data Collection and Integration]]></description>
+            <content:encoded><![CDATA[<p>Freshpaint is a Customer Data Platform that helps businesses collect and integrate customer data. They offer a PHI Management Platform for healthcare providers and a Customer Data Platform for teams to collect and activate customer data. The company is fully remote and values freedom and ownership in work. They are backed by leading investors and have a deep analytics and growth experienced team. The role of Software Engineer at Freshpaint involves scaling infrastructure, designing new data processing systems, and building user experiences.
+            </p><p>
+                1 Points |  <a href="https://news.ycombinator.com/item?id=37450228">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[PAROL6 Desktop Robot Arm (github.com)]]></title>
             <link>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</link>
             <guid>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</guid>
@@ -68,17 +111,6 @@
             <content:encoded><![CDATA[<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.
             </p><p>
                 101 Points |  <a href="https://news.ycombinator.com/item?id=37445951">22 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The era-defining aesthetic of “In the Mood for Love” (www.newyorker.com)]]></title>
-            <link>https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love</link>
-            <guid>https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love</guid>
-            <pubDate>Wed, 06 Sep 2023 23:55:59 GMT</pubDate>
-            <description><![CDATA['In the Mood for Love': Wong Kar Wai's Influential Masterpiece]]></description>
-            <content:encoded><![CDATA[<p>Wong Kar Wai's 2000 film 'In the Mood for Love' has had a significant influence on popular culture, with its unique aesthetic and storytelling. The film, set in 1960s Hong Kong, follows two individuals who discover that their spouses are having an affair and become entangled themselves. Wong's personal history and diverse influences shaped the film's style, which combines elements of French New Wave filmmaking, American mystery, and Chinese literature. 'In the Mood for Love' is a visually stunning and emotionally resonant work that continues to captivate audiences.
-            </p><p>
-                9 Points |  <a href="https://news.ycombinator.com/item?id=37413027">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -93,90 +125,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Birth of the Gentoo Linux Distribution (www.funtoo.org)]]></title>
-            <link>https://www.funtoo.org/Making_the_Distribution,_Part_1</link>
-            <guid>https://www.funtoo.org/Making_the_Distribution,_Part_1</guid>
-            <pubDate>Sat, 09 Sep 2023 15:29:14 GMT</pubDate>
-            <description><![CDATA['The Potential of Linux and Dealing with Difficult Developers: Daniel Robbins' Linux Journey']]></description>
-            <content:encoded><![CDATA[<p>Daniel Robbins shares his Linux journey, from becoming a Stampede Linux developer to starting his own distribution called Enoch. He emphasizes the potential of Linux to change, improve, and break things, as well as the importance of the Linux community. Robbins also discusses his experience dealing with difficult developers and offers advice on managing them.
+            <title><![CDATA[A Teen Celebrity in 1804 (daily.jstor.org)]]></title>
+            <link>https://daily.jstor.org/a-teen-celebrity-in-1804/</link>
+            <guid>https://daily.jstor.org/a-teen-celebrity-in-1804/</guid>
+            <pubDate>Fri, 08 Sep 2023 14:15:01 GMT</pubDate>
+            <description><![CDATA['A Teen Celebrity in 1804: The Phenomenon of Bettymania and the Fleeting Nature of Child Stardom']]></description>
+            <content:encoded><![CDATA[<p>In 1804, thirteen-year-old actor William Henry West Betty became a sensation in London, with crowds mobbing theaters and camped outside his home. This article explores the phenomenon of Bettymania and how it was carefully orchestrated through paid critics, merchandise, and strategic audience placement. While some critics saw it as a national embarrassment, Betty's fame and fee skyrocketed, but he eventually faded from the public eye. This story sheds light on the early history of celebrity culture and the fleeting nature of child stardom.
             </p><p>
-                19 Points |  <a href="https://news.ycombinator.com/item?id=37446509">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
-            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
-            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
-            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
-            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
-            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
-            </p><p>
-                51 Points |  <a href="https://news.ycombinator.com/item?id=37448005">12 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)]]></title>
-            <link>https://forum.dji.com/thread-293546-1-1.html</link>
-            <guid>https://forum.dji.com/thread-293546-1-1.html</guid>
-            <pubDate>Sat, 09 Sep 2023 14:38:53 GMT</pubDate>
-            <description><![CDATA[A Collection of Tutorials, Tips, and Information on Drones and DJI Products]]></description>
-            <content:encoded><![CDATA[<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.
-            </p><p>
-                120 Points |  <a href="https://news.ycombinator.com/item?id=37445963">83 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale (lithub.com)]]></title>
-            <link>https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/</link>
-            <guid>https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/</guid>
-            <pubDate>Sat, 09 Sep 2023 19:34:44 GMT</pubDate>
-            <description><![CDATA['John Le Carré's Cornwall Home, Tregiffian Cottage, Hits the Market for $3.7 Million']]></description>
-            <content:encoded><![CDATA[<p>John Le Carré's Cornwall home, Tregiffian Cottage, is up for sale for $3.7 million. The 5,000-square-foot house, where Le Carré wrote many of his novels, features a detached writing studio, a library with bespoke joinery, and a safe room. The property offers stunning views and a picturesque setting. Le Carré's son, Nick Cornwell, described the cottage as a place filled with wildlife and natural beauty, making it an ideal space for rest, work, or self-reflection.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37449439">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37432336</link>
-            <guid>https://news.ycombinator.com/item?id=37432336</guid>
-            <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                41 Points |  <a href="https://news.ycombinator.com/item?id=37432336">34 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Order of the Occult Hand (en.wikipedia.org)]]></title>
-            <link>https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand</link>
-            <guid>https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand</guid>
-            <pubDate>Sat, 09 Sep 2023 19:53:38 GMT</pubDate>
-            <description><![CDATA[The Order of the Occult Hand: A Secret Society of Journalists]]></description>
-            <content:encoded><![CDATA[<p>The Order of the Occult Hand is a secret society of American journalists who insert the phrase 'It was as if an occult hand had...' into their articles as an inside joke. The phrase was introduced by Joseph Flanders in 1965, and his colleagues formed the Order to commemorate it. The tradition spread to other media outlets and even internationally. The Order's secrecy was exposed in 2004, but it continues to operate and has chosen a new secret phrase in 2006. In 2020, a journalism challenge was announced to encourage the use of a meaningless telltale phrase in news articles.
-            </p><p>
-                12 Points |  <a href="https://news.ycombinator.com/item?id=37449620">2 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Existing in an Un-Simulated Reality (iahwrites.substack.com)]]></title>
-            <link>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</link>
-            <guid>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</guid>
-            <pubDate>Sat, 09 Sep 2023 17:27:52 GMT</pubDate>
-            <description><![CDATA['Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness']]></description>
-            <content:encoded><![CDATA[<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.
-            </p><p>
-                17 Points |  <a href="https://news.ycombinator.com/item?id=37447810">16 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)]]></title>
-            <link>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</link>
-            <guid>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</guid>
-            <pubDate>Thu, 07 Sep 2023 07:32:48 GMT</pubDate>
-            <description><![CDATA[Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology]]></description>
-            <content:encoded><![CDATA[<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.
-            </p><p>
-                105 Points |  <a href="https://news.ycombinator.com/item?id=37415804">48 comments</a>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37433784">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -191,14 +147,112 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Development of the C Language (2003) (cm.bell-labs.co)]]></title>
-            <link>http://cm.bell-labs.co/who/dmr/chist.html</link>
-            <guid>http://cm.bell-labs.co/who/dmr/chist.html</guid>
-            <pubDate>Sat, 09 Sep 2023 06:33:32 GMT</pubDate>
-            <description><![CDATA['The Development and Evolution of the C Programming Language']]></description>
-            <content:encoded><![CDATA[<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.
+            <title><![CDATA[The era-defining aesthetic of “In the Mood for Love” (www.newyorker.com)]]></title>
+            <link>https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love</link>
+            <guid>https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love</guid>
+            <pubDate>Wed, 06 Sep 2023 23:55:59 GMT</pubDate>
+            <description><![CDATA['In the Mood for Love': Wong Kar Wai's Influential Masterpiece]]></description>
+            <content:encoded><![CDATA[<p>Wong Kar Wai's 2000 film 'In the Mood for Love' has had a significant influence on popular culture, with its unique aesthetic and storytelling. The film, set in 1960s Hong Kong, follows two individuals who discover that their spouses are having an affair and become entangled themselves. Wong's personal history and diverse influences shaped the film's style, which combines elements of French New Wave filmmaking, American mystery, and Chinese literature. 'In the Mood for Love' is a visually stunning and emotionally resonant work that continues to captivate audiences.
             </p><p>
-                142 Points |  <a href="https://news.ycombinator.com/item?id=37442810">20 comments</a>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37413027">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SmartKnob – Haptic input knob with software-defined endstops and virtual detents (github.com)]]></title>
+            <link>https://github.com/scottbez1/smartknob</link>
+            <guid>https://github.com/scottbez1/smartknob</guid>
+            <pubDate>Sat, 09 Sep 2023 18:30:39 GMT</pubDate>
+            <description><![CDATA[SmartKnob: An Open-Source Input Device with Software-Configurable Endstops and Virtual Detents]]></description>
+            <content:encoded><![CDATA[<p>SmartKnob is an open-source input device with software-configurable endstops and virtual detents. It uses a brushless gimbal motor paired with a magnetic encoder for closed-loop torque feedback control. The device is not yet recommended for general use due to potential mechanical and electrical revisions. The project is under active development and encourages community participation.
+            </p><p>
+                18 Points |  <a href="https://news.ycombinator.com/item?id=37448659">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37432336</link>
+            <guid>https://news.ycombinator.com/item?id=37432336</guid>
+            <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
+            </p><p>
+                50 Points |  <a href="https://news.ycombinator.com/item?id=37432336">37 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Birth of the Gentoo Linux Distribution (www.funtoo.org)]]></title>
+            <link>https://www.funtoo.org/Making_the_Distribution,_Part_1</link>
+            <guid>https://www.funtoo.org/Making_the_Distribution,_Part_1</guid>
+            <pubDate>Sat, 09 Sep 2023 15:29:14 GMT</pubDate>
+            <description><![CDATA['The Potential of Linux and Dealing with Difficult Developers: Daniel Robbins' Linux Journey']]></description>
+            <content:encoded><![CDATA[<p>Daniel Robbins shares his Linux journey, from becoming a Stampede Linux developer to starting his own distribution called Enoch. He emphasizes the potential of Linux to change, improve, and break things, as well as the importance of the Linux community. Robbins also discusses his experience dealing with difficult developers and offers advice on managing them.
+            </p><p>
+                19 Points |  <a href="https://news.ycombinator.com/item?id=37446509">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why you might want async in your project (notgull.net)]]></title>
+            <link>https://notgull.net/why-you-want-async/</link>
+            <guid>https://notgull.net/why-you-want-async/</guid>
+            <pubDate>Sat, 09 Sep 2023 18:17:56 GMT</pubDate>
+            <description><![CDATA['Why you might actually want async in your project']]></description>
+            <content:encoded><![CDATA[<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.
+            </p><p>
+                90 Points |  <a href="https://news.ycombinator.com/item?id=37448460">74 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
+            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
+            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
+            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
+            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
+            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
+            </p><p>
+                51 Points |  <a href="https://news.ycombinator.com/item?id=37448005">12 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Existing in an Un-Simulated Reality (iahwrites.substack.com)]]></title>
+            <link>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</link>
+            <guid>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</guid>
+            <pubDate>Sat, 09 Sep 2023 17:27:52 GMT</pubDate>
+            <description><![CDATA['Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness']]></description>
+            <content:encoded><![CDATA[<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.
+            </p><p>
+                24 Points |  <a href="https://news.ycombinator.com/item?id=37447810">26 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)]]></title>
+            <link>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</link>
+            <guid>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</guid>
+            <pubDate>Thu, 07 Sep 2023 07:32:48 GMT</pubDate>
+            <description><![CDATA[Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology]]></description>
+            <content:encoded><![CDATA[<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.
+            </p><p>
+                119 Points |  <a href="https://news.ycombinator.com/item?id=37415804">58 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)]]></title>
+            <link>https://forum.dji.com/thread-293546-1-1.html</link>
+            <guid>https://forum.dji.com/thread-293546-1-1.html</guid>
+            <pubDate>Sat, 09 Sep 2023 14:38:53 GMT</pubDate>
+            <description><![CDATA[A Collection of Tutorials, Tips, and Information on Drones and DJI Products]]></description>
+            <content:encoded><![CDATA[<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.
+            </p><p>
+                133 Points |  <a href="https://news.ycombinator.com/item?id=37445963">96 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Making a newsletter backend (axleos.com)]]></title>
+            <link>https://axleos.com/making-a-newsletter-backend/</link>
+            <guid>https://axleos.com/making-a-newsletter-backend/</guid>
+            <pubDate>Sat, 09 Sep 2023 08:12:21 GMT</pubDate>
+            <description><![CDATA[Implementing a Bespoke Newsletter Service with a Personal Touch]]></description>
+            <content:encoded><![CDATA[<p>The author discusses their project of implementing a bespoke newsletter service. They outline the tech stack they plan to use and address potential abuse scenarios and failure cases. The author also mentions their experience with accessing SendGrid and adds a personal touch to the emails sent through the service.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37443252">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -209,7 +263,7 @@
             <description><![CDATA['The Problem of Inaccessible Public Restrooms in America']]></description>
             <content:encoded><![CDATA[<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.
             </p><p>
-                142 Points |  <a href="https://news.ycombinator.com/item?id=37446083">297 comments</a>
+                162 Points |  <a href="https://news.ycombinator.com/item?id=37446083">341 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -224,14 +278,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge migrations (skio.com)]]></title>
-            <link>https://skio.com/careers/</link>
-            <guid>https://skio.com/careers/</guid>
-            <pubDate>Sat, 09 Sep 2023 12:01:05 GMT</pubDate>
-            <description><![CDATA['Skio: A Startup Helping Brands Sell Subscriptions on Shopify with a Unique Business Model']]></description>
-            <content:encoded><![CDATA[<p>Skio is a startup that helps brands on Shopify sell subscriptions and stands out with its transaction fee business model. The company has a flat organizational structure, minimal meeting culture, and a big long-term vision for building network effects. The founder, Kennan, has a track record of success and an EV-based decision-making approach. Skio is currently hiring for various positions in engineering, product, sales, customer experience, growth, and more.
+            <title><![CDATA[Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)]]></title>
+            <link>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</link>
+            <guid>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</guid>
+            <pubDate>Sat, 09 Sep 2023 08:44:07 GMT</pubDate>
+            <description><![CDATA['Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023]]></description>
+            <content:encoded><![CDATA[<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.
             </p><p>
-                1 Points |  <a href="https://news.ycombinator.com/item?id=37444354">0 comments</a>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37443395">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -246,28 +300,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The end of the subscription era is coming (nickfthilton.medium.com)]]></title>
-            <link>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</link>
-            <guid>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</guid>
-            <pubDate>Sat, 09 Sep 2023 17:36:41 GMT</pubDate>
-            <description><![CDATA[The Impact of Subscription Models on Media and Creators]]></description>
-            <content:encoded><![CDATA[<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.
-            </p><p>
-                93 Points |  <a href="https://news.ycombinator.com/item?id=37447915">86 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)]]></title>
-            <link>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</link>
-            <guid>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</guid>
-            <pubDate>Sat, 09 Sep 2023 08:44:07 GMT</pubDate>
-            <description><![CDATA['Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023]]></description>
-            <content:encoded><![CDATA[<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.
-            </p><p>
-                7 Points |  <a href="https://news.ycombinator.com/item?id=37443395">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)]]></title>
             <link>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</link>
             <guid>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</guid>
@@ -275,51 +307,7 @@
             <description><![CDATA[Canadian Housing Prices Continue to Soar, Outpacing U.S. Market]]></description>
             <content:encoded><![CDATA[<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.
             </p><p>
-                140 Points |  <a href="https://news.ycombinator.com/item?id=37446790">328 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Half of Glaciers Vanish with 1.5 Degrees of Warming (www.nasa.gov)]]></title>
-            <link>https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/</link>
-            <guid>https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/</guid>
-            <pubDate>Sat, 09 Sep 2023 19:31:50 GMT</pubDate>
-            <description><![CDATA['NASA Study: Glaciers Could Lose 40% of Mass by 2100 Due to Global Warming']]></description>
-            <content:encoded><![CDATA[<p>A study funded by NASA predicts that glaciers around the world could lose up to 40% of their mass by 2100 due to global warming. With a temperature increase of 1.5 degrees Celsius, 50% of the world's glaciers would disappear and contribute to a 9 centimeter rise in sea levels by 2100. If warming reaches 4 degrees Celsius, 80% of the world's glaciers will disappear and contribute to a 15 centimeter rise in sea levels. The study emphasizes the importance of taking action to mitigate climate change.
-            </p><p>
-                46 Points |  <a href="https://news.ycombinator.com/item?id=37449413">13 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Google's Statement on the UK Online Safety Bill [pdf] (bills.parliament.uk)]]></title>
-            <link>https://bills.parliament.uk/publications/46675/documents/1885</link>
-            <guid>https://bills.parliament.uk/publications/46675/documents/1885</guid>
-            <pubDate>Sat, 09 Sep 2023 09:36:58 GMT</pubDate>
-            <description><![CDATA[Security Check on bills.parliament.uk]]></description>
-            <content:encoded><![CDATA[<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.
-            </p><p>
-                62 Points |  <a href="https://news.ycombinator.com/item?id=37443634">37 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What happens when you shift a register by more than the register size? (devblogs.microsoft.com)]]></title>
-            <link>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</link>
-            <guid>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</guid>
-            <pubDate>Thu, 07 Sep 2023 22:39:13 GMT</pubDate>
-            <description><![CDATA[Different Processor Architectures Behave Differently When Shifting Registers]]></description>
-            <content:encoded><![CDATA[<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.
-            </p><p>
-                78 Points |  <a href="https://news.ycombinator.com/item?id=37426598">52 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (www.livescience.com)]]></title>
-            <link>https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab</link>
-            <guid>https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab</guid>
-            <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
-            <description><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab]]></description>
-            <content:encoded><![CDATA[<p>Scientists have used CRISPR gene-editing technology to transform cancer cells into healthy muscle tissue in the lab. By disabling a specific protein complex in cells of rhabdomyosarcoma (RMS), a rare cancer in skeletal muscle tissue, the tumor cells turned into healthy muscle cells. This process, known as differentiation therapy, has already been tested in other types of cancer and could be a promising new treatment option for patients with RMS. The study identified a protein complex that could serve as a target for therapy, and drugs that inhibit this complex are already being developed.
-            </p><p>
-                155 Points |  <a href="https://news.ycombinator.com/item?id=37444477">24 comments</a>
+                158 Points |  <a href="https://news.ycombinator.com/item?id=37446790">371 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -334,14 +322,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Morocco earthquake kills more than 1,000 (www.nbcnews.com)]]></title>
-            <link>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</link>
-            <guid>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</guid>
-            <pubDate>Sat, 09 Sep 2023 13:40:15 GMT</pubDate>
-            <description><![CDATA['Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates']]></description>
-            <content:encoded><![CDATA[<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.
+            <title><![CDATA[What happens when you shift a register by more than the register size? (devblogs.microsoft.com)]]></title>
+            <link>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</link>
+            <guid>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</guid>
+            <pubDate>Thu, 07 Sep 2023 22:39:13 GMT</pubDate>
+            <description><![CDATA[Different Processor Architectures Behave Differently When Shifting Registers]]></description>
+            <content:encoded><![CDATA[<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.
             </p><p>
-                196 Points |  <a href="https://news.ycombinator.com/item?id=37445284">110 comments</a>
+                78 Points |  <a href="https://news.ycombinator.com/item?id=37426598">52 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Google's Statement on the UK Online Safety Bill [pdf] (bills.parliament.uk)]]></title>
+            <link>https://bills.parliament.uk/publications/46675/documents/1885</link>
+            <guid>https://bills.parliament.uk/publications/46675/documents/1885</guid>
+            <pubDate>Sat, 09 Sep 2023 09:36:58 GMT</pubDate>
+            <description><![CDATA[Security Check on bills.parliament.uk]]></description>
+            <content:encoded><![CDATA[<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.
+            </p><p>
+                62 Points |  <a href="https://news.ycombinator.com/item?id=37443634">37 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
