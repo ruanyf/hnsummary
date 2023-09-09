@@ -11,17 +11,6 @@
     },
     "items": [
         {
-            "id": "https://timotijhof.net/posts/2023/an-internet-of-php/",
-            "content_html": "<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes\n            </p><p>\n                131 Points |  <a href=\"https://news.ycombinator.com/item?id=37415747\">94 comments</a>\n            </p>",
-            "url": "https://timotijhof.net/posts/2023/an-internet-of-php/",
-            "title": "An Internet of PHP (timotijhof.net)",
-            "summary": "PHP's Dominance in the Internet: Statistics and Anecdotes",
-            "date_modified": "2023-09-07T07:23:33.000Z",
-            "author": {
-                "name": "timotijhof.net"
-            }
-        },
-        {
             "id": "http://cm.bell-labs.co/who/dmr/chist.html",
             "content_html": "<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37442810\">0 comments</a>\n            </p>",
             "url": "http://cm.bell-labs.co/who/dmr/chist.html",
@@ -34,13 +23,24 @@
         },
         {
             "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                115 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">58 comments</a>\n            </p>",
+            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                125 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">73 comments</a>\n            </p>",
             "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
             "title": "Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)",
             "summary": "Optimizing Julia Code for Mandelbrot Set Calculation",
             "date_modified": "2023-09-09T03:42:53.000Z",
             "author": {
                 "name": "discourse.julialang.org"
+            }
+        },
+        {
+            "id": "https://timotijhof.net/posts/2023/an-internet-of-php/",
+            "content_html": "<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes\n            </p><p>\n                151 Points |  <a href=\"https://news.ycombinator.com/item?id=37415747\">116 comments</a>\n            </p>",
+            "url": "https://timotijhof.net/posts/2023/an-internet-of-php/",
+            "title": "An Internet of PHP (timotijhof.net)",
+            "summary": "PHP's Dominance in the Internet: Statistics and Anecdotes",
+            "date_modified": "2023-09-07T07:23:33.000Z",
+            "author": {
+                "name": "timotijhof.net"
             }
         },
         {
@@ -52,6 +52,17 @@
             "date_modified": "2023-09-07T00:48:16.000Z",
             "author": {
                 "name": "www.theguardian.com"
+            }
+        },
+        {
+            "id": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
+            "content_html": "<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.\n            </p><p>\n                56 Points |  <a href=\"https://news.ycombinator.com/item?id=37443644\">14 comments</a>\n            </p>",
+            "url": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
+            "title": "Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla (foundation.mozilla.org)",
+            "summary": "foundation.mozilla.org Checking Site Connection Security with Cloudflare",
+            "date_modified": "2023-09-09T09:39:44.000Z",
+            "author": {
+                "name": "foundation.mozilla.org"
             }
         },
         {
@@ -74,6 +85,17 @@
             "date_modified": "2023-09-07T04:08:50.000Z",
             "author": {
                 "name": "www.smithsonianmag.com"
+            }
+        },
+        {
+            "id": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
+            "content_html": "<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.\n            </p><p>\n                45 Points |  <a href=\"https://news.ycombinator.com/item?id=37442649\">10 comments</a>\n            </p>",
+            "url": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
+            "title": "Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)",
+            "summary": "'Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features'",
+            "date_modified": "2023-09-09T05:56:03.000Z",
+            "author": {
+                "name": "ecl.common-lisp.dev"
             }
         },
         {
@@ -100,24 +122,13 @@
         },
         {
             "id": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
-            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.\n            </p><p>\n                177 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">98 comments</a>\n            </p>",
+            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.\n            </p><p>\n                196 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">112 comments</a>\n            </p>",
             "url": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
             "title": "Snoop unto them as they snoop unto you (blog.dataparty.xyz)",
             "summary": "'DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers'",
             "date_modified": "2023-09-08T22:26:51.000Z",
             "author": {
                 "name": "blog.dataparty.xyz"
-            }
-        },
-        {
-            "id": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
-            "content_html": "<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37442649\">0 comments</a>\n            </p>",
-            "url": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
-            "title": "Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)",
-            "summary": "'Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features'",
-            "date_modified": "2023-09-09T05:56:03.000Z",
-            "author": {
-                "name": "ecl.common-lisp.dev"
             }
         },
         {
@@ -132,17 +143,6 @@
             }
         },
         {
-            "id": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
-            "content_html": "<p>The Creative Class, consisting of creators, curators, critics, and hangers-on, has a distinct aesthetic that blends businesswear with vintage, sports wear, and work wear. They treat their job as leisure and their leisure as job, reflecting a cool, nonchalant, versatile, durable, and comfortable style. The Creative Class accumulates cultural capital by commenting, repurposing, and reinterpreting past and present culture, creating something modern and new while maintaining familiarity. They play a critical role in the modern economy by directing consumers' time, attention, and money towards aspirational things, places, and ideas.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37416882\">0 comments</a>\n            </p>",
-            "url": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
-            "title": "Creative Money Aesthetics (andjelicaaa.substack.com)",
-            "summary": "The Aesthetic and Influence of the Creative Class in Business",
-            "date_modified": "2023-09-07T10:18:43.000Z",
-            "author": {
-                "name": "andjelicaaa.substack.com"
-            }
-        },
-        {
             "id": "https://today.ucsd.edu/story/forwarding_based_spoofing",
             "content_html": "<p>Email forwarding flaws allow scammers to impersonate high-profile domains, including government organizations, financial service companies, and major news organizations. The vulnerabilities in the email forwarding process bypass the safeguards of email providers like Gmail and Outlook, making it easier for attackers to send spoofed emails containing malware or spyware. The research team discovered that many organizations outsource their email infrastructure to third-party providers, which can be exploited through email forwarding. The vulnerabilities affect a significant number of domains, including state.gov, Mastercard, The Washington Post, and the Associated Press. While some providers have patched the issues, researchers recommend disabling open forwarding and implementing stricter validation policies to enhance email security.\n            </p><p>\n                163 Points |  <a href=\"https://news.ycombinator.com/item?id=37438478\">42 comments</a>\n            </p>",
             "url": "https://today.ucsd.edu/story/forwarding_based_spoofing",
@@ -151,6 +151,28 @@
             "date_modified": "2023-09-08T19:45:08.000Z",
             "author": {
                 "name": "today.ucsd.edu"
+            }
+        },
+        {
+            "id": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
+            "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">0 comments</a>\n            </p>",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
+            "title": "What happens when you shift a register by more than the register size? (devblogs.microsoft.com)",
+            "summary": "Different Processor Architectures Behave Differently When Shifting Registers",
+            "date_modified": "2023-09-07T22:39:13.000Z",
+            "author": {
+                "name": "devblogs.microsoft.com"
+            }
+        },
+        {
+            "id": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
+            "content_html": "<p>The Creative Class, consisting of creators, curators, critics, and hangers-on, has a distinct aesthetic that blends businesswear with vintage, sports wear, and work wear. They treat their job as leisure and their leisure as job, reflecting a cool, nonchalant, versatile, durable, and comfortable style. The Creative Class accumulates cultural capital by commenting, repurposing, and reinterpreting past and present culture, creating something modern and new while maintaining familiarity. They play a critical role in the modern economy by directing consumers' time, attention, and money towards aspirational things, places, and ideas.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37416882\">0 comments</a>\n            </p>",
+            "url": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
+            "title": "Creative Money Aesthetics (andjelicaaa.substack.com)",
+            "summary": "The Aesthetic and Influence of the Creative Class in Business",
+            "date_modified": "2023-09-07T10:18:43.000Z",
+            "author": {
+                "name": "andjelicaaa.substack.com"
             }
         },
         {
@@ -176,14 +198,25 @@
             }
         },
         {
-            "id": "https://imgur.com/XPmU2FX",
-            "content_html": "<p>This is a brief post on an online platform where the author mentions the availability of HR for problem-solving and the use of suggestion boxes and surveys for better management. The post also includes a sarcastic comment about reducing suicides. The content seems to be a mix of casual conversation and unrelated topics.\n            </p><p>\n                13 Points |  <a href=\"https://news.ycombinator.com/item?id=37443280\">2 comments</a>\n            </p>",
-            "url": "https://imgur.com/XPmU2FX",
-            "title": "Bitwarden has been disabled in Chrome [img] (imgur.com)",
-            "summary": "A casual post with mentions of HR availability and sarcastic comment",
-            "date_modified": "2023-09-09T08:17:33.000Z",
+            "id": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
+            "content_html": "<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">11 comments</a>\n            </p>",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
+            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)",
+            "summary": "Content Unavailable: Contact Support for Assistance",
+            "date_modified": "2023-09-08T23:17:21.000Z",
             "author": {
-                "name": "imgur.com"
+                "name": "www.sciencedirect.com"
+            }
+        },
+        {
+            "id": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
+            "content_html": "<p>This is a TypeScript file containing code for a game of life simulation. The code is 203 lines long and has a file size of 7.24 KB. It appears to be a random implementation of the game of life, with various functions and logic for simulating the evolution of cells on a grid. The code includes functions for initializing the grid, updating the grid based on the rules of the game, and rendering the grid. It also includes helper functions for counting the number of live neighbors for each cell and checking if a cell is alive or dead. Overall, this file seems to be a self-contained implementation of the game of life in TypeScript.\n            </p><p>\n                153 Points |  <a href=\"https://news.ycombinator.com/item?id=37438028\">38 comments</a>\n            </p>",
+            "url": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
+            "title": "Show HN: Conway's Game of Life in TypeScript's type system (github.com)",
+            "summary": "TypeScript code for a game of life simulation",
+            "date_modified": "2023-09-08T19:11:47.000Z",
+            "author": {
+                "name": "github.com"
             }
         },
         {
@@ -209,60 +242,6 @@
             }
         },
         {
-            "id": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
-            "content_html": "<p>This is a TypeScript file containing code for a game of life simulation. The code is 203 lines long and has a file size of 7.24 KB. It appears to be a random implementation of the game of life, with various functions and logic for simulating the evolution of cells on a grid. The code includes functions for initializing the grid, updating the grid based on the rules of the game, and rendering the grid. It also includes helper functions for counting the number of live neighbors for each cell and checking if a cell is alive or dead. Overall, this file seems to be a self-contained implementation of the game of life in TypeScript.\n            </p><p>\n                153 Points |  <a href=\"https://news.ycombinator.com/item?id=37438028\">38 comments</a>\n            </p>",
-            "url": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
-            "title": "Show HN: Conway's Game of Life in TypeScript's type system (github.com)",
-            "summary": "TypeScript code for a game of life simulation",
-            "date_modified": "2023-09-08T19:11:47.000Z",
-            "author": {
-                "name": "github.com"
-            }
-        },
-        {
-            "id": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
-            "content_html": "<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">11 comments</a>\n            </p>",
-            "url": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
-            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)",
-            "summary": "Content Unavailable: Contact Support for Assistance",
-            "date_modified": "2023-09-08T23:17:21.000Z",
-            "author": {
-                "name": "www.sciencedirect.com"
-            }
-        },
-        {
-            "id": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
-            "content_html": "<p>X, formerly known as Twitter, has filed a lawsuit challenging a new California law that requires social media companies to disclose their moderation practices. The law aims to bring transparency and accountability to social media content, but X argues that it violates their Constitutional right to free speech. The lawsuit claims that the law is a form of compelled speech and an unconstitutional government overreach. The outcome of the lawsuit will have implications for the balance between government involvement and private platform moderation practices.\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37442998\">20 comments</a>\n            </p>",
-            "url": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
-            "title": "X challenges California’s new transparency law as unconstitutional (techcrunch.com)",
-            "summary": "'X' Challenges California's New Transparency Law as Unconstitutional",
-            "date_modified": "2023-09-09T07:17:06.000Z",
-            "author": {
-                "name": "techcrunch.com"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37441168",
-            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37441168",
-            "title": "Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)",
-            "date_modified": "2023-09-09T01:02:29.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
-            "content_html": "<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443644\">1 comments</a>\n            </p>",
-            "url": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
-            "title": "Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla (foundation.mozilla.org)",
-            "summary": "foundation.mozilla.org Checking Site Connection Security with Cloudflare",
-            "date_modified": "2023-09-09T09:39:44.000Z",
-            "author": {
-                "name": "foundation.mozilla.org"
-            }
-        },
-        {
             "id": "https://github.com/JHRobotics/softgpu",
             "content_html": "<p>SoftGPU is a compilation of four projects that provide software and hardware accelerated drivers for Windows 9x virtual machines. It requires a virtual machine with VGA adapter support and Windows 95/98/Me as the guest system. The compilation includes the necessary DirectX versions, Visual C runtime, and OpenGL 95. SoftGPU offers three render drivers: softpipe, llvmlipe, and SVGA3D. The performance of these renderers varies, with SVGA3D providing the highest expected FPS. The hypervisor translation to real hardware GPU is also discussed. The installation process and system requirements are outlined, along with instructions for setting up a VirtualBox VM with hardware acceleration. The article concludes with information on running DirectX tests and optimizing performance for newer CPUs.\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37440392\">1 comments</a>\n            </p>",
             "url": "https://github.com/JHRobotics/softgpu",
@@ -271,6 +250,17 @@
             "date_modified": "2023-09-08T23:06:30.000Z",
             "author": {
                 "name": "github.com"
+            }
+        },
+        {
+            "id": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
+            "content_html": "<p>X, formerly known as Twitter, has filed a lawsuit challenging a new California law that requires social media companies to disclose their moderation practices. The law aims to bring transparency and accountability to social media content, but X argues that it violates their Constitutional right to free speech. The lawsuit claims that the law is a form of compelled speech and an unconstitutional government overreach. The outcome of the lawsuit will have implications for the balance between government involvement and private platform moderation practices.\n            </p><p>\n                40 Points |  <a href=\"https://news.ycombinator.com/item?id=37442998\">36 comments</a>\n            </p>",
+            "url": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
+            "title": "X challenges California’s new transparency law as unconstitutional (techcrunch.com)",
+            "summary": "'X' Challenges California's New Transparency Law as Unconstitutional",
+            "date_modified": "2023-09-09T07:17:06.000Z",
+            "author": {
+                "name": "techcrunch.com"
             }
         },
         {
@@ -285,6 +275,16 @@
             }
         },
         {
+            "id": "https://news.ycombinator.com/item?id=37441168",
+            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37441168",
+            "title": "Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)",
+            "date_modified": "2023-09-09T01:02:29.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
             "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
             "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.\n            </p><p>\n                106 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">84 comments</a>\n            </p>",
             "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
@@ -293,6 +293,17 @@
             "date_modified": "2023-09-08T09:23:27.000Z",
             "author": {
                 "name": "quuxplusone.github.io"
+            }
+        },
+        {
+            "id": "https://imgur.com/XPmU2FX",
+            "content_html": "<p>This is a brief post on an online platform where the author mentions the availability of HR for problem-solving and the use of suggestion boxes and surveys for better management. The post also includes a sarcastic comment about reducing suicides. The content seems to be a mix of casual conversation and unrelated topics.\n            </p><p>\n                13 Points |  <a href=\"https://news.ycombinator.com/item?id=37443280\">2 comments</a>\n            </p>",
+            "url": "https://imgur.com/XPmU2FX",
+            "title": "Bitwarden has been disabled in Chrome [img] (imgur.com)",
+            "summary": "A casual post with mentions of HR availability and sarcastic comment",
+            "date_modified": "2023-09-09T08:17:33.000Z",
+            "author": {
+                "name": "imgur.com"
             }
         },
         {
@@ -307,6 +318,17 @@
             }
         },
         {
+            "id": "https://www.libraryofshortstories.com/",
+            "content_html": "<p>Discover and read over 1000 classic short stories for free on an online library. Search, sort, and filter stories by genre, theme, or popularity. Find stories from various authors and explore different collections. The website offers a wide range of genres, including adventure, horror, mystery, poetry, and more. It also provides further reading and privacy information.\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37442922\">1 comments</a>\n            </p>",
+            "url": "https://www.libraryofshortstories.com/",
+            "title": "Library of Short Stories – An online library of public domain short stories (www.libraryofshortstories.com)",
+            "summary": "Explore a Vast Online Library of Classic Short Stories",
+            "date_modified": "2023-09-09T07:02:21.000Z",
+            "author": {
+                "name": "www.libraryofshortstories.com"
+            }
+        },
+        {
             "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
             "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.\n            </p><p>\n                35 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">28 comments</a>\n            </p>",
             "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
@@ -315,28 +337,6 @@
             "date_modified": "2023-09-07T06:34:22.000Z",
             "author": {
                 "name": "www.ineteconomics.org"
-            }
-        },
-        {
-            "id": "https://www.science.org/doi/10.1126/scitranslmed.abq3916",
-            "content_html": "<p>The website www.science.org is requesting to review the security of your connection before proceeding. This is likely due to concerns about the safety of your data and information. The site is using Cloudflare for performance and security purposes. It is important to ensure that your connection is secure before continuing to browse the website.\n            </p><p>\n                21 Points |  <a href=\"https://news.ycombinator.com/item?id=37412738\">3 comments</a>\n            </p>",
-            "url": "https://www.science.org/doi/10.1126/scitranslmed.abq3916",
-            "title": "Delivery of gene therapy through CSF conduit to rescue hearing in adult mice (www.science.org)",
-            "summary": "Security Review Requested for www.science.org",
-            "date_modified": "2023-09-06T23:21:52.000Z",
-            "author": {
-                "name": "www.science.org"
-            }
-        },
-        {
-            "id": "https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264",
-            "content_html": "<p>The Role of Australia's Eucalyptus Tree in Global Wildfires\n            </p><p>\n                10 Points |  <a href=\"https://news.ycombinator.com/item?id=37442671\">1 comments</a>\n            </p>",
-            "url": "https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264",
-            "title": "As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)",
-            "summary": "The Impact of Australia's Eucalyptus Tree on Global Wildfires",
-            "date_modified": "2023-09-09T06:00:57.000Z",
-            "author": {
-                "name": "www.abc.net.au"
             }
         }
     ]
