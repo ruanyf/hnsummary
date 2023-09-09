@@ -12,24 +12,13 @@
     "items": [
         {
             "id": "https://benchmarks.llmonitor.com",
-            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                167 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">95 comments</a>\n            </p>",
+            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                229 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">135 comments</a>\n            </p>",
             "url": "https://benchmarks.llmonitor.com",
-            "title": "Comparing 60 LLMs with a set of 20 prompts (benchmarks.llmonitor.com)",
+            "title": "Asking 60 LLMs a set of 20 questions (benchmarks.llmonitor.com)",
             "summary": "'Script Tests Reasoning and Creativity of 60+ Models Using Prompts'",
             "date_modified": "2023-09-09T13:51:33.000Z",
             "author": {
                 "name": "benchmarks.llmonitor.com"
-            }
-        },
-        {
-            "id": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
-            "content_html": "<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.\n            </p><p>\n                40 Points |  <a href=\"https://news.ycombinator.com/item?id=37446790\">26 comments</a>\n            </p>",
-            "url": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
-            "title": "The U.S. Housing Market vs. the Canadian Housing Market (awealthofcommonsense.com)",
-            "summary": "Canadian Housing Prices Continue to Soar, Outpacing U.S. Market",
-            "date_modified": "2023-09-09T15:54:15.000Z",
-            "author": {
-                "name": "awealthofcommonsense.com"
             }
         },
         {
@@ -44,8 +33,19 @@
             }
         },
         {
+            "id": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
+            "content_html": "<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37415804\">4 comments</a>\n            </p>",
+            "url": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
+            "title": "Intel Announces Arm Investment, Talks Up RISC-V (www.tomshardware.com)",
+            "summary": "Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology",
+            "date_modified": "2023-09-07T07:32:48.000Z",
+            "author": {
+                "name": "www.tomshardware.com"
+            }
+        },
+        {
             "id": "https://forum.dji.com/thread-293546-1-1.html",
-            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                56 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">25 comments</a>\n            </p>",
+            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                75 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">41 comments</a>\n            </p>",
             "url": "https://forum.dji.com/thread-293546-1-1.html",
             "title": "DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)",
             "summary": "A Collection of Tutorials, Tips, and Information on Drones and DJI Products",
@@ -56,7 +56,7 @@
         },
         {
             "id": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
-            "content_html": "<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37445951\">2 comments</a>\n            </p>",
+            "content_html": "<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.\n            </p><p>\n                49 Points |  <a href=\"https://news.ycombinator.com/item?id=37445951\">12 comments</a>\n            </p>",
             "url": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
             "title": "PAROL6 Desktop Robot Arm (github.com)",
             "summary": "'PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design'",
@@ -66,32 +66,10 @@
             }
         },
         {
-            "id": "https://developer.penteston.com",
-            "content_html": "<p>PENTESTON offers API requests that enhance the security of computer systems, networks, and applications. These APIs allow developers and security professionals to integrate security features into their projects. To access the full capabilities of PENTESTON, users need an API key, which can be obtained by registering and logging into their account. With the API key, users can seamlessly integrate PENTESTON's scanning tools into their applications and ensure optimal network security.\n            </p><p>\n                25 Points |  <a href=\"https://news.ycombinator.com/item?id=37445582\">11 comments</a>\n            </p>",
-            "url": "https://developer.penteston.com",
-            "title": "Running over 20 top-notch cybersecurity tools with API (developer.penteston.com)",
-            "summary": "Enhance Your Network Security with PENTESTON's API Requests",
-            "date_modified": "2023-09-09T14:04:37.000Z",
-            "author": {
-                "name": "developer.penteston.com"
-            }
-        },
-        {
-            "id": "https://www.openmymind.net/learning_zig/",
-            "content_html": "<p>This guide provides an introduction to the Zig programming language, assuming prior programming experience. It covers topics such as installing Zig, language overview, style guide, memory management, generics, and coding in Zig. The guide emphasizes that Zig is under heavy development and may have code discrepancies. It also provides instructions for installing Zig and testing the setup.\n            </p><p>\n                14 Points |  <a href=\"https://news.ycombinator.com/item?id=37446502\">0 comments</a>\n            </p>",
-            "url": "https://www.openmymind.net/learning_zig/",
-            "title": "Learning Zig (www.openmymind.net)",
-            "summary": "'Learning Zig: An Introduction to the Zig Programming Language'",
-            "date_modified": "2023-09-09T15:28:44.000Z",
-            "author": {
-                "name": "www.openmymind.net"
-            }
-        },
-        {
             "id": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
-            "content_html": "<p>The M1 Garand, considered the best battle rifle of World War II, had a significant impact on subsequent US rifle development. While it provided advantages such as increased rate of fire and improved accuracy, it missed the opportunity to become a modern assault rifle. The US did not field its first true assault rifle until two decades after the concept was invented by the Germans. The article explores the development of the M1 Garand and the factors that influenced its design.\n            </p><p>\n                42 Points |  <a href=\"https://news.ycombinator.com/item?id=37430842\">20 comments</a>\n            </p>",
+            "content_html": "<p>The M1 Garand, considered the best battle rifle of World War II, had a significant impact on subsequent US rifle development. While it provided advantages such as increased rate of fire and improved accuracy, it missed the opportunity to become a modern assault rifle. The US did not field its first true assault rifle until two decades after the concept was invented by the Germans. The article explores the development of the M1 Garand and the factors that influenced its design.\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37430842\">33 comments</a>\n            </p>",
             "url": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
-            "title": "Michael Taylor on the Development of the M1 Garand and Its Implications (acoup.blog)",
+            "title": "The Development of the M1 Garand and Its Implications (acoup.blog)",
             "summary": "'The M1 Garand: A Missed Opportunity for US Rifle Development'",
             "date_modified": "2023-09-08T08:01:09.000Z",
             "author": {
@@ -99,41 +77,63 @@
             }
         },
         {
-            "id": "https://www.greenlineprint.com/blog/is-there-enough-oxygen-for-a-growing-population",
-            "content_html": "<p>There is currently enough oxygen on Earth to sustain the growing population, but oxygen levels are declining at a small rate due to factors like deforestation and combustion. The world currently holds about 400 billion trees, which is more than enough to meet the oxygen requirements of the global population. However, it is important to address the factors that contribute to oxygen loss to ensure a sustainable future.\n            </p><p>\n                12 Points |  <a href=\"https://news.ycombinator.com/item?id=37446572\">3 comments</a>\n            </p>",
-            "url": "https://www.greenlineprint.com/blog/is-there-enough-oxygen-for-a-growing-population",
-            "title": "Is there enough oxygen for a growing population? (www.greenlineprint.com)",
-            "summary": "Is There Enough Oxygen for a Growing Population?",
-            "date_modified": "2023-09-09T15:34:19.000Z",
+            "id": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
+            "content_html": "<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37447915\">1 comments</a>\n            </p>",
+            "url": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
+            "title": "The End of the Subscription Era Is Coming (nickfthilton.medium.com)",
+            "summary": "The Impact of Subscription Models on Media and Creators",
+            "date_modified": "2023-09-09T17:36:41.000Z",
             "author": {
-                "name": "www.greenlineprint.com"
+                "name": "nickfthilton.medium.com"
             }
         },
         {
-            "id": "https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/",
-            "content_html": "<p>Investors accounted for 30% of home purchases in Canada in the first quarter of this year, up from 28% in the same period last year, according to data from the Bank of Canada. Meanwhile, the percentage of first-time homebuyers decreased to 43% from 48% in the same period. The data highlights the growing influence of investors in the Canadian housing market, which can amplify house price cycles. The central bank's data also reveal increasing vulnerabilities in the Canadian economy, including rising delinquencies for car loans and instalment loans.\n            </p><p>\n                135 Points |  <a href=\"https://news.ycombinator.com/item?id=37445732\">110 comments</a>\n            </p>",
-            "url": "https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/",
-            "title": "Investors account for 30 per cent of home buying in Canada, data show (www.theglobeandmail.com)",
-            "summary": "Investors Make Up 30% of Home Purchases in Canada, Data Shows",
-            "date_modified": "2023-09-09T14:18:15.000Z",
+            "id": "https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a",
+            "content_html": "<p>In the late 19th century, women demanded 'equality in pockets' as they noticed a divergence in the development and availability of pockets in men's and women's clothing. This article highlights the historical context of pockets and how they became a symbol of gender inequality. The demand for equal pockets was seen as a part of the broader fight for women's rights, including the right to vote.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37447315\">0 comments</a>\n            </p>",
+            "url": "https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a",
+            "title": "A History of Carrying Capacity (www.wsj.com)",
+            "summary": "'Equality in Pockets': The Fight for Gender Equality in Clothing",
+            "date_modified": "2023-09-09T16:43:12.000Z",
             "author": {
-                "name": "www.theglobeandmail.com"
+                "name": "www.wsj.com"
             }
         },
         {
-            "id": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
-            "content_html": "<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.\n            </p><p>\n                508 Points |  <a href=\"https://news.ycombinator.com/item?id=37443644\">246 comments</a>\n            </p>",
-            "url": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
-            "title": "Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla (foundation.mozilla.org)",
-            "summary": "foundation.mozilla.org Checking Site Connection Security with Cloudflare",
-            "date_modified": "2023-09-09T09:39:44.000Z",
+            "id": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
+            "content_html": "<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37446790\">145 comments</a>\n            </p>",
+            "url": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
+            "title": "The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)",
+            "summary": "Canadian Housing Prices Continue to Soar, Outpacing U.S. Market",
+            "date_modified": "2023-09-09T15:54:15.000Z",
             "author": {
-                "name": "foundation.mozilla.org"
+                "name": "awealthofcommonsense.com"
+            }
+        },
+        {
+            "id": "https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be",
+            "content_html": "<p>The adoption of heat pumps as an alternative to gas and oil boilers is crucial for decarbonization efforts in Europe. However, the push for green policies that require citizens to make disruptive changes to their lives is facing resistance. Heat pumps have become a symbol of the challenges and backlashes that come with decarbonization. This highlights the difficulty of achieving decarbonization goals and the need for effective communication and support for individuals during the transition.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37447740\">0 comments</a>\n            </p>",
+            "url": "https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be",
+            "title": "Heat pumps show how hard decarbonisation will be (www.economist.com)",
+            "summary": "'Resistance to Heat Pumps Highlights Challenges of Decarbonization'",
+            "date_modified": "2023-09-09T17:21:14.000Z",
+            "author": {
+                "name": "www.economist.com"
+            }
+        },
+        {
+            "id": "https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx",
+            "content_html": "<p>N/A\n            </p><p>\n                23 Points |  <a href=\"https://news.ycombinator.com/item?id=37447080\">0 comments</a>\n            </p>",
+            "url": "https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx",
+            "title": "A small-town police officer took down the largest matchfixing ring in tennis (www.msn.com)",
+            "summary": "N/A",
+            "date_modified": "2023-09-09T16:21:10.000Z",
+            "author": {
+                "name": "www.msn.com"
             }
         },
         {
             "id": "http://cm.bell-labs.co/who/dmr/chist.html",
-            "content_html": "<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.\n            </p><p>\n                84 Points |  <a href=\"https://news.ycombinator.com/item?id=37442810\">10 comments</a>\n            </p>",
+            "content_html": "<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.\n            </p><p>\n                142 Points |  <a href=\"https://news.ycombinator.com/item?id=37442810\">20 comments</a>\n            </p>",
             "url": "http://cm.bell-labs.co/who/dmr/chist.html",
             "title": "The Development of the C Language (2003) (cm.bell-labs.co)",
             "summary": "'The Development and Evolution of the C Programming Language'",
@@ -154,6 +154,27 @@
             }
         },
         {
+            "id": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
+            "content_html": "<p>N/A\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37444066\">1 comments</a>\n            </p>",
+            "url": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
+            "title": "The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)",
+            "summary": "N/A",
+            "date_modified": "2023-09-09T11:12:22.000Z",
+            "author": {
+                "name": "www.thebookseller.com"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=37444477",
+            "content_html": "<p>No summary available\n            </p><p>\n                115 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">17 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37444477",
+            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
+            "date_modified": "2023-09-09T12:20:20.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
             "id": "https://skio.com/careers/",
             "content_html": "<p>Skio is a startup that helps brands on Shopify sell subscriptions and stands out with its transaction fee business model. The company has a flat organizational structure, minimal meeting culture, and a big long-term vision for building network effects. The founder, Kennan, has a track record of success and an EV-based decision-making approach. Skio is currently hiring for various positions in engineering, product, sales, customer experience, growth, and more.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37444354\">0 comments</a>\n            </p>",
             "url": "https://skio.com/careers/",
@@ -166,7 +187,7 @@
         },
         {
             "id": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
-            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                116 Points |  <a href=\"https://news.ycombinator.com/item?id=37444257\">75 comments</a>\n            </p>",
+            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                140 Points |  <a href=\"https://news.ycombinator.com/item?id=37444257\">85 comments</a>\n            </p>",
             "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
             "title": "Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)",
             "summary": "'Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76'",
@@ -176,29 +197,19 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37444477",
-            "content_html": "<p>No summary available\n            </p><p>\n                98 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">11 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37444477",
-            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
-            "date_modified": "2023-09-09T12:20:20.000Z",
+            "id": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
+            "content_html": "<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.\n            </p><p>\n                64 Points |  <a href=\"https://news.ycombinator.com/item?id=37446083\">140 comments</a>\n            </p>",
+            "url": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
+            "title": "Public restrooms are hard to find in America (www.washingtonpost.com)",
+            "summary": "'The Problem of Inaccessible Public Restrooms in America'",
+            "date_modified": "2023-09-09T14:52:20.000Z",
             "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
-            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                167 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">108 comments</a>\n            </p>",
-            "url": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
-            "title": "Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)",
-            "summary": "Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend",
-            "date_modified": "2023-09-07T00:48:16.000Z",
-            "author": {
-                "name": "www.theguardian.com"
+                "name": "www.washingtonpost.com"
             }
         },
         {
             "id": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
-            "content_html": "<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.\n            </p><p>\n                117 Points |  <a href=\"https://news.ycombinator.com/item?id=37445284\">68 comments</a>\n            </p>",
+            "content_html": "<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.\n            </p><p>\n                136 Points |  <a href=\"https://news.ycombinator.com/item?id=37445284\">86 comments</a>\n            </p>",
             "url": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
             "title": "Morocco earthquake kills more than 1,000 (www.nbcnews.com)",
             "summary": "'Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates'",
@@ -219,46 +230,14 @@
             }
         },
         {
-            "id": "https://bills.parliament.uk/publications/46675/documents/1885",
-            "content_html": "<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.\n            </p><p>\n                48 Points |  <a href=\"https://news.ycombinator.com/item?id=37443634\">27 comments</a>\n            </p>",
-            "url": "https://bills.parliament.uk/publications/46675/documents/1885",
-            "title": "Google's Statement on the UK Online Safety Bill (bills.parliament.uk)",
-            "summary": "Security Check on bills.parliament.uk",
-            "date_modified": "2023-09-09T09:36:58.000Z",
+            "id": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
+            "content_html": "<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443395\">0 comments</a>\n            </p>",
+            "url": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
+            "title": "Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)",
+            "summary": "'Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023",
+            "date_modified": "2023-09-09T08:44:07.000Z",
             "author": {
-                "name": "bills.parliament.uk"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37446644",
-            "content_html": "<p>No summary available\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37446644\">1 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37446644",
-            "title": "Ask HN: Who here is working on DARPA AICC challenge? (news.ycombinator.com)",
-            "date_modified": "2023-09-09T15:40:14.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
-            "content_html": "<p>N/A\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37444066\">1 comments</a>\n            </p>",
-            "url": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
-            "title": "The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)",
-            "summary": "N/A",
-            "date_modified": "2023-09-09T11:12:22.000Z",
-            "author": {
-                "name": "www.thebookseller.com"
-            }
-        },
-        {
-            "id": "https://course.spacy.io/en/",
-            "content_html": "<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.\n            </p><p>\n                87 Points |  <a href=\"https://news.ycombinator.com/item?id=37442574\">32 comments</a>\n            </p>",
-            "url": "https://course.spacy.io/en/",
-            "title": "Advanced NLP with SpaCy (course.spacy.io)",
-            "summary": "Mastering Natural Language Processing with spaCy",
-            "date_modified": "2023-09-09T05:36:22.000Z",
-            "author": {
-                "name": "course.spacy.io"
+                "name": "icfp23.sigplan.org"
             }
         },
         {
@@ -273,30 +252,73 @@
             }
         },
         {
-            "id": "https://www.youtube.com/watch?v=rGNUHigqUBM",
-            "content_html": "<p>N/A\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37418278\">0 comments</a>\n            </p>",
-            "url": "https://www.youtube.com/watch?v=rGNUHigqUBM",
-            "title": "Real-time Trumpet Simulation C++/Vulkan [video] (www.youtube.com)",
-            "summary": "N/A",
-            "date_modified": "2023-09-07T13:00:40.000Z",
+            "id": "https://bills.parliament.uk/publications/46675/documents/1885",
+            "content_html": "<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.\n            </p><p>\n                48 Points |  <a href=\"https://news.ycombinator.com/item?id=37443634\">27 comments</a>\n            </p>",
+            "url": "https://bills.parliament.uk/publications/46675/documents/1885",
+            "title": "Google's Statement on the UK Online Safety Bill (bills.parliament.uk)",
+            "summary": "Security Check on bills.parliament.uk",
+            "date_modified": "2023-09-09T09:36:58.000Z",
             "author": {
-                "name": "www.youtube.com"
+                "name": "bills.parliament.uk"
             }
         },
         {
-            "id": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "content_html": "<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443395\">0 comments</a>\n            </p>",
-            "url": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "title": "Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)",
-            "summary": "'Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023",
-            "date_modified": "2023-09-09T08:44:07.000Z",
+            "id": "https://course.spacy.io/en/",
+            "content_html": "<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.\n            </p><p>\n                87 Points |  <a href=\"https://news.ycombinator.com/item?id=37442574\">32 comments</a>\n            </p>",
+            "url": "https://course.spacy.io/en/",
+            "title": "Advanced NLP with SpaCy (course.spacy.io)",
+            "summary": "Mastering Natural Language Processing with spaCy",
+            "date_modified": "2023-09-09T05:36:22.000Z",
             "author": {
-                "name": "icfp23.sigplan.org"
+                "name": "course.spacy.io"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=37413926",
+            "content_html": "<p>No summary available\n            </p><p>\n                30 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">8 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37413926",
+            "title": "Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)",
+            "date_modified": "2023-09-07T02:16:49.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests",
+            "content_html": "<p>Intelligent people are getting COVID-19 vaccines faster than those with lower cognitive abilities, according to a study in Sweden. The study found that 80% of the most intelligent people were vaccinated within 40 days of vaccine availability, while it took 180 days for those with the lowest cognitive ability to reach that level. The researchers suggest that the complexity of the vaccination decision may make it difficult for people with lower cognitive abilities to understand the benefits of vaccination. The findings highlight the need for better-designed vaccination campaigns to address disparities in vaccination behavior.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37447833\">0 comments</a>\n            </p>",
+            "url": "https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests",
+            "title": "Smart people first in line for Covid-19 vaccines, study suggests (www.cidrap.umn.edu)",
+            "summary": "'Study Suggests Intelligent People Get COVID-19 Vaccines Faster'",
+            "date_modified": "2023-09-09T17:30:23.000Z",
+            "author": {
+                "name": "www.cidrap.umn.edu"
+            }
+        },
+        {
+            "id": "https://www.openmymind.net/learning_zig/",
+            "content_html": "<p>This guide provides an introduction to the Zig programming language, assuming prior programming experience. It covers topics such as installing Zig, language overview, style guide, memory management, generics, and coding in Zig. The guide emphasizes that Zig is under heavy development and may have code discrepancies. It also provides instructions for installing Zig and testing the setup.\n            </p><p>\n                64 Points |  <a href=\"https://news.ycombinator.com/item?id=37446502\">12 comments</a>\n            </p>",
+            "url": "https://www.openmymind.net/learning_zig/",
+            "title": "Learning Zig (www.openmymind.net)",
+            "summary": "'Learning Zig: An Introduction to the Zig Programming Language'",
+            "date_modified": "2023-09-09T15:28:44.000Z",
+            "author": {
+                "name": "www.openmymind.net"
+            }
+        },
+        {
+            "id": "https://synthical.com/feed/simple",
+            "content_html": "<p>Researchers at various universities have published studies on a range of topics including the deep metabolome of marine dissolved organic matter, CO2-assisted propane ODH over catalysts, synthesis of N-acyl carbazoles, and the use of artificial peroxidase based on biotin-streptavidin technology. Other studies cover topics such as microcapsules with amphiphilic polymer conetwork shells, collision-induced unfolding of mitochondrial tRNAs, and the use of Rare Earth Elements on high-tech materials engineering. These studies contribute to the fields of analytical chemistry, organic chemistry, catalysis, and more.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37445905\">4 comments</a>\n            </p>",
+            "url": "https://synthical.com/feed/simple",
+            "title": "Show HN: It's Like HN, but for Science (synthical.com)",
+            "summary": "Studies on Marine Metabolome, Catalysts, and Materials Engineering Published by Researchers",
+            "date_modified": "2023-09-09T14:33:19.000Z",
+            "author": {
+                "name": "synthical.com"
             }
         },
         {
             "id": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
-            "content_html": "<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia\n            </p><p>\n                71 Points |  <a href=\"https://news.ycombinator.com/item?id=37413566\">12 comments</a>\n            </p>",
+            "content_html": "<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia\n            </p><p>\n                103 Points |  <a href=\"https://news.ycombinator.com/item?id=37413566\">28 comments</a>\n            </p>",
             "url": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
             "title": "The Power of Food for People with Dementia (www.newyorker.com)",
             "summary": "The Transformative Role of Food for Individuals with Dementia",
@@ -306,35 +328,14 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37413926",
-            "content_html": "<p>No summary available\n            </p><p>\n                24 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">8 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37413926",
-            "title": "Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)",
-            "date_modified": "2023-09-07T02:16:49.000Z",
+            "id": "https://www.youtube.com/watch?v=rGNUHigqUBM",
+            "content_html": "<p>N/A\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37418278\">0 comments</a>\n            </p>",
+            "url": "https://www.youtube.com/watch?v=rGNUHigqUBM",
+            "title": "Real-time Trumpet Simulation C++/Vulkan [video] (www.youtube.com)",
+            "summary": "N/A",
+            "date_modified": "2023-09-07T13:00:40.000Z",
             "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
-            "content_html": "<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.\n            </p><p>\n                45 Points |  <a href=\"https://news.ycombinator.com/item?id=37442649\">10 comments</a>\n            </p>",
-            "url": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
-            "title": "Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)",
-            "summary": "'Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features'",
-            "date_modified": "2023-09-09T05:56:03.000Z",
-            "author": {
-                "name": "ecl.common-lisp.dev"
-            }
-        },
-        {
-            "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                170 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">108 comments</a>\n            </p>",
-            "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "title": "Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)",
-            "summary": "Optimizing Julia Code for Mandelbrot Set Calculation",
-            "date_modified": "2023-09-09T03:42:53.000Z",
-            "author": {
-                "name": "discourse.julialang.org"
+                "name": "www.youtube.com"
             }
         }
     ]
