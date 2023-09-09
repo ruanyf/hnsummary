@@ -12,13 +12,57 @@
     "items": [
         {
             "id": "https://benchmarks.llmonitor.com",
-            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                229 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">135 comments</a>\n            </p>",
+            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                277 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">154 comments</a>\n            </p>",
             "url": "https://benchmarks.llmonitor.com",
             "title": "Asking 60 LLMs a set of 20 questions (benchmarks.llmonitor.com)",
             "summary": "'Script Tests Reasoning and Creativity of 60+ Models Using Prompts'",
             "date_modified": "2023-09-09T13:51:33.000Z",
             "author": {
                 "name": "benchmarks.llmonitor.com"
+            }
+        },
+        {
+            "id": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
+            "content_html": "<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.\n            </p><p>\n                50 Points |  <a href=\"https://news.ycombinator.com/item?id=37447915\">25 comments</a>\n            </p>",
+            "url": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
+            "title": "The End of the Subscription Era Is Coming (nickfthilton.medium.com)",
+            "summary": "The Impact of Subscription Models on Media and Creators",
+            "date_modified": "2023-09-09T17:36:41.000Z",
+            "author": {
+                "name": "nickfthilton.medium.com"
+            }
+        },
+        {
+            "id": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
+            "content_html": "<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.\n            </p><p>\n                70 Points |  <a href=\"https://news.ycombinator.com/item?id=37415804\">25 comments</a>\n            </p>",
+            "url": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
+            "title": "Intel Announces Arm Investment, Talks Up RISC-V (www.tomshardware.com)",
+            "summary": "Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology",
+            "date_modified": "2023-09-07T07:32:48.000Z",
+            "author": {
+                "name": "www.tomshardware.com"
+            }
+        },
+        {
+            "id": "https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/",
+            "content_html": "<p>The US Department of Energy has provided a $400 million loan to battery maker Eos Energy, which offers zinc-halide batteries as an alternative to lithium-ion batteries. Eos hopes that its zinc-based technology can store renewable energy at a lower cost than lithium-ion batteries. The loan is the first of its kind from the DOE's Loan Program Office to a battery maker focused on alternatives to lithium-ion cells. The funding will support the expansion of Eos's manufacturing capacity.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37448526\">0 comments</a>\n            </p>",
+            "url": "https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/",
+            "title": "Zinc batteries that offer an alternative to lithium just got a big boost (www.technologyreview.com)",
+            "summary": "'Eos Energy Receives $400 Million Loan from US Department of Energy for Zinc Batteries'",
+            "date_modified": "2023-09-09T18:21:46.000Z",
+            "author": {
+                "name": "www.technologyreview.com"
+            }
+        },
+        {
+            "id": "https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution",
+            "content_html": "<p>Lab-grown meat is unlikely to be a viable solution for mitigating greenhouse gas emissions from livestock farming. While it offers the allure of reducing emissions while still enjoying meat, the technology faces significant challenges in scaling up production and may not even work at the proposed scale. Additionally, there are already existing alternatives, such as policy measures and market-driven changes, that have a better chance of achieving emission reductions. Lab-grown meat should not be considered a climate solution.\n            </p><p>\n                12 Points |  <a href=\"https://news.ycombinator.com/item?id=37448476\">10 comments</a>\n            </p>",
+            "url": "https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution",
+            "title": "Lab-grown Meat is not a Climate Change Solution (www.climatedrift.com)",
+            "summary": "'Lab-grown Meat Unlikely to Mitigate Greenhouse Gas Emissions from Livestock Farming', Says Expert",
+            "date_modified": "2023-09-09T18:19:00.000Z",
+            "author": {
+                "name": "www.climatedrift.com"
             }
         },
         {
@@ -33,19 +77,8 @@
             }
         },
         {
-            "id": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
-            "content_html": "<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37415804\">4 comments</a>\n            </p>",
-            "url": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
-            "title": "Intel Announces Arm Investment, Talks Up RISC-V (www.tomshardware.com)",
-            "summary": "Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology",
-            "date_modified": "2023-09-07T07:32:48.000Z",
-            "author": {
-                "name": "www.tomshardware.com"
-            }
-        },
-        {
             "id": "https://forum.dji.com/thread-293546-1-1.html",
-            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                75 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">41 comments</a>\n            </p>",
+            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                92 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">55 comments</a>\n            </p>",
             "url": "https://forum.dji.com/thread-293546-1-1.html",
             "title": "DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)",
             "summary": "A Collection of Tutorials, Tips, and Information on Drones and DJI Products",
@@ -66,25 +99,25 @@
             }
         },
         {
-            "id": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
-            "content_html": "<p>The M1 Garand, considered the best battle rifle of World War II, had a significant impact on subsequent US rifle development. While it provided advantages such as increased rate of fire and improved accuracy, it missed the opportunity to become a modern assault rifle. The US did not field its first true assault rifle until two decades after the concept was invented by the Germans. The article explores the development of the M1 Garand and the factors that influenced its design.\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37430842\">33 comments</a>\n            </p>",
-            "url": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
-            "title": "The Development of the M1 Garand and Its Implications (acoup.blog)",
-            "summary": "'The M1 Garand: A Missed Opportunity for US Rifle Development'",
-            "date_modified": "2023-09-08T08:01:09.000Z",
+            "id": "https://www.funtoo.org/Making_the_Distribution,_Part_1",
+            "content_html": "<p>Daniel Robbins shares his Linux journey, from becoming a Stampede Linux developer to starting his own distribution called Enoch. He emphasizes the potential of Linux to change, improve, and break things, as well as the importance of the Linux community. Robbins also discusses his experience dealing with difficult developers and offers advice on managing them.\n            </p><p>\n                19 Points |  <a href=\"https://news.ycombinator.com/item?id=37446509\">1 comments</a>\n            </p>",
+            "url": "https://www.funtoo.org/Making_the_Distribution,_Part_1",
+            "title": "Birth of the Gentoo Linux Distribution (www.funtoo.org)",
+            "summary": "'The Potential of Linux and Dealing with Difficult Developers: Daniel Robbins' Linux Journey'",
+            "date_modified": "2023-09-09T15:29:14.000Z",
             "author": {
-                "name": "acoup.blog"
+                "name": "www.funtoo.org"
             }
         },
         {
-            "id": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
-            "content_html": "<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37447915\">1 comments</a>\n            </p>",
-            "url": "https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a",
-            "title": "The End of the Subscription Era Is Coming (nickfthilton.medium.com)",
-            "summary": "The Impact of Subscription Models on Media and Creators",
-            "date_modified": "2023-09-09T17:36:41.000Z",
+            "id": "https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn",
+            "content_html": "<p>The Chrome Web Store is introducing a new preview experience for users to test out. The store offers extensions, themes, and various categories of apps. It also has a privacy policy and terms of service that have been updated. The purpose of the Chrome Web Store is to provide users with a curated collection of apps and extensions for their Chrome browser.\n            </p><p>\n                55 Points |  <a href=\"https://news.ycombinator.com/item?id=37447892\">30 comments</a>\n            </p>",
+            "url": "https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn",
+            "title": "Block the Blue – Twitter Verified Blocker (chrome.google.com)",
+            "summary": "Chrome Web Store Introduces New Preview Experience",
+            "date_modified": "2023-09-09T17:35:08.000Z",
             "author": {
-                "name": "nickfthilton.medium.com"
+                "name": "chrome.google.com"
             }
         },
         {
@@ -100,7 +133,7 @@
         },
         {
             "id": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
-            "content_html": "<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37446790\">145 comments</a>\n            </p>",
+            "content_html": "<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.\n            </p><p>\n                96 Points |  <a href=\"https://news.ycombinator.com/item?id=37446790\">232 comments</a>\n            </p>",
             "url": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
             "title": "The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)",
             "summary": "Canadian Housing Prices Continue to Soar, Outpacing U.S. Market",
@@ -110,25 +143,35 @@
             }
         },
         {
-            "id": "https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be",
-            "content_html": "<p>The adoption of heat pumps as an alternative to gas and oil boilers is crucial for decarbonization efforts in Europe. However, the push for green policies that require citizens to make disruptive changes to their lives is facing resistance. Heat pumps have become a symbol of the challenges and backlashes that come with decarbonization. This highlights the difficulty of achieving decarbonization goals and the need for effective communication and support for individuals during the transition.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37447740\">0 comments</a>\n            </p>",
-            "url": "https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be",
-            "title": "Heat pumps show how hard decarbonisation will be (www.economist.com)",
-            "summary": "'Resistance to Heat Pumps Highlights Challenges of Decarbonization'",
-            "date_modified": "2023-09-09T17:21:14.000Z",
+            "id": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
+            "content_html": "<p>The M1 Garand, considered the best battle rifle of World War II, had a significant impact on subsequent US rifle development. While it provided advantages such as increased rate of fire and improved accuracy, it missed the opportunity to become a modern assault rifle. The US did not field its first true assault rifle until two decades after the concept was invented by the Germans. The article explores the development of the M1 Garand and the factors that influenced its design.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37430842\">48 comments</a>\n            </p>",
+            "url": "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/",
+            "title": "The Development of the M1 Garand and Its Implications (acoup.blog)",
+            "summary": "'The M1 Garand: A Missed Opportunity for US Rifle Development'",
+            "date_modified": "2023-09-08T08:01:09.000Z",
             "author": {
-                "name": "www.economist.com"
+                "name": "acoup.blog"
             }
         },
         {
-            "id": "https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx",
-            "content_html": "<p>N/A\n            </p><p>\n                23 Points |  <a href=\"https://news.ycombinator.com/item?id=37447080\">0 comments</a>\n            </p>",
-            "url": "https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx",
-            "title": "A small-town police officer took down the largest matchfixing ring in tennis (www.msn.com)",
-            "summary": "N/A",
-            "date_modified": "2023-09-09T16:21:10.000Z",
+            "id": "https://news.ycombinator.com/item?id=37447980",
+            "content_html": "<p>No summary available\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37447980\">23 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37447980",
+            "title": "Ask HN: What cool desk ideas do you have for a home office? (news.ycombinator.com)",
+            "date_modified": "2023-09-09T17:41:46.000Z",
             "author": {
-                "name": "www.msn.com"
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
+            "content_html": "<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.\n            </p><p>\n                146 Points |  <a href=\"https://news.ycombinator.com/item?id=37443404\">47 comments</a>\n            </p>",
+            "url": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
+            "title": "Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)",
+            "summary": "Building a Kubernetes Cluster with Talos on Hetzner: Part I",
+            "date_modified": "2023-09-09T08:44:52.000Z",
+            "author": {
+                "name": "datavirke.dk"
             }
         },
         {
@@ -143,35 +186,14 @@
             }
         },
         {
-            "id": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
-            "content_html": "<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37443404\">32 comments</a>\n            </p>",
-            "url": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
-            "title": "Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)",
-            "summary": "Building a Kubernetes Cluster with Talos on Hetzner: Part I",
-            "date_modified": "2023-09-09T08:44:52.000Z",
+            "id": "https://productonboarding.com",
+            "content_html": "<p>This is a list of various product onboarding examples from different companies, including announcements, banners, checklists, forms, surveys, and more. The examples come from companies like Brex, Figma, Github, Google, Mercury, Notion, Stripe, Super, and Vimeo. The list showcases different approaches to product education, new user onboarding, feature adoption, and product updates. It provides a valuable resource for understanding how companies onboard their users and educate them about their products.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37447445\">0 comments</a>\n            </p>",
+            "url": "https://productonboarding.com",
+            "title": "Show HN: Productonboarding.com – Mobbin for SaaS product onboarding (productonboarding.com)",
+            "summary": "A Collection of Product Onboarding Examples from Various Companies",
+            "date_modified": "2023-09-09T16:56:08.000Z",
             "author": {
-                "name": "datavirke.dk"
-            }
-        },
-        {
-            "id": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
-            "content_html": "<p>N/A\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37444066\">1 comments</a>\n            </p>",
-            "url": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
-            "title": "The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)",
-            "summary": "N/A",
-            "date_modified": "2023-09-09T11:12:22.000Z",
-            "author": {
-                "name": "www.thebookseller.com"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37444477",
-            "content_html": "<p>No summary available\n            </p><p>\n                115 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">17 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37444477",
-            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
-            "date_modified": "2023-09-09T12:20:20.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
+                "name": "productonboarding.com"
             }
         },
         {
@@ -186,19 +208,30 @@
             }
         },
         {
-            "id": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
-            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                140 Points |  <a href=\"https://news.ycombinator.com/item?id=37444257\">85 comments</a>\n            </p>",
-            "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
-            "title": "Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)",
-            "summary": "'Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76'",
-            "date_modified": "2023-09-09T11:42:16.000Z",
+            "id": "https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality",
+            "content_html": "<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37447810\">1 comments</a>\n            </p>",
+            "url": "https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality",
+            "title": "Existing in an Un-Simulated Reality (iahwrites.substack.com)",
+            "summary": "'Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness'",
+            "date_modified": "2023-09-09T17:27:52.000Z",
             "author": {
-                "name": "www.washingtonpost.com"
+                "name": "iahwrites.substack.com"
+            }
+        },
+        {
+            "id": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
+            "content_html": "<p>N/A\n            </p><p>\n                57 Points |  <a href=\"https://news.ycombinator.com/item?id=37444066\">15 comments</a>\n            </p>",
+            "url": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
+            "title": "The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)",
+            "summary": "N/A",
+            "date_modified": "2023-09-09T11:12:22.000Z",
+            "author": {
+                "name": "www.thebookseller.com"
             }
         },
         {
             "id": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
-            "content_html": "<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.\n            </p><p>\n                64 Points |  <a href=\"https://news.ycombinator.com/item?id=37446083\">140 comments</a>\n            </p>",
+            "content_html": "<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.\n            </p><p>\n                77 Points |  <a href=\"https://news.ycombinator.com/item?id=37446083\">200 comments</a>\n            </p>",
             "url": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
             "title": "Public restrooms are hard to find in America (www.washingtonpost.com)",
             "summary": "'The Problem of Inaccessible Public Restrooms in America'",
@@ -208,36 +241,24 @@
             }
         },
         {
-            "id": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
-            "content_html": "<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.\n            </p><p>\n                136 Points |  <a href=\"https://news.ycombinator.com/item?id=37445284\">86 comments</a>\n            </p>",
-            "url": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
-            "title": "Morocco earthquake kills more than 1,000 (www.nbcnews.com)",
-            "summary": "'Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates'",
-            "date_modified": "2023-09-09T13:40:15.000Z",
+            "id": "https://news.ycombinator.com/item?id=37444477",
+            "content_html": "<p>No summary available\n            </p><p>\n                131 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">18 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37444477",
+            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
+            "date_modified": "2023-09-09T12:20:20.000Z",
             "author": {
-                "name": "www.nbcnews.com"
+                "name": "news.ycombinator.com"
             }
         },
         {
-            "id": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
-            "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                64 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">40 comments</a>\n            </p>",
-            "url": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
-            "title": "What happens when you shift a register by more than the register size? (devblogs.microsoft.com)",
-            "summary": "Different Processor Architectures Behave Differently When Shifting Registers",
-            "date_modified": "2023-09-07T22:39:13.000Z",
+            "id": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
+            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                140 Points |  <a href=\"https://news.ycombinator.com/item?id=37444257\">85 comments</a>\n            </p>",
+            "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
+            "title": "Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)",
+            "summary": "'Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76'",
+            "date_modified": "2023-09-09T11:42:16.000Z",
             "author": {
-                "name": "devblogs.microsoft.com"
-            }
-        },
-        {
-            "id": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "content_html": "<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443395\">0 comments</a>\n            </p>",
-            "url": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "title": "Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)",
-            "summary": "'Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023",
-            "date_modified": "2023-09-09T08:44:07.000Z",
-            "author": {
-                "name": "icfp23.sigplan.org"
+                "name": "www.washingtonpost.com"
             }
         },
         {
@@ -252,14 +273,25 @@
             }
         },
         {
-            "id": "https://bills.parliament.uk/publications/46675/documents/1885",
-            "content_html": "<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.\n            </p><p>\n                48 Points |  <a href=\"https://news.ycombinator.com/item?id=37443634\">27 comments</a>\n            </p>",
-            "url": "https://bills.parliament.uk/publications/46675/documents/1885",
-            "title": "Google's Statement on the UK Online Safety Bill (bills.parliament.uk)",
-            "summary": "Security Check on bills.parliament.uk",
-            "date_modified": "2023-09-09T09:36:58.000Z",
+            "id": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
+            "content_html": "<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.\n            </p><p>\n                136 Points |  <a href=\"https://news.ycombinator.com/item?id=37445284\">86 comments</a>\n            </p>",
+            "url": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
+            "title": "Morocco earthquake kills more than 1,000 (www.nbcnews.com)",
+            "summary": "'Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates'",
+            "date_modified": "2023-09-09T13:40:15.000Z",
             "author": {
-                "name": "bills.parliament.uk"
+                "name": "www.nbcnews.com"
+            }
+        },
+        {
+            "id": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
+            "content_html": "<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443395\">0 comments</a>\n            </p>",
+            "url": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
+            "title": "Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)",
+            "summary": "'Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023",
+            "date_modified": "2023-09-09T08:44:07.000Z",
+            "author": {
+                "name": "icfp23.sigplan.org"
             }
         },
         {
@@ -274,68 +306,35 @@
             }
         },
         {
+            "id": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
+            "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                64 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">40 comments</a>\n            </p>",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
+            "title": "What happens when you shift a register by more than the register size? (devblogs.microsoft.com)",
+            "summary": "Different Processor Architectures Behave Differently When Shifting Registers",
+            "date_modified": "2023-09-07T22:39:13.000Z",
+            "author": {
+                "name": "devblogs.microsoft.com"
+            }
+        },
+        {
+            "id": "https://bills.parliament.uk/publications/46675/documents/1885",
+            "content_html": "<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.\n            </p><p>\n                48 Points |  <a href=\"https://news.ycombinator.com/item?id=37443634\">27 comments</a>\n            </p>",
+            "url": "https://bills.parliament.uk/publications/46675/documents/1885",
+            "title": "Google's Statement on the UK Online Safety Bill (bills.parliament.uk)",
+            "summary": "Security Check on bills.parliament.uk",
+            "date_modified": "2023-09-09T09:36:58.000Z",
+            "author": {
+                "name": "bills.parliament.uk"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=37413926",
-            "content_html": "<p>No summary available\n            </p><p>\n                30 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">8 comments</a>\n            </p>",
+            "content_html": "<p>No summary available\n            </p><p>\n                32 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">11 comments</a>\n            </p>",
             "url": "https://news.ycombinator.com/item?id=37413926",
             "title": "Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)",
             "date_modified": "2023-09-07T02:16:49.000Z",
             "author": {
                 "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests",
-            "content_html": "<p>Intelligent people are getting COVID-19 vaccines faster than those with lower cognitive abilities, according to a study in Sweden. The study found that 80% of the most intelligent people were vaccinated within 40 days of vaccine availability, while it took 180 days for those with the lowest cognitive ability to reach that level. The researchers suggest that the complexity of the vaccination decision may make it difficult for people with lower cognitive abilities to understand the benefits of vaccination. The findings highlight the need for better-designed vaccination campaigns to address disparities in vaccination behavior.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37447833\">0 comments</a>\n            </p>",
-            "url": "https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests",
-            "title": "Smart people first in line for Covid-19 vaccines, study suggests (www.cidrap.umn.edu)",
-            "summary": "'Study Suggests Intelligent People Get COVID-19 Vaccines Faster'",
-            "date_modified": "2023-09-09T17:30:23.000Z",
-            "author": {
-                "name": "www.cidrap.umn.edu"
-            }
-        },
-        {
-            "id": "https://www.openmymind.net/learning_zig/",
-            "content_html": "<p>This guide provides an introduction to the Zig programming language, assuming prior programming experience. It covers topics such as installing Zig, language overview, style guide, memory management, generics, and coding in Zig. The guide emphasizes that Zig is under heavy development and may have code discrepancies. It also provides instructions for installing Zig and testing the setup.\n            </p><p>\n                64 Points |  <a href=\"https://news.ycombinator.com/item?id=37446502\">12 comments</a>\n            </p>",
-            "url": "https://www.openmymind.net/learning_zig/",
-            "title": "Learning Zig (www.openmymind.net)",
-            "summary": "'Learning Zig: An Introduction to the Zig Programming Language'",
-            "date_modified": "2023-09-09T15:28:44.000Z",
-            "author": {
-                "name": "www.openmymind.net"
-            }
-        },
-        {
-            "id": "https://synthical.com/feed/simple",
-            "content_html": "<p>Researchers at various universities have published studies on a range of topics including the deep metabolome of marine dissolved organic matter, CO2-assisted propane ODH over catalysts, synthesis of N-acyl carbazoles, and the use of artificial peroxidase based on biotin-streptavidin technology. Other studies cover topics such as microcapsules with amphiphilic polymer conetwork shells, collision-induced unfolding of mitochondrial tRNAs, and the use of Rare Earth Elements on high-tech materials engineering. These studies contribute to the fields of analytical chemistry, organic chemistry, catalysis, and more.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37445905\">4 comments</a>\n            </p>",
-            "url": "https://synthical.com/feed/simple",
-            "title": "Show HN: It's Like HN, but for Science (synthical.com)",
-            "summary": "Studies on Marine Metabolome, Catalysts, and Materials Engineering Published by Researchers",
-            "date_modified": "2023-09-09T14:33:19.000Z",
-            "author": {
-                "name": "synthical.com"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
-            "content_html": "<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia\n            </p><p>\n                103 Points |  <a href=\"https://news.ycombinator.com/item?id=37413566\">28 comments</a>\n            </p>",
-            "url": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
-            "title": "The Power of Food for People with Dementia (www.newyorker.com)",
-            "summary": "The Transformative Role of Food for Individuals with Dementia",
-            "date_modified": "2023-09-07T01:15:10.000Z",
-            "author": {
-                "name": "www.newyorker.com"
-            }
-        },
-        {
-            "id": "https://www.youtube.com/watch?v=rGNUHigqUBM",
-            "content_html": "<p>N/A\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37418278\">0 comments</a>\n            </p>",
-            "url": "https://www.youtube.com/watch?v=rGNUHigqUBM",
-            "title": "Real-time Trumpet Simulation C++/Vulkan [video] (www.youtube.com)",
-            "summary": "N/A",
-            "date_modified": "2023-09-07T13:00:40.000Z",
-            "author": {
-                "name": "www.youtube.com"
             }
         }
     ]

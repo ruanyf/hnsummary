@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 18:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 19:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,7 +23,51 @@
             <description><![CDATA['Script Tests Reasoning and Creativity of 60+ Models Using Prompts']]></description>
             <content:encoded><![CDATA[<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.
             </p><p>
-                229 Points |  <a href="https://news.ycombinator.com/item?id=37445401">135 comments</a>
+                277 Points |  <a href="https://news.ycombinator.com/item?id=37445401">154 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The End of the Subscription Era Is Coming (nickfthilton.medium.com)]]></title>
+            <link>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</link>
+            <guid>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</guid>
+            <pubDate>Sat, 09 Sep 2023 17:36:41 GMT</pubDate>
+            <description><![CDATA[The Impact of Subscription Models on Media and Creators]]></description>
+            <content:encoded><![CDATA[<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.
+            </p><p>
+                50 Points |  <a href="https://news.ycombinator.com/item?id=37447915">25 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Intel Announces Arm Investment, Talks Up RISC-V (www.tomshardware.com)]]></title>
+            <link>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</link>
+            <guid>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</guid>
+            <pubDate>Thu, 07 Sep 2023 07:32:48 GMT</pubDate>
+            <description><![CDATA[Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology]]></description>
+            <content:encoded><![CDATA[<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.
+            </p><p>
+                70 Points |  <a href="https://news.ycombinator.com/item?id=37415804">25 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zinc batteries that offer an alternative to lithium just got a big boost (www.technologyreview.com)]]></title>
+            <link>https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/</link>
+            <guid>https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/</guid>
+            <pubDate>Sat, 09 Sep 2023 18:21:46 GMT</pubDate>
+            <description><![CDATA['Eos Energy Receives $400 Million Loan from US Department of Energy for Zinc Batteries']]></description>
+            <content:encoded><![CDATA[<p>The US Department of Energy has provided a $400 million loan to battery maker Eos Energy, which offers zinc-halide batteries as an alternative to lithium-ion batteries. Eos hopes that its zinc-based technology can store renewable energy at a lower cost than lithium-ion batteries. The loan is the first of its kind from the DOE's Loan Program Office to a battery maker focused on alternatives to lithium-ion cells. The funding will support the expansion of Eos's manufacturing capacity.
+            </p><p>
+                6 Points |  <a href="https://news.ycombinator.com/item?id=37448526">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lab-grown Meat is not a Climate Change Solution (www.climatedrift.com)]]></title>
+            <link>https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution</link>
+            <guid>https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution</guid>
+            <pubDate>Sat, 09 Sep 2023 18:19:00 GMT</pubDate>
+            <description><![CDATA['Lab-grown Meat Unlikely to Mitigate Greenhouse Gas Emissions from Livestock Farming', Says Expert]]></description>
+            <content:encoded><![CDATA[<p>Lab-grown meat is unlikely to be a viable solution for mitigating greenhouse gas emissions from livestock farming. While it offers the allure of reducing emissions while still enjoying meat, the technology faces significant challenges in scaling up production and may not even work at the proposed scale. Additionally, there are already existing alternatives, such as policy measures and market-driven changes, that have a better chance of achieving emission reductions. Lab-grown meat should not be considered a climate solution.
+            </p><p>
+                12 Points |  <a href="https://news.ycombinator.com/item?id=37448476">10 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -38,17 +82,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Intel Announces Arm Investment, Talks Up RISC-V (www.tomshardware.com)]]></title>
-            <link>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</link>
-            <guid>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</guid>
-            <pubDate>Thu, 07 Sep 2023 07:32:48 GMT</pubDate>
-            <description><![CDATA[Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology]]></description>
-            <content:encoded><![CDATA[<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.
-            </p><p>
-                33 Points |  <a href="https://news.ycombinator.com/item?id=37415804">4 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)]]></title>
             <link>https://forum.dji.com/thread-293546-1-1.html</link>
             <guid>https://forum.dji.com/thread-293546-1-1.html</guid>
@@ -56,7 +89,7 @@
             <description><![CDATA[A Collection of Tutorials, Tips, and Information on Drones and DJI Products]]></description>
             <content:encoded><![CDATA[<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.
             </p><p>
-                75 Points |  <a href="https://news.ycombinator.com/item?id=37445963">41 comments</a>
+                92 Points |  <a href="https://news.ycombinator.com/item?id=37445963">55 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -71,25 +104,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Development of the M1 Garand and Its Implications (acoup.blog)]]></title>
-            <link>https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/</link>
-            <guid>https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/</guid>
-            <pubDate>Fri, 08 Sep 2023 08:01:09 GMT</pubDate>
-            <description><![CDATA['The M1 Garand: A Missed Opportunity for US Rifle Development']]></description>
-            <content:encoded><![CDATA[<p>The M1 Garand, considered the best battle rifle of World War II, had a significant impact on subsequent US rifle development. While it provided advantages such as increased rate of fire and improved accuracy, it missed the opportunity to become a modern assault rifle. The US did not field its first true assault rifle until two decades after the concept was invented by the Germans. The article explores the development of the M1 Garand and the factors that influenced its design.
+            <title><![CDATA[Birth of the Gentoo Linux Distribution (www.funtoo.org)]]></title>
+            <link>https://www.funtoo.org/Making_the_Distribution,_Part_1</link>
+            <guid>https://www.funtoo.org/Making_the_Distribution,_Part_1</guid>
+            <pubDate>Sat, 09 Sep 2023 15:29:14 GMT</pubDate>
+            <description><![CDATA['The Potential of Linux and Dealing with Difficult Developers: Daniel Robbins' Linux Journey']]></description>
+            <content:encoded><![CDATA[<p>Daniel Robbins shares his Linux journey, from becoming a Stampede Linux developer to starting his own distribution called Enoch. He emphasizes the potential of Linux to change, improve, and break things, as well as the importance of the Linux community. Robbins also discusses his experience dealing with difficult developers and offers advice on managing them.
             </p><p>
-                58 Points |  <a href="https://news.ycombinator.com/item?id=37430842">33 comments</a>
+                19 Points |  <a href="https://news.ycombinator.com/item?id=37446509">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The End of the Subscription Era Is Coming (nickfthilton.medium.com)]]></title>
-            <link>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</link>
-            <guid>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</guid>
-            <pubDate>Sat, 09 Sep 2023 17:36:41 GMT</pubDate>
-            <description><![CDATA[The Impact of Subscription Models on Media and Creators]]></description>
-            <content:encoded><![CDATA[<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.
+            <title><![CDATA[Block the Blue – Twitter Verified Blocker (chrome.google.com)]]></title>
+            <link>https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn</link>
+            <guid>https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn</guid>
+            <pubDate>Sat, 09 Sep 2023 17:35:08 GMT</pubDate>
+            <description><![CDATA[Chrome Web Store Introduces New Preview Experience]]></description>
+            <content:encoded><![CDATA[<p>The Chrome Web Store is introducing a new preview experience for users to test out. The store offers extensions, themes, and various categories of apps. It also has a privacy policy and terms of service that have been updated. The purpose of the Chrome Web Store is to provide users with a curated collection of apps and extensions for their Chrome browser.
             </p><p>
-                7 Points |  <a href="https://news.ycombinator.com/item?id=37447915">1 comments</a>
+                55 Points |  <a href="https://news.ycombinator.com/item?id=37447892">30 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -111,29 +144,39 @@
             <description><![CDATA[Canadian Housing Prices Continue to Soar, Outpacing U.S. Market]]></description>
             <content:encoded><![CDATA[<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.
             </p><p>
-                74 Points |  <a href="https://news.ycombinator.com/item?id=37446790">145 comments</a>
+                96 Points |  <a href="https://news.ycombinator.com/item?id=37446790">232 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Heat pumps show how hard decarbonisation will be (www.economist.com)]]></title>
-            <link>https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be</link>
-            <guid>https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be</guid>
-            <pubDate>Sat, 09 Sep 2023 17:21:14 GMT</pubDate>
-            <description><![CDATA['Resistance to Heat Pumps Highlights Challenges of Decarbonization']]></description>
-            <content:encoded><![CDATA[<p>The adoption of heat pumps as an alternative to gas and oil boilers is crucial for decarbonization efforts in Europe. However, the push for green policies that require citizens to make disruptive changes to their lives is facing resistance. Heat pumps have become a symbol of the challenges and backlashes that come with decarbonization. This highlights the difficulty of achieving decarbonization goals and the need for effective communication and support for individuals during the transition.
+            <title><![CDATA[The Development of the M1 Garand and Its Implications (acoup.blog)]]></title>
+            <link>https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/</link>
+            <guid>https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/</guid>
+            <pubDate>Fri, 08 Sep 2023 08:01:09 GMT</pubDate>
+            <description><![CDATA['The M1 Garand: A Missed Opportunity for US Rifle Development']]></description>
+            <content:encoded><![CDATA[<p>The M1 Garand, considered the best battle rifle of World War II, had a significant impact on subsequent US rifle development. While it provided advantages such as increased rate of fire and improved accuracy, it missed the opportunity to become a modern assault rifle. The US did not field its first true assault rifle until two decades after the concept was invented by the Germans. The article explores the development of the M1 Garand and the factors that influenced its design.
             </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37447740">0 comments</a>
+                74 Points |  <a href="https://news.ycombinator.com/item?id=37430842">48 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A small-town police officer took down the largest matchfixing ring in tennis (www.msn.com)]]></title>
-            <link>https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx</link>
-            <guid>https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx</guid>
-            <pubDate>Sat, 09 Sep 2023 16:21:10 GMT</pubDate>
-            <description><![CDATA[N/A]]></description>
-            <content:encoded><![CDATA[<p>N/A
+            <title><![CDATA[Ask HN: What cool desk ideas do you have for a home office? (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37447980</link>
+            <guid>https://news.ycombinator.com/item?id=37447980</guid>
+            <pubDate>Sat, 09 Sep 2023 17:41:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                23 Points |  <a href="https://news.ycombinator.com/item?id=37447080">0 comments</a>
+                20 Points |  <a href="https://news.ycombinator.com/item?id=37447980">23 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)]]></title>
+            <link>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</link>
+            <guid>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</guid>
+            <pubDate>Sat, 09 Sep 2023 08:44:52 GMT</pubDate>
+            <description><![CDATA[Building a Kubernetes Cluster with Talos on Hetzner: Part I]]></description>
+            <content:encoded><![CDATA[<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.
+            </p><p>
+                146 Points |  <a href="https://news.ycombinator.com/item?id=37443404">47 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -148,35 +191,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)]]></title>
-            <link>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</link>
-            <guid>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</guid>
-            <pubDate>Sat, 09 Sep 2023 08:44:52 GMT</pubDate>
-            <description><![CDATA[Building a Kubernetes Cluster with Talos on Hetzner: Part I]]></description>
-            <content:encoded><![CDATA[<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.
+            <title><![CDATA[Show HN: Productonboarding.com – Mobbin for SaaS product onboarding (productonboarding.com)]]></title>
+            <link>https://productonboarding.com</link>
+            <guid>https://productonboarding.com</guid>
+            <pubDate>Sat, 09 Sep 2023 16:56:08 GMT</pubDate>
+            <description><![CDATA[A Collection of Product Onboarding Examples from Various Companies]]></description>
+            <content:encoded><![CDATA[<p>This is a list of various product onboarding examples from different companies, including announcements, banners, checklists, forms, surveys, and more. The examples come from companies like Brex, Figma, Github, Google, Mercury, Notion, Stripe, Super, and Vimeo. The list showcases different approaches to product education, new user onboarding, feature adoption, and product updates. It provides a valuable resource for understanding how companies onboard their users and educate them about their products.
             </p><p>
-                101 Points |  <a href="https://news.ycombinator.com/item?id=37443404">32 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)]]></title>
-            <link>https://www.thebookseller.com/features/berkeley-hotel-hostage</link>
-            <guid>https://www.thebookseller.com/features/berkeley-hotel-hostage</guid>
-            <pubDate>Sat, 09 Sep 2023 11:12:22 GMT</pubDate>
-            <description><![CDATA[N/A]]></description>
-            <content:encoded><![CDATA[<p>N/A
-            </p><p>
-                8 Points |  <a href="https://news.ycombinator.com/item?id=37444066">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37444477</link>
-            <guid>https://news.ycombinator.com/item?id=37444477</guid>
-            <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                115 Points |  <a href="https://news.ycombinator.com/item?id=37444477">17 comments</a>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37447445">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -191,14 +213,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)]]></title>
-            <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
-            <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
-            <pubDate>Sat, 09 Sep 2023 11:42:16 GMT</pubDate>
-            <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
-            <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
+            <title><![CDATA[Existing in an Un-Simulated Reality (iahwrites.substack.com)]]></title>
+            <link>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</link>
+            <guid>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</guid>
+            <pubDate>Sat, 09 Sep 2023 17:27:52 GMT</pubDate>
+            <description><![CDATA['Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness']]></description>
+            <content:encoded><![CDATA[<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.
             </p><p>
-                140 Points |  <a href="https://news.ycombinator.com/item?id=37444257">85 comments</a>
+                6 Points |  <a href="https://news.ycombinator.com/item?id=37447810">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)]]></title>
+            <link>https://www.thebookseller.com/features/berkeley-hotel-hostage</link>
+            <guid>https://www.thebookseller.com/features/berkeley-hotel-hostage</guid>
+            <pubDate>Sat, 09 Sep 2023 11:12:22 GMT</pubDate>
+            <description><![CDATA[N/A]]></description>
+            <content:encoded><![CDATA[<p>N/A
+            </p><p>
+                57 Points |  <a href="https://news.ycombinator.com/item?id=37444066">15 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -209,40 +242,28 @@
             <description><![CDATA['The Problem of Inaccessible Public Restrooms in America']]></description>
             <content:encoded><![CDATA[<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.
             </p><p>
-                64 Points |  <a href="https://news.ycombinator.com/item?id=37446083">140 comments</a>
+                77 Points |  <a href="https://news.ycombinator.com/item?id=37446083">200 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Morocco earthquake kills more than 1,000 (www.nbcnews.com)]]></title>
-            <link>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</link>
-            <guid>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</guid>
-            <pubDate>Sat, 09 Sep 2023 13:40:15 GMT</pubDate>
-            <description><![CDATA['Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates']]></description>
-            <content:encoded><![CDATA[<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.
+            <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37444477</link>
+            <guid>https://news.ycombinator.com/item?id=37444477</guid>
+            <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                136 Points |  <a href="https://news.ycombinator.com/item?id=37445284">86 comments</a>
+                131 Points |  <a href="https://news.ycombinator.com/item?id=37444477">18 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[What happens when you shift a register by more than the register size? (devblogs.microsoft.com)]]></title>
-            <link>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</link>
-            <guid>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</guid>
-            <pubDate>Thu, 07 Sep 2023 22:39:13 GMT</pubDate>
-            <description><![CDATA[Different Processor Architectures Behave Differently When Shifting Registers]]></description>
-            <content:encoded><![CDATA[<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.
+            <title><![CDATA[Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)]]></title>
+            <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
+            <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
+            <pubDate>Sat, 09 Sep 2023 11:42:16 GMT</pubDate>
+            <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
+            <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
             </p><p>
-                64 Points |  <a href="https://news.ycombinator.com/item?id=37426598">40 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)]]></title>
-            <link>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</link>
-            <guid>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</guid>
-            <pubDate>Sat, 09 Sep 2023 08:44:07 GMT</pubDate>
-            <description><![CDATA['Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023]]></description>
-            <content:encoded><![CDATA[<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.
-            </p><p>
-                7 Points |  <a href="https://news.ycombinator.com/item?id=37443395">0 comments</a>
+                140 Points |  <a href="https://news.ycombinator.com/item?id=37444257">85 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -257,14 +278,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Google's Statement on the UK Online Safety Bill (bills.parliament.uk)]]></title>
-            <link>https://bills.parliament.uk/publications/46675/documents/1885</link>
-            <guid>https://bills.parliament.uk/publications/46675/documents/1885</guid>
-            <pubDate>Sat, 09 Sep 2023 09:36:58 GMT</pubDate>
-            <description><![CDATA[Security Check on bills.parliament.uk]]></description>
-            <content:encoded><![CDATA[<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.
+            <title><![CDATA[Morocco earthquake kills more than 1,000 (www.nbcnews.com)]]></title>
+            <link>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</link>
+            <guid>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</guid>
+            <pubDate>Sat, 09 Sep 2023 13:40:15 GMT</pubDate>
+            <description><![CDATA['Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates']]></description>
+            <content:encoded><![CDATA[<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.
             </p><p>
-                48 Points |  <a href="https://news.ycombinator.com/item?id=37443634">27 comments</a>
+                136 Points |  <a href="https://news.ycombinator.com/item?id=37445284">86 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)]]></title>
+            <link>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</link>
+            <guid>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</guid>
+            <pubDate>Sat, 09 Sep 2023 08:44:07 GMT</pubDate>
+            <description><![CDATA['Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023]]></description>
+            <content:encoded><![CDATA[<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.
+            </p><p>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37443395">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -279,68 +311,35 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[What happens when you shift a register by more than the register size? (devblogs.microsoft.com)]]></title>
+            <link>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</link>
+            <guid>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</guid>
+            <pubDate>Thu, 07 Sep 2023 22:39:13 GMT</pubDate>
+            <description><![CDATA[Different Processor Architectures Behave Differently When Shifting Registers]]></description>
+            <content:encoded><![CDATA[<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.
+            </p><p>
+                64 Points |  <a href="https://news.ycombinator.com/item?id=37426598">40 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Google's Statement on the UK Online Safety Bill (bills.parliament.uk)]]></title>
+            <link>https://bills.parliament.uk/publications/46675/documents/1885</link>
+            <guid>https://bills.parliament.uk/publications/46675/documents/1885</guid>
+            <pubDate>Sat, 09 Sep 2023 09:36:58 GMT</pubDate>
+            <description><![CDATA[Security Check on bills.parliament.uk]]></description>
+            <content:encoded><![CDATA[<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.
+            </p><p>
+                48 Points |  <a href="https://news.ycombinator.com/item?id=37443634">27 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)]]></title>
             <link>https://news.ycombinator.com/item?id=37413926</link>
             <guid>https://news.ycombinator.com/item?id=37413926</guid>
             <pubDate>Thu, 07 Sep 2023 02:16:49 GMT</pubDate>
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                30 Points |  <a href="https://news.ycombinator.com/item?id=37413926">8 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Smart people first in line for Covid-19 vaccines, study suggests (www.cidrap.umn.edu)]]></title>
-            <link>https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests</link>
-            <guid>https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests</guid>
-            <pubDate>Sat, 09 Sep 2023 17:30:23 GMT</pubDate>
-            <description><![CDATA['Study Suggests Intelligent People Get COVID-19 Vaccines Faster']]></description>
-            <content:encoded><![CDATA[<p>Intelligent people are getting COVID-19 vaccines faster than those with lower cognitive abilities, according to a study in Sweden. The study found that 80% of the most intelligent people were vaccinated within 40 days of vaccine availability, while it took 180 days for those with the lowest cognitive ability to reach that level. The researchers suggest that the complexity of the vaccination decision may make it difficult for people with lower cognitive abilities to understand the benefits of vaccination. The findings highlight the need for better-designed vaccination campaigns to address disparities in vaccination behavior.
-            </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37447833">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Learning Zig (www.openmymind.net)]]></title>
-            <link>https://www.openmymind.net/learning_zig/</link>
-            <guid>https://www.openmymind.net/learning_zig/</guid>
-            <pubDate>Sat, 09 Sep 2023 15:28:44 GMT</pubDate>
-            <description><![CDATA['Learning Zig: An Introduction to the Zig Programming Language']]></description>
-            <content:encoded><![CDATA[<p>This guide provides an introduction to the Zig programming language, assuming prior programming experience. It covers topics such as installing Zig, language overview, style guide, memory management, generics, and coding in Zig. The guide emphasizes that Zig is under heavy development and may have code discrepancies. It also provides instructions for installing Zig and testing the setup.
-            </p><p>
-                64 Points |  <a href="https://news.ycombinator.com/item?id=37446502">12 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: It's Like HN, but for Science (synthical.com)]]></title>
-            <link>https://synthical.com/feed/simple</link>
-            <guid>https://synthical.com/feed/simple</guid>
-            <pubDate>Sat, 09 Sep 2023 14:33:19 GMT</pubDate>
-            <description><![CDATA[Studies on Marine Metabolome, Catalysts, and Materials Engineering Published by Researchers]]></description>
-            <content:encoded><![CDATA[<p>Researchers at various universities have published studies on a range of topics including the deep metabolome of marine dissolved organic matter, CO2-assisted propane ODH over catalysts, synthesis of N-acyl carbazoles, and the use of artificial peroxidase based on biotin-streptavidin technology. Other studies cover topics such as microcapsules with amphiphilic polymer conetwork shells, collision-induced unfolding of mitochondrial tRNAs, and the use of Rare Earth Elements on high-tech materials engineering. These studies contribute to the fields of analytical chemistry, organic chemistry, catalysis, and more.
-            </p><p>
-                9 Points |  <a href="https://news.ycombinator.com/item?id=37445905">4 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Power of Food for People with Dementia (www.newyorker.com)]]></title>
-            <link>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</link>
-            <guid>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</guid>
-            <pubDate>Thu, 07 Sep 2023 01:15:10 GMT</pubDate>
-            <description><![CDATA[The Transformative Role of Food for Individuals with Dementia]]></description>
-            <content:encoded><![CDATA[<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia
-            </p><p>
-                103 Points |  <a href="https://news.ycombinator.com/item?id=37413566">28 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Real-time Trumpet Simulation C++/Vulkan [video] (www.youtube.com)]]></title>
-            <link>https://www.youtube.com/watch?v=rGNUHigqUBM</link>
-            <guid>https://www.youtube.com/watch?v=rGNUHigqUBM</guid>
-            <pubDate>Thu, 07 Sep 2023 13:00:40 GMT</pubDate>
-            <description><![CDATA[N/A]]></description>
-            <content:encoded><![CDATA[<p>N/A
-            </p><p>
-                22 Points |  <a href="https://news.ycombinator.com/item?id=37418278">0 comments</a>
+                32 Points |  <a href="https://news.ycombinator.com/item?id=37413926">11 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
