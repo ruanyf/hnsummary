@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 08:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 08:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,29 +23,7 @@
             <description><![CDATA['YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization']]></description>
             <content:encoded><![CDATA[<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.
             </p><p>
-                54 Points |  <a href="https://news.ycombinator.com/item?id=37422705">31 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)]]></title>
-            <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
-            <guid>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</guid>
-            <pubDate>Sat, 09 Sep 2023 03:42:53 GMT</pubDate>
-            <description><![CDATA[Optimizing Julia Code for Mandelbrot Set Calculation]]></description>
-            <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
-            </p><p>
-                72 Points |  <a href="https://news.ycombinator.com/item?id=37442064">26 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)]]></title>
-            <link>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</link>
-            <guid>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</guid>
-            <pubDate>Thu, 07 Sep 2023 00:48:16 GMT</pubDate>
-            <description><![CDATA[Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend]]></description>
-            <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
-            </p><p>
-                80 Points |  <a href="https://news.ycombinator.com/item?id=37413387">21 comments</a>
+                75 Points |  <a href="https://news.ycombinator.com/item?id=37422705">50 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -56,7 +34,40 @@
             <description><![CDATA[PHP's Dominance in the Internet: Statistics and Anecdotes]]></description>
             <content:encoded><![CDATA[<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes
             </p><p>
-                14 Points |  <a href="https://news.ycombinator.com/item?id=37415747">2 comments</a>
+                62 Points |  <a href="https://news.ycombinator.com/item?id=37415747">25 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)]]></title>
+            <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
+            <guid>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</guid>
+            <pubDate>Sat, 09 Sep 2023 03:42:53 GMT</pubDate>
+            <description><![CDATA[Optimizing Julia Code for Mandelbrot Set Calculation]]></description>
+            <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
+            </p><p>
+                84 Points |  <a href="https://news.ycombinator.com/item?id=37442064">37 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Development of the C Language (cm.bell-labs.co)]]></title>
+            <link>http://cm.bell-labs.co/who/dmr/chist.html</link>
+            <guid>http://cm.bell-labs.co/who/dmr/chist.html</guid>
+            <pubDate>Sat, 09 Sep 2023 06:33:32 GMT</pubDate>
+            <description><![CDATA['The Development and Evolution of the C Programming Language']]></description>
+            <content:encoded><![CDATA[<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.
+            </p><p>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37442810">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)]]></title>
+            <link>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</link>
+            <guid>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</guid>
+            <pubDate>Thu, 07 Sep 2023 00:48:16 GMT</pubDate>
+            <description><![CDATA[Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend]]></description>
+            <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
+            </p><p>
+                90 Points |  <a href="https://news.ycombinator.com/item?id=37413387">33 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -89,18 +100,29 @@
             <description><![CDATA['DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers']]></description>
             <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.
             </p><p>
-                164 Points |  <a href="https://news.ycombinator.com/item?id=37440104">86 comments</a>
+                177 Points |  <a href="https://news.ycombinator.com/item?id=37440104">98 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Development of the C Language (cm.bell-labs.co)]]></title>
-            <link>http://cm.bell-labs.co/who/dmr/chist.html</link>
-            <guid>http://cm.bell-labs.co/who/dmr/chist.html</guid>
-            <pubDate>Sat, 09 Sep 2023 06:33:32 GMT</pubDate>
-            <description><![CDATA['The Development and Evolution of the C Programming Language']]></description>
-            <content:encoded><![CDATA[<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.
+            <title><![CDATA[The Power of Food for People with Dementia (www.newyorker.com)]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</link>
+            <guid>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</guid>
+            <pubDate>Thu, 07 Sep 2023 01:15:10 GMT</pubDate>
+            <description><![CDATA[The Transformative Role of Food for Individuals with Dementia]]></description>
+            <content:encoded><![CDATA[<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia
             </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37442810">0 comments</a>
+                24 Points |  <a href="https://news.ycombinator.com/item?id=37413566">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)]]></title>
+            <link>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</link>
+            <guid>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</guid>
+            <pubDate>Sat, 09 Sep 2023 05:56:03 GMT</pubDate>
+            <description><![CDATA['Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features']]></description>
+            <content:encoded><![CDATA[<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.
+            </p><p>
+                5 Points |  <a href="https://news.ycombinator.com/item?id=37442649">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -115,6 +137,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)]]></title>
+            <link>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</link>
+            <guid>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</guid>
+            <pubDate>Thu, 07 Sep 2023 04:08:50 GMT</pubDate>
+            <description><![CDATA['Spot It!' Card Game: The Math Behind the Matching Symbols]]></description>
+            <content:encoded><![CDATA[<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!
+            </p><p>
+                6 Points |  <a href="https://news.ycombinator.com/item?id=37414659">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Scammers can exploit email forwarding flaws to impersonate high-profile domains (today.ucsd.edu)]]></title>
             <link>https://today.ucsd.edu/story/forwarding_based_spoofing</link>
             <guid>https://today.ucsd.edu/story/forwarding_based_spoofing</guid>
@@ -123,17 +156,6 @@
             <content:encoded><![CDATA[<p>Email forwarding flaws allow scammers to impersonate high-profile domains, including government organizations, financial service companies, and major news organizations. The vulnerabilities in the email forwarding process bypass the safeguards of email providers like Gmail and Outlook, making it easier for attackers to send spoofed emails containing malware or spyware. The research team discovered that many organizations outsource their email infrastructure to third-party providers, which can be exploited through email forwarding. The vulnerabilities affect a significant number of domains, including state.gov, Mastercard, The Washington Post, and the Associated Press. While some providers have patched the issues, researchers recommend disabling open forwarding and implementing stricter validation policies to enhance email security.
             </p><p>
                 163 Points |  <a href="https://news.ycombinator.com/item?id=37438478">42 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Power of Food for People with Dementia (www.newyorker.com)]]></title>
-            <link>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</link>
-            <guid>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</guid>
-            <pubDate>Thu, 07 Sep 2023 01:15:10 GMT</pubDate>
-            <description><![CDATA[The Transformative Role of Food for Individuals with Dementia]]></description>
-            <content:encoded><![CDATA[<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia
-            </p><p>
-                24 Points |  <a href="https://news.ycombinator.com/item?id=37413566">2 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -192,17 +214,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)]]></title>
-            <link>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</link>
-            <guid>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</guid>
-            <pubDate>Sat, 09 Sep 2023 05:56:03 GMT</pubDate>
-            <description><![CDATA['Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features']]></description>
-            <content:encoded><![CDATA[<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.
-            </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37442649">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)]]></title>
             <link>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</link>
             <guid>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</guid>
@@ -210,7 +221,7 @@
             <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
             <content:encoded><![CDATA[<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.
             </p><p>
-                113 Points |  <a href="https://news.ycombinator.com/item?id=37441982">11 comments</a>
+                133 Points |  <a href="https://news.ycombinator.com/item?id=37441982">21 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -221,17 +232,6 @@
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
                 1 Points |  <a href="https://news.ycombinator.com/item?id=37441168">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TurboGP: A flexible and advanced Python based GP library (arxiv.org)]]></title>
-            <link>https://arxiv.org/abs/2309.00149</link>
-            <guid>https://arxiv.org/abs/2309.00149</guid>
-            <pubDate>Thu, 07 Sep 2023 13:21:17 GMT</pubDate>
-            <description><![CDATA[TurboGP: A Flexible and Advanced Python-Based GP Library]]></description>
-            <content:encoded><![CDATA[<p>TurboGP is a Python-based Genetic Programming (GP) library designed for machine learning tasks. It offers modern features not found in other GP implementations, such as island and cellular population schemes, various genetic operations, and online learning. One of TurboGP's unique features is its support for different types of GP nodes, allowing for different abstraction levels and making it suitable for processing diverse data sources. The library is particularly useful for neural and evolutionary computing and machine learning. The paper provides the arXiv identifier and DOI for further reference.
-            </p><p>
-                14 Points |  <a href="https://news.ycombinator.com/item?id=37418528">2 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -246,17 +246,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cisco Systems and Financialization (www.ineteconomics.org)]]></title>
-            <link>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</link>
-            <guid>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</guid>
-            <pubDate>Thu, 07 Sep 2023 06:34:22 GMT</pubDate>
-            <description><![CDATA[Cisco Systems' Financialization and its Impact on the US Technology Industry]]></description>
-            <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.
-            </p><p>
-                35 Points |  <a href="https://news.ycombinator.com/item?id=37415456">28 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
             <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
             <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
@@ -268,14 +257,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)]]></title>
-            <link>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</link>
-            <guid>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</guid>
-            <pubDate>Sat, 09 Sep 2023 06:00:57 GMT</pubDate>
-            <description><![CDATA[The Impact of Australia's Eucalyptus Tree on Global Wildfires]]></description>
-            <content:encoded><![CDATA[<p>The Role of Australia's Eucalyptus Tree in Global Wildfires
+            <title><![CDATA[Cisco Systems and Financialization (www.ineteconomics.org)]]></title>
+            <link>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</link>
+            <guid>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</guid>
+            <pubDate>Thu, 07 Sep 2023 06:34:22 GMT</pubDate>
+            <description><![CDATA[Cisco Systems' Financialization and its Impact on the US Technology Industry]]></description>
+            <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.
             </p><p>
-                10 Points |  <a href="https://news.ycombinator.com/item?id=37442671">1 comments</a>
+                35 Points |  <a href="https://news.ycombinator.com/item?id=37415456">28 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -290,14 +279,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)]]></title>
-            <link>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</link>
-            <guid>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</guid>
-            <pubDate>Fri, 08 Sep 2023 16:49:59 GMT</pubDate>
-            <description><![CDATA[Cerabyte's Ceramic Storage Technology Poised to Disrupt the Market]]></description>
-            <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also touts the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
+            <title><![CDATA[As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)]]></title>
+            <link>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</link>
+            <guid>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</guid>
+            <pubDate>Sat, 09 Sep 2023 06:00:57 GMT</pubDate>
+            <description><![CDATA[The Impact of Australia's Eucalyptus Tree on Global Wildfires]]></description>
+            <content:encoded><![CDATA[<p>The Role of Australia's Eucalyptus Tree in Global Wildfires
             </p><p>
-                128 Points |  <a href="https://news.ycombinator.com/item?id=37436092">62 comments</a>
+                10 Points |  <a href="https://news.ycombinator.com/item?id=37442671">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -309,6 +298,28 @@
             <content:encoded><![CDATA[<p>This is a brief description of a mobile app called 'More Pieces!' that is available for free on Android and iOS. The app allows users to choose different pieces and explore touch expression. The summary mentions that there is more information available about the app, including details about its creator and a press kit. The content is truncated, so it is unclear what specific features or functionality the app offers. However, the summary emphasizes that it is available on both Android and iOS platforms.
             </p><p>
                 699 Points |  <a href="https://news.ycombinator.com/item?id=37431644">200 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)]]></title>
+            <link>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</link>
+            <guid>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</guid>
+            <pubDate>Fri, 08 Sep 2023 16:49:59 GMT</pubDate>
+            <description><![CDATA[Cerabyte's Ceramic Storage Technology Poised to Disrupt the Market]]></description>
+            <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also touts the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
+            </p><p>
+                128 Points |  <a href="https://news.ycombinator.com/item?id=37436092">62 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[X challenges California’s new transparency law as unconstitutional (techcrunch.com)]]></title>
+            <link>https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/</link>
+            <guid>https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/</guid>
+            <pubDate>Sat, 09 Sep 2023 07:17:06 GMT</pubDate>
+            <description><![CDATA['X' Challenges California's New Transparency Law as Unconstitutional]]></description>
+            <content:encoded><![CDATA[<p>X, formerly known as Twitter, has filed a lawsuit challenging a new California law that requires social media companies to disclose their moderation practices. The law aims to bring transparency and accountability to social media content, but X argues that it violates their Constitutional right to free speech. The lawsuit claims that the law is a form of compelled speech and an unconstitutional government overreach. The outcome of the lawsuit will have implications for the balance between government involvement and private platform moderation practices.
+            </p><p>
+                5 Points |  <a href="https://news.ycombinator.com/item?id=37442998">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -331,17 +342,6 @@
             <content:encoded><![CDATA[<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film that captures interviews with individuals who went on to achieve fame and success in the tech industry. It explores the indie software scene in 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The film showcases the vulnerability and uncertainty experienced by tech startup founders in their early days. Despite its flaws, the documentary effectively captures the anxiety and anticipation surrounding the launch of a software product. The article also reveals surprising details, such as the fact that Fog Creek did not finance the documentary and the subsequent fate of the interns featured in the film.
             </p><p>
                 427 Points |  <a href="https://news.ycombinator.com/item?id=37433186">138 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Arctic Code Vault (archiveprogram.github.com)]]></title>
-            <link>https://archiveprogram.github.com/arctic-vault/</link>
-            <guid>https://archiveprogram.github.com/arctic-vault/</guid>
-            <pubDate>Fri, 08 Sep 2023 05:16:57 GMT</pubDate>
-            <description><![CDATA[GitHub Creates Arctic Code Vault to Preserve Public Repositories]]></description>
-            <content:encoded><![CDATA[<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is located in a decommissioned coal mine in the Svalbard archipelago, known for its stability and remoteness. The archive is expected to last 1,000 years due to the permafrost and the mine's proximity to the Global Seed Vault. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributors, GitHub designed the Arctic Code Vault Badge displayed on developers' profiles.
-            </p><p>
-                37 Points |  <a href="https://news.ycombinator.com/item?id=37429645">25 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
