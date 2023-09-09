@@ -11,10 +11,21 @@
     },
     "items": [
         {
+            "id": "https://benchmarks.llmonitor.com",
+            "content_html": "<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.\n            </p><p>\n                59 Points |  <a href=\"https://news.ycombinator.com/item?id=37445401\">30 comments</a>\n            </p>",
+            "url": "https://benchmarks.llmonitor.com",
+            "title": "Comparing 60 LLMs with a set of 20 prompts (benchmarks.llmonitor.com)",
+            "summary": "'Script Tests Reasoning and Creativity of 60+ Models Using Prompts'",
+            "date_modified": "2023-09-09T13:51:33.000Z",
+            "author": {
+                "name": "benchmarks.llmonitor.com"
+            }
+        },
+        {
             "id": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
-            "content_html": "<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.\n            </p><p>\n                78 Points |  <a href=\"https://news.ycombinator.com/item?id=37444268\">13 comments</a>\n            </p>",
+            "content_html": "<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.\n            </p><p>\n                137 Points |  <a href=\"https://news.ycombinator.com/item?id=37444268\">29 comments</a>\n            </p>",
             "url": "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22",
-            "title": "Every Type of Plastic Used by Lego (bricknerd.com)",
+            "title": "Every type of plastic used by Lego (2022) (bricknerd.com)",
             "summary": "The Many Types of Plastic Used By LEGO",
             "date_modified": "2023-09-09T11:43:59.000Z",
             "author": {
@@ -22,25 +33,45 @@
             }
         },
         {
-            "id": "https://www.zsa.io/wireless/",
-            "content_html": "<p>The CEO of ZSA Technology Lab explains why their keyboards are not wireless. He argues that while wireless technology may seem sleek and convenient, it comes with drawbacks such as battery degradation and limited lifespan. By sticking with cables, ZSA aims to create durable and long-lasting keyboards that can be easily repaired and customized. The CEO emphasizes the importance of making tools that last, rather than products designed to become obsolete.\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37445150\">0 comments</a>\n            </p>",
-            "url": "https://www.zsa.io/wireless/",
-            "title": "Why are your keyboards not wireless? (www.zsa.io)",
-            "summary": "'Why ZSA Technology Lab's Keyboards Are Not Wireless: A Focus on Durability and Longevity'",
-            "date_modified": "2023-09-09T13:28:46.000Z",
+            "id": "https://developer.penteston.com",
+            "content_html": "<p>PENTESTON offers API requests that enhance the security of computer systems, networks, and applications. These APIs allow developers and security professionals to integrate security features into their projects. To access the full capabilities of PENTESTON, users need an API key, which can be obtained by registering and logging into their account. With the API key, users can seamlessly integrate PENTESTON's scanning tools into their applications and ensure optimal network security.\n            </p><p>\n                9 Points |  <a href=\"https://news.ycombinator.com/item?id=37445582\">0 comments</a>\n            </p>",
+            "url": "https://developer.penteston.com",
+            "title": "Running over 20 top-notch cybersecurity tools with API (developer.penteston.com)",
+            "summary": "Enhance Your Network Security with PENTESTON's API Requests",
+            "date_modified": "2023-09-09T14:04:37.000Z",
             "author": {
-                "name": "www.zsa.io"
+                "name": "developer.penteston.com"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=37445668",
+            "content_html": "<p>No summary available\n            </p><p>\n                27 Points |  <a href=\"https://news.ycombinator.com/item?id=37445668\">17 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37445668",
+            "title": "Ask HN: Will Google delete inactive gmail accounts that forward email? (news.ycombinator.com)",
+            "date_modified": "2023-09-09T14:11:40.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
             }
         },
         {
             "id": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
-            "content_html": "<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.\n            </p><p>\n                298 Points |  <a href=\"https://news.ycombinator.com/item?id=37443644\">144 comments</a>\n            </p>",
+            "content_html": "<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.\n            </p><p>\n                387 Points |  <a href=\"https://news.ycombinator.com/item?id=37443644\">185 comments</a>\n            </p>",
             "url": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
             "title": "Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla (foundation.mozilla.org)",
             "summary": "foundation.mozilla.org Checking Site Connection Security with Cloudflare",
             "date_modified": "2023-09-09T09:39:44.000Z",
             "author": {
                 "name": "foundation.mozilla.org"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=37413926",
+            "content_html": "<p>No summary available\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">5 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37413926",
+            "title": "Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)",
+            "date_modified": "2023-09-07T02:16:49.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
             }
         },
         {
@@ -66,35 +97,24 @@
             }
         },
         {
+            "id": "https://news.ycombinator.com/item?id=37444477",
+            "content_html": "<p>No summary available\n            </p><p>\n                60 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">1 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37444477",
+            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
+            "date_modified": "2023-09-09T12:20:20.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
             "id": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
-            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                56 Points |  <a href=\"https://news.ycombinator.com/item?id=37444257\">34 comments</a>\n            </p>",
+            "content_html": "<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.\n            </p><p>\n                79 Points |  <a href=\"https://news.ycombinator.com/item?id=37444257\">50 comments</a>\n            </p>",
             "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
             "title": "Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)",
             "summary": "'Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76'",
             "date_modified": "2023-09-09T11:42:16.000Z",
             "author": {
                 "name": "www.washingtonpost.com"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37413926",
-            "content_html": "<p>No summary available\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37413926\">1 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37413926",
-            "title": "Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)",
-            "date_modified": "2023-09-07T02:16:49.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                156 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">95 comments</a>\n            </p>",
-            "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "title": "Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)",
-            "summary": "Optimizing Julia Code for Mandelbrot Set Calculation",
-            "date_modified": "2023-09-09T03:42:53.000Z",
-            "author": {
-                "name": "discourse.julialang.org"
             }
         },
         {
@@ -121,7 +141,7 @@
         },
         {
             "id": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
-            "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                31 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">11 comments</a>\n            </p>",
+            "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                45 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">24 comments</a>\n            </p>",
             "url": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
             "title": "What happens when you shift a register by more than the register size? (devblogs.microsoft.com)",
             "summary": "Different Processor Architectures Behave Differently When Shifting Registers",
@@ -131,18 +151,30 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37444477",
-            "content_html": "<p>No summary available\n            </p><p>\n                27 Points |  <a href=\"https://news.ycombinator.com/item?id=37444477\">1 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37444477",
-            "title": "CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)",
-            "date_modified": "2023-09-09T12:20:20.000Z",
+            "id": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
+            "content_html": "<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37445284\">20 comments</a>\n            </p>",
+            "url": "https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208",
+            "title": "Morocco earthquake kills more than 1,000 (www.nbcnews.com)",
+            "summary": "'Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates'",
+            "date_modified": "2023-09-09T13:40:15.000Z",
             "author": {
-                "name": "news.ycombinator.com"
+                "name": "www.nbcnews.com"
+            }
+        },
+        {
+            "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
+            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                156 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">95 comments</a>\n            </p>",
+            "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
+            "title": "Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)",
+            "summary": "Optimizing Julia Code for Mandelbrot Set Calculation",
+            "date_modified": "2023-09-09T03:42:53.000Z",
+            "author": {
+                "name": "discourse.julialang.org"
             }
         },
         {
             "id": "https://news.ycombinator.com/item?id=37444184",
-            "content_html": "<p>No summary available\n            </p><p>\n                41 Points |  <a href=\"https://news.ycombinator.com/item?id=37444184\">21 comments</a>\n            </p>",
+            "content_html": "<p>No summary available\n            </p><p>\n                55 Points |  <a href=\"https://news.ycombinator.com/item?id=37444184\">35 comments</a>\n            </p>",
             "url": "https://news.ycombinator.com/item?id=37444184",
             "title": "Ask HN: Looking for a resource on Linux kernel module development (news.ycombinator.com)",
             "date_modified": "2023-09-09T11:32:06.000Z",
@@ -152,7 +184,7 @@
         },
         {
             "id": "https://course.spacy.io/en/",
-            "content_html": "<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37442574\">22 comments</a>\n            </p>",
+            "content_html": "<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.\n            </p><p>\n                87 Points |  <a href=\"https://news.ycombinator.com/item?id=37442574\">32 comments</a>\n            </p>",
             "url": "https://course.spacy.io/en/",
             "title": "Advanced NLP with SpaCy (course.spacy.io)",
             "summary": "Mastering Natural Language Processing with spaCy",
@@ -162,25 +194,25 @@
             }
         },
         {
-            "id": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "content_html": "<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443395\">0 comments</a>\n            </p>",
-            "url": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "title": "Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)",
-            "summary": "'Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023",
-            "date_modified": "2023-09-09T08:44:07.000Z",
-            "author": {
-                "name": "icfp23.sigplan.org"
-            }
-        },
-        {
             "id": "https://bills.parliament.uk/publications/46675/documents/1885",
-            "content_html": "<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.\n            </p><p>\n                17 Points |  <a href=\"https://news.ycombinator.com/item?id=37443634\">1 comments</a>\n            </p>",
+            "content_html": "<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.\n            </p><p>\n                31 Points |  <a href=\"https://news.ycombinator.com/item?id=37443634\">11 comments</a>\n            </p>",
             "url": "https://bills.parliament.uk/publications/46675/documents/1885",
             "title": "Google's Statement on the UK Online Safety Bill (bills.parliament.uk)",
             "summary": "Security Check on bills.parliament.uk",
             "date_modified": "2023-09-09T09:36:58.000Z",
             "author": {
                 "name": "bills.parliament.uk"
+            }
+        },
+        {
+            "id": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
+            "content_html": "<p>Telescript is an agent-oriented programming language developed by General Magic as part of the Magic Cap system. It allowed end-user devices to upload programs to servers and take advantage of their capabilities. However, General Magic failed to find a niche in the market and Telescript services were eventually deprecated. The language was object-oriented and used a modified C-like syntax. It introduced the concepts of agents and places, which interacted with each other to perform tasks.\n            </p><p>\n                11 Points |  <a href=\"https://news.ycombinator.com/item?id=37429362\">1 comments</a>\n            </p>",
+            "url": "https://en.wikipedia.org/wiki/Telescript_(programming_language)",
+            "title": "The Telescript Programming Language (en.wikipedia.org)",
+            "summary": "'Telescript: An Agent-Oriented Programming Language for Uploading Programs to Servers'",
+            "date_modified": "2023-09-08T04:34:38.000Z",
+            "author": {
+                "name": "en.wikipedia.org"
             }
         },
         {
@@ -195,17 +227,6 @@
             }
         },
         {
-            "id": "https://krebsonsecurity.com/",
-            "content_html": "<p>Security experts believe that hackers have successfully cracked open some of the stolen LastPass vaults, leading to a series of cryptocurrency heists targeting security-conscious individuals. The victims, who were all longtime cryptocurrency investors, had one common factor: they had previously used LastPass to store their 'seed phrase,' the private key needed to access their cryptocurrency investments. The stolen funds were moved to the same blockchain addresses, allowing researchers to link the thefts and identify over 150 victims who lost more than $35 million in crypto. LastPass declined to comment on the research.\n            </p><p>\n                40 Points |  <a href=\"https://news.ycombinator.com/item?id=37442927\">24 comments</a>\n            </p>",
-            "url": "https://krebsonsecurity.com/",
-            "title": "Experts fear crooks are cracking keys stolen in LastPass breach (krebsonsecurity.com)",
-            "summary": "'Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach'",
-            "date_modified": "2023-09-09T07:04:40.000Z",
-            "author": {
-                "name": "krebsonsecurity.com"
-            }
-        },
-        {
             "id": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
             "content_html": "<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.\n            </p><p>\n                45 Points |  <a href=\"https://news.ycombinator.com/item?id=37442649\">10 comments</a>\n            </p>",
             "url": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
@@ -217,79 +238,46 @@
             }
         },
         {
-            "id": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
-            "content_html": "<p>N/A\n            </p><p>\n                149 Points |  <a href=\"https://news.ycombinator.com/item?id=37440631\">23 comments</a>\n            </p>",
-            "url": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
-            "title": "LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)",
-            "summary": "N/A",
-            "date_modified": "2023-09-08T23:38:39.000Z",
-            "author": {
-                "name": "msprout.notion.site"
-            }
-        },
-        {
-            "id": "https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php",
-            "content_html": "<p>The user is being prompted to confirm their humanity by pressing and holding a button. If they are experiencing any issues, a reference ID is provided for troubleshooting purposes.\n            </p><p>\n                25 Points |  <a href=\"https://news.ycombinator.com/item?id=37444631\">22 comments</a>\n            </p>",
-            "url": "https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php",
-            "title": "3 Republicans just saved California’s magic mushroom bill (www.sfgate.com)",
-            "summary": "Confirming Humanity: Press & Hold to Verify",
-            "date_modified": "2023-09-09T12:38:00.000Z",
-            "author": {
-                "name": "www.sfgate.com"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37444607",
-            "content_html": "<p>No summary available\n            </p><p>\n                31 Points |  <a href=\"https://news.ycombinator.com/item?id=37444607\">20 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37444607",
-            "title": "U.S. Government Is Monitoring All Global Entry Members Daily (news.ycombinator.com)",
-            "date_modified": "2023-09-09T12:36:00.000Z",
+            "id": "https://news.ycombinator.com/item?id=37444841",
+            "content_html": "<p>No summary available\n            </p><p>\n                19 Points |  <a href=\"https://news.ycombinator.com/item?id=37444841\">9 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37444841",
+            "title": "Google redraws the borders on maps depending on who’s looking (2020) (news.ycombinator.com)",
+            "date_modified": "2023-09-09T13:00:12.000Z",
             "author": {
                 "name": "news.ycombinator.com"
             }
         },
         {
+            "id": "https://privacysandbox.com/intl/en_us/news/privacy-sandbox-for-the-web-reaches-general-availability/",
+            "content_html": "<p>Google's Privacy Sandbox for the Web has reached 'general availability' on Chrome, marking a significant step towards a more private web. The initiative, introduced in 2019, aims to improve privacy while still providing businesses with necessary tools. The general availability of Privacy Sandbox APIs allows advertising providers and developers to scale the usage of these technologies. Additionally, new ad privacy controls have been rolled out in Chrome, giving users more control over how Privacy Sandbox technologies are used to deliver ads.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37444159\">1 comments</a>\n            </p>",
+            "url": "https://privacysandbox.com/intl/en_us/news/privacy-sandbox-for-the-web-reaches-general-availability/",
+            "title": "Privacy Sandbox for the Web reaches general availability (privacysandbox.com)",
+            "summary": "'Privacy Sandbox for the Web' Reaches General Availability on Chrome",
+            "date_modified": "2023-09-09T11:27:54.000Z",
+            "author": {
+                "name": "privacysandbox.com"
+            }
+        },
+        {
+            "id": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
+            "content_html": "<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443395\">0 comments</a>\n            </p>",
+            "url": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
+            "title": "Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)",
+            "summary": "'Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023",
+            "date_modified": "2023-09-09T08:44:07.000Z",
+            "author": {
+                "name": "icfp23.sigplan.org"
+            }
+        },
+        {
             "id": "https://timotijhof.net/posts/2023/an-internet-of-php/",
-            "content_html": "<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes\n            </p><p>\n                200 Points |  <a href=\"https://news.ycombinator.com/item?id=37415747\">181 comments</a>\n            </p>",
+            "content_html": "<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes\n            </p><p>\n                230 Points |  <a href=\"https://news.ycombinator.com/item?id=37415747\">208 comments</a>\n            </p>",
             "url": "https://timotijhof.net/posts/2023/an-internet-of-php/",
             "title": "An Internet of PHP (timotijhof.net)",
             "summary": "PHP's Dominance in the Internet: Statistics and Anecdotes",
             "date_modified": "2023-09-07T07:23:33.000Z",
             "author": {
                 "name": "timotijhof.net"
-            }
-        },
-        {
-            "id": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
-            "content_html": "<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!\n            </p><p>\n                42 Points |  <a href=\"https://news.ycombinator.com/item?id=37414659\">11 comments</a>\n            </p>",
-            "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
-            "title": "The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)",
-            "summary": "'Spot It!' Card Game: The Math Behind the Matching Symbols",
-            "date_modified": "2023-09-07T04:08:50.000Z",
-            "author": {
-                "name": "www.smithsonianmag.com"
-            }
-        },
-        {
-            "id": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
-            "content_html": "<p>The Creative Class, consisting of creators, curators, critics, and hangers-on, has a distinct aesthetic that blends businesswear with vintage, sports wear, and work wear. They treat their job as leisure and their leisure as job, reflecting a cool, nonchalant, versatile, durable, and comfortable style. The Creative Class accumulates cultural capital by commenting, repurposing, and reinterpreting past and present culture, creating something modern and new while maintaining familiarity. They play a critical role in the modern economy by directing consumers' time, attention, and money towards aspirational things, places, and ideas.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37416882\">0 comments</a>\n            </p>",
-            "url": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
-            "title": "Creative Money Aesthetics (andjelicaaa.substack.com)",
-            "summary": "The Aesthetic and Influence of the Creative Class in Business",
-            "date_modified": "2023-09-07T10:18:43.000Z",
-            "author": {
-                "name": "andjelicaaa.substack.com"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html",
-            "content_html": "<p>'Stop Making Sense' is a concert documentary by Talking Heads that has been restored for its 40th anniversary. The film, directed by Jonathan Demme, will premiere at the Toronto International Film Festival and then be shown in theaters. The documentary captures the band's unique staging and eclectic music, which blended rock, funk, and African rhythms. The restoration includes an expanded audio album with the full concert set. The film is considered a landmark achievement and a prophetic piece of art.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37444113\">1 comments</a>\n            </p>",
-            "url": "https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html",
-            "title": "‘Stop Making Sense’ Is Back, and Talking Heads Have More to Say (www.nytimes.com)",
-            "summary": "'Stop Making Sense' Concert Documentary Restored for 40th Anniversary",
-            "date_modified": "2023-09-09T11:20:24.000Z",
-            "author": {
-                "name": "www.nytimes.com"
             }
         },
         {
@@ -304,25 +292,36 @@
             }
         },
         {
-            "id": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
-            "content_html": "<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">11 comments</a>\n            </p>",
-            "url": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
-            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)",
-            "summary": "Content Unavailable: Contact Support for Assistance",
-            "date_modified": "2023-09-08T23:17:21.000Z",
+            "id": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
+            "content_html": "<p>The Creative Class, consisting of creators, curators, critics, and hangers-on, has a distinct aesthetic that blends businesswear with vintage, sports wear, and work wear. They treat their job as leisure and their leisure as job, reflecting a cool, nonchalant, versatile, durable, and comfortable style. The Creative Class accumulates cultural capital by commenting, repurposing, and reinterpreting past and present culture, creating something modern and new while maintaining familiarity. They play a critical role in the modern economy by directing consumers' time, attention, and money towards aspirational things, places, and ideas.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37416882\">0 comments</a>\n            </p>",
+            "url": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
+            "title": "Creative Money Aesthetics (andjelicaaa.substack.com)",
+            "summary": "The Aesthetic and Influence of the Creative Class in Business",
+            "date_modified": "2023-09-07T10:18:43.000Z",
             "author": {
-                "name": "www.sciencedirect.com"
+                "name": "andjelicaaa.substack.com"
             }
         },
         {
-            "id": "https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html",
-            "content_html": "<p>A federal appeals court ruled that the Biden administration likely violated the First Amendment by pressuring social media platforms to remove misleading or false content about Covid-19. The court found that the White House and other government agencies had coerced the platforms and influenced their decision-making processes. The ruling narrows the scope of a preliminary injunction, limiting its impact to the White House, the Surgeon General's Office, the FBI, and the CDC. This decision is seen as a significant victory for free speech in the internet age.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37444340\">56 comments</a>\n            </p>",
-            "url": "https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html",
-            "title": "Appeals Court Rules White House Overstepped First Amendment on Social Media (www.nytimes.com)",
-            "summary": "'Appeals Court Rules Biden Administration Overstepped First Amendment on Social Media'",
-            "date_modified": "2023-09-09T11:58:48.000Z",
+            "id": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
+            "content_html": "<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!\n            </p><p>\n                42 Points |  <a href=\"https://news.ycombinator.com/item?id=37414659\">11 comments</a>\n            </p>",
+            "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
+            "title": "The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)",
+            "summary": "'Spot It!' Card Game: The Math Behind the Matching Symbols",
+            "date_modified": "2023-09-07T04:08:50.000Z",
             "author": {
-                "name": "www.nytimes.com"
+                "name": "www.smithsonianmag.com"
+            }
+        },
+        {
+            "id": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
+            "content_html": "<p>N/A\n            </p><p>\n                8 Points |  <a href=\"https://news.ycombinator.com/item?id=37444066\">1 comments</a>\n            </p>",
+            "url": "https://www.thebookseller.com/features/berkeley-hotel-hostage",
+            "title": "The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)",
+            "summary": "N/A",
+            "date_modified": "2023-09-09T11:12:22.000Z",
+            "author": {
+                "name": "www.thebookseller.com"
             }
         },
         {
