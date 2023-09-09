@@ -23,7 +23,7 @@
         },
         {
             "id": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
-            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.\n            </p><p>\n                97 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">50 comments</a>\n            </p>",
+            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.\n            </p><p>\n                127 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">75 comments</a>\n            </p>",
             "url": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
             "title": "Snoop unto them as they snoop unto you (blog.dataparty.xyz)",
             "summary": "DEFCON 31 Releases Official Videos and Offers Support Options",
@@ -33,19 +33,8 @@
             }
         },
         {
-            "id": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
-            "content_html": "<p>The website www.science.org is checking the security of your connection before allowing access. This is likely due to the use of Cloudflare for performance and security. The Ray ID provided is 803b4673adb9ce94. It is important for websites to ensure secure connections to protect user data. The review process is necessary to prevent unauthorized access or data breaches. Once the security check is completed, users will be able to proceed to the website.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">0 comments</a>\n            </p>",
-            "url": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
-            "title": "Most bees live underground. X-ray images reveal how they build their nests (www.science.org)",
-            "summary": "Security Check Required for Access to www.science.org",
-            "date_modified": "2023-09-08T23:17:21.000Z",
-            "author": {
-                "name": "www.science.org"
-            }
-        },
-        {
             "id": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
-            "content_html": "<p>N/A\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37440631\">0 comments</a>\n            </p>",
+            "content_html": "<p>N/A\n            </p><p>\n                94 Points |  <a href=\"https://news.ycombinator.com/item?id=37440631\">10 comments</a>\n            </p>",
             "url": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
             "title": "LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)",
             "summary": "N/A",
@@ -55,8 +44,30 @@
             }
         },
         {
+            "id": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
+            "content_html": "<p>The website www.science.org is checking the security of your connection before allowing access. This is likely due to the use of Cloudflare for performance and security. The Ray ID provided is 803b4673adb9ce94. It is important for websites to ensure secure connections to protect user data. The review process is necessary to prevent unauthorized access or data breaches. Once the security check is completed, users will be able to proceed to the website.\n            </p><p>\n                66 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">10 comments</a>\n            </p>",
+            "url": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
+            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.science.org)",
+            "summary": "Security Check Required for Access to www.science.org",
+            "date_modified": "2023-09-08T23:17:21.000Z",
+            "author": {
+                "name": "www.science.org"
+            }
+        },
+        {
+            "id": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
+            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity to observe it. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun only every 437 years, spending most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                12 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">0 comments</a>\n            </p>",
+            "url": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
+            "title": "Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)",
+            "summary": "Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend",
+            "date_modified": "2023-09-07T00:48:16.000Z",
+            "author": {
+                "name": "www.theguardian.com"
+            }
+        },
+        {
             "id": "https://github.com/dancrossnyc/rxv64",
-            "content_html": "<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37439391\">0 comments</a>\n            </p>",
+            "content_html": "<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.\n            </p><p>\n                86 Points |  <a href=\"https://news.ycombinator.com/item?id=37439391\">14 comments</a>\n            </p>",
             "url": "https://github.com/dancrossnyc/rxv64",
             "title": "The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)",
             "summary": "rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust",
@@ -99,13 +110,14 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37441168",
-            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37441168",
-            "title": "Generally Intelligent (YC S17) Is Hiring Technical Interviewers (news.ycombinator.com)",
-            "date_modified": "2023-09-09T01:02:29.000Z",
+            "id": "https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/",
+            "content_html": "<p>Intuit has been ruled by the Federal Trade Commission's chief administrative law judge to have violated US law with deceptive advertising for TurboTax. The judge ordered Intuit to stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the judge's ruling as being in favor of the FTC's own lawsuit. The ruling stated that Intuit engaged in deceptive advertising by falsely claiming that consumers could file their taxes online for free using TurboTax. If the ruling survives appeal, it will be in effect for 20 years.\n            </p><p>\n                16 Points |  <a href=\"https://news.ycombinator.com/item?id=37441982\">1 comments</a>\n            </p>",
+            "url": "https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/",
+            "title": "FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)",
+            "summary": "FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free'",
+            "date_modified": "2023-09-09T03:26:37.000Z",
             "author": {
-                "name": "news.ycombinator.com"
+                "name": "arstechnica.com"
             }
         },
         {
@@ -120,19 +132,18 @@
             }
         },
         {
-            "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
-            "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and IoT. This is due to the company's shift from innovation to financialization, prioritizing stock buybacks over investments in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for technological advancements. The company's focus on maximizing shareholder value has hindered its competitive position in the US information-and-communication-technology industry. This article explores Cisco's transformation from an innovative enterprise to a financialized one and discusses the implications for the industry's global competitiveness.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">0 comments</a>\n            </p>",
-            "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
-            "title": "Losing Out in Critical Technologies: Cisco Systems and Financialization (www.ineteconomics.org)",
-            "summary": "Cisco Systems' Financialization and its Impact on US Technology Competitiveness",
-            "date_modified": "2023-09-07T06:34:22.000Z",
+            "id": "https://news.ycombinator.com/item?id=37441168",
+            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37441168",
+            "title": "Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)",
+            "date_modified": "2023-09-09T01:02:29.000Z",
             "author": {
-                "name": "www.ineteconomics.org"
+                "name": "news.ycombinator.com"
             }
         },
         {
             "id": "https://twitter.com/typesfast/status/1700092765798048093",
-            "content_html": "<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.\n            </p><p>\n                249 Points |  <a href=\"https://news.ycombinator.com/item?id=37433681\">301 comments</a>\n            </p>",
+            "content_html": "<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.\n            </p><p>\n                278 Points |  <a href=\"https://news.ycombinator.com/item?id=37433681\">349 comments</a>\n            </p>",
             "url": "https://twitter.com/typesfast/status/1700092765798048093",
             "title": "Flexport is rescinding a bunch of signed offer letters (twitter.com)",
             "summary": "Twitter Requires Switch to Supported Browser",
@@ -143,7 +154,7 @@
         },
         {
             "id": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
-            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                730 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">245 comments</a>\n            </p>",
+            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                810 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">277 comments</a>\n            </p>",
             "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
             "title": "Bun v1.0.0 (github.com)",
             "summary": "Bun v1.0 Release: Bug Fixes, Improvements, and New Features",
@@ -153,14 +164,14 @@
             }
         },
         {
-            "id": "https://www.ask-polly.com/p/how-do-you-know-when-your-art-is",
-            "content_html": "<p>Navigating the uncertainty of artistic success and the fear of judgment is a natural part of the creative process. The author shares their own experiences of self-doubt and the importance of tolerating discomfort in order to grow as an artist. They emphasize that feeling negative and upset about one's art is a sign of caring deeply about it, and that enduring the pain of creating art can ultimately make one stronger. The article concludes by highlighting the universal fear of being unloved and the transformative power of facing that fear through art.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37412887\">10 comments</a>\n            </p>",
-            "url": "https://www.ask-polly.com/p/how-do-you-know-when-your-art-is",
-            "title": "'How Do You Know When Your Art Is Good?' (www.ask-polly.com)",
-            "summary": "Embracing Uncertainty and Enduring Pain: The Journey of an Artist",
-            "date_modified": "2023-09-06T23:39:18.000Z",
+            "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and IoT. This is due to the company's shift from innovation to financialization, prioritizing stock buybacks over investments in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for technological advancements. The company's focus on maximizing shareholder value has hindered its competitive position in the US information-and-communication-technology industry. This article explores Cisco's transformation from an innovative enterprise to a financialized one and discusses the implications for the industry's global competitiveness.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">0 comments</a>\n            </p>",
+            "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "title": "Losing Out in Critical Technologies: Cisco Systems and Financialization (www.ineteconomics.org)",
+            "summary": "Cisco Systems' Financialization and its Impact on US Technology Competitiveness",
+            "date_modified": "2023-09-07T06:34:22.000Z",
             "author": {
-                "name": "www.ask-polly.com"
+                "name": "www.ineteconomics.org"
             }
         },
         {
@@ -186,17 +197,6 @@
             }
         },
         {
-            "id": "https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9",
-            "content_html": "<p>Uber CEO Dara Khosrowshahi reveals that his time as a driver for the company showed him a lack of quality in the driver product. He made an all-hands presentation titled 'Why we suck' based on his experiences. Khosrowshahi realized that the company was too focused on the rider and eater product and didn't pay enough attention to the driver product. He later shared what he learned with the company and set a new expectation. Despite his experiences, Khosrowshahi underestimated the cost of an Uber ride in New York City. \n            </p><p>\n                50 Points |  <a href=\"https://news.ycombinator.com/item?id=37441125\">58 comments</a>\n            </p>",
-            "url": "https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9",
-            "title": "Uber CEO’s time moonlighting as a driver sparked all-hands called 'Why we suck.' (www.businessinsider.com)",
-            "summary": "Uber CEO's Time as a Driver Reveals Lack of Quality in Driver Product",
-            "date_modified": "2023-09-09T00:55:01.000Z",
-            "author": {
-                "name": "www.businessinsider.com"
-            }
-        },
-        {
             "id": "https://www.science.org/doi/10.1126/scitranslmed.abq3916",
             "content_html": "<p>The website www.science.org is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is 803b0eb75fbdcf4d, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37412738\">0 comments</a>\n            </p>",
             "url": "https://www.science.org/doi/10.1126/scitranslmed.abq3916",
@@ -205,6 +205,17 @@
             "date_modified": "2023-09-06T23:21:52.000Z",
             "author": {
                 "name": "www.science.org"
+            }
+        },
+        {
+            "id": "https://arxiv.org/abs/2309.00149",
+            "content_html": "<p>TurboGP is a Python-based Genetic Programming (GP) library designed for machine learning tasks. It offers modern features not found in other GP implementations, including island and cellular population schemes, various genetic operations, and online learning. One of TurboGP's unique features is its support for different types of GP nodes, allowing for different abstraction levels and making it useful for processing diverse data sources. The paper provides a brief overview of TurboGP's capabilities and highlights its potential applications in neural and evolutionary computing and machine learning. The library's flexibility and advanced features make it a valuable tool for researchers and practitioners in the field.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37418528\">0 comments</a>\n            </p>",
+            "url": "https://arxiv.org/abs/2309.00149",
+            "title": "TurboGP: A flexible and advanced Python based GP library (arxiv.org)",
+            "summary": "TurboGP: A Flexible and Advanced Python-Based GP Library",
+            "date_modified": "2023-09-07T13:21:17.000Z",
+            "author": {
+                "name": "arxiv.org"
             }
         },
         {
@@ -241,19 +252,8 @@
             }
         },
         {
-            "id": "http://touchpianist.com/",
-            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                584 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">186 comments</a>\n            </p>",
-            "url": "http://touchpianist.com/",
-            "title": "Touch Pianist (touchpianist.com)",
-            "summary": "Menu of Pieces on a Mobile App",
-            "date_modified": "2023-09-08T09:56:08.000Z",
-            "author": {
-                "name": "touchpianist.com"
-            }
-        },
-        {
             "id": "https://github-guessr.vercel.app/",
-            "content_html": "<p>N/A\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37432067\">27 comments</a>\n            </p>",
+            "content_html": "<p>N/A\n            </p><p>\n                80 Points |  <a href=\"https://news.ycombinator.com/item?id=37432067\">38 comments</a>\n            </p>",
             "url": "https://github-guessr.vercel.app/",
             "title": "GitHubGuessr (github-guessr.vercel.app)",
             "summary": "N/A",
@@ -263,14 +263,14 @@
             }
         },
         {
-            "id": "https://eprint.iacr.org/2023/1053",
-            "content_html": "<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431433\">0 comments</a>\n            </p>",
-            "url": "https://eprint.iacr.org/2023/1053",
-            "title": "ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)",
-            "summary": "ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet",
-            "date_modified": "2023-09-08T09:24:25.000Z",
+            "id": "http://touchpianist.com/",
+            "content_html": "<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.\n            </p><p>\n                584 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">186 comments</a>\n            </p>",
+            "url": "http://touchpianist.com/",
+            "title": "Touch Pianist (touchpianist.com)",
+            "summary": "Menu of Pieces on a Mobile App",
+            "date_modified": "2023-09-08T09:56:08.000Z",
             "author": {
-                "name": "eprint.iacr.org"
+                "name": "touchpianist.com"
             }
         },
         {
@@ -296,6 +296,17 @@
             }
         },
         {
+            "id": "https://eprint.iacr.org/2023/1053",
+            "content_html": "<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431433\">0 comments</a>\n            </p>",
+            "url": "https://eprint.iacr.org/2023/1053",
+            "title": "ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)",
+            "summary": "ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet",
+            "date_modified": "2023-09-08T09:24:25.000Z",
+            "author": {
+                "name": "eprint.iacr.org"
+            }
+        },
+        {
             "id": "https://david.rothlis.net/emacs/howtolearn.html",
             "content_html": "<p>This guide to Emacs is aimed at computer programmers who want to master the text editor. It acknowledges that the learning curve for Emacs is steep but promises to help users reach the next level of programming in months rather than years. The guide emphasizes self-driven discovery using Emacs' built-in help, debugging facilities, and source code. The author asks for commitment and patience from readers, urging them to give up their favorite IDE's features for at least a month or two. The next section explores why Emacs is worth the effort.\n            </p><p>\n                52 Points |  <a href=\"https://news.ycombinator.com/item?id=37438842\">21 comments</a>\n            </p>",
             "url": "https://david.rothlis.net/emacs/howtolearn.html",
@@ -307,28 +318,6 @@
             }
         },
         {
-            "id": "https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/",
-            "content_html": "<p>Atari acquires retro gaming forum AtariAge to enhance its IP and games available for its hardware. The founder of AtariAge will become Atari's internal historian, and Atari has promised not to censor speech on the forums. The acquisition has been mostly met with approval by the community, as enthusiasm for an obsolete platform alone is not sustainable. However, some users have expressed concerns about monetization and Atari's reputation. The acquisition aligns with Atari's plans to revive the 2600 console and support vintage cartridges.\n            </p><p>\n                15 Points |  <a href=\"https://news.ycombinator.com/item?id=37440943\">3 comments</a>\n            </p>",
-            "url": "https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/",
-            "title": "Atari pulls nostalgia power move and buys homebrew community forum (www.theregister.com)",
-            "summary": "Atari Acquires Retro Gaming Forum AtariAge to Enhance IP and Games",
-            "date_modified": "2023-09-09T00:20:36.000Z",
-            "author": {
-                "name": "www.theregister.com"
-            }
-        },
-        {
-            "id": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
-            "content_html": "<p>Fixing catastrophic backtracking in regular expressions in Python by using a non-greedy pattern. The article discusses how a regex pattern with a greedy subpattern can lead to exponential runtime on strings with many newlines, causing the application to become stuck. By making the repeating subpattern non-greedy and adding the re.DOTALL flag to match newlines, the runtime becomes linear instead of exponential. The article provides a comparison of the performance between the problematic regex and the fixed regex using a test script. The results show that the problematic regex performs poorly on long input sequences, while the fixed regex scales much better. The article concludes with a log-log plot illustrating the exponential relationship between input size and execution time for the problematic regex.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37422355\">0 comments</a>\n            </p>",
-            "url": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
-            "title": "Debugging Catastrophic Backtracking for Regular Expressions in Python (krishnanchandra.com)",
-            "summary": "Fixing Catastrophic Backtracking in Regular Expressions in Python",
-            "date_modified": "2023-09-07T17:22:12.000Z",
-            "author": {
-                "name": "krishnanchandra.com"
-            }
-        },
-        {
             "id": "https://emoji.fly.dev",
             "content_html": "<p>This collection of Slackmoji AI Edition features a wide range of emojis, including various characters, objects, and concepts. Some notable emojis include a bender, speedometer, flag of the most evil country, confused face, demon, Entei, Gopher, and a gray cat with a very long tongue. There are also emojis representing famous personalities like Donald Trump and Philip J. Fry. Additionally, there are emojis that depict controversial or inappropriate themes such as a gay Hitler and a Nazi. Overall, this collection offers a diverse range of emojis for users to express themselves in Slack conversations.\n            </p><p>\n                267 Points |  <a href=\"https://news.ycombinator.com/item?id=37433523\">128 comments</a>\n            </p>",
             "url": "https://emoji.fly.dev",
@@ -337,6 +326,17 @@
             "date_modified": "2023-09-08T13:54:13.000Z",
             "author": {
                 "name": "emoji.fly.dev"
+            }
+        },
+        {
+            "id": "https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution",
+            "content_html": "<p>Air pollution degrades the scent of flowers, making it difficult for bees to find them, according to a study by the UK Centre for Ecology & Hydrology and several universities. The research found that ground-level ozone, formed when nitrogen oxide emissions react with volatile organic compounds, changes the size and scent of floral odour plumes. This reduced honeybees' ability to recognise odours by up to 90% from just a few metres away. The study suggests that ozone could have a negative impact on wildflower abundance and crop yields, with implications for food security. The research highlights the need to take action on air pollution to protect pollinators and preserve biodiversity.\n            </p><p>\n                121 Points |  <a href=\"https://news.ycombinator.com/item?id=37434381\">24 comments</a>\n            </p>",
+            "url": "https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution",
+            "title": "Bees struggle to find flowers because of air pollution (www.birmingham.ac.uk)",
+            "summary": "Air pollution degrades floral scent, making it difficult for bees to find flowers",
+            "date_modified": "2023-09-08T14:59:13.000Z",
+            "author": {
+                "name": "www.birmingham.ac.uk"
             }
         }
     ]
