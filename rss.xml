@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 20:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 20:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,7 +23,18 @@
             <description><![CDATA['Script Tests Reasoning and Creativity of 60+ Models Using Prompts']]></description>
             <content:encoded><![CDATA[<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.
             </p><p>
-                316 Points |  <a href="https://news.ycombinator.com/item?id=37445401">191 comments</a>
+                359 Points |  <a href="https://news.ycombinator.com/item?id=37445401">219 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[I used a Game Boy camera for Facetime video calls in iPadOS 17 (www.macstories.net)]]></title>
+            <link>https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/</link>
+            <guid>https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/</guid>
+            <pubDate>Fri, 08 Sep 2023 02:26:44 GMT</pubDate>
+            <description><![CDATA['I Used a Game Boy Camera for FaceTime Video Calls in iPadOS 17 and It Was Glorious']]></description>
+            <content:encoded><![CDATA[<p>iPadOS 17 now supports UVC (USB Video Class) devices, allowing iPads to recognize external webcams, cameras, and other devices connected over USB-C. Federico Viticci tested this feature and found that he could use a Game Boy Camera as his iPad Pro's webcam during FaceTime calls. He also experimented with using a game capture card to play Nintendo Switch and Steam Deck games on his iPad's display. This unexpected functionality showcases the versatility of iPadOS 17 and its potential for creative and gaming applications.
+            </p><p>
+                17 Points |  <a href="https://news.ycombinator.com/item?id=37428491">4 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -38,17 +49,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[You might want async in your project (notgull.net)]]></title>
-            <link>https://notgull.net/why-you-want-async/</link>
-            <guid>https://notgull.net/why-you-want-async/</guid>
-            <pubDate>Sat, 09 Sep 2023 18:17:56 GMT</pubDate>
-            <description><![CDATA['Why you might actually want async in your project']]></description>
-            <content:encoded><![CDATA[<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.
-            </p><p>
-                29 Points |  <a href="https://news.ycombinator.com/item?id=37448460">10 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Every type of plastic used by LEGO (2022) (bricknerd.com)]]></title>
             <link>https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22</link>
             <guid>https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22</guid>
@@ -57,17 +57,6 @@
             <content:encoded><![CDATA[<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.
             </p><p>
                 249 Points |  <a href="https://news.ycombinator.com/item?id=37444268">76 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
-            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
-            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
-            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
-            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
-            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
-            </p><p>
-                16 Points |  <a href="https://news.ycombinator.com/item?id=37448005">2 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -93,6 +82,28 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
+            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
+            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
+            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
+            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
+            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
+            </p><p>
+                16 Points |  <a href="https://news.ycombinator.com/item?id=37448005">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The era-defining aesthetic of “In the Mood for Love” (www.newyorker.com)]]></title>
+            <link>https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love</link>
+            <guid>https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love</guid>
+            <pubDate>Wed, 06 Sep 2023 23:55:59 GMT</pubDate>
+            <description><![CDATA['In the Mood for Love': Wong Kar Wai's Influential Masterpiece]]></description>
+            <content:encoded><![CDATA[<p>Wong Kar Wai's 2000 film 'In the Mood for Love' has had a significant influence on popular culture, with its unique aesthetic and storytelling. The film, set in 1960s Hong Kong, follows two individuals who discover that their spouses are having an affair and become entangled themselves. Wong's personal history and diverse influences shaped the film's style, which combines elements of French New Wave filmmaking, American mystery, and Chinese literature. 'In the Mood for Love' is a visually stunning and emotionally resonant work that continues to captivate audiences.
+            </p><p>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37413027">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Birth of the Gentoo Linux Distribution (www.funtoo.org)]]></title>
             <link>https://www.funtoo.org/Making_the_Distribution,_Part_1</link>
             <guid>https://www.funtoo.org/Making_the_Distribution,_Part_1</guid>
@@ -104,14 +115,13 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The end of the subscription era is coming (nickfthilton.medium.com)]]></title>
-            <link>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</link>
-            <guid>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</guid>
-            <pubDate>Sat, 09 Sep 2023 17:36:41 GMT</pubDate>
-            <description><![CDATA[The Impact of Subscription Models on Media and Creators]]></description>
-            <content:encoded><![CDATA[<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.
+            <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37432336</link>
+            <guid>https://news.ycombinator.com/item?id=37432336</guid>
+            <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                82 Points |  <a href="https://news.ycombinator.com/item?id=37447915">63 comments</a>
+                38 Points |  <a href="https://news.ycombinator.com/item?id=37432336">32 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -126,14 +136,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[I used a Game Boy camera for Facetime video calls in iPadOS 17 (www.macstories.net)]]></title>
-            <link>https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/</link>
-            <guid>https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/</guid>
-            <pubDate>Fri, 08 Sep 2023 02:26:44 GMT</pubDate>
-            <description><![CDATA['I Used a Game Boy Camera for FaceTime Video Calls in iPadOS 17 and It Was Glorious']]></description>
-            <content:encoded><![CDATA[<p>iPadOS 17 now supports UVC (USB Video Class) devices, allowing iPads to recognize external webcams, cameras, and other devices connected over USB-C. Federico Viticci tested this feature and found that he could use a Game Boy Camera as his iPad Pro's webcam during FaceTime calls. He also experimented with using a game capture card to play Nintendo Switch and Steam Deck games on his iPad's display. This unexpected functionality showcases the versatility of iPadOS 17 and its potential for creative and gaming applications.
+            <title><![CDATA[Order of the Occult Hand (en.wikipedia.org)]]></title>
+            <link>https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand</link>
+            <guid>https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand</guid>
+            <pubDate>Sat, 09 Sep 2023 19:53:38 GMT</pubDate>
+            <description><![CDATA[The Order of the Occult Hand: A Secret Society of Journalists]]></description>
+            <content:encoded><![CDATA[<p>The Order of the Occult Hand is a secret society of American journalists who insert the phrase 'It was as if an occult hand had...' into their articles as an inside joke. The phrase was introduced by Joseph Flanders in 1965, and his colleagues formed the Order to commemorate it. The tradition spread to other media outlets and even internationally. The Order's secrecy was exposed in 2004, but it continues to operate and has chosen a new secret phrase in 2006. In 2020, a journalism challenge was announced to encourage the use of a meaningless telltale phrase in news articles.
             </p><p>
-                17 Points |  <a href="https://news.ycombinator.com/item?id=37428491">4 comments</a>
+                12 Points |  <a href="https://news.ycombinator.com/item?id=37449620">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale (lithub.com)]]></title>
+            <link>https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/</link>
+            <guid>https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/</guid>
+            <pubDate>Sat, 09 Sep 2023 19:34:44 GMT</pubDate>
+            <description><![CDATA['John Le Carré's Cornwall Home, Tregiffian Cottage, Hits the Market for $3.7 Million']]></description>
+            <content:encoded><![CDATA[<p>John Le Carré's Cornwall home, Tregiffian Cottage, is up for sale for $3.7 million. The 5,000-square-foot house, where Le Carré wrote many of his novels, features a detached writing studio, a library with bespoke joinery, and a safe room. The property offers stunning views and a picturesque setting. Le Carré's son, Nick Cornwell, described the cottage as a place filled with wildlife and natural beauty, making it an ideal space for rest, work, or self-reflection.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37449439">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -148,16 +169,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37432336</link>
-            <guid>https://news.ycombinator.com/item?id=37432336</guid>
-            <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                26 Points |  <a href="https://news.ycombinator.com/item?id=37432336">28 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Existing in an Un-Simulated Reality (iahwrites.substack.com)]]></title>
             <link>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</link>
             <guid>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</guid>
@@ -165,7 +176,7 @@
             <description><![CDATA['Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness']]></description>
             <content:encoded><![CDATA[<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.
             </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37447810">1 comments</a>
+                17 Points |  <a href="https://news.ycombinator.com/item?id=37447810">16 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -180,14 +191,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)]]></title>
-            <link>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</link>
-            <guid>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</guid>
-            <pubDate>Sat, 09 Sep 2023 15:54:15 GMT</pubDate>
-            <description><![CDATA[Canadian Housing Prices Continue to Soar, Outpacing U.S. Market]]></description>
-            <content:encoded><![CDATA[<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.
+            <title><![CDATA[Why you might want async in your project (notgull.net)]]></title>
+            <link>https://notgull.net/why-you-want-async/</link>
+            <guid>https://notgull.net/why-you-want-async/</guid>
+            <pubDate>Sat, 09 Sep 2023 18:17:56 GMT</pubDate>
+            <description><![CDATA['Why you might actually want async in your project']]></description>
+            <content:encoded><![CDATA[<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.
             </p><p>
-                127 Points |  <a href="https://news.ycombinator.com/item?id=37446790">293 comments</a>
+                69 Points |  <a href="https://news.ycombinator.com/item?id=37448460">51 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -202,14 +213,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Australia to give cats a curfew because they are murdering so many other animals (www.insider.com)]]></title>
-            <link>https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9</link>
-            <guid>https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9</guid>
-            <pubDate>Sat, 09 Sep 2023 18:53:07 GMT</pubDate>
-            <description><![CDATA['Australia Considers Cat Curfews and Ownership Limits to Protect Biodiversity']]></description>
-            <content:encoded><![CDATA[<p>Australia considers cat curfews and ownership limits to protect biodiversity from the estimated 2 billion animals killed by cats each year. The government proposal aims to standardize rules already in place in some local governments and gain public support for managing cats. The measures are seen as necessary to protect the country's ecosystems and highly susceptible species. The Australian public appears largely supportive of the measures.
+            <title><![CDATA[The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)]]></title>
+            <link>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</link>
+            <guid>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</guid>
+            <pubDate>Sat, 09 Sep 2023 15:54:15 GMT</pubDate>
+            <description><![CDATA[Canadian Housing Prices Continue to Soar, Outpacing U.S. Market]]></description>
+            <content:encoded><![CDATA[<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.
             </p><p>
-                16 Points |  <a href="https://news.ycombinator.com/item?id=37449001">8 comments</a>
+                140 Points |  <a href="https://news.ycombinator.com/item?id=37446790">328 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -221,6 +232,17 @@
             <content:encoded><![CDATA[<p>N/A
             </p><p>
                 57 Points |  <a href="https://news.ycombinator.com/item?id=37444066">15 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[FFmpeg Patches for a 20% speedup of Apple ProRes decoding (ffmpeg.org)]]></title>
+            <link>https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html</link>
+            <guid>https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html</guid>
+            <pubDate>Sat, 09 Sep 2023 15:23:10 GMT</pubDate>
+            <description><![CDATA['FFmpeg' Patch Improves Proresdec2 Performance with Cached Reader]]></description>
+            <content:encoded><![CDATA[<p>This patch for FFmpeg's proresdec2 fixes and ports the cached reader. The changes include moving back to the regular get_bits API, reducing the lookup to switch the coding method, and using shorter reads for the end of the bitstream. The patch also provides speedup results for Win64 and Win32 platforms. The cached reader version shows a 20% speedup on Win64 and a 14% speedup on Win32.
+            </p><p>
+                17 Points |  <a href="https://news.ycombinator.com/item?id=37446430">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -242,7 +264,7 @@
             <description><![CDATA[Building a Kubernetes Cluster with Talos on Hetzner: Part I]]></description>
             <content:encoded><![CDATA[<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.
             </p><p>
-                146 Points |  <a href="https://news.ycombinator.com/item?id=37443404">47 comments</a>
+                163 Points |  <a href="https://news.ycombinator.com/item?id=37443404">57 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -257,13 +279,24 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Half of Glaciers Vanish with 1.5 Degrees of Warming (www.nasa.gov)]]></title>
+            <link>https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/</link>
+            <guid>https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/</guid>
+            <pubDate>Sat, 09 Sep 2023 19:31:50 GMT</pubDate>
+            <description><![CDATA['NASA Study: Glaciers Could Lose 40% of Mass by 2100 Due to Global Warming']]></description>
+            <content:encoded><![CDATA[<p>A study funded by NASA predicts that glaciers around the world could lose up to 40% of their mass by 2100 due to global warming. With a temperature increase of 1.5 degrees Celsius, 50% of the world's glaciers would disappear and contribute to a 9 centimeter rise in sea levels by 2100. If warming reaches 4 degrees Celsius, 80% of the world's glaciers will disappear and contribute to a 15 centimeter rise in sea levels. The study emphasizes the importance of taking action to mitigate climate change.
+            </p><p>
+                46 Points |  <a href="https://news.ycombinator.com/item?id=37449413">13 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)]]></title>
             <link>https://news.ycombinator.com/item?id=37444477</link>
             <guid>https://news.ycombinator.com/item?id=37444477</guid>
             <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                145 Points |  <a href="https://news.ycombinator.com/item?id=37444477">22 comments</a>
+                151 Points |  <a href="https://news.ycombinator.com/item?id=37444477">24 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -285,18 +318,7 @@
             <description><![CDATA[Different Processor Architectures Behave Differently When Shifting Registers]]></description>
             <content:encoded><![CDATA[<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.
             </p><p>
-                64 Points |  <a href="https://news.ycombinator.com/item?id=37426598">40 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Morocco earthquake kills more than 1,000 (www.nbcnews.com)]]></title>
-            <link>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</link>
-            <guid>https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208</guid>
-            <pubDate>Sat, 09 Sep 2023 13:40:15 GMT</pubDate>
-            <description><![CDATA['Morocco Earthquake Claims Over 1,000 Lives and Devastates Historic Sites: Live Updates']]></description>
-            <content:encoded><![CDATA[<p>At least 1,037 people have been killed and over 1,200 injured in a 6.8-magnitude earthquake that struck Morocco. The epicenter was in the Moroccan High Atlas mountain range, southeast of Marrakech. Rescue efforts are underway, with the Moroccan army mobilizing search and rescue teams using helicopters and drones. The U.S. Embassy in Rabat has extended condolences and is not aware of any U.S. nationals affected.
-            </p><p>
-                172 Points |  <a href="https://news.ycombinator.com/item?id=37445284">97 comments</a>
+                78 Points |  <a href="https://news.ycombinator.com/item?id=37426598">52 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -311,35 +333,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A History of Carrying Capacity (www.wsj.com)]]></title>
-            <link>https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a</link>
-            <guid>https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a</guid>
-            <pubDate>Sat, 09 Sep 2023 16:43:12 GMT</pubDate>
-            <description><![CDATA['Equality in Pockets': The Fight for Gender Equality in Clothing]]></description>
-            <content:encoded><![CDATA[<p>In the late 19th century, women demanded 'equality in pockets' as they noticed a divergence in the development and availability of pockets in men's and women's clothing. This article highlights the historical context of pockets and how they became a symbol of gender inequality. The demand for equal pockets was seen as a part of the broader fight for women's rights, including the right to vote.
+            <title><![CDATA[The end of the subscription era is coming (nickfthilton.medium.com)]]></title>
+            <link>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</link>
+            <guid>https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a</guid>
+            <pubDate>Sat, 09 Sep 2023 17:36:41 GMT</pubDate>
+            <description><![CDATA[The Impact of Subscription Models on Media and Creators]]></description>
+            <content:encoded><![CDATA[<p>The rise of subscription models in various industries, including media, has had a significant impact on the way businesses operate and how creators earn income. While platforms like Substack and OnlyFans offer potential for lucrative earnings, the average writer or creator may earn very little. Additionally, the increasing reliance on subscriptions for various products and services raises questions about the sustainability and affordability of this model for consumers. The cost of living crisis and the need for supplemental income in a challenging job market contribute to the appeal of these platforms for creators.
             </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37447315">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37413926</link>
-            <guid>https://news.ycombinator.com/item?id=37413926</guid>
-            <pubDate>Thu, 07 Sep 2023 02:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                33 Points |  <a href="https://news.ycombinator.com/item?id=37413926">11 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Half of Glaciers Vanish with 1.5 Degrees of Warming (www.nasa.gov)]]></title>
-            <link>https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/</link>
-            <guid>https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/</guid>
-            <pubDate>Sat, 09 Sep 2023 19:31:50 GMT</pubDate>
-            <description><![CDATA['NASA Study: Glaciers Could Lose 40% of Mass by 2100 Due to Global Warming']]></description>
-            <content:encoded><![CDATA[<p>A study funded by NASA predicts that glaciers around the world could lose up to 40% of their mass by 2100 due to global warming. With a temperature increase of 1.5 degrees Celsius, 50% of the world's glaciers would disappear and contribute to a 9 centimeter rise in sea levels by 2100. If warming reaches 4 degrees Celsius, 80% of the world's glaciers will disappear and contribute to a 15 centimeter rise in sea levels. The study emphasizes the importance of taking action to mitigate climate change.
-            </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37449413">0 comments</a>
+                93 Points |  <a href="https://news.ycombinator.com/item?id=37447915">86 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
