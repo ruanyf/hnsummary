@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 13:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 14:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,18 +23,18 @@
             <description><![CDATA[The Many Types of Plastic Used By LEGO]]></description>
             <content:encoded><![CDATA[<p>LEGO uses a variety of plastics for their bricks, including CA, HIPS, Bakelite, ABS, SAN, PP, PC, MABS, PA, POM, TP, PE, MTPO, TPU, SEBS, and PET. Each plastic has its own properties and uses, with ABS being the most commonly used since 1963. LEGO is also investing in developing sustainable materials and has already started using plant-sourced polyethylene and phasing out plastic shopping bags.
             </p><p>
-                12 Points |  <a href="https://news.ycombinator.com/item?id=37444268">0 comments</a>
+                78 Points |  <a href="https://news.ycombinator.com/item?id=37444268">13 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Google, Meta, Amazon hiring low-paid H1B workers after US layoffs (www.moneycontrol.com)]]></title>
-            <link>https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html</link>
-            <guid>https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html</guid>
-            <pubDate>Sat, 09 Sep 2023 12:06:48 GMT</pubDate>
-            <description><![CDATA['Top Silicon Valley Companies Hiring Low-Paid H1B Workers After US Layoffs: Report']]></description>
-            <content:encoded><![CDATA[<p>Top Silicon Valley companies, including Google, Meta, Amazon, Microsoft, Zoom, Salesforce, and Palantir, have applied for thousands of H1B worker visas this year, despite carrying out mass layoffs. This comes as many workers on H1B visas, including Indians, have been affected by the layoffs in the United States. The report highlights the irony of these companies hiring lower-paid tech workers from foreign countries while laying off employees in the US.
+            <title><![CDATA[Why are your keyboards not wireless? (www.zsa.io)]]></title>
+            <link>https://www.zsa.io/wireless/</link>
+            <guid>https://www.zsa.io/wireless/</guid>
+            <pubDate>Sat, 09 Sep 2023 13:28:46 GMT</pubDate>
+            <description><![CDATA['Why ZSA Technology Lab's Keyboards Are Not Wireless: A Focus on Durability and Longevity']]></description>
+            <content:encoded><![CDATA[<p>The CEO of ZSA Technology Lab explains why their keyboards are not wireless. He argues that while wireless technology may seem sleek and convenient, it comes with drawbacks such as battery degradation and limited lifespan. By sticking with cables, ZSA aims to create durable and long-lasting keyboards that can be easily repaired and customized. The CEO emphasizes the importance of making tools that last, rather than products designed to become obsolete.
             </p><p>
-                99 Points |  <a href="https://news.ycombinator.com/item?id=37444386">90 comments</a>
+                8 Points |  <a href="https://news.ycombinator.com/item?id=37445150">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -45,7 +45,18 @@
             <description><![CDATA[foundation.mozilla.org Checking Site Connection Security with Cloudflare]]></description>
             <content:encoded><![CDATA[<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.
             </p><p>
-                214 Points |  <a href="https://news.ycombinator.com/item?id=37443644">97 comments</a>
+                298 Points |  <a href="https://news.ycombinator.com/item?id=37443644">144 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)]]></title>
+            <link>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</link>
+            <guid>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</guid>
+            <pubDate>Sat, 09 Sep 2023 08:44:52 GMT</pubDate>
+            <description><![CDATA[Building a Kubernetes Cluster with Talos on Hetzner: Part I]]></description>
+            <content:encoded><![CDATA[<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.
+            </p><p>
+                69 Points |  <a href="https://news.ycombinator.com/item?id=37443404">15 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -60,14 +71,24 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Appeals Court Rules White House Overstepped First Amendment on Social Media (www.nytimes.com)]]></title>
-            <link>https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html</link>
-            <guid>https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html</guid>
-            <pubDate>Sat, 09 Sep 2023 11:58:48 GMT</pubDate>
-            <description><![CDATA['Appeals Court Rules Biden Administration Overstepped First Amendment on Social Media']]></description>
-            <content:encoded><![CDATA[<p>A federal appeals court ruled that the Biden administration likely violated the First Amendment by pressuring social media platforms to remove misleading or false content about Covid-19. The court found that the White House and other government agencies had coerced the platforms and influenced their decision-making processes. The ruling narrows the scope of a preliminary injunction, limiting its impact to the White House, the Surgeon General's Office, the FBI, and the CDC. This decision is seen as a significant victory for free speech in the internet age.
+            <title><![CDATA[Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)]]></title>
+            <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
+            <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
+            <pubDate>Sat, 09 Sep 2023 11:42:16 GMT</pubDate>
+            <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
+            <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
             </p><p>
-                31 Points |  <a href="https://news.ycombinator.com/item?id=37444340">14 comments</a>
+                56 Points |  <a href="https://news.ycombinator.com/item?id=37444257">34 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Common Pitfalls in Database Performance Testing (2018) [pdf] (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37413926</link>
+            <guid>https://news.ycombinator.com/item?id=37413926</guid>
+            <pubDate>Thu, 07 Sep 2023 02:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
+            </p><p>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37413926">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -78,18 +99,18 @@
             <description><![CDATA[Optimizing Julia Code for Mandelbrot Set Calculation]]></description>
             <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
             </p><p>
-                137 Points |  <a href="https://news.ycombinator.com/item?id=37442064">84 comments</a>
+                156 Points |  <a href="https://news.ycombinator.com/item?id=37442064">95 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Republicans just saved California’s magic mushroom bill (www.sfgate.com)]]></title>
-            <link>https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php</link>
-            <guid>https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php</guid>
-            <pubDate>Sat, 09 Sep 2023 12:38:00 GMT</pubDate>
-            <description><![CDATA[Confirming Humanity: Press & Hold to Verify]]></description>
-            <content:encoded><![CDATA[<p>The user is being prompted to confirm their humanity by pressing and holding a button. If they are experiencing any issues, a reference ID is provided for troubleshooting purposes.
+            <title><![CDATA[Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)]]></title>
+            <link>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</link>
+            <guid>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</guid>
+            <pubDate>Thu, 07 Sep 2023 00:48:16 GMT</pubDate>
+            <description><![CDATA[Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend]]></description>
+            <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
             </p><p>
-                11 Points |  <a href="https://news.ycombinator.com/item?id=37444631">1 comments</a>
+                149 Points |  <a href="https://news.ycombinator.com/item?id=37413387">94 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -104,28 +125,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)]]></title>
-            <link>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</link>
-            <guid>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</guid>
-            <pubDate>Thu, 07 Sep 2023 00:48:16 GMT</pubDate>
-            <description><![CDATA[Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend]]></description>
-            <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
-            </p><p>
-                131 Points |  <a href="https://news.ycombinator.com/item?id=37413387">81 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)]]></title>
-            <link>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</link>
-            <guid>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</guid>
-            <pubDate>Sat, 09 Sep 2023 08:44:52 GMT</pubDate>
-            <description><![CDATA[Building a Kubernetes Cluster with Talos on Hetzner: Part I]]></description>
-            <content:encoded><![CDATA[<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.
-            </p><p>
-                13 Points |  <a href="https://news.ycombinator.com/item?id=37443404">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[What happens when you shift a register by more than the register size? (devblogs.microsoft.com)]]></title>
             <link>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</link>
             <guid>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</guid>
@@ -137,24 +136,23 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37444477</link>
+            <guid>https://news.ycombinator.com/item?id=37444477</guid>
+            <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
+            </p><p>
+                27 Points |  <a href="https://news.ycombinator.com/item?id=37444477">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Ask HN: Looking for a resource on Linux kernel module development (news.ycombinator.com)]]></title>
             <link>https://news.ycombinator.com/item?id=37444184</link>
             <guid>https://news.ycombinator.com/item?id=37444184</guid>
             <pubDate>Sat, 09 Sep 2023 11:32:06 GMT</pubDate>
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                28 Points |  <a href="https://news.ycombinator.com/item?id=37444184">12 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dennis Austin, the software developer of PowerPoint, dies at 76 (www.washingtonpost.com)]]></title>
-            <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
-            <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
-            <pubDate>Sat, 09 Sep 2023 11:42:16 GMT</pubDate>
-            <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
-            <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
-            </p><p>
-                29 Points |  <a href="https://news.ycombinator.com/item?id=37444257">18 comments</a>
+                41 Points |  <a href="https://news.ycombinator.com/item?id=37444184">21 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -169,38 +167,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Experts fear crooks are cracking keys stolen in LastPass breach (krebsonsecurity.com)]]></title>
-            <link>https://krebsonsecurity.com/</link>
-            <guid>https://krebsonsecurity.com/</guid>
-            <pubDate>Sat, 09 Sep 2023 07:04:40 GMT</pubDate>
-            <description><![CDATA['Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach']]></description>
-            <content:encoded><![CDATA[<p>Security experts believe that hackers have successfully cracked open some of the stolen LastPass vaults, leading to a series of cryptocurrency heists targeting security-conscious individuals. The victims, who were all longtime cryptocurrency investors, had one common factor: they had previously used LastPass to store their 'seed phrase,' the private key needed to access their cryptocurrency investments. The stolen funds were moved to the same blockchain addresses, allowing researchers to link the thefts and identify over 150 victims who lost more than $35 million in crypto. LastPass declined to comment on the research.
-            </p><p>
-                16 Points |  <a href="https://news.ycombinator.com/item?id=37442927">4 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Government Is Monitoring All Global Entry Members Daily (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37444607</link>
-            <guid>https://news.ycombinator.com/item?id=37444607</guid>
-            <pubDate>Sat, 09 Sep 2023 12:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                10 Points |  <a href="https://news.ycombinator.com/item?id=37444607">4 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)]]></title>
-            <link>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</link>
-            <guid>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</guid>
-            <pubDate>Thu, 07 Sep 2023 04:08:50 GMT</pubDate>
-            <description><![CDATA['Spot It!' Card Game: The Math Behind the Matching Symbols]]></description>
-            <content:encoded><![CDATA[<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!
-            </p><p>
-                42 Points |  <a href="https://news.ycombinator.com/item?id=37414659">11 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)]]></title>
             <link>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</link>
             <guid>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</guid>
@@ -212,13 +178,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37444477</link>
-            <guid>https://news.ycombinator.com/item?id=37444477</guid>
-            <pubDate>Sat, 09 Sep 2023 12:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
+            <title><![CDATA[Google's Statement on the UK Online Safety Bill (bills.parliament.uk)]]></title>
+            <link>https://bills.parliament.uk/publications/46675/documents/1885</link>
+            <guid>https://bills.parliament.uk/publications/46675/documents/1885</guid>
+            <pubDate>Sat, 09 Sep 2023 09:36:58 GMT</pubDate>
+            <description><![CDATA[Security Check on bills.parliament.uk]]></description>
+            <content:encoded><![CDATA[<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.
             </p><p>
-                10 Points |  <a href="https://news.ycombinator.com/item?id=37444477">0 comments</a>
+                17 Points |  <a href="https://news.ycombinator.com/item?id=37443634">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -233,14 +200,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Snoop unto them as they snoop unto you (blog.dataparty.xyz)]]></title>
-            <link>https://blog.dataparty.xyz/blog/snoop-unto-them/</link>
-            <guid>https://blog.dataparty.xyz/blog/snoop-unto-them/</guid>
-            <pubDate>Fri, 08 Sep 2023 22:26:51 GMT</pubDate>
-            <description><![CDATA['DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers']]></description>
-            <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.
+            <title><![CDATA[Experts fear crooks are cracking keys stolen in LastPass breach (krebsonsecurity.com)]]></title>
+            <link>https://krebsonsecurity.com/</link>
+            <guid>https://krebsonsecurity.com/</guid>
+            <pubDate>Sat, 09 Sep 2023 07:04:40 GMT</pubDate>
+            <description><![CDATA['Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach']]></description>
+            <content:encoded><![CDATA[<p>Security experts believe that hackers have successfully cracked open some of the stolen LastPass vaults, leading to a series of cryptocurrency heists targeting security-conscious individuals. The victims, who were all longtime cryptocurrency investors, had one common factor: they had previously used LastPass to store their 'seed phrase,' the private key needed to access their cryptocurrency investments. The stolen funds were moved to the same blockchain addresses, allowing researchers to link the thefts and identify over 150 victims who lost more than $35 million in crypto. LastPass declined to comment on the research.
             </p><p>
-                196 Points |  <a href="https://news.ycombinator.com/item?id=37440104">112 comments</a>
+                40 Points |  <a href="https://news.ycombinator.com/item?id=37442927">24 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -266,6 +233,27 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[3 Republicans just saved California’s magic mushroom bill (www.sfgate.com)]]></title>
+            <link>https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php</link>
+            <guid>https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php</guid>
+            <pubDate>Sat, 09 Sep 2023 12:38:00 GMT</pubDate>
+            <description><![CDATA[Confirming Humanity: Press & Hold to Verify]]></description>
+            <content:encoded><![CDATA[<p>The user is being prompted to confirm their humanity by pressing and holding a button. If they are experiencing any issues, a reference ID is provided for troubleshooting purposes.
+            </p><p>
+                25 Points |  <a href="https://news.ycombinator.com/item?id=37444631">22 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Government Is Monitoring All Global Entry Members Daily (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37444607</link>
+            <guid>https://news.ycombinator.com/item?id=37444607</guid>
+            <pubDate>Sat, 09 Sep 2023 12:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
+            </p><p>
+                31 Points |  <a href="https://news.ycombinator.com/item?id=37444607">20 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[An Internet of PHP (timotijhof.net)]]></title>
             <link>https://timotijhof.net/posts/2023/an-internet-of-php/</link>
             <guid>https://timotijhof.net/posts/2023/an-internet-of-php/</guid>
@@ -277,25 +265,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Google's Statement on the UK Online Safety Bill (bills.parliament.uk)]]></title>
-            <link>https://bills.parliament.uk/publications/46675/documents/1885</link>
-            <guid>https://bills.parliament.uk/publications/46675/documents/1885</guid>
-            <pubDate>Sat, 09 Sep 2023 09:36:58 GMT</pubDate>
-            <description><![CDATA[Security Check on bills.parliament.uk]]></description>
-            <content:encoded><![CDATA[<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.
+            <title><![CDATA[The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)]]></title>
+            <link>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</link>
+            <guid>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</guid>
+            <pubDate>Thu, 07 Sep 2023 04:08:50 GMT</pubDate>
+            <description><![CDATA['Spot It!' Card Game: The Math Behind the Matching Symbols]]></description>
+            <content:encoded><![CDATA[<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!
             </p><p>
-                17 Points |  <a href="https://news.ycombinator.com/item?id=37443634">1 comments</a>
+                42 Points |  <a href="https://news.ycombinator.com/item?id=37414659">11 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Burakumin - "Hamlet people" of Japan (en.wikipedia.org)]]></title>
-            <link>https://en.wikipedia.org/wiki/Burakumin</link>
-            <guid>https://en.wikipedia.org/wiki/Burakumin</guid>
-            <pubDate>Thu, 07 Sep 2023 04:09:45 GMT</pubDate>
-            <description><![CDATA['Burakumin': The Descendants of Pre-Meiji Castes and Their Struggle Against Discrimination]]></description>
-            <content:encoded><![CDATA[<p>Burakumin refers to ethnic Japanese people who are believed to be descended from pre-Meiji castes associated with defilement. These occupations acquired a hereditary status of untouchability during Japan's feudal era. After the caste system was abolished, the term burakumin came into use to refer to former caste members and their descendants who continued to face discrimination. The article explores the historical origins, social issues, and discrimination faced by the burakumin community in Japan.
+            <title><![CDATA[Creative Money Aesthetics (andjelicaaa.substack.com)]]></title>
+            <link>https://andjelicaaa.substack.com/p/creative-money-aesthetics</link>
+            <guid>https://andjelicaaa.substack.com/p/creative-money-aesthetics</guid>
+            <pubDate>Thu, 07 Sep 2023 10:18:43 GMT</pubDate>
+            <description><![CDATA[The Aesthetic and Influence of the Creative Class in Business]]></description>
+            <content:encoded><![CDATA[<p>The Creative Class, consisting of creators, curators, critics, and hangers-on, has a distinct aesthetic that blends businesswear with vintage, sports wear, and work wear. They treat their job as leisure and their leisure as job, reflecting a cool, nonchalant, versatile, durable, and comfortable style. The Creative Class accumulates cultural capital by commenting, repurposing, and reinterpreting past and present culture, creating something modern and new while maintaining familiarity. They play a critical role in the modern economy by directing consumers' time, attention, and money towards aspirational things, places, and ideas.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37414664">1 comments</a>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37416882">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -321,17 +309,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Creative Money Aesthetics (andjelicaaa.substack.com)]]></title>
-            <link>https://andjelicaaa.substack.com/p/creative-money-aesthetics</link>
-            <guid>https://andjelicaaa.substack.com/p/creative-money-aesthetics</guid>
-            <pubDate>Thu, 07 Sep 2023 10:18:43 GMT</pubDate>
-            <description><![CDATA[The Aesthetic and Influence of the Creative Class in Business]]></description>
-            <content:encoded><![CDATA[<p>The Creative Class, consisting of creators, curators, critics, and hangers-on, has a distinct aesthetic that blends businesswear with vintage, sports wear, and work wear. They treat their job as leisure and their leisure as job, reflecting a cool, nonchalant, versatile, durable, and comfortable style. The Creative Class accumulates cultural capital by commenting, repurposing, and reinterpreting past and present culture, creating something modern and new while maintaining familiarity. They play a critical role in the modern economy by directing consumers' time, attention, and money towards aspirational things, places, and ideas.
-            </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37416882">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)]]></title>
             <link>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</link>
             <guid>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</guid>
@@ -340,6 +317,28 @@
             <content:encoded><![CDATA[<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.
             </p><p>
                 74 Points |  <a href="https://news.ycombinator.com/item?id=37440482">11 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Appeals Court Rules White House Overstepped First Amendment on Social Media (www.nytimes.com)]]></title>
+            <link>https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html</link>
+            <guid>https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html</guid>
+            <pubDate>Sat, 09 Sep 2023 11:58:48 GMT</pubDate>
+            <description><![CDATA['Appeals Court Rules Biden Administration Overstepped First Amendment on Social Media']]></description>
+            <content:encoded><![CDATA[<p>A federal appeals court ruled that the Biden administration likely violated the First Amendment by pressuring social media platforms to remove misleading or false content about Covid-19. The court found that the White House and other government agencies had coerced the platforms and influenced their decision-making processes. The ruling narrows the scope of a preliminary injunction, limiting its impact to the White House, the Surgeon General's Office, the FBI, and the CDC. This decision is seen as a significant victory for free speech in the internet age.
+            </p><p>
+                61 Points |  <a href="https://news.ycombinator.com/item?id=37444340">56 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)]]></title>
+            <link>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</link>
+            <guid>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</guid>
+            <pubDate>Sat, 09 Sep 2023 03:26:37 GMT</pubDate>
+            <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
+            <content:encoded><![CDATA[<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.
+            </p><p>
+                226 Points |  <a href="https://news.ycombinator.com/item?id=37441982">58 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
