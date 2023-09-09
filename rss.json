@@ -11,36 +11,14 @@
     },
     "items": [
         {
-            "id": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
-            "content_html": "<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.\n            </p><p>\n                75 Points |  <a href=\"https://news.ycombinator.com/item?id=37422705\">50 comments</a>\n            </p>",
-            "url": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
-            "title": "Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)",
-            "summary": "'YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization'",
-            "date_modified": "2023-09-07T17:43:12.000Z",
-            "author": {
-                "name": "railsatscale.com"
-            }
-        },
-        {
             "id": "https://timotijhof.net/posts/2023/an-internet-of-php/",
-            "content_html": "<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37415747\">25 comments</a>\n            </p>",
+            "content_html": "<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes\n            </p><p>\n                96 Points |  <a href=\"https://news.ycombinator.com/item?id=37415747\">52 comments</a>\n            </p>",
             "url": "https://timotijhof.net/posts/2023/an-internet-of-php/",
             "title": "An Internet of PHP (timotijhof.net)",
             "summary": "PHP's Dominance in the Internet: Statistics and Anecdotes",
             "date_modified": "2023-09-07T07:23:33.000Z",
             "author": {
                 "name": "timotijhof.net"
-            }
-        },
-        {
-            "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                84 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">37 comments</a>\n            </p>",
-            "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "title": "Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)",
-            "summary": "Optimizing Julia Code for Mandelbrot Set Calculation",
-            "date_modified": "2023-09-09T03:42:53.000Z",
-            "author": {
-                "name": "discourse.julialang.org"
             }
         },
         {
@@ -55,8 +33,19 @@
             }
         },
         {
+            "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
+            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                84 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">37 comments</a>\n            </p>",
+            "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
+            "title": "Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)",
+            "summary": "Optimizing Julia Code for Mandelbrot Set Calculation",
+            "date_modified": "2023-09-09T03:42:53.000Z",
+            "author": {
+                "name": "discourse.julialang.org"
+            }
+        },
+        {
             "id": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
-            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                90 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">33 comments</a>\n            </p>",
+            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                100 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">45 comments</a>\n            </p>",
             "url": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
             "title": "Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)",
             "summary": "Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend",
@@ -66,19 +55,19 @@
             }
         },
         {
-            "id": "https://material.io/blog/2023-google-fonts-redesign",
-            "content_html": "<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.\n            </p><p>\n                41 Points |  <a href=\"https://news.ycombinator.com/item?id=37441683\">28 comments</a>\n            </p>",
-            "url": "https://material.io/blog/2023-google-fonts-redesign",
-            "title": "The new Google Fonts: find what you’re looking for (material.io)",
-            "summary": "'Google Fonts Redesigns Website for Better Font and Icon Exploration'",
-            "date_modified": "2023-09-09T02:38:22.000Z",
+            "id": "https://course.spacy.io/en/",
+            "content_html": "<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.\n            </p><p>\n                23 Points |  <a href=\"https://news.ycombinator.com/item?id=37442574\">12 comments</a>\n            </p>",
+            "url": "https://course.spacy.io/en/",
+            "title": "Advanced NLP with SpaCy (course.spacy.io)",
+            "summary": "Mastering Natural Language Processing with spaCy",
+            "date_modified": "2023-09-09T05:36:22.000Z",
             "author": {
-                "name": "material.io"
+                "name": "course.spacy.io"
             }
         },
         {
             "id": "https://maizure.org/projects/decoded-gnu-coreutils/",
-            "content_html": "<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.\n            </p><p>\n                207 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">54 comments</a>\n            </p>",
+            "content_html": "<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.\n            </p><p>\n                219 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">64 comments</a>\n            </p>",
             "url": "https://maizure.org/projects/decoded-gnu-coreutils/",
             "title": "Decoded: GNU Coreutils (2018) (maizure.org)",
             "summary": "Decoding GNU coreutils: A Comprehensive Exploration of Command-Line Utilities",
@@ -99,14 +88,14 @@
             }
         },
         {
-            "id": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
-            "content_html": "<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia\n            </p><p>\n                24 Points |  <a href=\"https://news.ycombinator.com/item?id=37413566\">2 comments</a>\n            </p>",
-            "url": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
-            "title": "The Power of Food for People with Dementia (www.newyorker.com)",
-            "summary": "The Transformative Role of Food for Individuals with Dementia",
-            "date_modified": "2023-09-07T01:15:10.000Z",
+            "id": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
+            "content_html": "<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37414659\">1 comments</a>\n            </p>",
+            "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
+            "title": "The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)",
+            "summary": "'Spot It!' Card Game: The Math Behind the Matching Symbols",
+            "date_modified": "2023-09-07T04:08:50.000Z",
             "author": {
-                "name": "www.newyorker.com"
+                "name": "www.smithsonianmag.com"
             }
         },
         {
@@ -121,6 +110,17 @@
             }
         },
         {
+            "id": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
+            "content_html": "<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia\n            </p><p>\n                24 Points |  <a href=\"https://news.ycombinator.com/item?id=37413566\">2 comments</a>\n            </p>",
+            "url": "https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia",
+            "title": "The Power of Food for People with Dementia (www.newyorker.com)",
+            "summary": "The Transformative Role of Food for Individuals with Dementia",
+            "date_modified": "2023-09-07T01:15:10.000Z",
+            "author": {
+                "name": "www.newyorker.com"
+            }
+        },
+        {
             "id": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
             "content_html": "<p>N/A\n            </p><p>\n                149 Points |  <a href=\"https://news.ycombinator.com/item?id=37440631\">23 comments</a>\n            </p>",
             "url": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
@@ -129,17 +129,6 @@
             "date_modified": "2023-09-08T23:38:39.000Z",
             "author": {
                 "name": "msprout.notion.site"
-            }
-        },
-        {
-            "id": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
-            "content_html": "<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37414659\">1 comments</a>\n            </p>",
-            "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
-            "title": "The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)",
-            "summary": "'Spot It!' Card Game: The Math Behind the Matching Symbols",
-            "date_modified": "2023-09-07T04:08:50.000Z",
-            "author": {
-                "name": "www.smithsonianmag.com"
             }
         },
         {
@@ -165,25 +154,25 @@
             }
         },
         {
-            "id": "https://course.spacy.io/en/",
-            "content_html": "<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37442574\">1 comments</a>\n            </p>",
-            "url": "https://course.spacy.io/en/",
-            "title": "Advanced NLP with SpaCy (course.spacy.io)",
-            "summary": "Mastering Natural Language Processing with spaCy",
-            "date_modified": "2023-09-09T05:36:22.000Z",
+            "id": "https://www.youtube.com/watch?v=KvaVc_xbUss",
+            "content_html": "<p>N/A\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37430388\">1 comments</a>\n            </p>",
+            "url": "https://www.youtube.com/watch?v=KvaVc_xbUss",
+            "title": "Deltic – King of Diesels [video] (www.youtube.com)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T06:57:52.000Z",
             "author": {
-                "name": "course.spacy.io"
+                "name": "www.youtube.com"
             }
         },
         {
-            "id": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
-            "content_html": "<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">11 comments</a>\n            </p>",
-            "url": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
-            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)",
-            "summary": "Content Unavailable: Contact Support for Assistance",
-            "date_modified": "2023-09-08T23:17:21.000Z",
+            "id": "https://material.io/blog/2023-google-fonts-redesign",
+            "content_html": "<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37441683\">46 comments</a>\n            </p>",
+            "url": "https://material.io/blog/2023-google-fonts-redesign",
+            "title": "Redesigned Google Fonts website (material.io)",
+            "summary": "'Google Fonts Redesigns Website for Better Font and Icon Exploration'",
+            "date_modified": "2023-09-09T02:38:22.000Z",
             "author": {
-                "name": "www.sciencedirect.com"
+                "name": "material.io"
             }
         },
         {
@@ -198,12 +187,110 @@
             }
         },
         {
+            "id": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
+            "content_html": "<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.\n            </p><p>\n                75 Points |  <a href=\"https://news.ycombinator.com/item?id=37422705\">50 comments</a>\n            </p>",
+            "url": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
+            "title": "Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)",
+            "summary": "'YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization'",
+            "date_modified": "2023-09-07T17:43:12.000Z",
+            "author": {
+                "name": "railsatscale.com"
+            }
+        },
+        {
+            "id": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
+            "content_html": "<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">11 comments</a>\n            </p>",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
+            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)",
+            "summary": "Content Unavailable: Contact Support for Assistance",
+            "date_modified": "2023-09-08T23:17:21.000Z",
+            "author": {
+                "name": "www.sciencedirect.com"
+            }
+        },
+        {
             "id": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
             "content_html": "<p>This is a TypeScript file containing code for a game of life simulation. The code is 203 lines long and has a file size of 7.24 KB. It appears to be a random implementation of the game of life, with various functions and logic for simulating the evolution of cells on a grid. The code includes functions for initializing the grid, updating the grid based on the rules of the game, and rendering the grid. It also includes helper functions for counting the number of live neighbors for each cell and checking if a cell is alive or dead. Overall, this file seems to be a self-contained implementation of the game of life in TypeScript.\n            </p><p>\n                153 Points |  <a href=\"https://news.ycombinator.com/item?id=37438028\">38 comments</a>\n            </p>",
             "url": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
             "title": "Show HN: Conway's Game of Life in TypeScript's type system (github.com)",
             "summary": "TypeScript code for a game of life simulation",
             "date_modified": "2023-09-08T19:11:47.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
+            "id": "https://imgur.com/XPmU2FX",
+            "content_html": "<p>This is a brief post on an online platform where the author mentions the availability of HR for problem-solving and the use of suggestion boxes and surveys for better management. The post also includes a sarcastic comment about reducing suicides. The content seems to be a mix of casual conversation and unrelated topics.\n            </p><p>\n                13 Points |  <a href=\"https://news.ycombinator.com/item?id=37443280\">2 comments</a>\n            </p>",
+            "url": "https://imgur.com/XPmU2FX",
+            "title": "Bitwarden has been disabled in Chrome [img] (imgur.com)",
+            "summary": "A casual post with mentions of HR availability and sarcastic comment",
+            "date_modified": "2023-09-09T08:17:33.000Z",
+            "author": {
+                "name": "imgur.com"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=37441168",
+            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37441168",
+            "title": "Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)",
+            "date_modified": "2023-09-09T01:02:29.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
+            "id": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
+            "content_html": "<p>X, formerly known as Twitter, has filed a lawsuit challenging a new California law that requires social media companies to disclose their moderation practices. The law aims to bring transparency and accountability to social media content, but X argues that it violates their Constitutional right to free speech. The lawsuit claims that the law is a form of compelled speech and an unconstitutional government overreach. The outcome of the lawsuit will have implications for the balance between government involvement and private platform moderation practices.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37442998\">1 comments</a>\n            </p>",
+            "url": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
+            "title": "X challenges California’s new transparency law as unconstitutional (techcrunch.com)",
+            "summary": "'X' Challenges California's New Transparency Law as Unconstitutional",
+            "date_modified": "2023-09-09T07:17:06.000Z",
+            "author": {
+                "name": "techcrunch.com"
+            }
+        },
+        {
+            "id": "https://bitbashing.io/async-rust.html",
+            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author highlights the drawbacks of using threads and mutex-based concurrency, such as race conditions and deadlocks. They introduce the concept of channels as a synchronization mechanism and discuss how many modern languages provide channels in their standard libraries. The article then delves into the complexities of async Rust, including the tension between low-level control and the need for dynamic lifetimes. It concludes by suggesting that Rust may not be the best tool for massively concurrent, userspace software.\n            </p><p>\n                581 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">480 comments</a>\n            </p>",
+            "url": "https://bitbashing.io/async-rust.html",
+            "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
+            "summary": "The Challenges of Using Async Rust for Concurrency",
+            "date_modified": "2023-09-08T16:10:55.000Z",
+            "author": {
+                "name": "bitbashing.io"
+            }
+        },
+        {
+            "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.\n            </p><p>\n                35 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">28 comments</a>\n            </p>",
+            "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "title": "Cisco Systems and Financialization (www.ineteconomics.org)",
+            "summary": "Cisco Systems' Financialization and its Impact on the US Technology Industry",
+            "date_modified": "2023-09-07T06:34:22.000Z",
+            "author": {
+                "name": "www.ineteconomics.org"
+            }
+        },
+        {
+            "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
+            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.\n            </p><p>\n                106 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">84 comments</a>\n            </p>",
+            "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
+            "title": "Just how constexpr is C++20’s std:string? (quuxplusone.github.io)",
+            "summary": "Understanding the Constraints of C++20's constexpr std::string and std::vector",
+            "date_modified": "2023-09-08T09:23:27.000Z",
+            "author": {
+                "name": "quuxplusone.github.io"
+            }
+        },
+        {
+            "id": "https://github.com/JHRobotics/softgpu",
+            "content_html": "<p>SoftGPU is a compilation of four projects that provide software and hardware accelerated drivers for Windows 9x virtual machines. It requires a virtual machine with VGA adapter support and Windows 95/98/Me as the guest system. The compilation includes the necessary DirectX versions, Visual C runtime, and OpenGL 95. SoftGPU offers three render drivers: softpipe, llvmlipe, and SVGA3D. The performance of these renderers varies, with SVGA3D providing the highest expected FPS. The hypervisor translation to real hardware GPU is also discussed. The installation process and system requirements are outlined, along with instructions for setting up a VirtualBox VM with hardware acceleration. The article concludes with information on running DirectX tests and optimizing performance for newer CPUs.\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37440392\">1 comments</a>\n            </p>",
+            "url": "https://github.com/JHRobotics/softgpu",
+            "title": "SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines (github.com)",
+            "summary": "SoftGPU: Software and Hardware Accelerated Drivers for Windows 9x Virtual Machines",
+            "date_modified": "2023-09-08T23:06:30.000Z",
             "author": {
                 "name": "github.com"
             }
@@ -220,60 +307,6 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37441168",
-            "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37441168",
-            "title": "Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)",
-            "date_modified": "2023-09-09T01:02:29.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://bitbashing.io/async-rust.html",
-            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author highlights the drawbacks of using threads and mutex-based concurrency, such as race conditions and deadlocks. They introduce the concept of channels as a synchronization mechanism and discuss how many modern languages provide channels in their standard libraries. The article then delves into the complexities of async Rust, including the tension between low-level control and the need for dynamic lifetimes. It concludes by suggesting that Rust may not be the best tool for massively concurrent, userspace software.\n            </p><p>\n                581 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">480 comments</a>\n            </p>",
-            "url": "https://bitbashing.io/async-rust.html",
-            "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
-            "summary": "The Challenges of Using Async Rust for Concurrency",
-            "date_modified": "2023-09-08T16:10:55.000Z",
-            "author": {
-                "name": "bitbashing.io"
-            }
-        },
-        {
-            "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
-            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">73 comments</a>\n            </p>",
-            "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
-            "title": "Just how constexpr is C++20’s std:string? (quuxplusone.github.io)",
-            "summary": "Understanding the Constraints of C++20's constexpr std::string and std::vector",
-            "date_modified": "2023-09-08T09:23:27.000Z",
-            "author": {
-                "name": "quuxplusone.github.io"
-            }
-        },
-        {
-            "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
-            "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.\n            </p><p>\n                35 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">28 comments</a>\n            </p>",
-            "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
-            "title": "Cisco Systems and Financialization (www.ineteconomics.org)",
-            "summary": "Cisco Systems' Financialization and its Impact on the US Technology Industry",
-            "date_modified": "2023-09-07T06:34:22.000Z",
-            "author": {
-                "name": "www.ineteconomics.org"
-            }
-        },
-        {
-            "id": "https://github.com/JHRobotics/softgpu",
-            "content_html": "<p>SoftGPU is a compilation of four projects that provide software and hardware accelerated drivers for Windows 9x virtual machines. It requires a virtual machine with VGA adapter support and Windows 95/98/Me as the guest system. The compilation includes the necessary DirectX versions, Visual C runtime, and OpenGL 95. SoftGPU offers three render drivers: softpipe, llvmlipe, and SVGA3D. The performance of these renderers varies, with SVGA3D providing the highest expected FPS. The hypervisor translation to real hardware GPU is also discussed. The installation process and system requirements are outlined, along with instructions for setting up a VirtualBox VM with hardware acceleration. The article concludes with information on running DirectX tests and optimizing performance for newer CPUs.\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37440392\">1 comments</a>\n            </p>",
-            "url": "https://github.com/JHRobotics/softgpu",
-            "title": "SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines (github.com)",
-            "summary": "SoftGPU: Software and Hardware Accelerated Drivers for Windows 9x Virtual Machines",
-            "date_modified": "2023-09-08T23:06:30.000Z",
-            "author": {
-                "name": "github.com"
-            }
-        },
-        {
             "id": "https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264",
             "content_html": "<p>The Role of Australia's Eucalyptus Tree in Global Wildfires\n            </p><p>\n                10 Points |  <a href=\"https://news.ycombinator.com/item?id=37442671\">1 comments</a>\n            </p>",
             "url": "https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264",
@@ -282,39 +315,6 @@
             "date_modified": "2023-09-09T06:00:57.000Z",
             "author": {
                 "name": "www.abc.net.au"
-            }
-        },
-        {
-            "id": "http://touchpianist.com/",
-            "content_html": "<p>This is a brief description of a mobile app called 'More Pieces!' that is available for free on Android and iOS. The app allows users to choose different pieces and explore touch expression. The summary mentions that there is more information available about the app, including details about its creator and a press kit. The content is truncated, so it is unclear what specific features or functionality the app offers. However, the summary emphasizes that it is available on both Android and iOS platforms.\n            </p><p>\n                699 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">200 comments</a>\n            </p>",
-            "url": "http://touchpianist.com/",
-            "title": "Touch Pianist (touchpianist.com)",
-            "summary": "'More Pieces!': A Free Mobile App for Exploring Touch Expression",
-            "date_modified": "2023-09-08T09:56:08.000Z",
-            "author": {
-                "name": "touchpianist.com"
-            }
-        },
-        {
-            "id": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
-            "content_html": "<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also touts the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.\n            </p><p>\n                128 Points |  <a href=\"https://news.ycombinator.com/item?id=37436092\">62 comments</a>\n            </p>",
-            "url": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
-            "title": "Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)",
-            "summary": "Cerabyte's Ceramic Storage Technology Poised to Disrupt the Market",
-            "date_modified": "2023-09-08T16:49:59.000Z",
-            "author": {
-                "name": "www.tomshardware.com"
-            }
-        },
-        {
-            "id": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
-            "content_html": "<p>X, formerly known as Twitter, has filed a lawsuit challenging a new California law that requires social media companies to disclose their moderation practices. The law aims to bring transparency and accountability to social media content, but X argues that it violates their Constitutional right to free speech. The lawsuit claims that the law is a form of compelled speech and an unconstitutional government overreach. The outcome of the lawsuit will have implications for the balance between government involvement and private platform moderation practices.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37442998\">1 comments</a>\n            </p>",
-            "url": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
-            "title": "X challenges California’s new transparency law as unconstitutional (techcrunch.com)",
-            "summary": "'X' Challenges California's New Transparency Law as Unconstitutional",
-            "date_modified": "2023-09-09T07:17:06.000Z",
-            "author": {
-                "name": "techcrunch.com"
             }
         },
         {
@@ -329,14 +329,14 @@
             }
         },
         {
-            "id": "https://mtlynch.io/aardvarkd/",
-            "content_html": "<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film that captures interviews with individuals who went on to achieve fame and success in the tech industry. It explores the indie software scene in 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The film showcases the vulnerability and uncertainty experienced by tech startup founders in their early days. Despite its flaws, the documentary effectively captures the anxiety and anticipation surrounding the launch of a software product. The article also reveals surprising details, such as the fact that Fog Creek did not finance the documentary and the subsequent fate of the interns featured in the film.\n            </p><p>\n                427 Points |  <a href=\"https://news.ycombinator.com/item?id=37433186\">138 comments</a>\n            </p>",
-            "url": "https://mtlynch.io/aardvarkd/",
-            "title": "Aardvark'd: The Fog Creek documentary, 18 years later (mtlynch.io)",
-            "summary": "Aardvark'd: The Fog Creek Documentary Explores Tech Startup Founders' Vulnerability and Uncertainty",
-            "date_modified": "2023-09-08T13:26:45.000Z",
+            "id": "http://touchpianist.com/",
+            "content_html": "<p>This is a brief description of a mobile app called 'More Pieces!' that is available for free on Android and iOS. The app allows users to choose different pieces and explore touch expression. The summary mentions that there is more information available about the app, including details about its creator and a press kit. The content is truncated, so it is unclear what specific features or functionality the app offers. However, the summary emphasizes that it is available on both Android and iOS platforms.\n            </p><p>\n                699 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">200 comments</a>\n            </p>",
+            "url": "http://touchpianist.com/",
+            "title": "Touch Pianist (touchpianist.com)",
+            "summary": "'More Pieces!': A Free Mobile App for Exploring Touch Expression",
+            "date_modified": "2023-09-08T09:56:08.000Z",
             "author": {
-                "name": "mtlynch.io"
+                "name": "touchpianist.com"
             }
         }
     ]

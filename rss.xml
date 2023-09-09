@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 08:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 09:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -16,17 +16,6 @@
         <category>Frontpage</category>
         <atom:link href="https://ruanyf.github.io/hnsummary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)]]></title>
-            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
-            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
-            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
-            <description><![CDATA['YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization']]></description>
-            <content:encoded><![CDATA[<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.
-            </p><p>
-                75 Points |  <a href="https://news.ycombinator.com/item?id=37422705">50 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[An Internet of PHP (timotijhof.net)]]></title>
             <link>https://timotijhof.net/posts/2023/an-internet-of-php/</link>
             <guid>https://timotijhof.net/posts/2023/an-internet-of-php/</guid>
@@ -34,18 +23,7 @@
             <description><![CDATA[PHP's Dominance in the Internet: Statistics and Anecdotes]]></description>
             <content:encoded><![CDATA[<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes
             </p><p>
-                62 Points |  <a href="https://news.ycombinator.com/item?id=37415747">25 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)]]></title>
-            <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
-            <guid>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</guid>
-            <pubDate>Sat, 09 Sep 2023 03:42:53 GMT</pubDate>
-            <description><![CDATA[Optimizing Julia Code for Mandelbrot Set Calculation]]></description>
-            <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
-            </p><p>
-                84 Points |  <a href="https://news.ycombinator.com/item?id=37442064">37 comments</a>
+                96 Points |  <a href="https://news.ycombinator.com/item?id=37415747">52 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -60,6 +38,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)]]></title>
+            <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
+            <guid>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</guid>
+            <pubDate>Sat, 09 Sep 2023 03:42:53 GMT</pubDate>
+            <description><![CDATA[Optimizing Julia Code for Mandelbrot Set Calculation]]></description>
+            <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
+            </p><p>
+                84 Points |  <a href="https://news.ycombinator.com/item?id=37442064">37 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)]]></title>
             <link>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</link>
             <guid>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</guid>
@@ -67,18 +56,18 @@
             <description><![CDATA[Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend]]></description>
             <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
             </p><p>
-                90 Points |  <a href="https://news.ycombinator.com/item?id=37413387">33 comments</a>
+                100 Points |  <a href="https://news.ycombinator.com/item?id=37413387">45 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The new Google Fonts: find what you’re looking for (material.io)]]></title>
-            <link>https://material.io/blog/2023-google-fonts-redesign</link>
-            <guid>https://material.io/blog/2023-google-fonts-redesign</guid>
-            <pubDate>Sat, 09 Sep 2023 02:38:22 GMT</pubDate>
-            <description><![CDATA['Google Fonts Redesigns Website for Better Font and Icon Exploration']]></description>
-            <content:encoded><![CDATA[<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.
+            <title><![CDATA[Advanced NLP with SpaCy (course.spacy.io)]]></title>
+            <link>https://course.spacy.io/en/</link>
+            <guid>https://course.spacy.io/en/</guid>
+            <pubDate>Sat, 09 Sep 2023 05:36:22 GMT</pubDate>
+            <description><![CDATA[Mastering Natural Language Processing with spaCy]]></description>
+            <content:encoded><![CDATA[<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.
             </p><p>
-                41 Points |  <a href="https://news.ycombinator.com/item?id=37441683">28 comments</a>
+                23 Points |  <a href="https://news.ycombinator.com/item?id=37442574">12 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -89,7 +78,7 @@
             <description><![CDATA[Decoding GNU coreutils: A Comprehensive Exploration of Command-Line Utilities]]></description>
             <content:encoded><![CDATA[<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.
             </p><p>
-                207 Points |  <a href="https://news.ycombinator.com/item?id=37439535">54 comments</a>
+                219 Points |  <a href="https://news.ycombinator.com/item?id=37439535">64 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -104,14 +93,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Power of Food for People with Dementia (www.newyorker.com)]]></title>
-            <link>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</link>
-            <guid>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</guid>
-            <pubDate>Thu, 07 Sep 2023 01:15:10 GMT</pubDate>
-            <description><![CDATA[The Transformative Role of Food for Individuals with Dementia]]></description>
-            <content:encoded><![CDATA[<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia
+            <title><![CDATA[The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)]]></title>
+            <link>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</link>
+            <guid>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</guid>
+            <pubDate>Thu, 07 Sep 2023 04:08:50 GMT</pubDate>
+            <description><![CDATA['Spot It!' Card Game: The Math Behind the Matching Symbols]]></description>
+            <content:encoded><![CDATA[<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!
             </p><p>
-                24 Points |  <a href="https://news.ycombinator.com/item?id=37413566">2 comments</a>
+                6 Points |  <a href="https://news.ycombinator.com/item?id=37414659">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -126,6 +115,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[The Power of Food for People with Dementia (www.newyorker.com)]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</link>
+            <guid>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</guid>
+            <pubDate>Thu, 07 Sep 2023 01:15:10 GMT</pubDate>
+            <description><![CDATA[The Transformative Role of Food for Individuals with Dementia]]></description>
+            <content:encoded><![CDATA[<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia
+            </p><p>
+                24 Points |  <a href="https://news.ycombinator.com/item?id=37413566">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)]]></title>
             <link>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</link>
             <guid>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</guid>
@@ -134,17 +134,6 @@
             <content:encoded><![CDATA[<p>N/A
             </p><p>
                 149 Points |  <a href="https://news.ycombinator.com/item?id=37440631">23 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)]]></title>
-            <link>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</link>
-            <guid>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</guid>
-            <pubDate>Thu, 07 Sep 2023 04:08:50 GMT</pubDate>
-            <description><![CDATA['Spot It!' Card Game: The Math Behind the Matching Symbols]]></description>
-            <content:encoded><![CDATA[<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!
-            </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37414659">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -170,25 +159,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Advanced NLP with SpaCy (course.spacy.io)]]></title>
-            <link>https://course.spacy.io/en/</link>
-            <guid>https://course.spacy.io/en/</guid>
-            <pubDate>Sat, 09 Sep 2023 05:36:22 GMT</pubDate>
-            <description><![CDATA[Mastering Natural Language Processing with spaCy]]></description>
-            <content:encoded><![CDATA[<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.
+            <title><![CDATA[Deltic – King of Diesels [video] (www.youtube.com)]]></title>
+            <link>https://www.youtube.com/watch?v=KvaVc_xbUss</link>
+            <guid>https://www.youtube.com/watch?v=KvaVc_xbUss</guid>
+            <pubDate>Fri, 08 Sep 2023 06:57:52 GMT</pubDate>
+            <description><![CDATA[N/A]]></description>
+            <content:encoded><![CDATA[<p>N/A
             </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37442574">1 comments</a>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37430388">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)]]></title>
-            <link>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</link>
-            <guid>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</guid>
-            <pubDate>Fri, 08 Sep 2023 23:17:21 GMT</pubDate>
-            <description><![CDATA[Content Unavailable: Contact Support for Assistance]]></description>
-            <content:encoded><![CDATA[<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.
+            <title><![CDATA[Redesigned Google Fonts website (material.io)]]></title>
+            <link>https://material.io/blog/2023-google-fonts-redesign</link>
+            <guid>https://material.io/blog/2023-google-fonts-redesign</guid>
+            <pubDate>Sat, 09 Sep 2023 02:38:22 GMT</pubDate>
+            <description><![CDATA['Google Fonts Redesigns Website for Better Font and Icon Exploration']]></description>
+            <content:encoded><![CDATA[<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.
             </p><p>
-                74 Points |  <a href="https://news.ycombinator.com/item?id=37440482">11 comments</a>
+                61 Points |  <a href="https://news.ycombinator.com/item?id=37441683">46 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -203,6 +192,28 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)]]></title>
+            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
+            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
+            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
+            <description><![CDATA['YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization']]></description>
+            <content:encoded><![CDATA[<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.
+            </p><p>
+                75 Points |  <a href="https://news.ycombinator.com/item?id=37422705">50 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)]]></title>
+            <link>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</link>
+            <guid>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</guid>
+            <pubDate>Fri, 08 Sep 2023 23:17:21 GMT</pubDate>
+            <description><![CDATA[Content Unavailable: Contact Support for Assistance]]></description>
+            <content:encoded><![CDATA[<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.
+            </p><p>
+                74 Points |  <a href="https://news.ycombinator.com/item?id=37440482">11 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Show HN: Conway's Game of Life in TypeScript's type system (github.com)]]></title>
             <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
             <guid>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</guid>
@@ -214,14 +225,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)]]></title>
-            <link>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</link>
-            <guid>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</guid>
-            <pubDate>Sat, 09 Sep 2023 03:26:37 GMT</pubDate>
-            <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
-            <content:encoded><![CDATA[<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.
+            <title><![CDATA[Bitwarden has been disabled in Chrome [img] (imgur.com)]]></title>
+            <link>https://imgur.com/XPmU2FX</link>
+            <guid>https://imgur.com/XPmU2FX</guid>
+            <pubDate>Sat, 09 Sep 2023 08:17:33 GMT</pubDate>
+            <description><![CDATA[A casual post with mentions of HR availability and sarcastic comment]]></description>
+            <content:encoded><![CDATA[<p>This is a brief post on an online platform where the author mentions the availability of HR for problem-solving and the use of suggestion boxes and surveys for better management. The post also includes a sarcastic comment about reducing suicides. The content seems to be a mix of casual conversation and unrelated topics.
             </p><p>
-                133 Points |  <a href="https://news.ycombinator.com/item?id=37441982">21 comments</a>
+                13 Points |  <a href="https://news.ycombinator.com/item?id=37443280">2 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -232,83 +243,6 @@
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
                 1 Points |  <a href="https://news.ycombinator.com/item?id=37441168">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)]]></title>
-            <link>https://bitbashing.io/async-rust.html</link>
-            <guid>https://bitbashing.io/async-rust.html</guid>
-            <pubDate>Fri, 08 Sep 2023 16:10:55 GMT</pubDate>
-            <description><![CDATA[The Challenges of Using Async Rust for Concurrency]]></description>
-            <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author highlights the drawbacks of using threads and mutex-based concurrency, such as race conditions and deadlocks. They introduce the concept of channels as a synchronization mechanism and discuss how many modern languages provide channels in their standard libraries. The article then delves into the complexities of async Rust, including the tension between low-level control and the need for dynamic lifetimes. It concludes by suggesting that Rust may not be the best tool for massively concurrent, userspace software.
-            </p><p>
-                581 Points |  <a href="https://news.ycombinator.com/item?id=37435515">480 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
-            <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
-            <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:23:27 GMT</pubDate>
-            <description><![CDATA[Understanding the Constraints of C++20's constexpr std::string and std::vector]]></description>
-            <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.
-            </p><p>
-                101 Points |  <a href="https://news.ycombinator.com/item?id=37431425">73 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cisco Systems and Financialization (www.ineteconomics.org)]]></title>
-            <link>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</link>
-            <guid>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</guid>
-            <pubDate>Thu, 07 Sep 2023 06:34:22 GMT</pubDate>
-            <description><![CDATA[Cisco Systems' Financialization and its Impact on the US Technology Industry]]></description>
-            <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.
-            </p><p>
-                35 Points |  <a href="https://news.ycombinator.com/item?id=37415456">28 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines (github.com)]]></title>
-            <link>https://github.com/JHRobotics/softgpu</link>
-            <guid>https://github.com/JHRobotics/softgpu</guid>
-            <pubDate>Fri, 08 Sep 2023 23:06:30 GMT</pubDate>
-            <description><![CDATA[SoftGPU: Software and Hardware Accelerated Drivers for Windows 9x Virtual Machines]]></description>
-            <content:encoded><![CDATA[<p>SoftGPU is a compilation of four projects that provide software and hardware accelerated drivers for Windows 9x virtual machines. It requires a virtual machine with VGA adapter support and Windows 95/98/Me as the guest system. The compilation includes the necessary DirectX versions, Visual C runtime, and OpenGL 95. SoftGPU offers three render drivers: softpipe, llvmlipe, and SVGA3D. The performance of these renderers varies, with SVGA3D providing the highest expected FPS. The hypervisor translation to real hardware GPU is also discussed. The installation process and system requirements are outlined, along with instructions for setting up a VirtualBox VM with hardware acceleration. The article concludes with information on running DirectX tests and optimizing performance for newer CPUs.
-            </p><p>
-                33 Points |  <a href="https://news.ycombinator.com/item?id=37440392">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)]]></title>
-            <link>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</link>
-            <guid>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</guid>
-            <pubDate>Sat, 09 Sep 2023 06:00:57 GMT</pubDate>
-            <description><![CDATA[The Impact of Australia's Eucalyptus Tree on Global Wildfires]]></description>
-            <content:encoded><![CDATA[<p>The Role of Australia's Eucalyptus Tree in Global Wildfires
-            </p><p>
-                10 Points |  <a href="https://news.ycombinator.com/item?id=37442671">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Touch Pianist (touchpianist.com)]]></title>
-            <link>http://touchpianist.com/</link>
-            <guid>http://touchpianist.com/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:56:08 GMT</pubDate>
-            <description><![CDATA['More Pieces!': A Free Mobile App for Exploring Touch Expression]]></description>
-            <content:encoded><![CDATA[<p>This is a brief description of a mobile app called 'More Pieces!' that is available for free on Android and iOS. The app allows users to choose different pieces and explore touch expression. The summary mentions that there is more information available about the app, including details about its creator and a press kit. The content is truncated, so it is unclear what specific features or functionality the app offers. However, the summary emphasizes that it is available on both Android and iOS platforms.
-            </p><p>
-                699 Points |  <a href="https://news.ycombinator.com/item?id=37431644">200 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)]]></title>
-            <link>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</link>
-            <guid>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</guid>
-            <pubDate>Fri, 08 Sep 2023 16:49:59 GMT</pubDate>
-            <description><![CDATA[Cerabyte's Ceramic Storage Technology Poised to Disrupt the Market]]></description>
-            <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also touts the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
-            </p><p>
-                128 Points |  <a href="https://news.ycombinator.com/item?id=37436092">62 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -323,6 +257,72 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)]]></title>
+            <link>https://bitbashing.io/async-rust.html</link>
+            <guid>https://bitbashing.io/async-rust.html</guid>
+            <pubDate>Fri, 08 Sep 2023 16:10:55 GMT</pubDate>
+            <description><![CDATA[The Challenges of Using Async Rust for Concurrency]]></description>
+            <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author highlights the drawbacks of using threads and mutex-based concurrency, such as race conditions and deadlocks. They introduce the concept of channels as a synchronization mechanism and discuss how many modern languages provide channels in their standard libraries. The article then delves into the complexities of async Rust, including the tension between low-level control and the need for dynamic lifetimes. It concludes by suggesting that Rust may not be the best tool for massively concurrent, userspace software.
+            </p><p>
+                581 Points |  <a href="https://news.ycombinator.com/item?id=37435515">480 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cisco Systems and Financialization (www.ineteconomics.org)]]></title>
+            <link>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</link>
+            <guid>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</guid>
+            <pubDate>Thu, 07 Sep 2023 06:34:22 GMT</pubDate>
+            <description><![CDATA[Cisco Systems' Financialization and its Impact on the US Technology Industry]]></description>
+            <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.
+            </p><p>
+                35 Points |  <a href="https://news.ycombinator.com/item?id=37415456">28 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
+            <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
+            <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:23:27 GMT</pubDate>
+            <description><![CDATA[Understanding the Constraints of C++20's constexpr std::string and std::vector]]></description>
+            <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.
+            </p><p>
+                106 Points |  <a href="https://news.ycombinator.com/item?id=37431425">84 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines (github.com)]]></title>
+            <link>https://github.com/JHRobotics/softgpu</link>
+            <guid>https://github.com/JHRobotics/softgpu</guid>
+            <pubDate>Fri, 08 Sep 2023 23:06:30 GMT</pubDate>
+            <description><![CDATA[SoftGPU: Software and Hardware Accelerated Drivers for Windows 9x Virtual Machines]]></description>
+            <content:encoded><![CDATA[<p>SoftGPU is a compilation of four projects that provide software and hardware accelerated drivers for Windows 9x virtual machines. It requires a virtual machine with VGA adapter support and Windows 95/98/Me as the guest system. The compilation includes the necessary DirectX versions, Visual C runtime, and OpenGL 95. SoftGPU offers three render drivers: softpipe, llvmlipe, and SVGA3D. The performance of these renderers varies, with SVGA3D providing the highest expected FPS. The hypervisor translation to real hardware GPU is also discussed. The installation process and system requirements are outlined, along with instructions for setting up a VirtualBox VM with hardware acceleration. The article concludes with information on running DirectX tests and optimizing performance for newer CPUs.
+            </p><p>
+                33 Points |  <a href="https://news.ycombinator.com/item?id=37440392">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)]]></title>
+            <link>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</link>
+            <guid>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</guid>
+            <pubDate>Sat, 09 Sep 2023 03:26:37 GMT</pubDate>
+            <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
+            <content:encoded><![CDATA[<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.
+            </p><p>
+                133 Points |  <a href="https://news.ycombinator.com/item?id=37441982">21 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)]]></title>
+            <link>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</link>
+            <guid>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</guid>
+            <pubDate>Sat, 09 Sep 2023 06:00:57 GMT</pubDate>
+            <description><![CDATA[The Impact of Australia's Eucalyptus Tree on Global Wildfires]]></description>
+            <content:encoded><![CDATA[<p>The Role of Australia's Eucalyptus Tree in Global Wildfires
+            </p><p>
+                10 Points |  <a href="https://news.ycombinator.com/item?id=37442671">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Delivery of gene therapy through CSF conduit to rescue hearing in adult mice (www.science.org)]]></title>
             <link>https://www.science.org/doi/10.1126/scitranslmed.abq3916</link>
             <guid>https://www.science.org/doi/10.1126/scitranslmed.abq3916</guid>
@@ -334,14 +334,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Aardvark'd: The Fog Creek documentary, 18 years later (mtlynch.io)]]></title>
-            <link>https://mtlynch.io/aardvarkd/</link>
-            <guid>https://mtlynch.io/aardvarkd/</guid>
-            <pubDate>Fri, 08 Sep 2023 13:26:45 GMT</pubDate>
-            <description><![CDATA[Aardvark'd: The Fog Creek Documentary Explores Tech Startup Founders' Vulnerability and Uncertainty]]></description>
-            <content:encoded><![CDATA[<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film that captures interviews with individuals who went on to achieve fame and success in the tech industry. It explores the indie software scene in 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The film showcases the vulnerability and uncertainty experienced by tech startup founders in their early days. Despite its flaws, the documentary effectively captures the anxiety and anticipation surrounding the launch of a software product. The article also reveals surprising details, such as the fact that Fog Creek did not finance the documentary and the subsequent fate of the interns featured in the film.
+            <title><![CDATA[Touch Pianist (touchpianist.com)]]></title>
+            <link>http://touchpianist.com/</link>
+            <guid>http://touchpianist.com/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:56:08 GMT</pubDate>
+            <description><![CDATA['More Pieces!': A Free Mobile App for Exploring Touch Expression]]></description>
+            <content:encoded><![CDATA[<p>This is a brief description of a mobile app called 'More Pieces!' that is available for free on Android and iOS. The app allows users to choose different pieces and explore touch expression. The summary mentions that there is more information available about the app, including details about its creator and a press kit. The content is truncated, so it is unclear what specific features or functionality the app offers. However, the summary emphasizes that it is available on both Android and iOS platforms.
             </p><p>
-                427 Points |  <a href="https://news.ycombinator.com/item?id=37433186">138 comments</a>
+                699 Points |  <a href="https://news.ycombinator.com/item?id=37431644">200 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
