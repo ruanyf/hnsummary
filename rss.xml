@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 11:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 12:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -16,47 +16,14 @@
         <category>Frontpage</category>
         <atom:link href="https://ruanyf.github.io/hnsummary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Development of the C Language (cm.bell-labs.co)]]></title>
+            <title><![CDATA[The Development of the C Language (2003) (cm.bell-labs.co)]]></title>
             <link>http://cm.bell-labs.co/who/dmr/chist.html</link>
             <guid>http://cm.bell-labs.co/who/dmr/chist.html</guid>
             <pubDate>Sat, 09 Sep 2023 06:33:32 GMT</pubDate>
             <description><![CDATA['The Development and Evolution of the C Programming Language']]></description>
             <content:encoded><![CDATA[<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.
             </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37442810">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)]]></title>
-            <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
-            <guid>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</guid>
-            <pubDate>Sat, 09 Sep 2023 03:42:53 GMT</pubDate>
-            <description><![CDATA[Optimizing Julia Code for Mandelbrot Set Calculation]]></description>
-            <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
-            </p><p>
-                125 Points |  <a href="https://news.ycombinator.com/item?id=37442064">73 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[An Internet of PHP (timotijhof.net)]]></title>
-            <link>https://timotijhof.net/posts/2023/an-internet-of-php/</link>
-            <guid>https://timotijhof.net/posts/2023/an-internet-of-php/</guid>
-            <pubDate>Thu, 07 Sep 2023 07:23:33 GMT</pubDate>
-            <description><![CDATA[PHP's Dominance in the Internet: Statistics and Anecdotes]]></description>
-            <content:encoded><![CDATA[<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes
-            </p><p>
-                151 Points |  <a href="https://news.ycombinator.com/item?id=37415747">116 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)]]></title>
-            <link>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</link>
-            <guid>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</guid>
-            <pubDate>Thu, 07 Sep 2023 00:48:16 GMT</pubDate>
-            <description><![CDATA[Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend]]></description>
-            <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
-            </p><p>
-                107 Points |  <a href="https://news.ycombinator.com/item?id=37413387">65 comments</a>
+                84 Points |  <a href="https://news.ycombinator.com/item?id=37442810">10 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -67,95 +34,51 @@
             <description><![CDATA[foundation.mozilla.org Checking Site Connection Security with Cloudflare]]></description>
             <content:encoded><![CDATA[<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.
             </p><p>
-                56 Points |  <a href="https://news.ycombinator.com/item?id=37443644">14 comments</a>
+                135 Points |  <a href="https://news.ycombinator.com/item?id=37443644">54 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Advanced NLP with SpaCy (course.spacy.io)]]></title>
-            <link>https://course.spacy.io/en/</link>
-            <guid>https://course.spacy.io/en/</guid>
-            <pubDate>Sat, 09 Sep 2023 05:36:22 GMT</pubDate>
-            <description><![CDATA[Mastering Natural Language Processing with spaCy]]></description>
-            <content:encoded><![CDATA[<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.
+            <title><![CDATA[Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)]]></title>
+            <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
+            <guid>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</guid>
+            <pubDate>Sat, 09 Sep 2023 03:42:53 GMT</pubDate>
+            <description><![CDATA[Optimizing Julia Code for Mandelbrot Set Calculation]]></description>
+            <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
             </p><p>
-                23 Points |  <a href="https://news.ycombinator.com/item?id=37442574">12 comments</a>
+                137 Points |  <a href="https://news.ycombinator.com/item?id=37442064">84 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)]]></title>
-            <link>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</link>
-            <guid>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</guid>
-            <pubDate>Thu, 07 Sep 2023 04:08:50 GMT</pubDate>
-            <description><![CDATA['Spot It!' Card Game: The Math Behind the Matching Symbols]]></description>
-            <content:encoded><![CDATA[<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!
+            <title><![CDATA[Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)]]></title>
+            <link>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</link>
+            <guid>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</guid>
+            <pubDate>Thu, 07 Sep 2023 00:48:16 GMT</pubDate>
+            <description><![CDATA[Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend]]></description>
+            <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
             </p><p>
-                6 Points |  <a href="https://news.ycombinator.com/item?id=37414659">1 comments</a>
+                131 Points |  <a href="https://news.ycombinator.com/item?id=37413387">81 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)]]></title>
-            <link>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</link>
-            <guid>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</guid>
-            <pubDate>Sat, 09 Sep 2023 05:56:03 GMT</pubDate>
-            <description><![CDATA['Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features']]></description>
-            <content:encoded><![CDATA[<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.
+            <title><![CDATA[An Internet of PHP (timotijhof.net)]]></title>
+            <link>https://timotijhof.net/posts/2023/an-internet-of-php/</link>
+            <guid>https://timotijhof.net/posts/2023/an-internet-of-php/</guid>
+            <pubDate>Thu, 07 Sep 2023 07:23:33 GMT</pubDate>
+            <description><![CDATA[PHP's Dominance in the Internet: Statistics and Anecdotes]]></description>
+            <content:encoded><![CDATA[<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes
             </p><p>
-                45 Points |  <a href="https://news.ycombinator.com/item?id=37442649">10 comments</a>
+                178 Points |  <a href="https://news.ycombinator.com/item?id=37415747">139 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Decoded: GNU Coreutils (2018) (maizure.org)]]></title>
-            <link>https://maizure.org/projects/decoded-gnu-coreutils/</link>
-            <guid>https://maizure.org/projects/decoded-gnu-coreutils/</guid>
-            <pubDate>Fri, 08 Sep 2023 21:15:52 GMT</pubDate>
-            <description><![CDATA[Decoding GNU coreutils: A Comprehensive Exploration of Command-Line Utilities]]></description>
-            <content:encoded><![CDATA[<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.
+            <title><![CDATA[Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring (skio.com)]]></title>
+            <link>https://skio.com/careers/</link>
+            <guid>https://skio.com/careers/</guid>
+            <pubDate>Sat, 09 Sep 2023 12:01:05 GMT</pubDate>
+            <description><![CDATA['Skio: A Startup Helping Brands Sell Subscriptions on Shopify with a Unique Business Model']]></description>
+            <content:encoded><![CDATA[<p>Skio is a startup that helps brands on Shopify sell subscriptions and stands out with its transaction fee business model. The company has a flat organizational structure, minimal meeting culture, and a big long-term vision for building network effects. The founder, Kennan, has a track record of success and an EV-based decision-making approach. Skio is currently hiring for various positions in engineering, product, sales, customer experience, growth, and more.
             </p><p>
-                219 Points |  <a href="https://news.ycombinator.com/item?id=37439535">64 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Power of Food for People with Dementia (www.newyorker.com)]]></title>
-            <link>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</link>
-            <guid>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</guid>
-            <pubDate>Thu, 07 Sep 2023 01:15:10 GMT</pubDate>
-            <description><![CDATA[The Transformative Role of Food for Individuals with Dementia]]></description>
-            <content:encoded><![CDATA[<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia
-            </p><p>
-                24 Points |  <a href="https://news.ycombinator.com/item?id=37413566">2 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Snoop unto them as they snoop unto you (blog.dataparty.xyz)]]></title>
-            <link>https://blog.dataparty.xyz/blog/snoop-unto-them/</link>
-            <guid>https://blog.dataparty.xyz/blog/snoop-unto-them/</guid>
-            <pubDate>Fri, 08 Sep 2023 22:26:51 GMT</pubDate>
-            <description><![CDATA['DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers']]></description>
-            <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.
-            </p><p>
-                196 Points |  <a href="https://news.ycombinator.com/item?id=37440104">112 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)]]></title>
-            <link>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</link>
-            <guid>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</guid>
-            <pubDate>Fri, 08 Sep 2023 23:38:39 GMT</pubDate>
-            <description><![CDATA[N/A]]></description>
-            <content:encoded><![CDATA[<p>N/A
-            </p><p>
-                149 Points |  <a href="https://news.ycombinator.com/item?id=37440631">23 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Scammers can exploit email forwarding flaws to impersonate high-profile domains (today.ucsd.edu)]]></title>
-            <link>https://today.ucsd.edu/story/forwarding_based_spoofing</link>
-            <guid>https://today.ucsd.edu/story/forwarding_based_spoofing</guid>
-            <pubDate>Fri, 08 Sep 2023 19:45:08 GMT</pubDate>
-            <description><![CDATA[Email Forwarding Flaws Enable Scammers to Impersonate High-Profile Domains]]></description>
-            <content:encoded><![CDATA[<p>Email forwarding flaws allow scammers to impersonate high-profile domains, including government organizations, financial service companies, and major news organizations. The vulnerabilities in the email forwarding process bypass the safeguards of email providers like Gmail and Outlook, making it easier for attackers to send spoofed emails containing malware or spyware. The research team discovered that many organizations outsource their email infrastructure to third-party providers, which can be exploited through email forwarding. The vulnerabilities affect a significant number of domains, including state.gov, Mastercard, The Washington Post, and the Associated Press. While some providers have patched the issues, researchers recommend disabling open forwarding and implementing stricter validation policies to enhance email security.
-            </p><p>
-                163 Points |  <a href="https://news.ycombinator.com/item?id=37438478">42 comments</a>
+                1 Points |  <a href="https://news.ycombinator.com/item?id=37444354">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -170,6 +93,126 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Ask HN: Looking for a resource on Linux kernel module development (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37444184</link>
+            <guid>https://news.ycombinator.com/item?id=37444184</guid>
+            <pubDate>Sat, 09 Sep 2023 11:32:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
+            </p><p>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37444184">3 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)]]></title>
+            <link>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</link>
+            <guid>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</guid>
+            <pubDate>Thu, 07 Sep 2023 04:08:50 GMT</pubDate>
+            <description><![CDATA['Spot It!' Card Game: The Math Behind the Matching Symbols]]></description>
+            <content:encoded><![CDATA[<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!
+            </p><p>
+                6 Points |  <a href="https://news.ycombinator.com/item?id=37414659">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Advanced NLP with SpaCy (course.spacy.io)]]></title>
+            <link>https://course.spacy.io/en/</link>
+            <guid>https://course.spacy.io/en/</guid>
+            <pubDate>Sat, 09 Sep 2023 05:36:22 GMT</pubDate>
+            <description><![CDATA[Mastering Natural Language Processing with spaCy]]></description>
+            <content:encoded><![CDATA[<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.
+            </p><p>
+                62 Points |  <a href="https://news.ycombinator.com/item?id=37442574">22 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Power of Food for People with Dementia (www.newyorker.com)]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</link>
+            <guid>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</guid>
+            <pubDate>Thu, 07 Sep 2023 01:15:10 GMT</pubDate>
+            <description><![CDATA[The Transformative Role of Food for Individuals with Dementia]]></description>
+            <content:encoded><![CDATA[<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia
+            </p><p>
+                24 Points |  <a href="https://news.ycombinator.com/item?id=37413566">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Decoded: GNU Coreutils (2018) (maizure.org)]]></title>
+            <link>https://maizure.org/projects/decoded-gnu-coreutils/</link>
+            <guid>https://maizure.org/projects/decoded-gnu-coreutils/</guid>
+            <pubDate>Fri, 08 Sep 2023 21:15:52 GMT</pubDate>
+            <description><![CDATA[Decoding GNU coreutils: A Comprehensive Exploration of Command-Line Utilities]]></description>
+            <content:encoded><![CDATA[<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.
+            </p><p>
+                230 Points |  <a href="https://news.ycombinator.com/item?id=37439535">76 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Snoop unto them as they snoop unto you (blog.dataparty.xyz)]]></title>
+            <link>https://blog.dataparty.xyz/blog/snoop-unto-them/</link>
+            <guid>https://blog.dataparty.xyz/blog/snoop-unto-them/</guid>
+            <pubDate>Fri, 08 Sep 2023 22:26:51 GMT</pubDate>
+            <description><![CDATA['DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers']]></description>
+            <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.
+            </p><p>
+                196 Points |  <a href="https://news.ycombinator.com/item?id=37440104">112 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)]]></title>
+            <link>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</link>
+            <guid>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</guid>
+            <pubDate>Sat, 09 Sep 2023 05:56:03 GMT</pubDate>
+            <description><![CDATA['Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features']]></description>
+            <content:encoded><![CDATA[<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.
+            </p><p>
+                45 Points |  <a href="https://news.ycombinator.com/item?id=37442649">10 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dennis Austin, the software developer of PowerPoint, dies at 76 (www.washingtonpost.com)]]></title>
+            <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
+            <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
+            <pubDate>Sat, 09 Sep 2023 11:42:16 GMT</pubDate>
+            <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
+            <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
+            </p><p>
+                8 Points |  <a href="https://news.ycombinator.com/item?id=37444257">6 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)]]></title>
+            <link>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</link>
+            <guid>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</guid>
+            <pubDate>Fri, 08 Sep 2023 23:38:39 GMT</pubDate>
+            <description><![CDATA[N/A]]></description>
+            <content:encoded><![CDATA[<p>N/A
+            </p><p>
+                149 Points |  <a href="https://news.ycombinator.com/item?id=37440631">23 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Experts fear crooks are cracking keys stolen in LastPass breach (krebsonsecurity.com)]]></title>
+            <link>https://krebsonsecurity.com/</link>
+            <guid>https://krebsonsecurity.com/</guid>
+            <pubDate>Sat, 09 Sep 2023 07:04:40 GMT</pubDate>
+            <description><![CDATA['Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach']]></description>
+            <content:encoded><![CDATA[<p>Security experts believe that hackers have successfully cracked open some of the stolen LastPass vaults, leading to a series of cryptocurrency heists targeting security-conscious individuals. The victims, who were all longtime cryptocurrency investors, had one common factor: they had previously used LastPass to store their 'seed phrase,' the private key needed to access their cryptocurrency investments. The stolen funds were moved to the same blockchain addresses, allowing researchers to link the thefts and identify over 150 victims who lost more than $35 million in crypto. LastPass declined to comment on the research.
+            </p><p>
+                16 Points |  <a href="https://news.ycombinator.com/item?id=37442927">4 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)]]></title>
+            <link>https://github.com/dancrossnyc/rxv64</link>
+            <guid>https://github.com/dancrossnyc/rxv64</guid>
+            <pubDate>Fri, 08 Sep 2023 21:03:19 GMT</pubDate>
+            <description><![CDATA['rxv64': A Pedagogical Operating System Reimplementation in Rust]]></description>
+            <content:encoded><![CDATA[<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports very little hardware other than the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on provenance and intended use.
+            </p><p>
+                126 Points |  <a href="https://news.ycombinator.com/item?id=37439391">34 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Creative Money Aesthetics (andjelicaaa.substack.com)]]></title>
             <link>https://andjelicaaa.substack.com/p/creative-money-aesthetics</link>
             <guid>https://andjelicaaa.substack.com/p/creative-money-aesthetics</guid>
@@ -181,25 +224,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)]]></title>
-            <link>https://github.com/dancrossnyc/rxv64</link>
-            <guid>https://github.com/dancrossnyc/rxv64</guid>
-            <pubDate>Fri, 08 Sep 2023 21:03:19 GMT</pubDate>
-            <description><![CDATA['rxv64': A Pedagogical Operating System Reimplementation in Rust]]></description>
-            <content:encoded><![CDATA[<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports very little hardware other than the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on provenance and intended use.
+            <title><![CDATA[Burakumin - "Hamlet people" of Japan (en.wikipedia.org)]]></title>
+            <link>https://en.wikipedia.org/wiki/Burakumin</link>
+            <guid>https://en.wikipedia.org/wiki/Burakumin</guid>
+            <pubDate>Thu, 07 Sep 2023 04:09:45 GMT</pubDate>
+            <description><![CDATA['Burakumin': The Descendants of Pre-Meiji Castes and Their Struggle Against Discrimination]]></description>
+            <content:encoded><![CDATA[<p>Burakumin refers to ethnic Japanese people who are believed to be descended from pre-Meiji castes associated with defilement. These occupations acquired a hereditary status of untouchability during Japan's feudal era. After the caste system was abolished, the term burakumin came into use to refer to former caste members and their descendants who continued to face discrimination. The article explores the historical origins, social issues, and discrimination faced by the burakumin community in Japan.
             </p><p>
-                107 Points |  <a href="https://news.ycombinator.com/item?id=37439391">24 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)]]></title>
-            <link>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</link>
-            <guid>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</guid>
-            <pubDate>Fri, 08 Sep 2023 20:41:20 GMT</pubDate>
-            <description><![CDATA[Manipulating Application Behavior with LD_PRELOAD: Fun and Useful Tricks in Linux]]></description>
-            <content:encoded><![CDATA[<p>Using LD_PRELOAD to manipulate the behavior of applications without modifying their source code or recompiling them is a powerful trick in Linux. This technique allows users to inject custom code into applications transparently, such as modifying the behavior of the random number generator or intercepting file access calls. The blog post provides examples of how LD_PRELOAD can be used to cheat in games, investigate unknown applications by monitoring file I/O and internet access, and even create bullet-time effects in games. The author emphasizes that while this trick can be fun and useful for debugging, it should not be used to bypass security or gain root privileges.
-            </p><p>
-                150 Points |  <a href="https://news.ycombinator.com/item?id=37439125">81 comments</a>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37414664">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -214,14 +246,58 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: Conway's Game of Life in TypeScript's type system (github.com)]]></title>
-            <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
-            <guid>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</guid>
-            <pubDate>Fri, 08 Sep 2023 19:11:47 GMT</pubDate>
-            <description><![CDATA[TypeScript code for a game of life simulation]]></description>
-            <content:encoded><![CDATA[<p>This is a TypeScript file containing code for a game of life simulation. The code is 203 lines long and has a file size of 7.24 KB. It appears to be a random implementation of the game of life, with various functions and logic for simulating the evolution of cells on a grid. The code includes functions for initializing the grid, updating the grid based on the rules of the game, and rendering the grid. It also includes helper functions for counting the number of live neighbors for each cell and checking if a cell is alive or dead. Overall, this file seems to be a self-contained implementation of the game of life in TypeScript.
+            <title><![CDATA[JIT-optimized Ruby can outperform a C extension (railsatscale.com)]]></title>
+            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
+            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
+            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
+            <description><![CDATA['YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization']]></description>
+            <content:encoded><![CDATA[<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.
             </p><p>
-                153 Points |  <a href="https://news.ycombinator.com/item?id=37438028">38 comments</a>
+                123 Points |  <a href="https://news.ycombinator.com/item?id=37422705">72 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Stop Making Sense’ Is Back, and Talking Heads Have More to Say (www.nytimes.com)]]></title>
+            <link>https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html</link>
+            <guid>https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html</guid>
+            <pubDate>Sat, 09 Sep 2023 11:20:24 GMT</pubDate>
+            <description><![CDATA['Stop Making Sense' Concert Documentary Restored for 40th Anniversary]]></description>
+            <content:encoded><![CDATA[<p>'Stop Making Sense' is a concert documentary by Talking Heads that has been restored for its 40th anniversary. The film, directed by Jonathan Demme, will premiere at the Toronto International Film Festival and then be shown in theaters. The documentary captures the band's unique staging and eclectic music, which blended rock, funk, and African rhythms. The restoration includes an expanded audio album with the full concert set. The film is considered a landmark achievement and a prophetic piece of art.
+            </p><p>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37444113">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Library of Short Stories – An online library of public domain short stories (www.libraryofshortstories.com)]]></title>
+            <link>https://www.libraryofshortstories.com/</link>
+            <guid>https://www.libraryofshortstories.com/</guid>
+            <pubDate>Sat, 09 Sep 2023 07:02:21 GMT</pubDate>
+            <description><![CDATA[Explore a Vast Online Library of Classic Short Stories]]></description>
+            <content:encoded><![CDATA[<p>Discover and read over 1000 classic short stories for free on an online library. Search, sort, and filter stories by genre, theme, or popularity. Find stories from various authors and explore different collections. The website offers a wide range of genres, including adventure, horror, mystery, poetry, and more. It also provides further reading and privacy information.
+            </p><p>
+                8 Points |  <a href="https://news.ycombinator.com/item?id=37442922">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)]]></title>
+            <link>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</link>
+            <guid>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</guid>
+            <pubDate>Sat, 09 Sep 2023 08:44:52 GMT</pubDate>
+            <description><![CDATA[Building a Kubernetes Cluster with Talos on Hetzner: Part I]]></description>
+            <content:encoded><![CDATA[<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.
+            </p><p>
+                13 Points |  <a href="https://news.ycombinator.com/item?id=37443404">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)]]></title>
+            <link>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</link>
+            <guid>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</guid>
+            <pubDate>Sat, 09 Sep 2023 08:44:07 GMT</pubDate>
+            <description><![CDATA['Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023]]></description>
+            <content:encoded><![CDATA[<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.
+            </p><p>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37443395">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -236,17 +312,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[JIT-optimized Ruby can outperform a C extension (railsatscale.com)]]></title>
-            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
-            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
-            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
-            <description><![CDATA['YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization']]></description>
-            <content:encoded><![CDATA[<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.
-            </p><p>
-                104 Points |  <a href="https://news.ycombinator.com/item?id=37422705">60 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines (github.com)]]></title>
             <link>https://github.com/JHRobotics/softgpu</link>
             <guid>https://github.com/JHRobotics/softgpu</guid>
@@ -258,17 +323,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[X challenges California’s new transparency law as unconstitutional (techcrunch.com)]]></title>
-            <link>https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/</link>
-            <guid>https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/</guid>
-            <pubDate>Sat, 09 Sep 2023 07:17:06 GMT</pubDate>
-            <description><![CDATA['X' Challenges California's New Transparency Law as Unconstitutional]]></description>
-            <content:encoded><![CDATA[<p>X, formerly known as Twitter, has filed a lawsuit challenging a new California law that requires social media companies to disclose their moderation practices. The law aims to bring transparency and accountability to social media content, but X argues that it violates their Constitutional right to free speech. The lawsuit claims that the law is a form of compelled speech and an unconstitutional government overreach. The outcome of the lawsuit will have implications for the balance between government involvement and private platform moderation practices.
-            </p><p>
-                40 Points |  <a href="https://news.ycombinator.com/item?id=37442998">36 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)]]></title>
             <link>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</link>
             <guid>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</guid>
@@ -276,61 +330,7 @@
             <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
             <content:encoded><![CDATA[<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.
             </p><p>
-                164 Points |  <a href="https://news.ycombinator.com/item?id=37441982">33 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37441168</link>
-            <guid>https://news.ycombinator.com/item?id=37441168</guid>
-            <pubDate>Sat, 09 Sep 2023 01:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                1 Points |  <a href="https://news.ycombinator.com/item?id=37441168">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
-            <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
-            <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:23:27 GMT</pubDate>
-            <description><![CDATA[Understanding the Constraints of C++20's constexpr std::string and std::vector]]></description>
-            <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.
-            </p><p>
-                106 Points |  <a href="https://news.ycombinator.com/item?id=37431425">84 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bitwarden has been disabled in Chrome [img] (imgur.com)]]></title>
-            <link>https://imgur.com/XPmU2FX</link>
-            <guid>https://imgur.com/XPmU2FX</guid>
-            <pubDate>Sat, 09 Sep 2023 08:17:33 GMT</pubDate>
-            <description><![CDATA[A casual post with mentions of HR availability and sarcastic comment]]></description>
-            <content:encoded><![CDATA[<p>This is a brief post on an online platform where the author mentions the availability of HR for problem-solving and the use of suggestion boxes and surveys for better management. The post also includes a sarcastic comment about reducing suicides. The content seems to be a mix of casual conversation and unrelated topics.
-            </p><p>
-                13 Points |  <a href="https://news.ycombinator.com/item?id=37443280">2 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Redesigned Google Fonts website (material.io)]]></title>
-            <link>https://material.io/blog/2023-google-fonts-redesign</link>
-            <guid>https://material.io/blog/2023-google-fonts-redesign</guid>
-            <pubDate>Sat, 09 Sep 2023 02:38:22 GMT</pubDate>
-            <description><![CDATA['Google Fonts Redesigns Website for Better Font and Icon Exploration']]></description>
-            <content:encoded><![CDATA[<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.
-            </p><p>
-                67 Points |  <a href="https://news.ycombinator.com/item?id=37441683">61 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Library of Short Stories – An online library of public domain short stories (www.libraryofshortstories.com)]]></title>
-            <link>https://www.libraryofshortstories.com/</link>
-            <guid>https://www.libraryofshortstories.com/</guid>
-            <pubDate>Sat, 09 Sep 2023 07:02:21 GMT</pubDate>
-            <description><![CDATA[Explore a Vast Online Library of Classic Short Stories]]></description>
-            <content:encoded><![CDATA[<p>Discover and read over 1000 classic short stories for free on an online library. Search, sort, and filter stories by genre, theme, or popularity. Find stories from various authors and explore different collections. The website offers a wide range of genres, including adventure, horror, mystery, poetry, and more. It also provides further reading and privacy information.
-            </p><p>
-                8 Points |  <a href="https://news.ycombinator.com/item?id=37442922">1 comments</a>
+                189 Points |  <a href="https://news.ycombinator.com/item?id=37441982">48 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
