@@ -12,7 +12,7 @@
     "items": [
         {
             "id": "https://timotijhof.net/posts/2023/an-internet-of-php/",
-            "content_html": "<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes\n            </p><p>\n                96 Points |  <a href=\"https://news.ycombinator.com/item?id=37415747\">52 comments</a>\n            </p>",
+            "content_html": "<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes\n            </p><p>\n                131 Points |  <a href=\"https://news.ycombinator.com/item?id=37415747\">94 comments</a>\n            </p>",
             "url": "https://timotijhof.net/posts/2023/an-internet-of-php/",
             "title": "An Internet of PHP (timotijhof.net)",
             "summary": "PHP's Dominance in the Internet: Statistics and Anecdotes",
@@ -34,9 +34,9 @@
         },
         {
             "id": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                84 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">37 comments</a>\n            </p>",
+            "content_html": "<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.\n            </p><p>\n                115 Points |  <a href=\"https://news.ycombinator.com/item?id=37442064\">58 comments</a>\n            </p>",
             "url": "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638",
-            "title": "Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)",
+            "title": "Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)",
             "summary": "Optimizing Julia Code for Mandelbrot Set Calculation",
             "date_modified": "2023-09-09T03:42:53.000Z",
             "author": {
@@ -45,7 +45,7 @@
         },
         {
             "id": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
-            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                100 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">45 comments</a>\n            </p>",
+            "content_html": "<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.\n            </p><p>\n                107 Points |  <a href=\"https://news.ycombinator.com/item?id=37413387\">65 comments</a>\n            </p>",
             "url": "https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend",
             "title": "Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)",
             "summary": "Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend",
@@ -66,28 +66,6 @@
             }
         },
         {
-            "id": "https://maizure.org/projects/decoded-gnu-coreutils/",
-            "content_html": "<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.\n            </p><p>\n                219 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">64 comments</a>\n            </p>",
-            "url": "https://maizure.org/projects/decoded-gnu-coreutils/",
-            "title": "Decoded: GNU Coreutils (2018) (maizure.org)",
-            "summary": "Decoding GNU coreutils: A Comprehensive Exploration of Command-Line Utilities",
-            "date_modified": "2023-09-08T21:15:52.000Z",
-            "author": {
-                "name": "maizure.org"
-            }
-        },
-        {
-            "id": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
-            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.\n            </p><p>\n                177 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">98 comments</a>\n            </p>",
-            "url": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
-            "title": "Snoop unto them as they snoop unto you (blog.dataparty.xyz)",
-            "summary": "'DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers'",
-            "date_modified": "2023-09-08T22:26:51.000Z",
-            "author": {
-                "name": "blog.dataparty.xyz"
-            }
-        },
-        {
             "id": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
             "content_html": "<p>Spot It!, the popular family card game, is based on complex mathematics. The game's structure, where every card has one matching symbol with any other card, is rooted in the logic puzzles of 19th-century mathematicians. The game's origins can be traced back to the Reverend Thomas Penyngton Kirkman's Schoolgirl Problem, a question of combinatorics. The general solution to this problem was not figured out until 1968, and it has since found applications in various fields, including card games like Spot It!\n            </p><p>\n                6 Points |  <a href=\"https://news.ycombinator.com/item?id=37414659\">1 comments</a>\n            </p>",
             "url": "https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/",
@@ -99,14 +77,14 @@
             }
         },
         {
-            "id": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
-            "content_html": "<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37442649\">0 comments</a>\n            </p>",
-            "url": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
-            "title": "Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)",
-            "summary": "'Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features'",
-            "date_modified": "2023-09-09T05:56:03.000Z",
+            "id": "https://maizure.org/projects/decoded-gnu-coreutils/",
+            "content_html": "<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.\n            </p><p>\n                219 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">64 comments</a>\n            </p>",
+            "url": "https://maizure.org/projects/decoded-gnu-coreutils/",
+            "title": "Decoded: GNU Coreutils (2018) (maizure.org)",
+            "summary": "Decoding GNU coreutils: A Comprehensive Exploration of Command-Line Utilities",
+            "date_modified": "2023-09-08T21:15:52.000Z",
             "author": {
-                "name": "ecl.common-lisp.dev"
+                "name": "maizure.org"
             }
         },
         {
@@ -121,6 +99,28 @@
             }
         },
         {
+            "id": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
+            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.\n            </p><p>\n                177 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">98 comments</a>\n            </p>",
+            "url": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
+            "title": "Snoop unto them as they snoop unto you (blog.dataparty.xyz)",
+            "summary": "'DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers'",
+            "date_modified": "2023-09-08T22:26:51.000Z",
+            "author": {
+                "name": "blog.dataparty.xyz"
+            }
+        },
+        {
+            "id": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
+            "content_html": "<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37442649\">0 comments</a>\n            </p>",
+            "url": "https://ecl.common-lisp.dev/posts/ECL-2399-release.html",
+            "title": "Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)",
+            "summary": "'Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features'",
+            "date_modified": "2023-09-09T05:56:03.000Z",
+            "author": {
+                "name": "ecl.common-lisp.dev"
+            }
+        },
+        {
             "id": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
             "content_html": "<p>N/A\n            </p><p>\n                149 Points |  <a href=\"https://news.ycombinator.com/item?id=37440631\">23 comments</a>\n            </p>",
             "url": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
@@ -129,6 +129,17 @@
             "date_modified": "2023-09-08T23:38:39.000Z",
             "author": {
                 "name": "msprout.notion.site"
+            }
+        },
+        {
+            "id": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
+            "content_html": "<p>The Creative Class, consisting of creators, curators, critics, and hangers-on, has a distinct aesthetic that blends businesswear with vintage, sports wear, and work wear. They treat their job as leisure and their leisure as job, reflecting a cool, nonchalant, versatile, durable, and comfortable style. The Creative Class accumulates cultural capital by commenting, repurposing, and reinterpreting past and present culture, creating something modern and new while maintaining familiarity. They play a critical role in the modern economy by directing consumers' time, attention, and money towards aspirational things, places, and ideas.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37416882\">0 comments</a>\n            </p>",
+            "url": "https://andjelicaaa.substack.com/p/creative-money-aesthetics",
+            "title": "Creative Money Aesthetics (andjelicaaa.substack.com)",
+            "summary": "The Aesthetic and Influence of the Creative Class in Business",
+            "date_modified": "2023-09-07T10:18:43.000Z",
+            "author": {
+                "name": "andjelicaaa.substack.com"
             }
         },
         {
@@ -154,69 +165,14 @@
             }
         },
         {
-            "id": "https://www.youtube.com/watch?v=KvaVc_xbUss",
-            "content_html": "<p>N/A\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37430388\">1 comments</a>\n            </p>",
-            "url": "https://www.youtube.com/watch?v=KvaVc_xbUss",
-            "title": "Deltic – King of Diesels [video] (www.youtube.com)",
-            "summary": "N/A",
-            "date_modified": "2023-09-08T06:57:52.000Z",
-            "author": {
-                "name": "www.youtube.com"
-            }
-        },
-        {
-            "id": "https://material.io/blog/2023-google-fonts-redesign",
-            "content_html": "<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.\n            </p><p>\n                61 Points |  <a href=\"https://news.ycombinator.com/item?id=37441683\">46 comments</a>\n            </p>",
-            "url": "https://material.io/blog/2023-google-fonts-redesign",
-            "title": "Redesigned Google Fonts website (material.io)",
-            "summary": "'Google Fonts Redesigns Website for Better Font and Icon Exploration'",
-            "date_modified": "2023-09-09T02:38:22.000Z",
-            "author": {
-                "name": "material.io"
-            }
-        },
-        {
             "id": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
-            "content_html": "<p>Using LD_PRELOAD to manipulate the behavior of applications without modifying their source code or recompiling them is a powerful trick in Linux. This technique allows users to inject custom code into applications transparently, such as modifying the behavior of the random number generator or intercepting file access calls. The blog post provides examples of how LD_PRELOAD can be used to cheat in games, investigate unknown applications by monitoring file I/O and internet access, and even create bullet-time effects in games. The author emphasizes that while this trick can be fun and useful for debugging, it should not be used to bypass security or gain root privileges.\n            </p><p>\n                128 Points |  <a href=\"https://news.ycombinator.com/item?id=37439125\">70 comments</a>\n            </p>",
+            "content_html": "<p>Using LD_PRELOAD to manipulate the behavior of applications without modifying their source code or recompiling them is a powerful trick in Linux. This technique allows users to inject custom code into applications transparently, such as modifying the behavior of the random number generator or intercepting file access calls. The blog post provides examples of how LD_PRELOAD can be used to cheat in games, investigate unknown applications by monitoring file I/O and internet access, and even create bullet-time effects in games. The author emphasizes that while this trick can be fun and useful for debugging, it should not be used to bypass security or gain root privileges.\n            </p><p>\n                150 Points |  <a href=\"https://news.ycombinator.com/item?id=37439125\">81 comments</a>\n            </p>",
             "url": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
             "title": "Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)",
             "summary": "Manipulating Application Behavior with LD_PRELOAD: Fun and Useful Tricks in Linux",
             "date_modified": "2023-09-08T20:41:20.000Z",
             "author": {
                 "name": "rafalcieslak.wordpress.com"
-            }
-        },
-        {
-            "id": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
-            "content_html": "<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.\n            </p><p>\n                75 Points |  <a href=\"https://news.ycombinator.com/item?id=37422705\">50 comments</a>\n            </p>",
-            "url": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
-            "title": "Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)",
-            "summary": "'YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization'",
-            "date_modified": "2023-09-07T17:43:12.000Z",
-            "author": {
-                "name": "railsatscale.com"
-            }
-        },
-        {
-            "id": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
-            "content_html": "<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">11 comments</a>\n            </p>",
-            "url": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
-            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)",
-            "summary": "Content Unavailable: Contact Support for Assistance",
-            "date_modified": "2023-09-08T23:17:21.000Z",
-            "author": {
-                "name": "www.sciencedirect.com"
-            }
-        },
-        {
-            "id": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
-            "content_html": "<p>This is a TypeScript file containing code for a game of life simulation. The code is 203 lines long and has a file size of 7.24 KB. It appears to be a random implementation of the game of life, with various functions and logic for simulating the evolution of cells on a grid. The code includes functions for initializing the grid, updating the grid based on the rules of the game, and rendering the grid. It also includes helper functions for counting the number of live neighbors for each cell and checking if a cell is alive or dead. Overall, this file seems to be a self-contained implementation of the game of life in TypeScript.\n            </p><p>\n                153 Points |  <a href=\"https://news.ycombinator.com/item?id=37438028\">38 comments</a>\n            </p>",
-            "url": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
-            "title": "Show HN: Conway's Game of Life in TypeScript's type system (github.com)",
-            "summary": "TypeScript code for a game of life simulation",
-            "date_modified": "2023-09-08T19:11:47.000Z",
-            "author": {
-                "name": "github.com"
             }
         },
         {
@@ -231,6 +187,61 @@
             }
         },
         {
+            "id": "https://www.youtube.com/watch?v=KvaVc_xbUss",
+            "content_html": "<p>N/A\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37430388\">1 comments</a>\n            </p>",
+            "url": "https://www.youtube.com/watch?v=KvaVc_xbUss",
+            "title": "Deltic – King of Diesels [video] (www.youtube.com)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T06:57:52.000Z",
+            "author": {
+                "name": "www.youtube.com"
+            }
+        },
+        {
+            "id": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
+            "content_html": "<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.\n            </p><p>\n                104 Points |  <a href=\"https://news.ycombinator.com/item?id=37422705\">60 comments</a>\n            </p>",
+            "url": "https://railsatscale.com/2023-08-29-ruby-outperforms-c/",
+            "title": "JIT-optimized Ruby can outperform a C extension (railsatscale.com)",
+            "summary": "'YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization'",
+            "date_modified": "2023-09-07T17:43:12.000Z",
+            "author": {
+                "name": "railsatscale.com"
+            }
+        },
+        {
+            "id": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
+            "content_html": "<p>This is a TypeScript file containing code for a game of life simulation. The code is 203 lines long and has a file size of 7.24 KB. It appears to be a random implementation of the game of life, with various functions and logic for simulating the evolution of cells on a grid. The code includes functions for initializing the grid, updating the grid based on the rules of the game, and rendering the grid. It also includes helper functions for counting the number of live neighbors for each cell and checking if a cell is alive or dead. Overall, this file seems to be a self-contained implementation of the game of life in TypeScript.\n            </p><p>\n                153 Points |  <a href=\"https://news.ycombinator.com/item?id=37438028\">38 comments</a>\n            </p>",
+            "url": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
+            "title": "Show HN: Conway's Game of Life in TypeScript's type system (github.com)",
+            "summary": "TypeScript code for a game of life simulation",
+            "date_modified": "2023-09-08T19:11:47.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
+            "id": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
+            "content_html": "<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.\n            </p><p>\n                74 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">11 comments</a>\n            </p>",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040",
+            "title": "Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)",
+            "summary": "Content Unavailable: Contact Support for Assistance",
+            "date_modified": "2023-09-08T23:17:21.000Z",
+            "author": {
+                "name": "www.sciencedirect.com"
+            }
+        },
+        {
+            "id": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
+            "content_html": "<p>X, formerly known as Twitter, has filed a lawsuit challenging a new California law that requires social media companies to disclose their moderation practices. The law aims to bring transparency and accountability to social media content, but X argues that it violates their Constitutional right to free speech. The lawsuit claims that the law is a form of compelled speech and an unconstitutional government overreach. The outcome of the lawsuit will have implications for the balance between government involvement and private platform moderation practices.\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37442998\">20 comments</a>\n            </p>",
+            "url": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
+            "title": "X challenges California’s new transparency law as unconstitutional (techcrunch.com)",
+            "summary": "'X' Challenges California's New Transparency Law as Unconstitutional",
+            "date_modified": "2023-09-09T07:17:06.000Z",
+            "author": {
+                "name": "techcrunch.com"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=37441168",
             "content_html": "<p>No summary available\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37441168\">0 comments</a>\n            </p>",
             "url": "https://news.ycombinator.com/item?id=37441168",
@@ -241,47 +252,14 @@
             }
         },
         {
-            "id": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
-            "content_html": "<p>X, formerly known as Twitter, has filed a lawsuit challenging a new California law that requires social media companies to disclose their moderation practices. The law aims to bring transparency and accountability to social media content, but X argues that it violates their Constitutional right to free speech. The lawsuit claims that the law is a form of compelled speech and an unconstitutional government overreach. The outcome of the lawsuit will have implications for the balance between government involvement and private platform moderation practices.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37442998\">1 comments</a>\n            </p>",
-            "url": "https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/",
-            "title": "X challenges California’s new transparency law as unconstitutional (techcrunch.com)",
-            "summary": "'X' Challenges California's New Transparency Law as Unconstitutional",
-            "date_modified": "2023-09-09T07:17:06.000Z",
+            "id": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
+            "content_html": "<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443644\">1 comments</a>\n            </p>",
+            "url": "https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/",
+            "title": "Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla (foundation.mozilla.org)",
+            "summary": "foundation.mozilla.org Checking Site Connection Security with Cloudflare",
+            "date_modified": "2023-09-09T09:39:44.000Z",
             "author": {
-                "name": "techcrunch.com"
-            }
-        },
-        {
-            "id": "https://bitbashing.io/async-rust.html",
-            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author highlights the drawbacks of using threads and mutex-based concurrency, such as race conditions and deadlocks. They introduce the concept of channels as a synchronization mechanism and discuss how many modern languages provide channels in their standard libraries. The article then delves into the complexities of async Rust, including the tension between low-level control and the need for dynamic lifetimes. It concludes by suggesting that Rust may not be the best tool for massively concurrent, userspace software.\n            </p><p>\n                581 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">480 comments</a>\n            </p>",
-            "url": "https://bitbashing.io/async-rust.html",
-            "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
-            "summary": "The Challenges of Using Async Rust for Concurrency",
-            "date_modified": "2023-09-08T16:10:55.000Z",
-            "author": {
-                "name": "bitbashing.io"
-            }
-        },
-        {
-            "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
-            "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.\n            </p><p>\n                35 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">28 comments</a>\n            </p>",
-            "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
-            "title": "Cisco Systems and Financialization (www.ineteconomics.org)",
-            "summary": "Cisco Systems' Financialization and its Impact on the US Technology Industry",
-            "date_modified": "2023-09-07T06:34:22.000Z",
-            "author": {
-                "name": "www.ineteconomics.org"
-            }
-        },
-        {
-            "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
-            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.\n            </p><p>\n                106 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">84 comments</a>\n            </p>",
-            "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
-            "title": "Just how constexpr is C++20’s std:string? (quuxplusone.github.io)",
-            "summary": "Understanding the Constraints of C++20's constexpr std::string and std::vector",
-            "date_modified": "2023-09-08T09:23:27.000Z",
-            "author": {
-                "name": "quuxplusone.github.io"
+                "name": "foundation.mozilla.org"
             }
         },
         {
@@ -297,7 +275,7 @@
         },
         {
             "id": "https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/",
-            "content_html": "<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.\n            </p><p>\n                133 Points |  <a href=\"https://news.ycombinator.com/item?id=37441982\">21 comments</a>\n            </p>",
+            "content_html": "<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.\n            </p><p>\n                164 Points |  <a href=\"https://news.ycombinator.com/item?id=37441982\">33 comments</a>\n            </p>",
             "url": "https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/",
             "title": "FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)",
             "summary": "FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free'",
@@ -307,14 +285,36 @@
             }
         },
         {
-            "id": "https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264",
-            "content_html": "<p>The Role of Australia's Eucalyptus Tree in Global Wildfires\n            </p><p>\n                10 Points |  <a href=\"https://news.ycombinator.com/item?id=37442671\">1 comments</a>\n            </p>",
-            "url": "https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264",
-            "title": "As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)",
-            "summary": "The Impact of Australia's Eucalyptus Tree on Global Wildfires",
-            "date_modified": "2023-09-09T06:00:57.000Z",
+            "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
+            "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.\n            </p><p>\n                106 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">84 comments</a>\n            </p>",
+            "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
+            "title": "Just how constexpr is C++20’s std:string? (quuxplusone.github.io)",
+            "summary": "Understanding the Constraints of C++20's constexpr std::string and std::vector",
+            "date_modified": "2023-09-08T09:23:27.000Z",
             "author": {
-                "name": "www.abc.net.au"
+                "name": "quuxplusone.github.io"
+            }
+        },
+        {
+            "id": "https://material.io/blog/2023-google-fonts-redesign",
+            "content_html": "<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.\n            </p><p>\n                67 Points |  <a href=\"https://news.ycombinator.com/item?id=37441683\">61 comments</a>\n            </p>",
+            "url": "https://material.io/blog/2023-google-fonts-redesign",
+            "title": "Redesigned Google Fonts website (material.io)",
+            "summary": "'Google Fonts Redesigns Website for Better Font and Icon Exploration'",
+            "date_modified": "2023-09-09T02:38:22.000Z",
+            "author": {
+                "name": "material.io"
+            }
+        },
+        {
+            "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.\n            </p><p>\n                35 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">28 comments</a>\n            </p>",
+            "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "title": "Cisco Systems and Financialization (www.ineteconomics.org)",
+            "summary": "Cisco Systems' Financialization and its Impact on the US Technology Industry",
+            "date_modified": "2023-09-07T06:34:22.000Z",
+            "author": {
+                "name": "www.ineteconomics.org"
             }
         },
         {
@@ -329,14 +329,14 @@
             }
         },
         {
-            "id": "http://touchpianist.com/",
-            "content_html": "<p>This is a brief description of a mobile app called 'More Pieces!' that is available for free on Android and iOS. The app allows users to choose different pieces and explore touch expression. The summary mentions that there is more information available about the app, including details about its creator and a press kit. The content is truncated, so it is unclear what specific features or functionality the app offers. However, the summary emphasizes that it is available on both Android and iOS platforms.\n            </p><p>\n                699 Points |  <a href=\"https://news.ycombinator.com/item?id=37431644\">200 comments</a>\n            </p>",
-            "url": "http://touchpianist.com/",
-            "title": "Touch Pianist (touchpianist.com)",
-            "summary": "'More Pieces!': A Free Mobile App for Exploring Touch Expression",
-            "date_modified": "2023-09-08T09:56:08.000Z",
+            "id": "https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264",
+            "content_html": "<p>The Role of Australia's Eucalyptus Tree in Global Wildfires\n            </p><p>\n                10 Points |  <a href=\"https://news.ycombinator.com/item?id=37442671\">1 comments</a>\n            </p>",
+            "url": "https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264",
+            "title": "As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)",
+            "summary": "The Impact of Australia's Eucalyptus Tree on Global Wildfires",
+            "date_modified": "2023-09-09T06:00:57.000Z",
             "author": {
-                "name": "touchpianist.com"
+                "name": "www.abc.net.au"
             }
         }
     ]

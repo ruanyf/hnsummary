@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 09:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 10:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,7 +23,7 @@
             <description><![CDATA[PHP's Dominance in the Internet: Statistics and Anecdotes]]></description>
             <content:encoded><![CDATA[<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes
             </p><p>
-                96 Points |  <a href="https://news.ycombinator.com/item?id=37415747">52 comments</a>
+                131 Points |  <a href="https://news.ycombinator.com/item?id=37415747">94 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -38,14 +38,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)]]></title>
+            <title><![CDATA[Julia and Mojo Mandelbrot Benchmark (discourse.julialang.org)]]></title>
             <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
             <guid>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</guid>
             <pubDate>Sat, 09 Sep 2023 03:42:53 GMT</pubDate>
             <description><![CDATA[Optimizing Julia Code for Mandelbrot Set Calculation]]></description>
             <content:encoded><![CDATA[<p>Julia code for calculating the Mandelbrot set is benchmarked against Mojo code. The Julia code takes 7.45 ms to run, while the Mojo code runs in 2.14 ms. Suggestions are made to improve the Julia code, such as using SIMD vectorization and decomposing complex numbers. The @simd macro is limited and cannot see through function calls. Differences between the Julia and Mojo code, such as the use of FP ranges, may also affect performance. Overall, the goal is to optimize the Julia code and potentially surpass the performance of the Mojo code.
             </p><p>
-                84 Points |  <a href="https://news.ycombinator.com/item?id=37442064">37 comments</a>
+                115 Points |  <a href="https://news.ycombinator.com/item?id=37442064">58 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -56,7 +56,7 @@
             <description><![CDATA[Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend]]></description>
             <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
             </p><p>
-                100 Points |  <a href="https://news.ycombinator.com/item?id=37413387">45 comments</a>
+                107 Points |  <a href="https://news.ycombinator.com/item?id=37413387">65 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -71,28 +71,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Decoded: GNU Coreutils (2018) (maizure.org)]]></title>
-            <link>https://maizure.org/projects/decoded-gnu-coreutils/</link>
-            <guid>https://maizure.org/projects/decoded-gnu-coreutils/</guid>
-            <pubDate>Fri, 08 Sep 2023 21:15:52 GMT</pubDate>
-            <description><![CDATA[Decoding GNU coreutils: A Comprehensive Exploration of Command-Line Utilities]]></description>
-            <content:encoded><![CDATA[<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.
-            </p><p>
-                219 Points |  <a href="https://news.ycombinator.com/item?id=37439535">64 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Snoop unto them as they snoop unto you (blog.dataparty.xyz)]]></title>
-            <link>https://blog.dataparty.xyz/blog/snoop-unto-them/</link>
-            <guid>https://blog.dataparty.xyz/blog/snoop-unto-them/</guid>
-            <pubDate>Fri, 08 Sep 2023 22:26:51 GMT</pubDate>
-            <description><![CDATA['DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers']]></description>
-            <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.
-            </p><p>
-                177 Points |  <a href="https://news.ycombinator.com/item?id=37440104">98 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[The Mind-Bending Math Behind Spot It (2018) (www.smithsonianmag.com)]]></title>
             <link>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</link>
             <guid>https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/</guid>
@@ -104,14 +82,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)]]></title>
-            <link>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</link>
-            <guid>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</guid>
-            <pubDate>Sat, 09 Sep 2023 05:56:03 GMT</pubDate>
-            <description><![CDATA['Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features']]></description>
-            <content:encoded><![CDATA[<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.
+            <title><![CDATA[Decoded: GNU Coreutils (2018) (maizure.org)]]></title>
+            <link>https://maizure.org/projects/decoded-gnu-coreutils/</link>
+            <guid>https://maizure.org/projects/decoded-gnu-coreutils/</guid>
+            <pubDate>Fri, 08 Sep 2023 21:15:52 GMT</pubDate>
+            <description><![CDATA[Decoding GNU coreutils: A Comprehensive Exploration of Command-Line Utilities]]></description>
+            <content:encoded><![CDATA[<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.
             </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37442649">0 comments</a>
+                219 Points |  <a href="https://news.ycombinator.com/item?id=37439535">64 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -126,6 +104,28 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Snoop unto them as they snoop unto you (blog.dataparty.xyz)]]></title>
+            <link>https://blog.dataparty.xyz/blog/snoop-unto-them/</link>
+            <guid>https://blog.dataparty.xyz/blog/snoop-unto-them/</guid>
+            <pubDate>Fri, 08 Sep 2023 22:26:51 GMT</pubDate>
+            <description><![CDATA['DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers']]></description>
+            <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.
+            </p><p>
+                177 Points |  <a href="https://news.ycombinator.com/item?id=37440104">98 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)]]></title>
+            <link>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</link>
+            <guid>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</guid>
+            <pubDate>Sat, 09 Sep 2023 05:56:03 GMT</pubDate>
+            <description><![CDATA['Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features']]></description>
+            <content:encoded><![CDATA[<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.
+            </p><p>
+                5 Points |  <a href="https://news.ycombinator.com/item?id=37442649">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)]]></title>
             <link>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</link>
             <guid>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</guid>
@@ -134,6 +134,17 @@
             <content:encoded><![CDATA[<p>N/A
             </p><p>
                 149 Points |  <a href="https://news.ycombinator.com/item?id=37440631">23 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Creative Money Aesthetics (andjelicaaa.substack.com)]]></title>
+            <link>https://andjelicaaa.substack.com/p/creative-money-aesthetics</link>
+            <guid>https://andjelicaaa.substack.com/p/creative-money-aesthetics</guid>
+            <pubDate>Thu, 07 Sep 2023 10:18:43 GMT</pubDate>
+            <description><![CDATA[The Aesthetic and Influence of the Creative Class in Business]]></description>
+            <content:encoded><![CDATA[<p>The Creative Class, consisting of creators, curators, critics, and hangers-on, has a distinct aesthetic that blends businesswear with vintage, sports wear, and work wear. They treat their job as leisure and their leisure as job, reflecting a cool, nonchalant, versatile, durable, and comfortable style. The Creative Class accumulates cultural capital by commenting, repurposing, and reinterpreting past and present culture, creating something modern and new while maintaining familiarity. They play a critical role in the modern economy by directing consumers' time, attention, and money towards aspirational things, places, and ideas.
+            </p><p>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37416882">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -159,28 +170,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Deltic – King of Diesels [video] (www.youtube.com)]]></title>
-            <link>https://www.youtube.com/watch?v=KvaVc_xbUss</link>
-            <guid>https://www.youtube.com/watch?v=KvaVc_xbUss</guid>
-            <pubDate>Fri, 08 Sep 2023 06:57:52 GMT</pubDate>
-            <description><![CDATA[N/A]]></description>
-            <content:encoded><![CDATA[<p>N/A
-            </p><p>
-                7 Points |  <a href="https://news.ycombinator.com/item?id=37430388">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Redesigned Google Fonts website (material.io)]]></title>
-            <link>https://material.io/blog/2023-google-fonts-redesign</link>
-            <guid>https://material.io/blog/2023-google-fonts-redesign</guid>
-            <pubDate>Sat, 09 Sep 2023 02:38:22 GMT</pubDate>
-            <description><![CDATA['Google Fonts Redesigns Website for Better Font and Icon Exploration']]></description>
-            <content:encoded><![CDATA[<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.
-            </p><p>
-                61 Points |  <a href="https://news.ycombinator.com/item?id=37441683">46 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)]]></title>
             <link>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</link>
             <guid>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</guid>
@@ -188,40 +177,7 @@
             <description><![CDATA[Manipulating Application Behavior with LD_PRELOAD: Fun and Useful Tricks in Linux]]></description>
             <content:encoded><![CDATA[<p>Using LD_PRELOAD to manipulate the behavior of applications without modifying their source code or recompiling them is a powerful trick in Linux. This technique allows users to inject custom code into applications transparently, such as modifying the behavior of the random number generator or intercepting file access calls. The blog post provides examples of how LD_PRELOAD can be used to cheat in games, investigate unknown applications by monitoring file I/O and internet access, and even create bullet-time effects in games. The author emphasizes that while this trick can be fun and useful for debugging, it should not be used to bypass security or gain root privileges.
             </p><p>
-                128 Points |  <a href="https://news.ycombinator.com/item?id=37439125">70 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)]]></title>
-            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
-            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
-            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
-            <description><![CDATA['YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization']]></description>
-            <content:encoded><![CDATA[<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.
-            </p><p>
-                75 Points |  <a href="https://news.ycombinator.com/item?id=37422705">50 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)]]></title>
-            <link>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</link>
-            <guid>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</guid>
-            <pubDate>Fri, 08 Sep 2023 23:17:21 GMT</pubDate>
-            <description><![CDATA[Content Unavailable: Contact Support for Assistance]]></description>
-            <content:encoded><![CDATA[<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.
-            </p><p>
-                74 Points |  <a href="https://news.ycombinator.com/item?id=37440482">11 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: Conway's Game of Life in TypeScript's type system (github.com)]]></title>
-            <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
-            <guid>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</guid>
-            <pubDate>Fri, 08 Sep 2023 19:11:47 GMT</pubDate>
-            <description><![CDATA[TypeScript code for a game of life simulation]]></description>
-            <content:encoded><![CDATA[<p>This is a TypeScript file containing code for a game of life simulation. The code is 203 lines long and has a file size of 7.24 KB. It appears to be a random implementation of the game of life, with various functions and logic for simulating the evolution of cells on a grid. The code includes functions for initializing the grid, updating the grid based on the rules of the game, and rendering the grid. It also includes helper functions for counting the number of live neighbors for each cell and checking if a cell is alive or dead. Overall, this file seems to be a self-contained implementation of the game of life in TypeScript.
-            </p><p>
-                153 Points |  <a href="https://news.ycombinator.com/item?id=37438028">38 comments</a>
+                150 Points |  <a href="https://news.ycombinator.com/item?id=37439125">81 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -236,13 +192,47 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37441168</link>
-            <guid>https://news.ycombinator.com/item?id=37441168</guid>
-            <pubDate>Sat, 09 Sep 2023 01:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
+            <title><![CDATA[Deltic – King of Diesels [video] (www.youtube.com)]]></title>
+            <link>https://www.youtube.com/watch?v=KvaVc_xbUss</link>
+            <guid>https://www.youtube.com/watch?v=KvaVc_xbUss</guid>
+            <pubDate>Fri, 08 Sep 2023 06:57:52 GMT</pubDate>
+            <description><![CDATA[N/A]]></description>
+            <content:encoded><![CDATA[<p>N/A
             </p><p>
-                1 Points |  <a href="https://news.ycombinator.com/item?id=37441168">0 comments</a>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37430388">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JIT-optimized Ruby can outperform a C extension (railsatscale.com)]]></title>
+            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
+            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
+            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
+            <description><![CDATA['YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization']]></description>
+            <content:encoded><![CDATA[<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.
+            </p><p>
+                104 Points |  <a href="https://news.ycombinator.com/item?id=37422705">60 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN: Conway's Game of Life in TypeScript's type system (github.com)]]></title>
+            <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
+            <guid>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</guid>
+            <pubDate>Fri, 08 Sep 2023 19:11:47 GMT</pubDate>
+            <description><![CDATA[TypeScript code for a game of life simulation]]></description>
+            <content:encoded><![CDATA[<p>This is a TypeScript file containing code for a game of life simulation. The code is 203 lines long and has a file size of 7.24 KB. It appears to be a random implementation of the game of life, with various functions and logic for simulating the evolution of cells on a grid. The code includes functions for initializing the grid, updating the grid based on the rules of the game, and rendering the grid. It also includes helper functions for counting the number of live neighbors for each cell and checking if a cell is alive or dead. Overall, this file seems to be a self-contained implementation of the game of life in TypeScript.
+            </p><p>
+                153 Points |  <a href="https://news.ycombinator.com/item?id=37438028">38 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)]]></title>
+            <link>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</link>
+            <guid>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</guid>
+            <pubDate>Fri, 08 Sep 2023 23:17:21 GMT</pubDate>
+            <description><![CDATA[Content Unavailable: Contact Support for Assistance]]></description>
+            <content:encoded><![CDATA[<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.
+            </p><p>
+                74 Points |  <a href="https://news.ycombinator.com/item?id=37440482">11 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -253,40 +243,28 @@
             <description><![CDATA['X' Challenges California's New Transparency Law as Unconstitutional]]></description>
             <content:encoded><![CDATA[<p>X, formerly known as Twitter, has filed a lawsuit challenging a new California law that requires social media companies to disclose their moderation practices. The law aims to bring transparency and accountability to social media content, but X argues that it violates their Constitutional right to free speech. The lawsuit claims that the law is a form of compelled speech and an unconstitutional government overreach. The outcome of the lawsuit will have implications for the balance between government involvement and private platform moderation practices.
             </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37442998">1 comments</a>
+                33 Points |  <a href="https://news.ycombinator.com/item?id=37442998">20 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)]]></title>
-            <link>https://bitbashing.io/async-rust.html</link>
-            <guid>https://bitbashing.io/async-rust.html</guid>
-            <pubDate>Fri, 08 Sep 2023 16:10:55 GMT</pubDate>
-            <description><![CDATA[The Challenges of Using Async Rust for Concurrency]]></description>
-            <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author highlights the drawbacks of using threads and mutex-based concurrency, such as race conditions and deadlocks. They introduce the concept of channels as a synchronization mechanism and discuss how many modern languages provide channels in their standard libraries. The article then delves into the complexities of async Rust, including the tension between low-level control and the need for dynamic lifetimes. It concludes by suggesting that Rust may not be the best tool for massively concurrent, userspace software.
+            <title><![CDATA[Generally Intelligent (YC S17) is hiring technical interviewers (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37441168</link>
+            <guid>https://news.ycombinator.com/item?id=37441168</guid>
+            <pubDate>Sat, 09 Sep 2023 01:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                581 Points |  <a href="https://news.ycombinator.com/item?id=37435515">480 comments</a>
+                1 Points |  <a href="https://news.ycombinator.com/item?id=37441168">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cisco Systems and Financialization (www.ineteconomics.org)]]></title>
-            <link>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</link>
-            <guid>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</guid>
-            <pubDate>Thu, 07 Sep 2023 06:34:22 GMT</pubDate>
-            <description><![CDATA[Cisco Systems' Financialization and its Impact on the US Technology Industry]]></description>
-            <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.
+            <title><![CDATA[Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla (foundation.mozilla.org)]]></title>
+            <link>https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/</link>
+            <guid>https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/</guid>
+            <pubDate>Sat, 09 Sep 2023 09:39:44 GMT</pubDate>
+            <description><![CDATA[foundation.mozilla.org Checking Site Connection Security with Cloudflare]]></description>
+            <content:encoded><![CDATA[<p>foundation.mozilla.org is checking the security of the site connection before proceeding. The site is using Cloudflare for performance and security. The Ray ID provided is 803e9d349f7b16a8.
             </p><p>
-                35 Points |  <a href="https://news.ycombinator.com/item?id=37415456">28 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
-            <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
-            <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:23:27 GMT</pubDate>
-            <description><![CDATA[Understanding the Constraints of C++20's constexpr std::string and std::vector]]></description>
-            <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.
-            </p><p>
-                106 Points |  <a href="https://news.ycombinator.com/item?id=37431425">84 comments</a>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37443644">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -308,18 +286,40 @@
             <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
             <content:encoded><![CDATA[<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.
             </p><p>
-                133 Points |  <a href="https://news.ycombinator.com/item?id=37441982">21 comments</a>
+                164 Points |  <a href="https://news.ycombinator.com/item?id=37441982">33 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)]]></title>
-            <link>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</link>
-            <guid>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</guid>
-            <pubDate>Sat, 09 Sep 2023 06:00:57 GMT</pubDate>
-            <description><![CDATA[The Impact of Australia's Eucalyptus Tree on Global Wildfires]]></description>
-            <content:encoded><![CDATA[<p>The Role of Australia's Eucalyptus Tree in Global Wildfires
+            <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
+            <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
+            <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:23:27 GMT</pubDate>
+            <description><![CDATA[Understanding the Constraints of C++20's constexpr std::string and std::vector]]></description>
+            <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.
             </p><p>
-                10 Points |  <a href="https://news.ycombinator.com/item?id=37442671">1 comments</a>
+                106 Points |  <a href="https://news.ycombinator.com/item?id=37431425">84 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Redesigned Google Fonts website (material.io)]]></title>
+            <link>https://material.io/blog/2023-google-fonts-redesign</link>
+            <guid>https://material.io/blog/2023-google-fonts-redesign</guid>
+            <pubDate>Sat, 09 Sep 2023 02:38:22 GMT</pubDate>
+            <description><![CDATA['Google Fonts Redesigns Website for Better Font and Icon Exploration']]></description>
+            <content:encoded><![CDATA[<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.
+            </p><p>
+                67 Points |  <a href="https://news.ycombinator.com/item?id=37441683">61 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cisco Systems and Financialization (www.ineteconomics.org)]]></title>
+            <link>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</link>
+            <guid>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</guid>
+            <pubDate>Thu, 07 Sep 2023 06:34:22 GMT</pubDate>
+            <description><![CDATA[Cisco Systems' Financialization and its Impact on the US Technology Industry]]></description>
+            <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.
+            </p><p>
+                35 Points |  <a href="https://news.ycombinator.com/item?id=37415456">28 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -334,14 +334,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Touch Pianist (touchpianist.com)]]></title>
-            <link>http://touchpianist.com/</link>
-            <guid>http://touchpianist.com/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:56:08 GMT</pubDate>
-            <description><![CDATA['More Pieces!': A Free Mobile App for Exploring Touch Expression]]></description>
-            <content:encoded><![CDATA[<p>This is a brief description of a mobile app called 'More Pieces!' that is available for free on Android and iOS. The app allows users to choose different pieces and explore touch expression. The summary mentions that there is more information available about the app, including details about its creator and a press kit. The content is truncated, so it is unclear what specific features or functionality the app offers. However, the summary emphasizes that it is available on both Android and iOS platforms.
+            <title><![CDATA[As wildfires burn across the world, what is the role of Australia's eucalyptus? (www.abc.net.au)]]></title>
+            <link>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</link>
+            <guid>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</guid>
+            <pubDate>Sat, 09 Sep 2023 06:00:57 GMT</pubDate>
+            <description><![CDATA[The Impact of Australia's Eucalyptus Tree on Global Wildfires]]></description>
+            <content:encoded><![CDATA[<p>The Role of Australia's Eucalyptus Tree in Global Wildfires
             </p><p>
-                699 Points |  <a href="https://news.ycombinator.com/item?id=37431644">200 comments</a>
+                10 Points |  <a href="https://news.ycombinator.com/item?id=37442671">1 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
