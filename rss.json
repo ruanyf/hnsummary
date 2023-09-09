@@ -12,13 +12,24 @@
     "items": [
         {
             "id": "https://maizure.org/projects/decoded-gnu-coreutils/",
-            "content_html": "<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">10 comments</a>\n            </p>",
+            "content_html": "<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.\n            </p><p>\n                126 Points |  <a href=\"https://news.ycombinator.com/item?id=37439535\">25 comments</a>\n            </p>",
             "url": "https://maizure.org/projects/decoded-gnu-coreutils/",
             "title": "Decoded: GNU Coreutils (2018) (maizure.org)",
             "summary": "Decoding the GNU coreutils: Exploring the Design of Command-Line Utilities",
             "date_modified": "2023-09-08T21:15:52.000Z",
             "author": {
                 "name": "maizure.org"
+            }
+        },
+        {
+            "id": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
+            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.\n            </p><p>\n                55 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">23 comments</a>\n            </p>",
+            "url": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
+            "title": "Snoop unto them as they snoop unto you (blog.dataparty.xyz)",
+            "summary": "DEFCON 31 Releases Official Videos and Offers Support Options",
+            "date_modified": "2023-09-08T22:26:51.000Z",
+            "author": {
+                "name": "blog.dataparty.xyz"
             }
         },
         {
@@ -33,30 +44,19 @@
             }
         },
         {
-            "id": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
-            "content_html": "<p>This is a code file for a TypeScript implementation of the Game of Life. The code consists of 203 lines and is approximately 7.24 KB in size. It appears to be a random file within a larger project called 'cursed-typescript'.\n            </p><p>\n                88 Points |  <a href=\"https://news.ycombinator.com/item?id=37438028\">21 comments</a>\n            </p>",
-            "url": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
-            "title": "Show HN: Conway's Game of Life in TypeScript's type system (github.com)",
-            "summary": "Code File for TypeScript Implementation of Game of Life",
-            "date_modified": "2023-09-08T19:11:47.000Z",
+            "id": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
+            "content_html": "<p>The website www.science.org is checking the security of your connection before allowing access. This is likely due to the use of Cloudflare for performance and security. The Ray ID provided is 803b4673adb9ce94. It is important for websites to ensure secure connections to protect user data. The review process is necessary to prevent unauthorized access or data breaches. Once the security check is completed, users will be able to proceed to the website.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37440482\">0 comments</a>\n            </p>",
+            "url": "https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests",
+            "title": "Most bees live underground. X-ray images reveal how they build their nests (www.science.org)",
+            "summary": "Security Check Required for Access to www.science.org",
+            "date_modified": "2023-09-08T23:17:21.000Z",
             "author": {
-                "name": "github.com"
-            }
-        },
-        {
-            "id": "https://today.ucsd.edu/story/forwarding_based_spoofing",
-            "content_html": "<p>Researchers at the University of California San Diego have discovered security flaws in the email forwarding process that allow scammers to impersonate high-profile domains. This vulnerability affects tens of thousands of domains, including government organizations, financial service companies, and major news organizations. The researchers found that scammers can send spoofed emails that bypass the safeguards of email providers like Gmail and Outlook, increasing the likelihood of recipients opening malicious attachments or clicking on harmful links. The vulnerabilities arise from the delegation of email infrastructure to third-party providers and the assumption that each organization operates its own mailing infrastructure. While some providers have patched the issues, the researchers recommend disabling open forwarding and implementing stricter validation policies to address the root problem.\n            </p><p>\n                77 Points |  <a href=\"https://news.ycombinator.com/item?id=37438478\">20 comments</a>\n            </p>",
-            "url": "https://today.ucsd.edu/story/forwarding_based_spoofing",
-            "title": "Scammers can exploit email forwarding flaws to impersonate high-profile domains (today.ucsd.edu)",
-            "summary": "Security Flaws in Email Forwarding Allow Scammers to Impersonate High-profile Domains",
-            "date_modified": "2023-09-08T19:45:08.000Z",
-            "author": {
-                "name": "today.ucsd.edu"
+                "name": "www.science.org"
             }
         },
         {
             "id": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
-            "content_html": "<p>Using LD_PRELOAD to manipulate the behavior of applications\n            </p><p>\n                33 Points |  <a href=\"https://news.ycombinator.com/item?id=37439125\">20 comments</a>\n            </p>",
+            "content_html": "<p>Using LD_PRELOAD to manipulate the behavior of applications\n            </p><p>\n                51 Points |  <a href=\"https://news.ycombinator.com/item?id=37439125\">32 comments</a>\n            </p>",
             "url": "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/",
             "title": "Using LD_PRELOAD to cheat, inject features and investigate programs (rafalcieslak.wordpress.com)",
             "summary": "Manipulating Application Behavior with LD_PRELOAD",
@@ -66,14 +66,25 @@
             }
         },
         {
-            "id": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
-            "content_html": "<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37440104\">0 comments</a>\n            </p>",
-            "url": "https://blog.dataparty.xyz/blog/snoop-unto-them/",
-            "title": "Defcon talk shows cops are trackable, like AirTags (blog.dataparty.xyz)",
-            "summary": "DEFCON 31 Releases Official Videos and Offers Support Options",
-            "date_modified": "2023-09-08T22:26:51.000Z",
+            "id": "https://today.ucsd.edu/story/forwarding_based_spoofing",
+            "content_html": "<p>Researchers at the University of California San Diego have discovered security flaws in the email forwarding process that allow scammers to impersonate high-profile domains. This vulnerability affects tens of thousands of domains, including government organizations, financial service companies, and major news organizations. The researchers found that scammers can send spoofed emails that bypass the safeguards of email providers like Gmail and Outlook, increasing the likelihood of recipients opening malicious attachments or clicking on harmful links. The vulnerabilities arise from the delegation of email infrastructure to third-party providers and the assumption that each organization operates its own mailing infrastructure. While some providers have patched the issues, the researchers recommend disabling open forwarding and implementing stricter validation policies to address the root problem.\n            </p><p>\n                87 Points |  <a href=\"https://news.ycombinator.com/item?id=37438478\">31 comments</a>\n            </p>",
+            "url": "https://today.ucsd.edu/story/forwarding_based_spoofing",
+            "title": "Scammers can exploit email forwarding flaws to impersonate high-profile domains (today.ucsd.edu)",
+            "summary": "Security Flaws in Email Forwarding Allow Scammers to Impersonate High-profile Domains",
+            "date_modified": "2023-09-08T19:45:08.000Z",
             "author": {
-                "name": "blog.dataparty.xyz"
+                "name": "today.ucsd.edu"
+            }
+        },
+        {
+            "id": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
+            "content_html": "<p>This is a code file for a TypeScript implementation of the Game of Life. The code consists of 203 lines and is approximately 7.24 KB in size. It appears to be a random file within a larger project called 'cursed-typescript'.\n            </p><p>\n                113 Points |  <a href=\"https://news.ycombinator.com/item?id=37438028\">31 comments</a>\n            </p>",
+            "url": "https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts",
+            "title": "Show HN: Conway's Game of Life in TypeScript's type system (github.com)",
+            "summary": "Code File for TypeScript Implementation of Game of Life",
+            "date_modified": "2023-09-08T19:11:47.000Z",
+            "author": {
+                "name": "github.com"
             }
         },
         {
@@ -99,6 +110,17 @@
             }
         },
         {
+            "id": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
+            "content_html": "<p>N/A\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37440631\">0 comments</a>\n            </p>",
+            "url": "https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0",
+            "title": "LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)",
+            "summary": "N/A",
+            "date_modified": "2023-09-08T23:38:39.000Z",
+            "author": {
+                "name": "msprout.notion.site"
+            }
+        },
+        {
             "id": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
             "content_html": "<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.\n            </p><p>\n                71 Points |  <a href=\"https://news.ycombinator.com/item?id=37431425\">46 comments</a>\n            </p>",
             "url": "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/",
@@ -111,7 +133,7 @@
         },
         {
             "id": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
-            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                667 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">219 comments</a>\n            </p>",
+            "content_html": "<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.\n            </p><p>\n                730 Points |  <a href=\"https://news.ycombinator.com/item?id=37434117\">245 comments</a>\n            </p>",
             "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0",
             "title": "Bun v1.0.0 (github.com)",
             "summary": "Bun v1.0 Release: Bug Fixes, Improvements, and New Features",
@@ -122,13 +144,46 @@
         },
         {
             "id": "https://bitbashing.io/async-rust.html",
-            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.\n            </p><p>\n                397 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">337 comments</a>\n            </p>",
+            "content_html": "<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.\n            </p><p>\n                446 Points |  <a href=\"https://news.ycombinator.com/item?id=37435515\">376 comments</a>\n            </p>",
             "url": "https://bitbashing.io/async-rust.html",
             "title": "Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)",
             "summary": "Challenges and Limitations of Async Rust for Concurrency",
             "date_modified": "2023-09-08T16:10:55.000Z",
             "author": {
                 "name": "bitbashing.io"
+            }
+        },
+        {
+            "id": "https://twitter.com/typesfast/status/1700092765798048093",
+            "content_html": "<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.\n            </p><p>\n                191 Points |  <a href=\"https://news.ycombinator.com/item?id=37433681\">215 comments</a>\n            </p>",
+            "url": "https://twitter.com/typesfast/status/1700092765798048093",
+            "title": "Flexport is rescinding a bunch of signed offer letters (twitter.com)",
+            "summary": "Twitter Requires Switch to Supported Browser",
+            "date_modified": "2023-09-08T14:07:55.000Z",
+            "author": {
+                "name": "twitter.com"
+            }
+        },
+        {
+            "id": "https://www.science.org/doi/10.1126/scitranslmed.abq3916",
+            "content_html": "<p>The website www.science.org is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is 803b0eb75fbdcf4d, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37412738\">0 comments</a>\n            </p>",
+            "url": "https://www.science.org/doi/10.1126/scitranslmed.abq3916",
+            "title": "Delivery of gene therapy through CSF conduit to rescue hearing in adult mice (www.science.org)",
+            "summary": "Security Review Requested for www.science.org",
+            "date_modified": "2023-09-06T23:21:52.000Z",
+            "author": {
+                "name": "www.science.org"
+            }
+        },
+        {
+            "id": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
+            "content_html": "<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.\n            </p><p>\n                69 Points |  <a href=\"https://news.ycombinator.com/item?id=37436092\">20 comments</a>\n            </p>",
+            "url": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
+            "title": "Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)",
+            "summary": "Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market",
+            "date_modified": "2023-09-08T16:49:59.000Z",
+            "author": {
+                "name": "www.tomshardware.com"
             }
         },
         {
@@ -143,28 +198,6 @@
             }
         },
         {
-            "id": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
-            "content_html": "<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.\n            </p><p>\n                58 Points |  <a href=\"https://news.ycombinator.com/item?id=37436092\">10 comments</a>\n            </p>",
-            "url": "https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era",
-            "title": "Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)",
-            "summary": "Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market",
-            "date_modified": "2023-09-08T16:49:59.000Z",
-            "author": {
-                "name": "www.tomshardware.com"
-            }
-        },
-        {
-            "id": "https://twitter.com/typesfast/status/1700092765798048093",
-            "content_html": "<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.\n            </p><p>\n                141 Points |  <a href=\"https://news.ycombinator.com/item?id=37433681\">165 comments</a>\n            </p>",
-            "url": "https://twitter.com/typesfast/status/1700092765798048093",
-            "title": "Flexport is rescinding a bunch of signed offer letters (twitter.com)",
-            "summary": "Twitter Requires Switch to Supported Browser",
-            "date_modified": "2023-09-08T14:07:55.000Z",
-            "author": {
-                "name": "twitter.com"
-            }
-        },
-        {
             "id": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
             "content_html": "<p>Fixing catastrophic backtracking in regular expressions in Python by using a non-greedy pattern. The article discusses how a regex pattern with a greedy subpattern can lead to exponential runtime on strings with many newlines, causing the application to become stuck. By making the repeating subpattern non-greedy and adding the re.DOTALL flag to match newlines, the runtime becomes linear instead of exponential. The article provides a comparison of the performance between the problematic regex and the fixed regex using a test script. The results show that the problematic regex performs poorly on long input sequences, while the fixed regex scales much better. The article concludes with a log-log plot illustrating the exponential relationship between input size and execution time for the problematic regex.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37422355\">0 comments</a>\n            </p>",
             "url": "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/",
@@ -173,50 +206,6 @@
             "date_modified": "2023-09-07T17:22:12.000Z",
             "author": {
                 "name": "krishnanchandra.com"
-            }
-        },
-        {
-            "id": "https://oscarbenjamin.github.io/blog/czi/post1.html",
-            "content_html": "<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37430759\">35 comments</a>\n            </p>",
-            "url": "https://oscarbenjamin.github.io/blog/czi/post1.html",
-            "title": "Towards a New SymPy (oscarbenjamin.github.io)",
-            "summary": "Foundations of a Computer Algebra System: Towards a Faster SymPy",
-            "date_modified": "2023-09-08T07:50:49.000Z",
-            "author": {
-                "name": "oscarbenjamin.github.io"
-            }
-        },
-        {
-            "id": "https://eprint.iacr.org/2023/1053",
-            "content_html": "<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431433\">0 comments</a>\n            </p>",
-            "url": "https://eprint.iacr.org/2023/1053",
-            "title": "ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)",
-            "summary": "ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet",
-            "date_modified": "2023-09-08T09:24:25.000Z",
-            "author": {
-                "name": "eprint.iacr.org"
-            }
-        },
-        {
-            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
-            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
-            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
-            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
-            "date_modified": "2023-09-08T17:01:02.000Z",
-            "author": {
-                "name": "www.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html",
-            "content_html": "<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL\n            </p><p>\n                162 Points |  <a href=\"https://news.ycombinator.com/item?id=37431560\">59 comments</a>\n            </p>",
-            "url": "https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html",
-            "title": "PgBouncer is useful, important, and fraught with peril (jpcamara.com)",
-            "summary": "The Significance and Challenges of PgBouncer for Scaling PostgreSQL",
-            "date_modified": "2023-09-08T09:43:22.000Z",
-            "author": {
-                "name": "jpcamara.com"
             }
         },
         {
@@ -231,6 +220,39 @@
             }
         },
         {
+            "id": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "content_html": "<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and IoT. This is due to the company's shift from innovation to financialization, prioritizing stock buybacks over investments in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for technological advancements. The company's focus on maximizing shareholder value has hindered its competitive position in the US information-and-communication-technology industry. This article explores Cisco's transformation from an innovative enterprise to a financialized one and discusses the implications for the industry's global competitiveness.\n            </p><p>\n                3 Points |  <a href=\"https://news.ycombinator.com/item?id=37415456\">0 comments</a>\n            </p>",
+            "url": "https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization",
+            "title": "Losing Out in Critical Technologies: Cisco Systems and Financialization (www.ineteconomics.org)",
+            "summary": "Cisco Systems' Financialization and its Impact on US Technology Competitiveness",
+            "date_modified": "2023-09-07T06:34:22.000Z",
+            "author": {
+                "name": "www.ineteconomics.org"
+            }
+        },
+        {
+            "id": "https://oscarbenjamin.github.io/blog/czi/post1.html",
+            "content_html": "<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System\n            </p><p>\n                100 Points |  <a href=\"https://news.ycombinator.com/item?id=37430759\">45 comments</a>\n            </p>",
+            "url": "https://oscarbenjamin.github.io/blog/czi/post1.html",
+            "title": "Towards a new SymPy (oscarbenjamin.github.io)",
+            "summary": "Foundations of a Computer Algebra System: Towards a Faster SymPy",
+            "date_modified": "2023-09-08T07:50:49.000Z",
+            "author": {
+                "name": "oscarbenjamin.github.io"
+            }
+        },
+        {
+            "id": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "content_html": "<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.\n            </p><p>\n                1 Points |  <a href=\"https://news.ycombinator.com/item?id=37436236\">0 comments</a>\n            </p>",
+            "url": "https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer",
+            "title": "Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)",
+            "summary": "Artie Seeks Founding Engineer for Real-Time Data Streaming Solution",
+            "date_modified": "2023-09-08T17:01:02.000Z",
+            "author": {
+                "name": "www.ycombinator.com"
+            }
+        },
+        {
             "id": "https://david.rothlis.net/emacs/howtolearn.html",
             "content_html": "<p>This guide to Emacs is aimed at computer programmers who want to master the text editor. It acknowledges that the learning curve for Emacs is steep but promises to help users reach the next level of programming in months rather than years. The guide emphasizes self-driven discovery using Emacs' built-in help, debugging facilities, and source code. The author asks for commitment and patience from readers, urging them to give up their favorite IDE's features for at least a month or two. The next section explores why Emacs is worth the effort.\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37438842\">10 comments</a>\n            </p>",
             "url": "https://david.rothlis.net/emacs/howtolearn.html",
@@ -242,36 +264,36 @@
             }
         },
         {
-            "id": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
-            "content_html": "<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.\n            </p><p>\n                92 Points |  <a href=\"https://news.ycombinator.com/item?id=37426107\">20 comments</a>\n            </p>",
-            "url": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
-            "title": "The thinking path (www.robinsloan.com)",
-            "summary": "Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness",
-            "date_modified": "2023-09-07T21:52:02.000Z",
+            "id": "https://eprint.iacr.org/2023/1053",
+            "content_html": "<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.\n            </p><p>\n                5 Points |  <a href=\"https://news.ycombinator.com/item?id=37431433\">0 comments</a>\n            </p>",
+            "url": "https://eprint.iacr.org/2023/1053",
+            "title": "ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)",
+            "summary": "ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet",
+            "date_modified": "2023-09-08T09:24:25.000Z",
             "author": {
-                "name": "www.robinsloan.com"
-            }
-        },
-        {
-            "id": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
-            "content_html": "<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.\n            </p><p>\n                112 Points |  <a href=\"https://news.ycombinator.com/item?id=37435215\">92 comments</a>\n            </p>",
-            "url": "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative",
-            "title": "Zinc-air batteries as an alternative to lithium-ion: study (www.ecu.edu.au)",
-            "summary": "Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries",
-            "date_modified": "2023-09-08T15:49:56.000Z",
-            "author": {
-                "name": "www.ecu.edu.au"
+                "name": "eprint.iacr.org"
             }
         },
         {
             "id": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
-            "content_html": "<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.\n            </p><p>\n                135 Points |  <a href=\"https://news.ycombinator.com/item?id=37428937\">91 comments</a>\n            </p>",
+            "content_html": "<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.\n            </p><p>\n                145 Points |  <a href=\"https://news.ycombinator.com/item?id=37428937\">102 comments</a>\n            </p>",
             "url": "https://journals.sagepub.com/doi/epub/10.1177/09637214221121570",
             "title": "Critical ignoring as a core competence for digital citizens (2022) (journals.sagepub.com)",
             "summary": "Website Security Check: journals.sagepub.com",
             "date_modified": "2023-09-08T03:36:11.000Z",
             "author": {
                 "name": "journals.sagepub.com"
+            }
+        },
+        {
+            "id": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
+            "content_html": "<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.\n            </p><p>\n                132 Points |  <a href=\"https://news.ycombinator.com/item?id=37426107\">30 comments</a>\n            </p>",
+            "url": "https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking",
+            "title": "The thinking path (www.robinsloan.com)",
+            "summary": "Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness",
+            "date_modified": "2023-09-07T21:52:02.000Z",
+            "author": {
+                "name": "www.robinsloan.com"
             }
         },
         {
@@ -286,13 +308,14 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37438934",
-            "content_html": "<p>No summary available\n            </p><p>\n                75 Points |  <a href=\"https://news.ycombinator.com/item?id=37438934\">50 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37438934",
-            "title": "Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf] (news.ycombinator.com)",
-            "date_modified": "2023-09-08T20:23:45.000Z",
+            "id": "https://www.rfc-editor.org/info/rfc5228",
+            "content_html": "<p>Sieve: An Email Filtering Language is a proposed standard that describes a language for filtering email messages at the time of final delivery. It can be implemented on both mail clients and servers, and is designed to be extensible, simple, and independent of access protocol, mail architecture, and operating system. The language is suitable for use on mail servers where users may not be allowed to execute arbitrary programs. It does not have variables, loops, or the ability to shell out to external programs. The document provides the definition of status and stream as per RFC standards.\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37416342\">10 comments</a>\n            </p>",
+            "url": "https://www.rfc-editor.org/info/rfc5228",
+            "title": "Sieve: An Email Filtering Language (RFC 5228) (www.rfc-editor.org)",
+            "summary": "Sieve: An Email Filtering Language, a Proposed Standard",
+            "date_modified": "2023-09-07T08:54:00.000Z",
             "author": {
-                "name": "news.ycombinator.com"
+                "name": "www.rfc-editor.org"
             }
         },
         {
@@ -307,36 +330,14 @@
             }
         },
         {
-            "id": "https://www.rfc-editor.org/info/rfc5228",
-            "content_html": "<p>Sieve: An Email Filtering Language is a proposed standard that describes a language for filtering email messages at the time of final delivery. It can be implemented on both mail clients and servers, and is designed to be extensible, simple, and independent of access protocol, mail architecture, and operating system. The language is suitable for use on mail servers where users may not be allowed to execute arbitrary programs. It does not have variables, loops, or the ability to shell out to external programs. The document provides the definition of status and stream as per RFC standards.\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37416342\">10 comments</a>\n            </p>",
-            "url": "https://www.rfc-editor.org/info/rfc5228",
-            "title": "Sieve: An Email Filtering Language (RFC 5228) (www.rfc-editor.org)",
-            "summary": "Sieve: An Email Filtering Language, a Proposed Standard",
-            "date_modified": "2023-09-07T08:54:00.000Z",
+            "id": "https://rivet.ironcladapp.com/",
+            "content_html": "<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.\n            </p><p>\n                107 Points |  <a href=\"https://news.ycombinator.com/item?id=37433218\">26 comments</a>\n            </p>",
+            "url": "https://rivet.ironcladapp.com/",
+            "title": "Show HN: Rivet – open-source AI Agent dev env with real-world applications (rivet.ironcladapp.com)",
+            "summary": "Rivet: A Visual Programming Environment for Building AI Agents with LLMs",
+            "date_modified": "2023-09-08T13:29:05.000Z",
             "author": {
-                "name": "www.rfc-editor.org"
-            }
-        },
-        {
-            "id": "https://www.h2fly.de/",
-            "content_html": "<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.\n            </p><p>\n                16 Points |  <a href=\"https://news.ycombinator.com/item?id=37433380\">12 comments</a>\n            </p>",
-            "url": "https://www.h2fly.de/",
-            "title": "H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)",
-            "summary": "Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation",
-            "date_modified": "2023-09-08T13:42:42.000Z",
-            "author": {
-                "name": "www.h2fly.de"
-            }
-        },
-        {
-            "id": "https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner",
-            "content_html": "<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.\n            </p><p>\n                83 Points |  <a href=\"https://news.ycombinator.com/item?id=37437739\">78 comments</a>\n            </p>",
-            "url": "https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner",
-            "title": "Why we didn’t get a malaria vaccine sooner (worksinprogress.co)",
-            "summary": "The Challenges and Delays in Developing a Malaria Vaccine",
-            "date_modified": "2023-09-08T18:49:21.000Z",
-            "author": {
-                "name": "worksinprogress.co"
+                "name": "rivet.ironcladapp.com"
             }
         }
     ]

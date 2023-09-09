@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Fri, 08 Sep 2023 23:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 01:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,7 +23,18 @@
             <description><![CDATA[Decoding the GNU coreutils: Exploring the Design of Command-Line Utilities]]></description>
             <content:encoded><![CDATA[<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.
             </p><p>
-                101 Points |  <a href="https://news.ycombinator.com/item?id=37439535">10 comments</a>
+                126 Points |  <a href="https://news.ycombinator.com/item?id=37439535">25 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Snoop unto them as they snoop unto you (blog.dataparty.xyz)]]></title>
+            <link>https://blog.dataparty.xyz/blog/snoop-unto-them/</link>
+            <guid>https://blog.dataparty.xyz/blog/snoop-unto-them/</guid>
+            <pubDate>Fri, 08 Sep 2023 22:26:51 GMT</pubDate>
+            <description><![CDATA[DEFCON 31 Releases Official Videos and Offers Support Options]]></description>
+            <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.
+            </p><p>
+                55 Points |  <a href="https://news.ycombinator.com/item?id=37440104">23 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -38,25 +49,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: Conway's Game of Life in TypeScript's type system (github.com)]]></title>
-            <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
-            <guid>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</guid>
-            <pubDate>Fri, 08 Sep 2023 19:11:47 GMT</pubDate>
-            <description><![CDATA[Code File for TypeScript Implementation of Game of Life]]></description>
-            <content:encoded><![CDATA[<p>This is a code file for a TypeScript implementation of the Game of Life. The code consists of 203 lines and is approximately 7.24 KB in size. It appears to be a random file within a larger project called 'cursed-typescript'.
+            <title><![CDATA[Most bees live underground. X-ray images reveal how they build their nests (www.science.org)]]></title>
+            <link>https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests</link>
+            <guid>https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests</guid>
+            <pubDate>Fri, 08 Sep 2023 23:17:21 GMT</pubDate>
+            <description><![CDATA[Security Check Required for Access to www.science.org]]></description>
+            <content:encoded><![CDATA[<p>The website www.science.org is checking the security of your connection before allowing access. This is likely due to the use of Cloudflare for performance and security. The Ray ID provided is 803b4673adb9ce94. It is important for websites to ensure secure connections to protect user data. The review process is necessary to prevent unauthorized access or data breaches. Once the security check is completed, users will be able to proceed to the website.
             </p><p>
-                88 Points |  <a href="https://news.ycombinator.com/item?id=37438028">21 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Scammers can exploit email forwarding flaws to impersonate high-profile domains (today.ucsd.edu)]]></title>
-            <link>https://today.ucsd.edu/story/forwarding_based_spoofing</link>
-            <guid>https://today.ucsd.edu/story/forwarding_based_spoofing</guid>
-            <pubDate>Fri, 08 Sep 2023 19:45:08 GMT</pubDate>
-            <description><![CDATA[Security Flaws in Email Forwarding Allow Scammers to Impersonate High-profile Domains]]></description>
-            <content:encoded><![CDATA[<p>Researchers at the University of California San Diego have discovered security flaws in the email forwarding process that allow scammers to impersonate high-profile domains. This vulnerability affects tens of thousands of domains, including government organizations, financial service companies, and major news organizations. The researchers found that scammers can send spoofed emails that bypass the safeguards of email providers like Gmail and Outlook, increasing the likelihood of recipients opening malicious attachments or clicking on harmful links. The vulnerabilities arise from the delegation of email infrastructure to third-party providers and the assumption that each organization operates its own mailing infrastructure. While some providers have patched the issues, the researchers recommend disabling open forwarding and implementing stricter validation policies to address the root problem.
-            </p><p>
-                77 Points |  <a href="https://news.ycombinator.com/item?id=37438478">20 comments</a>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37440482">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -67,18 +67,29 @@
             <description><![CDATA[Manipulating Application Behavior with LD_PRELOAD]]></description>
             <content:encoded><![CDATA[<p>Using LD_PRELOAD to manipulate the behavior of applications
             </p><p>
-                33 Points |  <a href="https://news.ycombinator.com/item?id=37439125">20 comments</a>
+                51 Points |  <a href="https://news.ycombinator.com/item?id=37439125">32 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Defcon talk shows cops are trackable, like AirTags (blog.dataparty.xyz)]]></title>
-            <link>https://blog.dataparty.xyz/blog/snoop-unto-them/</link>
-            <guid>https://blog.dataparty.xyz/blog/snoop-unto-them/</guid>
-            <pubDate>Fri, 08 Sep 2023 22:26:51 GMT</pubDate>
-            <description><![CDATA[DEFCON 31 Releases Official Videos and Offers Support Options]]></description>
-            <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.
+            <title><![CDATA[Scammers can exploit email forwarding flaws to impersonate high-profile domains (today.ucsd.edu)]]></title>
+            <link>https://today.ucsd.edu/story/forwarding_based_spoofing</link>
+            <guid>https://today.ucsd.edu/story/forwarding_based_spoofing</guid>
+            <pubDate>Fri, 08 Sep 2023 19:45:08 GMT</pubDate>
+            <description><![CDATA[Security Flaws in Email Forwarding Allow Scammers to Impersonate High-profile Domains]]></description>
+            <content:encoded><![CDATA[<p>Researchers at the University of California San Diego have discovered security flaws in the email forwarding process that allow scammers to impersonate high-profile domains. This vulnerability affects tens of thousands of domains, including government organizations, financial service companies, and major news organizations. The researchers found that scammers can send spoofed emails that bypass the safeguards of email providers like Gmail and Outlook, increasing the likelihood of recipients opening malicious attachments or clicking on harmful links. The vulnerabilities arise from the delegation of email infrastructure to third-party providers and the assumption that each organization operates its own mailing infrastructure. While some providers have patched the issues, the researchers recommend disabling open forwarding and implementing stricter validation policies to address the root problem.
             </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37440104">0 comments</a>
+                87 Points |  <a href="https://news.ycombinator.com/item?id=37438478">31 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN: Conway's Game of Life in TypeScript's type system (github.com)]]></title>
+            <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
+            <guid>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</guid>
+            <pubDate>Fri, 08 Sep 2023 19:11:47 GMT</pubDate>
+            <description><![CDATA[Code File for TypeScript Implementation of Game of Life]]></description>
+            <content:encoded><![CDATA[<p>This is a code file for a TypeScript implementation of the Game of Life. The code consists of 203 lines and is approximately 7.24 KB in size. It appears to be a random file within a larger project called 'cursed-typescript'.
+            </p><p>
+                113 Points |  <a href="https://news.ycombinator.com/item?id=37438028">31 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -104,6 +115,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[LogoScale – A method for vectorizing small, crappy logos (msprout.notion.site)]]></title>
+            <link>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</link>
+            <guid>https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0</guid>
+            <pubDate>Fri, 08 Sep 2023 23:38:39 GMT</pubDate>
+            <description><![CDATA[N/A]]></description>
+            <content:encoded><![CDATA[<p>N/A
+            </p><p>
+                5 Points |  <a href="https://news.ycombinator.com/item?id=37440631">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
             <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
             <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
@@ -122,7 +144,7 @@
             <description><![CDATA[Bun v1.0 Release: Bug Fixes, Improvements, and New Features]]></description>
             <content:encoded><![CDATA[<p>Bun v1.0 is now available for installation and upgrade. The release notes highlight various bug fixes and improvements, including fixes for sourcemaps, hot reloading, module imports, debugger support, and more. The release also brings in uSockets and uWebSockets forks into Bun's repository. The changelog lists all the changes made from version 0.8.1 to 1.0.0. The release has seen contributions from new contributors as well. Overall, Bun v1.0 offers several enhancements and bug fixes for a better development experience.
             </p><p>
-                667 Points |  <a href="https://news.ycombinator.com/item?id=37434117">219 comments</a>
+                730 Points |  <a href="https://news.ycombinator.com/item?id=37434117">245 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -133,7 +155,40 @@
             <description><![CDATA[Challenges and Limitations of Async Rust for Concurrency]]></description>
             <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.
             </p><p>
-                397 Points |  <a href="https://news.ycombinator.com/item?id=37435515">337 comments</a>
+                446 Points |  <a href="https://news.ycombinator.com/item?id=37435515">376 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Flexport is rescinding a bunch of signed offer letters (twitter.com)]]></title>
+            <link>https://twitter.com/typesfast/status/1700092765798048093</link>
+            <guid>https://twitter.com/typesfast/status/1700092765798048093</guid>
+            <pubDate>Fri, 08 Sep 2023 14:07:55 GMT</pubDate>
+            <description><![CDATA[Twitter Requires Switch to Supported Browser]]></description>
+            <content:encoded><![CDATA[<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.
+            </p><p>
+                191 Points |  <a href="https://news.ycombinator.com/item?id=37433681">215 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Delivery of gene therapy through CSF conduit to rescue hearing in adult mice (www.science.org)]]></title>
+            <link>https://www.science.org/doi/10.1126/scitranslmed.abq3916</link>
+            <guid>https://www.science.org/doi/10.1126/scitranslmed.abq3916</guid>
+            <pubDate>Wed, 06 Sep 2023 23:21:52 GMT</pubDate>
+            <description><![CDATA[Security Review Requested for www.science.org]]></description>
+            <content:encoded><![CDATA[<p>The website www.science.org is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is 803b0eb75fbdcf4d, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37412738">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)]]></title>
+            <link>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</link>
+            <guid>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</guid>
+            <pubDate>Fri, 08 Sep 2023 16:49:59 GMT</pubDate>
+            <description><![CDATA[Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market]]></description>
+            <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
+            </p><p>
+                69 Points |  <a href="https://news.ycombinator.com/item?id=37436092">20 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -148,28 +203,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cerabyte: ceramic storage poised to usher in 'yottabyte era' (www.tomshardware.com)]]></title>
-            <link>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</link>
-            <guid>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</guid>
-            <pubDate>Fri, 08 Sep 2023 16:49:59 GMT</pubDate>
-            <description><![CDATA[Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market]]></description>
-            <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
-            </p><p>
-                58 Points |  <a href="https://news.ycombinator.com/item?id=37436092">10 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Flexport is rescinding a bunch of signed offer letters (twitter.com)]]></title>
-            <link>https://twitter.com/typesfast/status/1700092765798048093</link>
-            <guid>https://twitter.com/typesfast/status/1700092765798048093</guid>
-            <pubDate>Fri, 08 Sep 2023 14:07:55 GMT</pubDate>
-            <description><![CDATA[Twitter Requires Switch to Supported Browser]]></description>
-            <content:encoded><![CDATA[<p>Twitter no longer supports this browser and users are advised to switch to a supported browser in order to continue using the platform. The Help Center provides a list of supported browsers for reference. The message also includes links to the Terms of Service, Privacy Policy, Cookie Policy, and Imprint. The copyright information indicates that it is © 2023 X Corp.
-            </p><p>
-                141 Points |  <a href="https://news.ycombinator.com/item?id=37433681">165 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Debugging Catastrophic Backtracking for Regular Expressions in Python (krishnanchandra.com)]]></title>
             <link>https://krishnanchandra.com/posts/regex-catastrophic-backtracking/</link>
             <guid>https://krishnanchandra.com/posts/regex-catastrophic-backtracking/</guid>
@@ -178,50 +211,6 @@
             <content:encoded><![CDATA[<p>Fixing catastrophic backtracking in regular expressions in Python by using a non-greedy pattern. The article discusses how a regex pattern with a greedy subpattern can lead to exponential runtime on strings with many newlines, causing the application to become stuck. By making the repeating subpattern non-greedy and adding the re.DOTALL flag to match newlines, the runtime becomes linear instead of exponential. The article provides a comparison of the performance between the problematic regex and the fixed regex using a test script. The results show that the problematic regex performs poorly on long input sequences, while the fixed regex scales much better. The article concludes with a log-log plot illustrating the exponential relationship between input size and execution time for the problematic regex.
             </p><p>
                 3 Points |  <a href="https://news.ycombinator.com/item?id=37422355">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Towards a New SymPy (oscarbenjamin.github.io)]]></title>
-            <link>https://oscarbenjamin.github.io/blog/czi/post1.html</link>
-            <guid>https://oscarbenjamin.github.io/blog/czi/post1.html</guid>
-            <pubDate>Fri, 08 Sep 2023 07:50:49 GMT</pubDate>
-            <description><![CDATA[Foundations of a Computer Algebra System: Towards a Faster SymPy]]></description>
-            <content:encoded><![CDATA[<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System
-            </p><p>
-                62 Points |  <a href="https://news.ycombinator.com/item?id=37430759">35 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)]]></title>
-            <link>https://eprint.iacr.org/2023/1053</link>
-            <guid>https://eprint.iacr.org/2023/1053</guid>
-            <pubDate>Fri, 08 Sep 2023 09:24:25 GMT</pubDate>
-            <description><![CDATA[ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet]]></description>
-            <content:encoded><![CDATA[<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.
-            </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37431433">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)]]></title>
-            <link>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</link>
-            <guid>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</guid>
-            <pubDate>Fri, 08 Sep 2023 17:01:02 GMT</pubDate>
-            <description><![CDATA[Artie Seeks Founding Engineer for Real-Time Data Streaming Solution]]></description>
-            <content:encoded><![CDATA[<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.
-            </p><p>
-                1 Points |  <a href="https://news.ycombinator.com/item?id=37436236">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PgBouncer is useful, important, and fraught with peril (jpcamara.com)]]></title>
-            <link>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</link>
-            <guid>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</guid>
-            <pubDate>Fri, 08 Sep 2023 09:43:22 GMT</pubDate>
-            <description><![CDATA[The Significance and Challenges of PgBouncer for Scaling PostgreSQL]]></description>
-            <content:encoded><![CDATA[<p>Understanding the importance and challenges of using PgBouncer for scaling PostgreSQL
-            </p><p>
-                162 Points |  <a href="https://news.ycombinator.com/item?id=37431560">59 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -236,6 +225,39 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Losing Out in Critical Technologies: Cisco Systems and Financialization (www.ineteconomics.org)]]></title>
+            <link>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</link>
+            <guid>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</guid>
+            <pubDate>Thu, 07 Sep 2023 06:34:22 GMT</pubDate>
+            <description><![CDATA[Cisco Systems' Financialization and its Impact on US Technology Competitiveness]]></description>
+            <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and IoT. This is due to the company's shift from innovation to financialization, prioritizing stock buybacks over investments in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for technological advancements. The company's focus on maximizing shareholder value has hindered its competitive position in the US information-and-communication-technology industry. This article explores Cisco's transformation from an innovative enterprise to a financialized one and discusses the implications for the industry's global competitiveness.
+            </p><p>
+                3 Points |  <a href="https://news.ycombinator.com/item?id=37415456">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Towards a new SymPy (oscarbenjamin.github.io)]]></title>
+            <link>https://oscarbenjamin.github.io/blog/czi/post1.html</link>
+            <guid>https://oscarbenjamin.github.io/blog/czi/post1.html</guid>
+            <pubDate>Fri, 08 Sep 2023 07:50:49 GMT</pubDate>
+            <description><![CDATA[Foundations of a Computer Algebra System: Towards a Faster SymPy]]></description>
+            <content:encoded><![CDATA[<p>Towards a Faster SymPy: Part 1 - Outlining the Foundations of a Computer Algebra System
+            </p><p>
+                100 Points |  <a href="https://news.ycombinator.com/item?id=37430759">45 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Artie (YC S23) is hiring a founding engineer (www.ycombinator.com)]]></title>
+            <link>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</link>
+            <guid>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</guid>
+            <pubDate>Fri, 08 Sep 2023 17:01:02 GMT</pubDate>
+            <description><![CDATA[Artie Seeks Founding Engineer for Real-Time Data Streaming Solution]]></description>
+            <content:encoded><![CDATA[<p>Artie is seeking a Founding Engineer to join their small team in San Francisco. The role involves working on distributed systems and data engineering, with responsibilities including setting up new data planes, optimizing their open-sourced service product, and adding functionality to the customer dashboard. The ideal candidate should have strong fundamentals in computer science, be pragmatic, and have experience with scaling asynchronous systems. Proficiency in Go is preferred. Artie is a real-time data streaming solution that focuses on databases and data warehouses, utilizing change data capture and stream processing for efficient data transfers with sub-minute latency.
+            </p><p>
+                1 Points |  <a href="https://news.ycombinator.com/item?id=37436236">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[How to Learn Emacs (2012) (david.rothlis.net)]]></title>
             <link>https://david.rothlis.net/emacs/howtolearn.html</link>
             <guid>https://david.rothlis.net/emacs/howtolearn.html</guid>
@@ -247,25 +269,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The thinking path (www.robinsloan.com)]]></title>
-            <link>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</link>
-            <guid>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</guid>
-            <pubDate>Thu, 07 Sep 2023 21:52:02 GMT</pubDate>
-            <description><![CDATA[Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness]]></description>
-            <content:encoded><![CDATA[<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.
+            <title><![CDATA[ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)]]></title>
+            <link>https://eprint.iacr.org/2023/1053</link>
+            <guid>https://eprint.iacr.org/2023/1053</guid>
+            <pubDate>Fri, 08 Sep 2023 09:24:25 GMT</pubDate>
+            <description><![CDATA[ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet]]></description>
+            <content:encoded><![CDATA[<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.
             </p><p>
-                92 Points |  <a href="https://news.ycombinator.com/item?id=37426107">20 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zinc-air batteries as an alternative to lithium-ion: study (www.ecu.edu.au)]]></title>
-            <link>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</link>
-            <guid>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</guid>
-            <pubDate>Fri, 08 Sep 2023 15:49:56 GMT</pubDate>
-            <description><![CDATA[Zinc-air batteries identified as cheaper and safer alternative to lithium-ion batteries]]></description>
-            <content:encoded><![CDATA[<p>Zinc-air batteries have been identified as a cheaper and safer alternative to lithium-ion batteries for powering electric vehicles, according to a study by Edith Cowan University. The research found that zinc-air batteries, which use a combination of sustainable and cost-effective materials, offer improved lifespan and performance compared to lithium-ion batteries. The breakthrough design of these batteries, using new materials such as carbon, iron, and cobalt, has overcome previous limitations related to power output and lifespan. The use of abundant zinc resources in countries like Australia, along with the ubiquity of air, makes zinc-air batteries a viable and reliable energy storage solution. This development contributes to building a sustainable society and reducing reliance on fossil fuels.
-            </p><p>
-                112 Points |  <a href="https://news.ycombinator.com/item?id=37435215">92 comments</a>
+                5 Points |  <a href="https://news.ycombinator.com/item?id=37431433">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -276,7 +287,18 @@
             <description><![CDATA[Website Security Check: journals.sagepub.com]]></description>
             <content:encoded><![CDATA[<p>The website journals.sagepub.com is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is a unique identifier for the user's connection. It is important for users to ensure that their connection is secure before proceeding with any sensitive activities on the website.
             </p><p>
-                135 Points |  <a href="https://news.ycombinator.com/item?id=37428937">91 comments</a>
+                145 Points |  <a href="https://news.ycombinator.com/item?id=37428937">102 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The thinking path (www.robinsloan.com)]]></title>
+            <link>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</link>
+            <guid>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</guid>
+            <pubDate>Thu, 07 Sep 2023 21:52:02 GMT</pubDate>
+            <description><![CDATA[Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness]]></description>
+            <content:encoded><![CDATA[<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.
+            </p><p>
+                132 Points |  <a href="https://news.ycombinator.com/item?id=37426107">30 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -291,13 +313,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf] (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37438934</link>
-            <guid>https://news.ycombinator.com/item?id=37438934</guid>
-            <pubDate>Fri, 08 Sep 2023 20:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
+            <title><![CDATA[Sieve: An Email Filtering Language (RFC 5228) (www.rfc-editor.org)]]></title>
+            <link>https://www.rfc-editor.org/info/rfc5228</link>
+            <guid>https://www.rfc-editor.org/info/rfc5228</guid>
+            <pubDate>Thu, 07 Sep 2023 08:54:00 GMT</pubDate>
+            <description><![CDATA[Sieve: An Email Filtering Language, a Proposed Standard]]></description>
+            <content:encoded><![CDATA[<p>Sieve: An Email Filtering Language is a proposed standard that describes a language for filtering email messages at the time of final delivery. It can be implemented on both mail clients and servers, and is designed to be extensible, simple, and independent of access protocol, mail architecture, and operating system. The language is suitable for use on mail servers where users may not be allowed to execute arbitrary programs. It does not have variables, loops, or the ability to shell out to external programs. The document provides the definition of status and stream as per RFC standards.
             </p><p>
-                75 Points |  <a href="https://news.ycombinator.com/item?id=37438934">50 comments</a>
+                20 Points |  <a href="https://news.ycombinator.com/item?id=37416342">10 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -312,36 +335,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Sieve: An Email Filtering Language (RFC 5228) (www.rfc-editor.org)]]></title>
-            <link>https://www.rfc-editor.org/info/rfc5228</link>
-            <guid>https://www.rfc-editor.org/info/rfc5228</guid>
-            <pubDate>Thu, 07 Sep 2023 08:54:00 GMT</pubDate>
-            <description><![CDATA[Sieve: An Email Filtering Language, a Proposed Standard]]></description>
-            <content:encoded><![CDATA[<p>Sieve: An Email Filtering Language is a proposed standard that describes a language for filtering email messages at the time of final delivery. It can be implemented on both mail clients and servers, and is designed to be extensible, simple, and independent of access protocol, mail architecture, and operating system. The language is suitable for use on mail servers where users may not be allowed to execute arbitrary programs. It does not have variables, loops, or the ability to shell out to external programs. The document provides the definition of status and stream as per RFC standards.
+            <title><![CDATA[Show HN: Rivet – open-source AI Agent dev env with real-world applications (rivet.ironcladapp.com)]]></title>
+            <link>https://rivet.ironcladapp.com/</link>
+            <guid>https://rivet.ironcladapp.com/</guid>
+            <pubDate>Fri, 08 Sep 2023 13:29:05 GMT</pubDate>
+            <description><![CDATA[Rivet: A Visual Programming Environment for Building AI Agents with LLMs]]></description>
+            <content:encoded><![CDATA[<p>Rivet is a visual programming environment for building AI agents with LLMs. It allows teams to design, debug, and collaborate on complex LLM prompt graphs and deploy them in their own environment. The tool offers features like visualizing and building complex chains, remote debugging, and collaboration through versioning in a team's repository. Rivet has received positive feedback from users who appreciate its visual nature, debugging capabilities, and collaborative features. It has been used by Ironclad to develop their virtual contract assistant, Contract AI. Developers can easily get started with Rivet by following the provided guide and integrating it into their applications.
             </p><p>
-                20 Points |  <a href="https://news.ycombinator.com/item?id=37416342">10 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[H2Fly – Breaking the Hydrogen Barrier (www.h2fly.de)]]></title>
-            <link>https://www.h2fly.de/</link>
-            <guid>https://www.h2fly.de/</guid>
-            <pubDate>Fri, 08 Sep 2023 13:42:42 GMT</pubDate>
-            <description><![CDATA[Breaking the Hydrogen Barrier: Hydrogen's Potential to Decarbonize Aviation]]></description>
-            <content:encoded><![CDATA[<p>Hydrogen is presented as the best solution for decarbonizing aviation due to its zero-emissions, safety, economic viability, low-noise profile, and ability to enable new regional air mobility connections. H2FLY, a German developer, has successfully completed the world's first piloted flight of an electric aircraft powered by liquid hydrogen. They have been researching and refining a hydrogen-electric powertrain system for over a decade, and their fuel cell system converts clean hydrogen into electricity to power their demonstrator aircraft HY4. This achievement proves that zero-emission aviation is within reach. H2FLY's vision is to unlock the era of sustainable air travel by developing qualified hydrogen-electric powertrains for aviation.
-            </p><p>
-                16 Points |  <a href="https://news.ycombinator.com/item?id=37433380">12 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why we didn’t get a malaria vaccine sooner (worksinprogress.co)]]></title>
-            <link>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</link>
-            <guid>https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner</guid>
-            <pubDate>Fri, 08 Sep 2023 18:49:21 GMT</pubDate>
-            <description><![CDATA[The Challenges and Delays in Developing a Malaria Vaccine]]></description>
-            <content:encoded><![CDATA[<p>The article discusses the challenges and delays in developing a malaria vaccine. It highlights the complexity of the malaria parasite and the lack of financial incentive and urgency as major obstacles. The discovery of the malaria parasite by Charles Laveran in 1880 is mentioned, along with the difficulties in finding a suitable animal model for vaccine development. The article also introduces the concept of Advance Market Commitments as a potential solution to encourage investment in vaccines for diseases affecting the global poor. Overall, the article emphasizes the need for innovative approaches to accelerate the development of vaccines for diseases like malaria.
-            </p><p>
-                83 Points |  <a href="https://news.ycombinator.com/item?id=37437739">78 comments</a>
+                107 Points |  <a href="https://news.ycombinator.com/item?id=37433218">26 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
