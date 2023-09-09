@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 07:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 07:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,17 @@
         </image>
         <category>Frontpage</category>
         <atom:link href="https://ruanyf.github.io/hnsummary/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)]]></title>
+            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
+            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
+            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
+            <description><![CDATA['YJIT and Pure Ruby Implementation Outperform C Extension in Ruby Performance Optimization']]></description>
+            <content:encoded><![CDATA[<p>The article discusses the performance optimization of Ruby code by comparing it with C extensions. It presents a benchmark test of parsing GraphQL queries using the GraphQL Ruby gem and the Racc C extension. The results show that YJIT, a just-in-time compiler, can outperform the C extension when used with the pure Ruby implementation of Racc. The article also introduces TinyGQL, a pure Ruby GraphQL parser, which achieves faster performance than the C extension when combined with YJIT.
+            </p><p>
+                54 Points |  <a href="https://news.ycombinator.com/item?id=37422705">31 comments</a>
+            </p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Julia and Mojo (Modular) Mandelbrot Benchmark (discourse.julialang.org)]]></title>
             <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
@@ -27,25 +38,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ruby Outperforms C: Breaking the Catch-22 (railsatscale.com)]]></title>
-            <link>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</link>
-            <guid>https://railsatscale.com/2023-08-29-ruby-outperforms-c/</guid>
-            <pubDate>Thu, 07 Sep 2023 17:43:12 GMT</pubDate>
-            <description><![CDATA[Ruby Outperforms C: Breaking the Catch-22 in Performance Optimization]]></description>
-            <content:encoded><![CDATA[<p>Ruby outperforms C in terms of performance optimization, challenging the common wisdom of rewriting slow code as C extensions. The article presents a benchmark comparing the performance of a pure Ruby implementation of the GraphQL parser with a C extension. It also explores the impact of YJIT optimizations on both implementations. The results show that YJIT can achieve faster speeds than a C extension when used with the pure Ruby implementation. Additionally, a hand-written recursive descent parser in pure Ruby called TinyGQL is introduced and compared to the GraphQL C extension. With YJIT enabled, TinyGQL outperforms the C extension by 30%. These findings suggest that rewriting slow code in pure Ruby can be a viable alternative to using C extensions for performance optimization.
-            </p><p>
-                35 Points |  <a href="https://news.ycombinator.com/item?id=37422705">19 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Newly discovered comet Nishimura could be visible to naked eye this weekend (www.theguardian.com)]]></title>
             <link>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</link>
             <guid>https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend</guid>
             <pubDate>Thu, 07 Sep 2023 00:48:16 GMT</pubDate>
             <description><![CDATA[Newly Discovered Comet Nishimura Could Be Visible to Naked Eye This Weekend]]></description>
-            <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity to observe it. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun only every 437 years, spending most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
+            <content:encoded><![CDATA[<p>Comet Nishimura, discovered just a month ago, could be visible to the naked eye this weekend, offering stargazers a rare opportunity. Most comets are discovered months or years before reaching peak visibility, but Nishimura is an exception. It swings by the sun every 437 years and spends most of its time in the outer solar system. The comet will pass closest to the sun on September 17th and will be easiest to observe in the northern hemisphere this Saturday and Sunday. Stargazers can look towards the north-eastern sky before sunrise, to the left of Venus, for the best view.
             </p><p>
-                66 Points |  <a href="https://news.ycombinator.com/item?id=37413387">12 comments</a>
+                80 Points |  <a href="https://news.ycombinator.com/item?id=37413387">21 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[An Internet of PHP (timotijhof.net)]]></title>
+            <link>https://timotijhof.net/posts/2023/an-internet-of-php/</link>
+            <guid>https://timotijhof.net/posts/2023/an-internet-of-php/</guid>
+            <pubDate>Thu, 07 Sep 2023 07:23:33 GMT</pubDate>
+            <description><![CDATA[PHP's Dominance in the Internet: Statistics and Anecdotes]]></description>
+            <content:encoded><![CDATA[<p>PHP Continues to Dominate the Internet: Statistics and Anecdotes
+            </p><p>
+                14 Points |  <a href="https://news.ycombinator.com/item?id=37415747">2 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -53,10 +64,10 @@
             <link>https://material.io/blog/2023-google-fonts-redesign</link>
             <guid>https://material.io/blog/2023-google-fonts-redesign</guid>
             <pubDate>Sat, 09 Sep 2023 02:38:22 GMT</pubDate>
-            <description><![CDATA[Google Fonts Redesigns Website to Improve Font and Icon Search]]></description>
-            <content:encoded><![CDATA[<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new site navigation using Material 3 Navigation Rail, an improved mobile experience with a bottom navigation bar, and a new sidebar for searching and filtering fonts and icons. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. Overall, the redesign aims to enhance the user experience and make it easier to find the right assets for projects.
+            <description><![CDATA['Google Fonts Redesigns Website for Better Font and Icon Exploration']]></description>
+            <content:encoded><![CDATA[<p>Google Fonts has redesigned its website to provide better ways of exploring and finding fonts and icons. The updates include a new navigation rail, improved mobile experience, and a new sidebar for searching and filtering. The layout also introduces a new color palette for light and dark mode. Users can try out the new experience on fonts.google.com and provide feedback. The redesign aims to enhance the user experience and make it easier to find the right assets for projects.
             </p><p>
-                41 Points |  <a href="https://news.ycombinator.com/item?id=37441683">27 comments</a>
+                41 Points |  <a href="https://news.ycombinator.com/item?id=37441683">28 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -64,10 +75,10 @@
             <link>https://maizure.org/projects/decoded-gnu-coreutils/</link>
             <guid>https://maizure.org/projects/decoded-gnu-coreutils/</guid>
             <pubDate>Fri, 08 Sep 2023 21:15:52 GMT</pubDate>
-            <description><![CDATA[Decoding the GNU coreutils: Exploring the Design of Command-Line Utilities]]></description>
-            <content:encoded><![CDATA[<p>Decoding the GNU coreutils version 8.3 is a long-term project aimed at providing useful background for novice programmers exploring the design of command-line utilities. The project is divided into phases, with Phase 1 and Phase 2 already complete. Phase 1 focused on discussing the namespace and execution overview of each utility, while Phase 2 expanded on important design decisions and algorithms. The project also aims to provide a line-by-line code walkthrough for each utility in the future. The GNU coreutils, which are small, single-source file programs, have their own unique design patterns and often rely on the Getopt toolset for parsing command line options. The utilities also make use of the fts library for traversing the file system and include syscall wrappers and helpers from the Gnulib project. Overall, the project provides helpful insights into the design and implementation of the GNU coreutils.
+            <description><![CDATA[Decoding GNU coreutils: A Comprehensive Exploration of Command-Line Utilities]]></description>
+            <content:encoded><![CDATA[<p>Decoding GNU coreutils is a long-term project that aims to provide a comprehensive understanding of the design and implementation of the command-line utilities in version 8.3. It is a valuable resource for novice programmers looking to explore the inner workings of these utilities. The project is divided into phases, with the first two phases already completed, focusing on providing an overview of each utility and discussing important design decisions. The project also covers the basic design patterns shared by most utilities, such as utility initialization, parsing with Getopt, traversing the file system with fts, and using syscall wrappers and helpers. The coreutils codebase is characterized by its simplicity, use of macros, and reliance on POSIX standards. Overall, this project offers valuable insights into the GNU coreutils and their implementation.
             </p><p>
-                158 Points |  <a href="https://news.ycombinator.com/item?id=37439535">46 comments</a>
+                207 Points |  <a href="https://news.ycombinator.com/item?id=37439535">54 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -75,10 +86,21 @@
             <link>https://blog.dataparty.xyz/blog/snoop-unto-them/</link>
             <guid>https://blog.dataparty.xyz/blog/snoop-unto-them/</guid>
             <pubDate>Fri, 08 Sep 2023 22:26:51 GMT</pubDate>
-            <description><![CDATA[DEFCON 31 Releases Official Videos and Offers Support Options]]></description>
-            <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to support the speakers through buying them a coffee, getting their product rfparty, and following them on various social media platforms. The post ends with an invitation to join their Discord server and sign up for their mailing list.
+            <description><![CDATA['DEFCON 31 Releases Official Videos and Offers Ways to Support Speakers']]></description>
+            <content:encoded><![CDATA[<p>DEFCON 31 has released official videos of their talks, including 'Snoop unto them as they snoop unto you'. The talk, slides, files, and code are available for download. The blog post also provides links to follow and support the speakers, including options to buy them a coffee, get their rfparty product, and connect on social media. The post ends with an invitation to join their Discord and sign up for their mailing list.
             </p><p>
-                161 Points |  <a href="https://news.ycombinator.com/item?id=37440104">85 comments</a>
+                164 Points |  <a href="https://news.ycombinator.com/item?id=37440104">86 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Development of the C Language (cm.bell-labs.co)]]></title>
+            <link>http://cm.bell-labs.co/who/dmr/chist.html</link>
+            <guid>http://cm.bell-labs.co/who/dmr/chist.html</guid>
+            <pubDate>Sat, 09 Sep 2023 06:33:32 GMT</pubDate>
+            <description><![CDATA['The Development and Evolution of the C Programming Language']]></description>
+            <content:encoded><![CDATA[<p>This paper discusses the development of the C programming language, its influences, and the conditions under which it was created. It highlights the evolution of C from its parent language BCPL and its grandparent language BCPL. The paper also mentions the significant periods of changes in the language and its association with the Unix operating system. It concludes by noting that C has become one of the dominant languages in the computer industry today.
+            </p><p>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37442810">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -89,7 +111,7 @@
             <description><![CDATA[N/A]]></description>
             <content:encoded><![CDATA[<p>N/A
             </p><p>
-                129 Points |  <a href="https://news.ycombinator.com/item?id=37440631">23 comments</a>
+                149 Points |  <a href="https://news.ycombinator.com/item?id=37440631">23 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -97,43 +119,10 @@
             <link>https://today.ucsd.edu/story/forwarding_based_spoofing</link>
             <guid>https://today.ucsd.edu/story/forwarding_based_spoofing</guid>
             <pubDate>Fri, 08 Sep 2023 19:45:08 GMT</pubDate>
-            <description><![CDATA[Security Flaws in Email Forwarding Allow Scammers to Impersonate High-profile Domains]]></description>
-            <content:encoded><![CDATA[<p>Researchers at the University of California San Diego have discovered security flaws in the email forwarding process that allow scammers to impersonate high-profile domains. This vulnerability affects tens of thousands of domains, including government organizations, financial service companies, and major news organizations. The researchers found that scammers can send spoofed emails that bypass the safeguards of email providers like Gmail and Outlook, increasing the likelihood of recipients opening malicious attachments or clicking on harmful links. The vulnerabilities arise from the delegation of email infrastructure to third-party providers and the assumption that each organization operates its own mailing infrastructure. While some providers have patched the issues, the researchers recommend disabling open forwarding and implementing stricter validation policies to address the root problem.
+            <description><![CDATA[Email Forwarding Flaws Enable Scammers to Impersonate High-Profile Domains]]></description>
+            <content:encoded><![CDATA[<p>Email forwarding flaws allow scammers to impersonate high-profile domains, including government organizations, financial service companies, and major news organizations. The vulnerabilities in the email forwarding process bypass the safeguards of email providers like Gmail and Outlook, making it easier for attackers to send spoofed emails containing malware or spyware. The research team discovered that many organizations outsource their email infrastructure to third-party providers, which can be exploited through email forwarding. The vulnerabilities affect a significant number of domains, including state.gov, Mastercard, The Washington Post, and the Associated Press. While some providers have patched the issues, researchers recommend disabling open forwarding and implementing stricter validation policies to enhance email security.
             </p><p>
-                148 Points |  <a href="https://news.ycombinator.com/item?id=37438478">41 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)]]></title>
-            <link>https://github.com/dancrossnyc/rxv64</link>
-            <guid>https://github.com/dancrossnyc/rxv64</guid>
-            <pubDate>Fri, 08 Sep 2023 21:03:19 GMT</pubDate>
-            <description><![CDATA[rxv64: A Pedagogical Operating System Reimplementation of xv6 in Rust]]></description>
-            <content:encoded><![CDATA[<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports limited hardware including the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on its origin and intended use.
-            </p><p>
-                106 Points |  <a href="https://news.ycombinator.com/item?id=37439391">24 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[An Internet of PHP (timotijhof.net)]]></title>
-            <link>https://timotijhof.net/posts/2023/an-internet-of-php/</link>
-            <guid>https://timotijhof.net/posts/2023/an-internet-of-php/</guid>
-            <pubDate>Thu, 07 Sep 2023 07:23:33 GMT</pubDate>
-            <description><![CDATA[PHP Maintains its Dominance as the Preferred Language for Websites and CMS]]></description>
-            <content:encoded><![CDATA[<p>PHP Continues to Dominate the Internet as the Language of Choice for Websites and Content Management Systems
-            </p><p>
-                7 Points |  <a href="https://news.ycombinator.com/item?id=37415747">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Morphology and temporal evolution of ground-nesting bee burrows (www.science.org)]]></title>
-            <link>https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests</link>
-            <guid>https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests</guid>
-            <pubDate>Fri, 08 Sep 2023 23:17:21 GMT</pubDate>
-            <description><![CDATA[Security Check Required for Access to www.science.org]]></description>
-            <content:encoded><![CDATA[<p>The website www.science.org is checking the security of your connection before allowing access. This is likely due to the use of Cloudflare for performance and security. The Ray ID provided is 803b4673adb9ce94. It is important for websites to ensure secure connections to protect user data. The review process is necessary to prevent unauthorized access or data breaches. Once the security check is completed, users will be able to proceed to the website.
-            </p><p>
-                66 Points |  <a href="https://news.ycombinator.com/item?id=37440482">10 comments</a>
+                163 Points |  <a href="https://news.ycombinator.com/item?id=37438478">42 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -141,10 +130,21 @@
             <link>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</link>
             <guid>https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia</guid>
             <pubDate>Thu, 07 Sep 2023 01:15:10 GMT</pubDate>
-            <description><![CDATA[The Power of Food for People with Dementia]]></description>
-            <content:encoded><![CDATA[<p>The Power of Food for People with Dementia explores the potential benefits of using food to trigger memories and improve the quality of life for individuals with dementia. The article shares personal experiences of the author's father's decline due to dementia and highlights the moments of joy and connection that food brought to him. It discusses a unique event called the Dinner Party, organized by a playwright and actor in collaboration with the Global Brain Health Institute, where individuals with cognitive impairment share stories of their favorite foods and then recreate and enjoy those dishes. The article also touches on the therapeutic effects of creative activities and musical memory for dementia patients. Overall, the Dinner Party aims to explore the power of food in enhancing neuroplasticity and improving the lives of individuals with dementia.
+            <description><![CDATA[The Transformative Role of Food for Individuals with Dementia]]></description>
+            <content:encoded><![CDATA[<p>The Power of Food in Triggering Memories and Enhancing Quality of Life for People with Dementia
             </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37413566">0 comments</a>
+                24 Points |  <a href="https://news.ycombinator.com/item?id=37413566">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines (github.com)]]></title>
+            <link>https://github.com/dancrossnyc/rxv64</link>
+            <guid>https://github.com/dancrossnyc/rxv64</guid>
+            <pubDate>Fri, 08 Sep 2023 21:03:19 GMT</pubDate>
+            <description><![CDATA['rxv64': A Pedagogical Operating System Reimplementation in Rust]]></description>
+            <content:encoded><![CDATA[<p>rxv64 is a pedagogical operating system written in Rust that targets multiprocessor x86_64 machines. It is a reimplementation of the xv6 operating system from MIT. The system supports very little hardware other than the text-mode CGA device, serial port, PS/2 keyboard controller, and PCIe AHCI SATA storage devices. The xv6 README provides more information on provenance and intended use.
+            </p><p>
+                107 Points |  <a href="https://news.ycombinator.com/item?id=37439391">24 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -152,10 +152,21 @@
             <link>https://course.spacy.io/en/</link>
             <guid>https://course.spacy.io/en/</guid>
             <pubDate>Sat, 09 Sep 2023 05:36:22 GMT</pubDate>
-            <description><![CDATA[Learn to Build Advanced Natural Language Understanding Systems with spaCy]]></description>
-            <content:encoded><![CDATA[<p>This article provides an overview of the chapters in a course on using spaCy for text processing and natural language understanding. The chapters cover topics such as finding words, phrases, names, and concepts, large-scale data analysis, processing pipelines, and training a neural network model. The course aims to teach users how to use spaCy to build advanced natural language understanding systems using rule-based and machine learning approaches. The author, Ines, is a core developer of spaCy and specializes in developer tools for AI, machine learning, and NLP.
+            <description><![CDATA[Mastering Natural Language Processing with spaCy]]></description>
+            <content:encoded><![CDATA[<p>This course on spaCy, a Python library for Natural Language Processing, covers the basics of text processing, large-scale data analysis, processing pipelines, and training neural network models. It teaches you how to extract specific information from text, combine statistical and rule-based approaches, customize spaCy's models, and build advanced natural language understanding systems. The course is free and interactive, and is taught by Ines, one of the core developers of spaCy. She specializes in modern developer tools for AI, Machine Learning, and NLP.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37442574">0 comments</a>
+                6 Points |  <a href="https://news.ycombinator.com/item?id=37442574">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Morphology and temporal evolution of ground-nesting bee burrows (www.sciencedirect.com)]]></title>
+            <link>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</link>
+            <guid>https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040</guid>
+            <pubDate>Fri, 08 Sep 2023 23:17:21 GMT</pubDate>
+            <description><![CDATA[Content Unavailable: Contact Support for Assistance]]></description>
+            <content:encoded><![CDATA[<p>The content you requested is not available. Please contact support for more information. The reference number, IP address, and timestamp are provided for reference. ScienceDirect uses cookies to enhance its service. Copyright information is also included.
+            </p><p>
+                74 Points |  <a href="https://news.ycombinator.com/item?id=37440482">11 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -163,10 +174,10 @@
             <link>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</link>
             <guid>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</guid>
             <pubDate>Fri, 08 Sep 2023 20:41:20 GMT</pubDate>
-            <description><![CDATA[Manipulating Application Behavior with LD_PRELOAD]]></description>
-            <content:encoded><![CDATA[<p>Using LD_PRELOAD to manipulate the behavior of applications
+            <description><![CDATA[Manipulating Application Behavior with LD_PRELOAD: Fun and Useful Tricks in Linux]]></description>
+            <content:encoded><![CDATA[<p>Using LD_PRELOAD to manipulate the behavior of applications without modifying their source code or recompiling them is a powerful trick in Linux. This technique allows users to inject custom code into applications transparently, such as modifying the behavior of the random number generator or intercepting file access calls. The blog post provides examples of how LD_PRELOAD can be used to cheat in games, investigate unknown applications by monitoring file I/O and internet access, and even create bullet-time effects in games. The author emphasizes that while this trick can be fun and useful for debugging, it should not be used to bypass security or gain root privileges.
             </p><p>
-                111 Points |  <a href="https://news.ycombinator.com/item?id=37439125">63 comments</a>
+                128 Points |  <a href="https://news.ycombinator.com/item?id=37439125">70 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -174,21 +185,32 @@
             <link>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</link>
             <guid>https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts</guid>
             <pubDate>Fri, 08 Sep 2023 19:11:47 GMT</pubDate>
-            <description><![CDATA[Code File for TypeScript Implementation of Game of Life]]></description>
-            <content:encoded><![CDATA[<p>This is a code file for a TypeScript implementation of the Game of Life. The code consists of 203 lines and is approximately 7.24 KB in size. It appears to be a random file within a larger project called 'cursed-typescript'.
+            <description><![CDATA[TypeScript code for a game of life simulation]]></description>
+            <content:encoded><![CDATA[<p>This is a TypeScript file containing code for a game of life simulation. The code is 203 lines long and has a file size of 7.24 KB. It appears to be a random implementation of the game of life, with various functions and logic for simulating the evolution of cells on a grid. The code includes functions for initializing the grid, updating the grid based on the rules of the game, and rendering the grid. It also includes helper functions for counting the number of live neighbors for each cell and checking if a cell is alive or dead. Overall, this file seems to be a self-contained implementation of the game of life in TypeScript.
             </p><p>
-                113 Points |  <a href="https://news.ycombinator.com/item?id=37438028">31 comments</a>
+                153 Points |  <a href="https://news.ycombinator.com/item?id=37438028">38 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TurboGP: A flexible and advanced Python based GP library (arxiv.org)]]></title>
-            <link>https://arxiv.org/abs/2309.00149</link>
-            <guid>https://arxiv.org/abs/2309.00149</guid>
-            <pubDate>Thu, 07 Sep 2023 13:21:17 GMT</pubDate>
-            <description><![CDATA[TurboGP: A Flexible and Advanced Python-Based GP Library]]></description>
-            <content:encoded><![CDATA[<p>TurboGP is a Python-based Genetic Programming (GP) library designed for machine learning tasks. It offers modern features not found in other GP implementations, including island and cellular population schemes, various genetic operations, and online learning. One of TurboGP's unique features is its support for different types of GP nodes, allowing for different abstraction levels and making it useful for processing diverse data sources. The paper provides a brief overview of TurboGP's capabilities and highlights its potential applications in neural and evolutionary computing and machine learning. The library's flexibility and advanced features make it a valuable tool for researchers and practitioners in the field.
+            <title><![CDATA[Embeddable Common Lisp 23.9.9 (ecl.common-lisp.dev)]]></title>
+            <link>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</link>
+            <guid>https://ecl.common-lisp.dev/posts/ECL-2399-release.html</guid>
+            <pubDate>Sat, 09 Sep 2023 05:56:03 GMT</pubDate>
+            <description><![CDATA['Embeddable Common-Lisp 23.9.9 Released with Bug Fixes and New Features']]></description>
+            <content:encoded><![CDATA[<p>The ECL developers have announced the release of ECL 23.9.9, a stable version of Embeddable Common-Lisp. This release includes bug fixes, new features, improvements to the compiler, and better conformance to the ANSI standard. Notable changes include an overhaul of thread synchronization primitives, better unicode support, and preliminary support for the Emscripten target. The release is available for download as a source code archive.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37418528">0 comments</a>
+                5 Points |  <a href="https://news.ycombinator.com/item?id=37442649">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)]]></title>
+            <link>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</link>
+            <guid>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</guid>
+            <pubDate>Sat, 09 Sep 2023 03:26:37 GMT</pubDate>
+            <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
+            <content:encoded><![CDATA[<p>Intuit, the company behind TurboTax, has been ruled by a Federal Trade Commission (FTC) judge to have violated US law with deceptive advertising. The judge stated that Intuit must stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the FTC's 'predetermined decision.' The ruling comes after the FTC filed an administrative complaint against Intuit in March 2022. If the ruling survives appeal, the order will be in effect for 20 years. Intuit has already agreed to pay $141 million in restitution to consumers in a separate case involving all 50 US states and the District of Columbia.
+            </p><p>
+                113 Points |  <a href="https://news.ycombinator.com/item?id=37441982">11 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -202,14 +224,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free” (arstechnica.com)]]></title>
-            <link>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</link>
-            <guid>https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/</guid>
-            <pubDate>Sat, 09 Sep 2023 03:26:37 GMT</pubDate>
-            <description><![CDATA[FTC Judge Rules Intuit Must Stop Advertising TurboTax as 'Free']]></description>
-            <content:encoded><![CDATA[<p>Intuit has been ruled by the Federal Trade Commission's chief administrative law judge to have violated US law with deceptive advertising for TurboTax. The judge ordered Intuit to stop promoting TurboTax as 'free' unless all conditions of the free offer are clearly displayed to consumers. Intuit plans to appeal the decision and criticized the judge's ruling as being in favor of the FTC's own lawsuit. The ruling stated that Intuit engaged in deceptive advertising by falsely claiming that consumers could file their taxes online for free using TurboTax. If the ruling survives appeal, it will be in effect for 20 years.
+            <title><![CDATA[TurboGP: A flexible and advanced Python based GP library (arxiv.org)]]></title>
+            <link>https://arxiv.org/abs/2309.00149</link>
+            <guid>https://arxiv.org/abs/2309.00149</guid>
+            <pubDate>Thu, 07 Sep 2023 13:21:17 GMT</pubDate>
+            <description><![CDATA[TurboGP: A Flexible and Advanced Python-Based GP Library]]></description>
+            <content:encoded><![CDATA[<p>TurboGP is a Python-based Genetic Programming (GP) library designed for machine learning tasks. It offers modern features not found in other GP implementations, such as island and cellular population schemes, various genetic operations, and online learning. One of TurboGP's unique features is its support for different types of GP nodes, allowing for different abstraction levels and making it suitable for processing diverse data sources. The library is particularly useful for neural and evolutionary computing and machine learning. The paper provides the arXiv identifier and DOI for further reference.
             </p><p>
-                110 Points |  <a href="https://news.ycombinator.com/item?id=37441982">11 comments</a>
+                14 Points |  <a href="https://news.ycombinator.com/item?id=37418528">2 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -217,21 +239,10 @@
             <link>https://bitbashing.io/async-rust.html</link>
             <guid>https://bitbashing.io/async-rust.html</guid>
             <pubDate>Fri, 08 Sep 2023 16:10:55 GMT</pubDate>
-            <description><![CDATA[Challenges and Limitations of Async Rust for Concurrency]]></description>
-            <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author explores the use of threads and mutex-based concurrency, highlighting the drawbacks and complexities involved. They then introduce the concept of channels as a synchronization mechanism and discuss how many modern languages, including Rust, provide channels in their standard libraries. The article also delves into the unique challenges of async Rust, such as the need to assure the compiler of data safety and the limitations of using Arc for dynamic lifetimes. Overall, the author suggests that while Rust may not be the best tool for massively concurrent, userspace software, it can still be valuable for other projects.
+            <description><![CDATA[The Challenges of Using Async Rust for Concurrency]]></description>
+            <content:encoded><![CDATA[<p>The article discusses the challenges and limitations of using async Rust for concurrency. It explains the difference between parallelism and concurrency and how breaking a problem into separate, independent parts can improve performance. The author highlights the drawbacks of using threads and mutex-based concurrency, such as race conditions and deadlocks. They introduce the concept of channels as a synchronization mechanism and discuss how many modern languages provide channels in their standard libraries. The article then delves into the complexities of async Rust, including the tension between low-level control and the need for dynamic lifetimes. It concludes by suggesting that Rust may not be the best tool for massively concurrent, userspace software.
             </p><p>
-                564 Points |  <a href="https://news.ycombinator.com/item?id=37435515">469 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
-            <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
-            <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:23:27 GMT</pubDate>
-            <description><![CDATA[Understanding the constexprness of C++20's std::string]]></description>
-            <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints using examples of stack variables and memory addresses. It also discusses the limitations of constexpr string and vector, such as the inability to escape pointers to their data and the impact of small string optimization (SSO). The intended use of constexpr string and vector is as local variables or return types of constexpr or consteval functions, rather than as constexpr or constinit variables.
-            </p><p>
-                94 Points |  <a href="https://news.ycombinator.com/item?id=37431425">70 comments</a>
+                581 Points |  <a href="https://news.ycombinator.com/item?id=37435515">480 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -239,10 +250,21 @@
             <link>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</link>
             <guid>https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization</guid>
             <pubDate>Thu, 07 Sep 2023 06:34:22 GMT</pubDate>
-            <description><![CDATA[Cisco Systems' Financialization and its Impact on US Technology Competitiveness]]></description>
-            <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and IoT. This is due to the company's shift from innovation to financialization, prioritizing stock buybacks over investments in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for technological advancements. The company's focus on maximizing shareholder value has hindered its competitive position in the US information-and-communication-technology industry. This article explores Cisco's transformation from an innovative enterprise to a financialized one and discusses the implications for the industry's global competitiveness.
+            <description><![CDATA[Cisco Systems' Financialization and its Impact on the US Technology Industry]]></description>
+            <content:encoded><![CDATA[<p>Cisco Systems, once a global leader in telecommunication systems and the Internet, has fallen behind global competitors in critical technologies such as 5G and Internet of Things (IoT). This is due to the company's shift from innovation to financialization, prioritizing stock buybacks to boost its stock price instead of investing in cutting-edge communication-infrastructure products. Since 2001, Cisco has spent $152.3 billion on stock buybacks, wasting funds that could have been used for innovation. The company's turn from innovation to financialization has implications for the competitive position of the US information-and-communication-technology industry. This article provides an in-depth analysis of Cisco's organizational failure and its impact on the US technology industry.
             </p><p>
                 35 Points |  <a href="https://news.ycombinator.com/item?id=37415456">28 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Just how constexpr is C++20’s std:string? (quuxplusone.github.io)]]></title>
+            <link>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</link>
+            <guid>https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:23:27 GMT</pubDate>
+            <description><![CDATA[Understanding the Constraints of C++20's constexpr std::string and std::vector]]></description>
+            <content:encoded><![CDATA[<p>C++20's std::string and std::vector can be marked as constexpr, allowing them to be used in compile-time programming. However, there are two constraints on constexprness: the value cannot depend on any runtime input, and certain data cannot flow from compile-time into runtime. The article explains these constraints in detail and provides examples. It also discusses the subtleties of using string and vector in constexpr, such as the impact of small string optimization (SSO) and pointers to self. The article concludes that while constexpr string and vector can be used, it is generally recommended to use them as local variables or return types of constexpr or consteval functions rather than as constexpr or constinit variables.
+            </p><p>
+                101 Points |  <a href="https://news.ycombinator.com/item?id=37431425">73 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -250,10 +272,10 @@
             <link>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</link>
             <guid>https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264</guid>
             <pubDate>Sat, 09 Sep 2023 06:00:57 GMT</pubDate>
-            <description><![CDATA[Australia's Eucalyptus Tree: A Catalyst for Global Wildfires]]></description>
+            <description><![CDATA[The Impact of Australia's Eucalyptus Tree on Global Wildfires]]></description>
             <content:encoded><![CDATA[<p>The Role of Australia's Eucalyptus Tree in Global Wildfires
             </p><p>
-                7 Points |  <a href="https://news.ycombinator.com/item?id=37442671">1 comments</a>
+                10 Points |  <a href="https://news.ycombinator.com/item?id=37442671">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -261,10 +283,10 @@
             <link>https://github.com/JHRobotics/softgpu</link>
             <guid>https://github.com/JHRobotics/softgpu</guid>
             <pubDate>Fri, 08 Sep 2023 23:06:30 GMT</pubDate>
-            <description><![CDATA[SoftGPU: SW and HW Accelerated Driver for Windows 9x Virtual Machines]]></description>
-            <content:encoded><![CDATA[<p>SoftGPU: SW and HW accelerated driver for Windows 9x Virtual Machines is a compilation of four projects that provide virtual machine support for VGA adapters and Windows 95/98/Me guest systems. It requires specific versions of DirectX, Visual C runtime, and OpenGL. The SoftGPU driver offers three render drivers: softpipe, llvmlipe, and SVGA3D. Each renderer has different requirements and supports various features and applications/games. The hypervisor translation to real HW GPU is also discussed. The installation process and system requirements are outlined, along with instructions for setting up a VirtualBox VM with hardware acceleration. The summary concludes with a note about performance optimization for newer CPUs.
+            <description><![CDATA[SoftGPU: Software and Hardware Accelerated Drivers for Windows 9x Virtual Machines]]></description>
+            <content:encoded><![CDATA[<p>SoftGPU is a compilation of four projects that provide software and hardware accelerated drivers for Windows 9x virtual machines. It requires a virtual machine with VGA adapter support and Windows 95/98/Me as the guest system. The compilation includes the necessary DirectX versions, Visual C runtime, and OpenGL 95. SoftGPU offers three render drivers: softpipe, llvmlipe, and SVGA3D. The performance of these renderers varies, with SVGA3D providing the highest expected FPS. The hypervisor translation to real hardware GPU is also discussed. The installation process and system requirements are outlined, along with instructions for setting up a VirtualBox VM with hardware acceleration. The article concludes with information on running DirectX tests and optimizing performance for newer CPUs.
             </p><p>
-                11 Points |  <a href="https://news.ycombinator.com/item?id=37440392">0 comments</a>
+                33 Points |  <a href="https://news.ycombinator.com/item?id=37440392">1 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -272,10 +294,21 @@
             <link>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</link>
             <guid>https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era</guid>
             <pubDate>Fri, 08 Sep 2023 16:49:59 GMT</pubDate>
-            <description><![CDATA[Cerabyte's Ceramic Storage Technology Aims to Revolutionize the Market]]></description>
-            <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also highlights the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
+            <description><![CDATA[Cerabyte's Ceramic Storage Technology Poised to Disrupt the Market]]></description>
+            <content:encoded><![CDATA[<p>Cerabyte, a German storage startup, claims that its ceramic nanolayer-based storage technology will disrupt the storage market by reducing data center storage TCO by 75%. The company plans to introduce CeraMemory cartridges (2025-30) with storage capacities between 10 PB and 100 PB, and CeraTape (2030-35) with up to 1 EB capacity per tape. Cerabyte's technology uses inorganic nanolayers to store information and can read and write data at GB/s class speeds. The company also touts the durability and longevity of its ceramic storage, claiming that it can last over 5,000 years and withstand extreme temperatures and environments. Cerabyte's presentation at the 2023 Storage Developer Conference is highly anticipated.
             </p><p>
-                125 Points |  <a href="https://news.ycombinator.com/item?id=37436092">61 comments</a>
+                128 Points |  <a href="https://news.ycombinator.com/item?id=37436092">62 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Touch Pianist (touchpianist.com)]]></title>
+            <link>http://touchpianist.com/</link>
+            <guid>http://touchpianist.com/</guid>
+            <pubDate>Fri, 08 Sep 2023 09:56:08 GMT</pubDate>
+            <description><![CDATA['More Pieces!': A Free Mobile App for Exploring Touch Expression]]></description>
+            <content:encoded><![CDATA[<p>This is a brief description of a mobile app called 'More Pieces!' that is available for free on Android and iOS. The app allows users to choose different pieces and explore touch expression. The summary mentions that there is more information available about the app, including details about its creator and a press kit. The content is truncated, so it is unclear what specific features or functionality the app offers. However, the summary emphasizes that it is available on both Android and iOS platforms.
+            </p><p>
+                699 Points |  <a href="https://news.ycombinator.com/item?id=37431644">200 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -284,20 +317,9 @@
             <guid>https://www.science.org/doi/10.1126/scitranslmed.abq3916</guid>
             <pubDate>Wed, 06 Sep 2023 23:21:52 GMT</pubDate>
             <description><![CDATA[Security Review Requested for www.science.org]]></description>
-            <content:encoded><![CDATA[<p>The website www.science.org is requesting to review the security of the user's connection before proceeding. This is likely due to concerns about potential security risks or vulnerabilities. The website is utilizing Cloudflare for performance and security purposes. The specific Ray ID provided is 803b0eb75fbdcf4d, which may be used for tracking or troubleshooting purposes. It is important for users to ensure the security of their connection before accessing the website.
+            <content:encoded><![CDATA[<p>The website www.science.org is requesting to review the security of your connection before proceeding. This is likely due to concerns about the safety of your data and information. The site is using Cloudflare for performance and security purposes. It is important to ensure that your connection is secure before continuing to browse the website.
             </p><p>
-                3 Points |  <a href="https://news.ycombinator.com/item?id=37412738">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Touch Pianist (touchpianist.com)]]></title>
-            <link>http://touchpianist.com/</link>
-            <guid>http://touchpianist.com/</guid>
-            <pubDate>Fri, 08 Sep 2023 09:56:08 GMT</pubDate>
-            <description><![CDATA[Menu of Pieces on a Mobile App]]></description>
-            <content:encoded><![CDATA[<p>This is a brief summary of a menu or selection of pieces available on a mobile app. The menu offers the option to choose a different piece and provides information about the app and its creator. It mentions that the app is available for free on Android and iOS platforms. The content seems to be truncated, so it is difficult to provide a more detailed summary.
-            </p><p>
-                584 Points |  <a href="https://news.ycombinator.com/item?id=37431644">186 comments</a>
+                21 Points |  <a href="https://news.ycombinator.com/item?id=37412738">3 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -305,21 +327,10 @@
             <link>https://mtlynch.io/aardvarkd/</link>
             <guid>https://mtlynch.io/aardvarkd/</guid>
             <pubDate>Fri, 08 Sep 2023 13:26:45 GMT</pubDate>
-            <description><![CDATA[Aardvark'd: The Fog Creek Documentary, 18 Years Later - A Look into the Early Days of Tech Startup Founders]]></description>
-            <content:encoded><![CDATA[<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film about Fog Creek's summer internship program in 2005. The film captures interviews with individuals who would go on to achieve fame and success in the tech industry. It explores the indie software scene of 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The documentary showcases the vulnerability and uncertainty experienced by tech startup founders during their early days. Despite its flaws, Aardvark'd provides a relatable and engaging look into the challenges of launching a software product. The film ends without a clear resolution, leaving viewers wondering about the outcome of the interns' project. The documentary includes insightful quotes from Paul Graham and Aaron Swartz. Surprisingly, Fog Creek did not finance the film, and the filmmaker recently uploaded it for free on YouTube.
+            <description><![CDATA[Aardvark'd: The Fog Creek Documentary Explores Tech Startup Founders' Vulnerability and Uncertainty]]></description>
+            <content:encoded><![CDATA[<p>Aardvark'd: The Fog Creek Documentary, 18 Years Later is a documentary film that captures interviews with individuals who went on to achieve fame and success in the tech industry. It explores the indie software scene in 2005, featuring Fog Creek Software, Y Combinator, and the launch of reddit. The film showcases the vulnerability and uncertainty experienced by tech startup founders in their early days. Despite its flaws, the documentary effectively captures the anxiety and anticipation surrounding the launch of a software product. The article also reveals surprising details, such as the fact that Fog Creek did not finance the documentary and the subsequent fate of the interns featured in the film.
             </p><p>
-                370 Points |  <a href="https://news.ycombinator.com/item?id=37433186">128 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASMesh: Anonymous, Secure Messaging in Mesh Networks (eprint.iacr.org)]]></title>
-            <link>https://eprint.iacr.org/2023/1053</link>
-            <guid>https://eprint.iacr.org/2023/1053</guid>
-            <pubDate>Fri, 08 Sep 2023 09:24:25 GMT</pubDate>
-            <description><![CDATA[ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet]]></description>
-            <content:encoded><![CDATA[<p>ASMesh is a new protocol that provides anonymous and secure messaging in mesh networks. It addresses the limitations of centralized service providers in scenarios like mass protests in censored networks. The protocol is designed to achieve forward and post-compromise security, as well as forward and post-compromise anonymity. It builds on Signal's Double Ratchet protocol and introduces enhancements to ensure strong confidentiality and anonymity under user corruptions. The protocol's security is proven and its performance is evaluated in simulated mesh networks. The paper also includes a proof of concept implementation.
-            </p><p>
-                5 Points |  <a href="https://news.ycombinator.com/item?id=37431433">0 comments</a>
+                427 Points |  <a href="https://news.ycombinator.com/item?id=37433186">138 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -327,21 +338,10 @@
             <link>https://archiveprogram.github.com/arctic-vault/</link>
             <guid>https://archiveprogram.github.com/arctic-vault/</guid>
             <pubDate>Fri, 08 Sep 2023 05:16:57 GMT</pubDate>
-            <description><![CDATA[GitHub Creates Arctic Code Vault to Preserve Open Source Software]]></description>
-            <content:encoded><![CDATA[<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is a long-term archival facility located in a decommissioned coal mine in the Svalbard archipelago. The archive is designed to last 1,000 years and is considered a stable site for preserving humanity's collective knowledge. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributions, GitHub created the Arctic Code Vault Badge displayed on developers' profiles. The vault contains open source software from millions of developers worldwide.
+            <description><![CDATA[GitHub Creates Arctic Code Vault to Preserve Public Repositories]]></description>
+            <content:encoded><![CDATA[<p>GitHub has created the Arctic Code Vault, a data repository stored in the Arctic World Archive (AWA) to preserve a snapshot of every active public repository as of 02/02/2020. The AWA is located in a decommissioned coal mine in the Svalbard archipelago, known for its stability and remoteness. The archive is expected to last 1,000 years due to the permafrost and the mine's proximity to the Global Seed Vault. The 02/02/2020 snapshot, consisting of 21TB of data, was stored on 186 reels of film and transported to the Arctic Code Vault. To recognize contributors, GitHub designed the Arctic Code Vault Badge displayed on developers' profiles.
             </p><p>
-                36 Points |  <a href="https://news.ycombinator.com/item?id=37429645">24 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The thinking path (www.robinsloan.com)]]></title>
-            <link>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</link>
-            <guid>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</guid>
-            <pubDate>Thu, 07 Sep 2023 21:52:02 GMT</pubDate>
-            <description><![CDATA[Robin Sloan's Excitement for His New Novel and Reflections on Creativity and Goodness]]></description>
-            <content:encoded><![CDATA[<p>Robin Sloan announces the upcoming publication of his new novel in June 2024 and shares his excitement. He discusses the influence of fantasy sagas on his previous novels and explores the idea of going beyond homage to actively participate in the genre. Sloan plans to create a rich introduction and companion for his new novel, incorporating various influences and media. He also reviews a novel by Michiko Aoyama and reflects on the need for creative investigations of decency and goodness. Sloan asks for nominations of great author websites and discusses the problem-solving power of walking. He concludes by highlighting the quality of science journalism and sharing an interesting logo treatment for Mattel Electronics.
-            </p><p>
-                132 Points |  <a href="https://news.ycombinator.com/item?id=37426107">30 comments</a>
+                37 Points |  <a href="https://news.ycombinator.com/item?id=37429645">25 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
