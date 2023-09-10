@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sun, 10 Sep 2023 01:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 02:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -23,7 +23,7 @@
             <description><![CDATA[Lithium discovery in US volcano could be biggest deposit ever found]]></description>
             <content:encoded><![CDATA[<p>A new analysis suggests that a volcanic crater along the Nevada-Oregon border could contain the largest deposit of lithium ever found, surpassing the previously considered largest deposit in Bolivia. The estimated 20 to 40 million tonnes of lithium metal could have significant implications for the global lithium market, including price, supply security, and geopolitics. The deposit is composed of an unusual claystone called illite, which contains almost double the amount of lithium compared to the more common lithium-bearing clay mineral, magnesium smectite. Mining is expected to begin in 2026.
             </p><p>
-                139 Points |  <a href="https://news.ycombinator.com/item?id=37450915">83 comments</a>
+                219 Points |  <a href="https://news.ycombinator.com/item?id=37450915">111 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -34,7 +34,7 @@
             <description><![CDATA[Nostalgic Memories and Quirks of LAN Parties in the 2000s]]></description>
             <content:encoded><![CDATA[<p>The author shares memories from LAN parties in the 2000s, highlighting the quirks and experiences that were unique to that era. From reinstalling Windows during an event to modding PC cases and dealing with stolen hard drives, the article captures the nostalgia and challenges of LAN gaming. It also mentions various tech-related anecdotes, such as using cracks, emulating CD drives, and the limitations of internet access at LANs.
             </p><p>
-                36 Points |  <a href="https://news.ycombinator.com/item?id=37451518">11 comments</a>
+                79 Points |  <a href="https://news.ycombinator.com/item?id=37451518">36 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -56,51 +56,18 @@
             <description><![CDATA['Script Tests Reasoning and Creativity of 60+ Models Using Prompts']]></description>
             <content:encoded><![CDATA[<p>A script was created to ask prompts testing reasoning, instruction following, and creativity to around 60 models. The answers were stored in a SQLite database. The prompts covered various topics such as arguing for and against the use of Kubernetes, explaining quantum field theory to a high-school student, and finding the next 20 leap years. The script used a mix of APIs from different platforms. The creator plans to improve the script by using better stop sequences and prompt formatting tailored to each model.
             </p><p>
-                441 Points |  <a href="https://news.ycombinator.com/item?id=37445401">246 comments</a>
+                508 Points |  <a href="https://news.ycombinator.com/item?id=37445401">276 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Jakob Nielsen: The Top Web Design Mistakes of 1999 (1999) (www.nngroup.com)]]></title>
-            <link>https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/</link>
-            <guid>https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/</guid>
-            <pubDate>Sat, 09 Sep 2023 23:13:04 GMT</pubDate>
-            <description><![CDATA[The Top 10 Web Design Mistakes of 1999]]></description>
-            <content:encoded><![CDATA[<p>New technology and conventions have led to several new classes of usability problems in Web design. The article highlights the top 10 design mistakes of 1999, including breaking or slowing down the back button, opening new browser windows, non-standard use of GUI widgets, lack of biographies, lack of archives, moving pages to new URLs, headlines that make no sense out of context, jumping at the latest internet buzzword, slow server response times, and anything that looks like advertising.
+            <title><![CDATA[Coffee in a Can (one-from-nippon.ghost.io)]]></title>
+            <link>https://one-from-nippon.ghost.io/coffee-in-a-can/</link>
+            <guid>https://one-from-nippon.ghost.io/coffee-in-a-can/</guid>
+            <pubDate>Sun, 10 Sep 2023 00:30:20 GMT</pubDate>
+            <description><![CDATA[The Rise of Japan's Canned Coffee Industry]]></description>
+            <content:encoded><![CDATA[<p>Japan's canned coffee industry, which started in 1969, has become a multi-billion dollar business. The first canned coffee was created by Tadao Ueshima, the CEO of UCC Coffee, who wanted a portable coffee option. Despite initial skepticism, canned coffee gained popularity, especially during the 1970 Osaka World Fair. Coca Cola and Suntory also entered the market, with Coca Cola's Georgia coffee becoming their best-selling product in Japan. The success of canned coffee is attributed to the convenience of cans and vending machines.
             </p><p>
-                4 Points |  <a href="https://news.ycombinator.com/item?id=37451230">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Researchers use AI to find new magnetic materials without critical elements (phys.org)]]></title>
-            <link>https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html</link>
-            <guid>https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html</guid>
-            <pubDate>Wed, 06 Sep 2023 23:35:23 GMT</pubDate>
-            <description><![CDATA[Researchers Use AI to Predict Curie Temperature of New Magnetic Materials]]></description>
-            <content:encoded><![CDATA[<p>Scientists from Ames National Laboratory have developed a machine learning model that can predict the Curie temperature of new material combinations, a crucial factor in designing permanent magnet materials. This model is a significant step towards using artificial intelligence to discover new magnetic materials without critical elements like cobalt and rare earth elements. The team trained the model using experimental data and theoretical modeling, saving time and resources compared to traditional experimentation. The success of the model in predicting the Curie temperature of material candidates shows promise for designing new permanent magnets for various technological applications.
-            </p><p>
-                14 Points |  <a href="https://news.ycombinator.com/item?id=37412845">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: I built a Python web framework (github.com)]]></title>
-            <link>https://github.com/ZeroIntensity/view.py</link>
-            <guid>https://github.com/ZeroIntensity/view.py</guid>
-            <pubDate>Sat, 09 Sep 2023 18:47:54 GMT</pubDate>
-            <description><![CDATA['view.py: A Lightning-Fast and Modern Web Framework in Alpha Stage']]></description>
-            <content:encoded><![CDATA[<p>view.py is a lightning-fast, modern web framework that is currently in a high alpha stage of development. It requires CPython 3.8+ for installation. The framework offers a simple and efficient way to build web applications. It is actively seeking new contributors and provides installation instructions for Linux/macOS and Windows. view.py aims to provide a fast and modern solution for web development.
-            </p><p>
-                95 Points |  <a href="https://news.ycombinator.com/item?id=37448914">44 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SmartKnob – Haptic input knob with software-defined endstops and virtual detents (github.com)]]></title>
-            <link>https://github.com/scottbez1/smartknob</link>
-            <guid>https://github.com/scottbez1/smartknob</guid>
-            <pubDate>Sat, 09 Sep 2023 18:30:39 GMT</pubDate>
-            <description><![CDATA[SmartKnob: An Open-Source Input Device with Software-Configurable Endstops and Virtual Detents]]></description>
-            <content:encoded><![CDATA[<p>SmartKnob is an open-source input device with software-configurable endstops and virtual detents. It uses a brushless gimbal motor paired with a magnetic encoder for closed-loop torque feedback control. The device is not yet recommended for general use due to potential mechanical and electrical revisions. The project is under active development and encourages community participation.
-            </p><p>
-                71 Points |  <a href="https://news.ycombinator.com/item?id=37448659">13 comments</a>
+                26 Points |  <a href="https://news.ycombinator.com/item?id=37451728">6 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -115,6 +82,50 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SmartKnob – Haptic input knob with software-defined endstops and virtual detents (github.com)]]></title>
+            <link>https://github.com/scottbez1/smartknob</link>
+            <guid>https://github.com/scottbez1/smartknob</guid>
+            <pubDate>Sat, 09 Sep 2023 18:30:39 GMT</pubDate>
+            <description><![CDATA[SmartKnob: An Open-Source Input Device with Software-Configurable Endstops and Virtual Detents]]></description>
+            <content:encoded><![CDATA[<p>SmartKnob is an open-source input device with software-configurable endstops and virtual detents. It uses a brushless gimbal motor paired with a magnetic encoder for closed-loop torque feedback control. The device is not yet recommended for general use due to potential mechanical and electrical revisions. The project is under active development and encourages community participation.
+            </p><p>
+                71 Points |  <a href="https://news.ycombinator.com/item?id=37448659">13 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Researchers use AI to find new magnetic materials without critical elements (phys.org)]]></title>
+            <link>https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html</link>
+            <guid>https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html</guid>
+            <pubDate>Wed, 06 Sep 2023 23:35:23 GMT</pubDate>
+            <description><![CDATA[Researchers Use AI to Predict Curie Temperature of New Magnetic Materials]]></description>
+            <content:encoded><![CDATA[<p>Scientists from Ames National Laboratory have developed a machine learning model that can predict the Curie temperature of new material combinations, a crucial factor in designing permanent magnet materials. This model is a significant step towards using artificial intelligence to discover new magnetic materials without critical elements like cobalt and rare earth elements. The team trained the model using experimental data and theoretical modeling, saving time and resources compared to traditional experimentation. The success of the model in predicting the Curie temperature of material candidates shows promise for designing new permanent magnets for various technological applications.
+            </p><p>
+                14 Points |  <a href="https://news.ycombinator.com/item?id=37412845">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GitHub – GSA/code-gov: An informative repo for all Code.gov repos (github.com)]]></title>
+            <link>https://github.com/GSA/code-gov</link>
+            <guid>https://github.com/GSA/code-gov</guid>
+            <pubDate>Sun, 10 Sep 2023 01:33:14 GMT</pubDate>
+            <description><![CDATA[Code.gov: Promoting Good Practices in Code Development and Collaboration]]></description>
+            <content:encoded><![CDATA[<p>Code.gov is a program and technical platform that promotes good practices in code development, collaboration, and reuse across the U.S. Federal Government. It provides tools and guidance to help federal agencies implement the Federal Source Code Policy and aggregates an inventory of the government's custom code. The repository contains various files related to code inventory, metadata, and administrative procedures. It is open source and encourages contributions from the public.
+            </p><p>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37452051">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN: I built a Python web framework (github.com)]]></title>
+            <link>https://github.com/ZeroIntensity/view.py</link>
+            <guid>https://github.com/ZeroIntensity/view.py</guid>
+            <pubDate>Sat, 09 Sep 2023 18:47:54 GMT</pubDate>
+            <description><![CDATA['view.py: A Lightning-Fast and Modern Web Framework in Alpha Stage']]></description>
+            <content:encoded><![CDATA[<p>view.py is a lightning-fast, modern web framework that is currently in a high alpha stage of development. It requires CPython 3.8+ for installation. The framework offers a simple and efficient way to build web applications. It is actively seeking new contributors and provides installation instructions for Linux/macOS and Windows. view.py aims to provide a fast and modern solution for web development.
+            </p><p>
+                114 Points |  <a href="https://news.ycombinator.com/item?id=37448914">57 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Every type of plastic used by LEGO (2022) (bricknerd.com)]]></title>
             <link>https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22</link>
             <guid>https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22</guid>
@@ -126,61 +137,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Sequential Memory Is a Unique Human Trait (neurosciencenews.com)]]></title>
-            <link>https://neurosciencenews.com/sequential-memory-human-trait-23888/</link>
-            <guid>https://neurosciencenews.com/sequential-memory-human-trait-23888/</guid>
-            <pubDate>Thu, 07 Sep 2023 14:50:54 GMT</pubDate>
-            <description><![CDATA[Sequential Memory Is a Unique Human Trait]]></description>
-            <content:encoded><![CDATA[<p>Humans possess a unique ability to recognize and remember sequential information, according to a study. Bonobos, our closest relatives, struggle to learn the order of stimuli in the same way as humans. This finding sheds light on the cognitive distinctions between humans and other animals, explaining why only humans possess certain cultural abilities like language and advanced planning. Sequential memory may be the foundational block behind many uniquely human behaviors and capabilities.
-            </p><p>
-                24 Points |  <a href="https://news.ycombinator.com/item?id=37419739">38 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[FFmpeg Patches for a 20% speedup of Apple ProRes decoding (ffmpeg.org)]]></title>
-            <link>https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html</link>
-            <guid>https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html</guid>
-            <pubDate>Sat, 09 Sep 2023 15:23:10 GMT</pubDate>
-            <description><![CDATA['FFmpeg' Patch Improves Proresdec2 Performance with Cached Reader]]></description>
-            <content:encoded><![CDATA[<p>This patch for FFmpeg's proresdec2 fixes and ports the cached reader. The changes include moving back to the regular get_bits API, reducing the lookup to switch the coding method, and using shorter reads for the end of the bitstream. The patch also provides speedup results for Win64 and Win32 platforms. The cached reader version shows a 20% speedup on Win64 and a 14% speedup on Win32.
-            </p><p>
-                107 Points |  <a href="https://news.ycombinator.com/item?id=37446430">13 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform (jobs.ashbyhq.com)]]></title>
-            <link>https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn</link>
-            <guid>https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn</guid>
-            <pubDate>Sat, 09 Sep 2023 21:00:20 GMT</pubDate>
-            <description><![CDATA[Freshpaint: Simplifying Customer Data Collection and Integration]]></description>
-            <content:encoded><![CDATA[<p>Freshpaint is a Customer Data Platform that helps businesses collect and integrate customer data. They offer a PHI Management Platform for healthcare providers and a Customer Data Platform for teams to collect and activate customer data. The company is fully remote and values freedom and ownership in work. They are backed by leading investors and have a deep analytics and growth experienced team. The role of Software Engineer at Freshpaint involves scaling infrastructure, designing new data processing systems, and building user experiences.
-            </p><p>
-                1 Points |  <a href="https://news.ycombinator.com/item?id=37450228">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[A Teen Celebrity in 1804 (daily.jstor.org)]]></title>
-            <link>https://daily.jstor.org/a-teen-celebrity-in-1804/</link>
-            <guid>https://daily.jstor.org/a-teen-celebrity-in-1804/</guid>
-            <pubDate>Fri, 08 Sep 2023 14:15:01 GMT</pubDate>
-            <description><![CDATA['A Teen Celebrity in 1804: The Phenomenon of Bettymania and the Fleeting Nature of Child Stardom']]></description>
-            <content:encoded><![CDATA[<p>In 1804, thirteen-year-old actor William Henry West Betty became a sensation in London, with crowds mobbing theaters and camped outside his home. This article explores the phenomenon of Bettymania and how it was carefully orchestrated through paid critics, merchandise, and strategic audience placement. While some critics saw it as a national embarrassment, Betty's fame and fee skyrocketed, but he eventually faded from the public eye. This story sheds light on the early history of celebrity culture and the fleeting nature of child stardom.
-            </p><p>
-                9 Points |  <a href="https://news.ycombinator.com/item?id=37433784">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PAROL6 Desktop Robot Arm (github.com)]]></title>
-            <link>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</link>
-            <guid>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</guid>
-            <pubDate>Sat, 09 Sep 2023 14:37:45 GMT</pubDate>
-            <description><![CDATA['PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design']]></description>
-            <content:encoded><![CDATA[<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.
-            </p><p>
-                120 Points |  <a href="https://news.ycombinator.com/item?id=37445951">32 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Microsoft announces purchase of 315k tonnes of CO2 removal (www.heirloomcarbon.com)]]></title>
             <link>https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal</link>
             <guid>https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal</guid>
@@ -188,7 +144,18 @@
             <description><![CDATA[Microsoft Signs Major CO2 Removal Deal with Heirloom]]></description>
             <content:encoded><![CDATA[<p>Microsoft has signed a long-term contract to purchase up to 315,000 metric tons of CO2 removal over a multi-year period from Heirloom, a Direct Air Capture company. This is one of the largest carbon dioxide removal deals to-date. The agreement provides crucial funding for Heirloom to finance future Direct Air Capture facilities and supports Microsoft's goal to become carbon negative by 2030. The deal also advances the U.S.' climate leadership globally and contributes to the First Movers Coalition's efforts to combat climate change.
             </p><p>
-                22 Points |  <a href="https://news.ycombinator.com/item?id=37450536">16 comments</a>
+                40 Points |  <a href="https://news.ycombinator.com/item?id=37450536">26 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jakob Nielsen: The Top Web Design Mistakes of 1999 (1999) (www.nngroup.com)]]></title>
+            <link>https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/</link>
+            <guid>https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/</guid>
+            <pubDate>Sat, 09 Sep 2023 23:13:04 GMT</pubDate>
+            <description><![CDATA[The Top 10 Web Design Mistakes of 1999]]></description>
+            <content:encoded><![CDATA[<p>New technology and conventions have led to several new classes of usability problems in Web design. The article highlights the top 10 design mistakes of 1999, including breaking or slowing down the back button, opening new browser windows, non-standard use of GUI widgets, lack of biographies, lack of archives, moving pages to new URLs, headlines that make no sense out of context, jumping at the latest internet buzzword, slow server response times, and anything that looks like advertising.
+            </p><p>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37451230">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -203,13 +170,57 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[FFmpeg Patches for a 20% speedup of Apple ProRes decoding (ffmpeg.org)]]></title>
+            <link>https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html</link>
+            <guid>https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html</guid>
+            <pubDate>Sat, 09 Sep 2023 15:23:10 GMT</pubDate>
+            <description><![CDATA['FFmpeg' Patch Improves Proresdec2 Performance with Cached Reader]]></description>
+            <content:encoded><![CDATA[<p>This patch for FFmpeg's proresdec2 fixes and ports the cached reader. The changes include moving back to the regular get_bits API, reducing the lookup to switch the coding method, and using shorter reads for the end of the bitstream. The patch also provides speedup results for Win64 and Win32 platforms. The cached reader version shows a 20% speedup on Win64 and a 14% speedup on Win32.
+            </p><p>
+                120 Points |  <a href="https://news.ycombinator.com/item?id=37446430">23 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform (jobs.ashbyhq.com)]]></title>
+            <link>https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn</link>
+            <guid>https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn</guid>
+            <pubDate>Sat, 09 Sep 2023 21:00:20 GMT</pubDate>
+            <description><![CDATA[Freshpaint: Simplifying Customer Data Collection and Integration]]></description>
+            <content:encoded><![CDATA[<p>Freshpaint is a Customer Data Platform that helps businesses collect and integrate customer data. They offer a PHI Management Platform for healthcare providers and a Customer Data Platform for teams to collect and activate customer data. The company is fully remote and values freedom and ownership in work. They are backed by leading investors and have a deep analytics and growth experienced team. The role of Software Engineer at Freshpaint involves scaling infrastructure, designing new data processing systems, and building user experiences.
+            </p><p>
+                1 Points |  <a href="https://news.ycombinator.com/item?id=37450228">0 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PAROL6 Desktop Robot Arm (github.com)]]></title>
+            <link>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</link>
+            <guid>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</guid>
+            <pubDate>Sat, 09 Sep 2023 14:37:45 GMT</pubDate>
+            <description><![CDATA['PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design']]></description>
+            <content:encoded><![CDATA[<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.
+            </p><p>
+                120 Points |  <a href="https://news.ycombinator.com/item?id=37445951">32 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A test of memory for stimulus sequences in great apes (neurosciencenews.com)]]></title>
+            <link>https://neurosciencenews.com/sequential-memory-human-trait-23888/</link>
+            <guid>https://neurosciencenews.com/sequential-memory-human-trait-23888/</guid>
+            <pubDate>Thu, 07 Sep 2023 14:50:54 GMT</pubDate>
+            <description><![CDATA[Sequential Memory Is a Unique Human Trait]]></description>
+            <content:encoded><![CDATA[<p>Humans possess a unique ability to recognize and remember sequential information, according to a study. Bonobos, our closest relatives, struggle to learn the order of stimuli in the same way as humans. This finding sheds light on the cognitive distinctions between humans and other animals, explaining why only humans possess certain cultural abilities like language and advanced planning. Sequential memory may be the foundational block behind many uniquely human behaviors and capabilities.
+            </p><p>
+                32 Points |  <a href="https://news.ycombinator.com/item?id=37419739">48 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
             <link>https://news.ycombinator.com/item?id=37432336</link>
             <guid>https://news.ycombinator.com/item?id=37432336</guid>
             <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
             <content:encoded><![CDATA[<p>No summary available
             </p><p>
-                80 Points |  <a href="https://news.ycombinator.com/item?id=37432336">50 comments</a>
+                85 Points |  <a href="https://news.ycombinator.com/item?id=37432336">59 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -224,6 +235,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[A Teen Celebrity in 1804 (daily.jstor.org)]]></title>
+            <link>https://daily.jstor.org/a-teen-celebrity-in-1804/</link>
+            <guid>https://daily.jstor.org/a-teen-celebrity-in-1804/</guid>
+            <pubDate>Fri, 08 Sep 2023 14:15:01 GMT</pubDate>
+            <description><![CDATA['A Teen Celebrity in 1804: The Phenomenon of Bettymania and the Fleeting Nature of Child Stardom']]></description>
+            <content:encoded><![CDATA[<p>In 1804, thirteen-year-old actor William Henry West Betty became a sensation in London, with crowds mobbing theaters and camped outside his home. This article explores the phenomenon of Bettymania and how it was carefully orchestrated through paid critics, merchandise, and strategic audience placement. While some critics saw it as a national embarrassment, Betty's fame and fee skyrocketed, but he eventually faded from the public eye. This story sheds light on the early history of celebrity culture and the fleeting nature of child stardom.
+            </p><p>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37433784">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Dennis Austin, developer of PowerPoint, has died (www.washingtonpost.com)]]></title>
             <link>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</link>
             <guid>https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/</guid>
@@ -231,7 +253,18 @@
             <description><![CDATA['Dennis Austin, Principal Software Developer of PowerPoint, Dies at 76']]></description>
             <content:encoded><![CDATA[<p>Dennis Austin, the principal software developer of PowerPoint, has passed away at the age of 76. Austin played a significant role in shaping how information is communicated in modern society through the development of PowerPoint. The software, which was released in 1987, revolutionized the creation of slides and became a ubiquitous tool in offices, classrooms, and government agencies. Despite its widespread use, PowerPoint has also faced criticism for its potential to create mind-numbing presentations filled with bullet points. Austin's contributions to the software were instrumental in its success.
             </p><p>
-                71 Points |  <a href="https://news.ycombinator.com/item?id=37440696">123 comments</a>
+                100 Points |  <a href="https://news.ycombinator.com/item?id=37440696">137 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Rise and Fall of ESPN’s Leverage (stratechery.com)]]></title>
+            <link>https://stratechery.com/2023/the-rise-and-fall-of-espns-leverage/</link>
+            <guid>https://stratechery.com/2023/the-rise-and-fall-of-espns-leverage/</guid>
+            <pubDate>Thu, 07 Sep 2023 17:21:49 GMT</pubDate>
+            <description><![CDATA[The Rise and Fall of ESPN's Leverage]]></description>
+            <content:encoded><![CDATA[<p>The rise and fall of ESPN's leverage is explored, starting with the origins of the idea for ESPN and how it leveraged satellite communications to reach every home in America. The article then delves into the evolution of ESPN's business model, including the introduction of affiliate fees and the importance of diverse programming. The current standoff between Charter and Disney, which has resulted in channels going dark for Charter subscribers, is also highlighted.
+            </p><p>
+                9 Points |  <a href="https://news.ycombinator.com/item?id=37422349">4 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -246,14 +279,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Florida’s “Nub City,” Where Residents Cut Off Their Own Appendages for Insurance (allthatsinteresting.com)]]></title>
-            <link>https://allthatsinteresting.com/nub-city-vernon-florida</link>
-            <guid>https://allthatsinteresting.com/nub-city-vernon-florida</guid>
-            <pubDate>Sun, 10 Sep 2023 00:05:58 GMT</pubDate>
-            <description><![CDATA['Nub City': The Florida Town Where Residents Cut Off Their Own Limbs for Insurance Money]]></description>
-            <content:encoded><![CDATA[<p>Residents of Vernon, Florida engaged in a widespread insurance scam in the late 1950s and early 60s, intentionally dismembering themselves for a payout. The town became known as 'Nub City' due to the high number of loss-of-limb accident claims. The scam ended in the late 1960s when premium rates became too high and insurers stopped doing business in the area.
+            <title><![CDATA[Starfield’s missing Nvidia DLSS support has been added by a free mod (arstechnica.com)]]></title>
+            <link>https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/</link>
+            <guid>https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/</guid>
+            <pubDate>Sun, 10 Sep 2023 01:42:26 GMT</pubDate>
+            <description><![CDATA[Starfield modders add Nvidia DLSS support, but full support hidden behind Patreon paywall]]></description>
+            <content:encoded><![CDATA[<p>Modders have added Nvidia DLSS support to the game Starfield through a free mod, but full DLSS3 support is only available through a Patreon subscription. The mod, called Starfield Upscaler, is currently the most popular Starfield mod on NexusMods. However, the practical effect of DLSS support may be hard to notice for many players. AMD has not ruled out the possibility of adding DLSS support to Starfield in the future.
             </p><p>
-                16 Points |  <a href="https://news.ycombinator.com/item?id=37451579">3 comments</a>
+                7 Points |  <a href="https://news.ycombinator.com/item?id=37452106">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[On Desktop GUI Minimalism (mycophobia.org)]]></title>
+            <link>https://mycophobia.org/desktop_gui_minimalism.html</link>
+            <guid>https://mycophobia.org/desktop_gui_minimalism.html</guid>
+            <pubDate>Sat, 09 Sep 2023 18:23:18 GMT</pubDate>
+            <description><![CDATA[Reflections on Linux Desktop Environments and the Quest for a Minimalist GUI]]></description>
+            <content:encoded><![CDATA[<p>The author reflects on their experience with different desktop environments in Linux and their desire for a minimalist GUI. They discuss the evolution of GUIs, the influence of the original Macintosh interface, and their vision for a GUI environment that combines the flexibility of a window manager with the usability of a desktop. The author explores concepts such as spatial file management, customizable application launchers, and the need for efficient task management. They conclude by advocating for a GUI that prioritizes maximum usability and flexibility with minimal components.
+            </p><p>
+                44 Points |  <a href="https://news.ycombinator.com/item?id=37448554">28 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -268,6 +312,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Florida’s “Nub City,” Where Residents Cut Off Their Own Appendages for Insurance (allthatsinteresting.com)]]></title>
+            <link>https://allthatsinteresting.com/nub-city-vernon-florida</link>
+            <guid>https://allthatsinteresting.com/nub-city-vernon-florida</guid>
+            <pubDate>Sun, 10 Sep 2023 00:05:58 GMT</pubDate>
+            <description><![CDATA['Nub City': The Florida Town Where Residents Cut Off Their Own Limbs for Insurance Money]]></description>
+            <content:encoded><![CDATA[<p>Residents of Vernon, Florida engaged in a widespread insurance scam in the late 1950s and early 60s, intentionally dismembering themselves for a payout. The town became known as 'Nub City' due to the high number of loss-of-limb accident claims. The scam ended in the late 1960s when premium rates became too high and insurers stopped doing business in the area.
+            </p><p>
+                16 Points |  <a href="https://news.ycombinator.com/item?id=37451579">3 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Birth of the Gentoo Linux Distribution (www.funtoo.org)]]></title>
             <link>https://www.funtoo.org/Making_the_Distribution,_Part_1</link>
             <guid>https://www.funtoo.org/Making_the_Distribution,_Part_1</guid>
@@ -279,50 +334,6 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Existing in an un-simulated reality (iahwrites.substack.com)]]></title>
-            <link>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</link>
-            <guid>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</guid>
-            <pubDate>Sat, 09 Sep 2023 17:27:52 GMT</pubDate>
-            <description><![CDATA['Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness']]></description>
-            <content:encoded><![CDATA[<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.
-            </p><p>
-                36 Points |  <a href="https://news.ycombinator.com/item?id=37447810">52 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Extreme heat forcing America’s farmers to go nocturnal (www.washingtonpost.com)]]></title>
-            <link>https://www.washingtonpost.com/business/2023/09/09/heat-night-harvesting-farmers/</link>
-            <guid>https://www.washingtonpost.com/business/2023/09/09/heat-night-harvesting-farmers/</guid>
-            <pubDate>Sun, 10 Sep 2023 00:19:57 GMT</pubDate>
-            <description><![CDATA['Night Farmer' Trend: Extreme Heat Forces American Farmers to Harvest Crops at Night]]></description>
-            <content:encoded><![CDATA[<p>Extreme heat is causing more farmers in the United States to harvest their crops at night to protect their quality. Rising temperatures and climate change pose a significant economic threat to the agriculture industry. Night harvesting helps maintain the taste and texture of produce and reduces the risk of sun damage. However, it comes with challenges for farmworkers, including disrupted schedules and safety hazards. Despite the difficulties, night-picked produce is often of superior quality due to the plants' circadian clock and the production of defense compounds during the night.
-            </p><p>
-                13 Points |  <a href="https://news.ycombinator.com/item?id=37451656">2 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
-            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
-            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
-            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
-            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
-            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
-            </p><p>
-                70 Points |  <a href="https://news.ycombinator.com/item?id=37448005">29 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[On Desktop GUI Minimalism (mycophobia.org)]]></title>
-            <link>https://mycophobia.org/desktop_gui_minimalism.html</link>
-            <guid>https://mycophobia.org/desktop_gui_minimalism.html</guid>
-            <pubDate>Sat, 09 Sep 2023 18:23:18 GMT</pubDate>
-            <description><![CDATA[Reflections on Linux Desktop Environments and the Quest for a Minimalist GUI]]></description>
-            <content:encoded><![CDATA[<p>The author reflects on their experience with different desktop environments in Linux and their desire for a minimalist GUI. They discuss the evolution of GUIs, the influence of the original Macintosh interface, and their vision for a GUI environment that combines the flexibility of a window manager with the usability of a desktop. The author explores concepts such as spatial file management, customizable application launchers, and the need for efficient task management. They conclude by advocating for a GUI that prioritizes maximum usability and flexibility with minimal components.
-            </p><p>
-                34 Points |  <a href="https://news.ycombinator.com/item?id=37448554">18 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[The Berkeley Hotel Hostage of Douglas Adams (www.thebookseller.com)]]></title>
             <link>https://www.thebookseller.com/features/berkeley-hotel-hostage</link>
             <guid>https://www.thebookseller.com/features/berkeley-hotel-hostage</guid>
@@ -330,18 +341,7 @@
             <description><![CDATA[N/A]]></description>
             <content:encoded><![CDATA[<p>N/A
             </p><p>
-                57 Points |  <a href="https://news.ycombinator.com/item?id=37444066">15 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why you might want async in your project (notgull.net)]]></title>
-            <link>https://notgull.net/why-you-want-async/</link>
-            <guid>https://notgull.net/why-you-want-async/</guid>
-            <pubDate>Sat, 09 Sep 2023 18:17:56 GMT</pubDate>
-            <description><![CDATA['Why you might actually want async in your project']]></description>
-            <content:encoded><![CDATA[<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.
-            </p><p>
-                112 Points |  <a href="https://news.ycombinator.com/item?id=37448460">99 comments</a>
+                108 Points |  <a href="https://news.ycombinator.com/item?id=37444066">25 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
