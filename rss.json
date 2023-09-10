@@ -11,6 +11,28 @@
     },
     "items": [
         {
+            "id": "https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article",
+            "content_html": "<p>A new analysis suggests that a volcanic crater along the Nevada-Oregon border could contain the largest deposit of lithium ever found, surpassing the previously considered largest deposit in Bolivia. The estimated 20 to 40 million tonnes of lithium metal could have significant implications for the global lithium market, including price, supply security, and geopolitics. The deposit is composed of an unusual claystone called illite, which contains almost double the amount of lithium compared to the more common lithium-bearing clay mineral, magnesium smectite. Mining is expected to begin in 2026.\n            </p><p>\n                139 Points |  <a href=\"https://news.ycombinator.com/item?id=37450915\">83 comments</a>\n            </p>",
+            "url": "https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article",
+            "title": "Lithium discovery in US volcano could be biggest deposit ever found (www.chemistryworld.com)",
+            "summary": "Lithium discovery in US volcano could be biggest deposit ever found",
+            "date_modified": "2023-09-09T22:27:16.000Z",
+            "author": {
+                "name": "www.chemistryworld.com"
+            }
+        },
+        {
+            "id": "https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html",
+            "content_html": "<p>The author shares memories from LAN parties in the 2000s, highlighting the quirks and experiences that were unique to that era. From reinstalling Windows during an event to modding PC cases and dealing with stolen hard drives, the article captures the nostalgia and challenges of LAN gaming. It also mentions various tech-related anecdotes, such as using cracks, emulating CD drives, and the limitations of internet access at LANs.\n            </p><p>\n                36 Points |  <a href=\"https://news.ycombinator.com/item?id=37451518\">11 comments</a>\n            </p>",
+            "url": "https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html",
+            "title": "Memories from Old LAN Parties (thomask.sdf.org)",
+            "summary": "Nostalgic Memories and Quirks of LAN Parties in the 2000s",
+            "date_modified": "2023-09-09T23:54:29.000Z",
+            "author": {
+                "name": "thomask.sdf.org"
+            }
+        },
+        {
             "id": "https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/",
             "content_html": "<p>iPadOS 17 now supports UVC (USB Video Class) devices, allowing iPads to recognize external webcams, cameras, and other devices connected over USB-C. Federico Viticci tested this feature and found that he could use a Game Boy Camera as his iPad Pro's webcam during FaceTime calls. He also experimented with using a game capture card to play Nintendo Switch and Steam Deck games on his iPad's display. This unexpected functionality showcases the versatility of iPadOS 17 and its potential for creative and gaming applications.\n            </p><p>\n                172 Points |  <a href=\"https://news.ycombinator.com/item?id=37428491\">17 comments</a>\n            </p>",
             "url": "https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/",
@@ -33,14 +55,14 @@
             }
         },
         {
-            "id": "https://github.com/ZeroIntensity/view.py",
-            "content_html": "<p>view.py is a lightning-fast, modern web framework that is currently in a high alpha stage of development. It requires CPython 3.8+ for installation. The framework offers a simple and efficient way to build web applications. It is actively seeking new contributors and provides installation instructions for Linux/macOS and Windows. view.py aims to provide a fast and modern solution for web development.\n            </p><p>\n                76 Points |  <a href=\"https://news.ycombinator.com/item?id=37448914\">33 comments</a>\n            </p>",
-            "url": "https://github.com/ZeroIntensity/view.py",
-            "title": "Show HN: I built a Python web framework (github.com)",
-            "summary": "'view.py: A Lightning-Fast and Modern Web Framework in Alpha Stage'",
-            "date_modified": "2023-09-09T18:47:54.000Z",
+            "id": "https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/",
+            "content_html": "<p>New technology and conventions have led to several new classes of usability problems in Web design. The article highlights the top 10 design mistakes of 1999, including breaking or slowing down the back button, opening new browser windows, non-standard use of GUI widgets, lack of biographies, lack of archives, moving pages to new URLs, headlines that make no sense out of context, jumping at the latest internet buzzword, slow server response times, and anything that looks like advertising.\n            </p><p>\n                4 Points |  <a href=\"https://news.ycombinator.com/item?id=37451230\">0 comments</a>\n            </p>",
+            "url": "https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/",
+            "title": "Jakob Nielsen: The Top Web Design Mistakes of 1999 (1999) (www.nngroup.com)",
+            "summary": "The Top 10 Web Design Mistakes of 1999",
+            "date_modified": "2023-09-09T23:13:04.000Z",
             "author": {
-                "name": "github.com"
+                "name": "www.nngroup.com"
             }
         },
         {
@@ -55,14 +77,36 @@
             }
         },
         {
-            "id": "https://neurosciencenews.com/sequential-memory-human-trait-23888/",
-            "content_html": "<p>Humans possess a unique ability to recognize and remember sequential information, according to a study. Bonobos, our closest relatives, struggle to learn the order of stimuli in the same way as humans. This finding sheds light on the cognitive distinctions between humans and other animals, explaining why only humans possess certain cultural abilities like language and advanced planning. Sequential memory may be the foundational block behind many uniquely human behaviors and capabilities.\n            </p><p>\n                24 Points |  <a href=\"https://news.ycombinator.com/item?id=37419739\">38 comments</a>\n            </p>",
-            "url": "https://neurosciencenews.com/sequential-memory-human-trait-23888/",
-            "title": "Sequential Memory Is a Unique Human Trait (neurosciencenews.com)",
-            "summary": "Sequential Memory Is a Unique Human Trait",
-            "date_modified": "2023-09-07T14:50:54.000Z",
+            "id": "https://github.com/ZeroIntensity/view.py",
+            "content_html": "<p>view.py is a lightning-fast, modern web framework that is currently in a high alpha stage of development. It requires CPython 3.8+ for installation. The framework offers a simple and efficient way to build web applications. It is actively seeking new contributors and provides installation instructions for Linux/macOS and Windows. view.py aims to provide a fast and modern solution for web development.\n            </p><p>\n                95 Points |  <a href=\"https://news.ycombinator.com/item?id=37448914\">44 comments</a>\n            </p>",
+            "url": "https://github.com/ZeroIntensity/view.py",
+            "title": "Show HN: I built a Python web framework (github.com)",
+            "summary": "'view.py: A Lightning-Fast and Modern Web Framework in Alpha Stage'",
+            "date_modified": "2023-09-09T18:47:54.000Z",
             "author": {
-                "name": "neurosciencenews.com"
+                "name": "github.com"
+            }
+        },
+        {
+            "id": "https://github.com/scottbez1/smartknob",
+            "content_html": "<p>SmartKnob is an open-source input device with software-configurable endstops and virtual detents. It uses a brushless gimbal motor paired with a magnetic encoder for closed-loop torque feedback control. The device is not yet recommended for general use due to potential mechanical and electrical revisions. The project is under active development and encourages community participation.\n            </p><p>\n                71 Points |  <a href=\"https://news.ycombinator.com/item?id=37448659\">13 comments</a>\n            </p>",
+            "url": "https://github.com/scottbez1/smartknob",
+            "title": "SmartKnob – Haptic input knob with software-defined endstops and virtual detents (github.com)",
+            "summary": "SmartKnob: An Open-Source Input Device with Software-Configurable Endstops and Virtual Detents",
+            "date_modified": "2023-09-09T18:30:39.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
+            "id": "https://underjord.io/unpacking-elixir-realtime-latency.html",
+            "content_html": "<p>Elixir, built on Erlang, prioritizes consistently low latency and a near-realtime experience. It is suitable for systems where latency matters and a good user experience is necessary. Erlang's design allows for fair distribution of computational resources and prevents heavy work from blocking progress. Elixir has been used in messaging applications like Whatsapp and Discord, as well as in web frameworks like Phoenix LiveView.\n            </p><p>\n                13 Points |  <a href=\"https://news.ycombinator.com/item?id=37431588\">0 comments</a>\n            </p>",
+            "url": "https://underjord.io/unpacking-elixir-realtime-latency.html",
+            "title": "Unpacking Elixir: Real-Time and Latency (underjord.io)",
+            "summary": "Unpacking Elixir: Prioritizing Low Latency and User Experience",
+            "date_modified": "2023-09-08T09:47:29.000Z",
+            "author": {
+                "name": "underjord.io"
             }
         },
         {
@@ -77,36 +121,25 @@
             }
         },
         {
+            "id": "https://neurosciencenews.com/sequential-memory-human-trait-23888/",
+            "content_html": "<p>Humans possess a unique ability to recognize and remember sequential information, according to a study. Bonobos, our closest relatives, struggle to learn the order of stimuli in the same way as humans. This finding sheds light on the cognitive distinctions between humans and other animals, explaining why only humans possess certain cultural abilities like language and advanced planning. Sequential memory may be the foundational block behind many uniquely human behaviors and capabilities.\n            </p><p>\n                24 Points |  <a href=\"https://news.ycombinator.com/item?id=37419739\">38 comments</a>\n            </p>",
+            "url": "https://neurosciencenews.com/sequential-memory-human-trait-23888/",
+            "title": "Sequential Memory Is a Unique Human Trait (neurosciencenews.com)",
+            "summary": "Sequential Memory Is a Unique Human Trait",
+            "date_modified": "2023-09-07T14:50:54.000Z",
+            "author": {
+                "name": "neurosciencenews.com"
+            }
+        },
+        {
             "id": "https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html",
-            "content_html": "<p>This patch for FFmpeg's proresdec2 fixes and ports the cached reader. The changes include moving back to the regular get_bits API, reducing the lookup to switch the coding method, and using shorter reads for the end of the bitstream. The patch also provides speedup results for Win64 and Win32 platforms. The cached reader version shows a 20% speedup on Win64 and a 14% speedup on Win32.\n            </p><p>\n                17 Points |  <a href=\"https://news.ycombinator.com/item?id=37446430\">0 comments</a>\n            </p>",
+            "content_html": "<p>This patch for FFmpeg's proresdec2 fixes and ports the cached reader. The changes include moving back to the regular get_bits API, reducing the lookup to switch the coding method, and using shorter reads for the end of the bitstream. The patch also provides speedup results for Win64 and Win32 platforms. The cached reader version shows a 20% speedup on Win64 and a 14% speedup on Win32.\n            </p><p>\n                107 Points |  <a href=\"https://news.ycombinator.com/item?id=37446430\">13 comments</a>\n            </p>",
             "url": "https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html",
             "title": "FFmpeg Patches for a 20% speedup of Apple ProRes decoding (ffmpeg.org)",
             "summary": "'FFmpeg' Patch Improves Proresdec2 Performance with Cached Reader",
             "date_modified": "2023-09-09T15:23:10.000Z",
             "author": {
                 "name": "ffmpeg.org"
-            }
-        },
-        {
-            "id": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
-            "content_html": "<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.\n            </p><p>\n                120 Points |  <a href=\"https://news.ycombinator.com/item?id=37445951\">32 comments</a>\n            </p>",
-            "url": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
-            "title": "PAROL6 Desktop Robot Arm (github.com)",
-            "summary": "'PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design'",
-            "date_modified": "2023-09-09T14:37:45.000Z",
-            "author": {
-                "name": "github.com"
-            }
-        },
-        {
-            "id": "https://github.com/scottbez1/smartknob",
-            "content_html": "<p>SmartKnob is an open-source input device with software-configurable endstops and virtual detents. It uses a brushless gimbal motor paired with a magnetic encoder for closed-loop torque feedback control. The device is not yet recommended for general use due to potential mechanical and electrical revisions. The project is under active development and encourages community participation.\n            </p><p>\n                18 Points |  <a href=\"https://news.ycombinator.com/item?id=37448659\">1 comments</a>\n            </p>",
-            "url": "https://github.com/scottbez1/smartknob",
-            "title": "SmartKnob – Haptic input knob with software-defined endstops and virtual detents (github.com)",
-            "summary": "SmartKnob: An Open-Source Input Device with Software-Configurable Endstops and Virtual Detents",
-            "date_modified": "2023-09-09T18:30:39.000Z",
-            "author": {
-                "name": "github.com"
             }
         },
         {
@@ -132,6 +165,49 @@
             }
         },
         {
+            "id": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
+            "content_html": "<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.\n            </p><p>\n                120 Points |  <a href=\"https://news.ycombinator.com/item?id=37445951\">32 comments</a>\n            </p>",
+            "url": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm",
+            "title": "PAROL6 Desktop Robot Arm (github.com)",
+            "summary": "'PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design'",
+            "date_modified": "2023-09-09T14:37:45.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
+            "id": "https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal",
+            "content_html": "<p>Microsoft has signed a long-term contract to purchase up to 315,000 metric tons of CO2 removal over a multi-year period from Heirloom, a Direct Air Capture company. This is one of the largest carbon dioxide removal deals to-date. The agreement provides crucial funding for Heirloom to finance future Direct Air Capture facilities and supports Microsoft's goal to become carbon negative by 2030. The deal also advances the U.S.' climate leadership globally and contributes to the First Movers Coalition's efforts to combat climate change.\n            </p><p>\n                22 Points |  <a href=\"https://news.ycombinator.com/item?id=37450536\">16 comments</a>\n            </p>",
+            "url": "https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal",
+            "title": "Microsoft announces purchase of 315k tonnes of CO2 removal (www.heirloomcarbon.com)",
+            "summary": "Microsoft Signs Major CO2 Removal Deal with Heirloom",
+            "date_modified": "2023-09-09T21:37:28.000Z",
+            "author": {
+                "name": "www.heirloomcarbon.com"
+            }
+        },
+        {
+            "id": "https://seths.blog/2023/09/the-leguin-precepts/",
+            "content_html": "<p>Fabled author Ursula Le Guin's sign over her desk asked three questions: Is it true? Is it necessary or at least useful? Is it compassionate or at least unharmful? This serves as a good starting point for evaluating ideas and actions.\n            </p><p>\n                27 Points |  <a href=\"https://news.ycombinator.com/item?id=37430857\">2 comments</a>\n            </p>",
+            "url": "https://seths.blog/2023/09/the-leguin-precepts/",
+            "title": "The Le Guin Precepts (seths.blog)",
+            "summary": "Ursula Le Guin's Three Questions for Evaluating Ideas and Actions",
+            "date_modified": "2023-09-08T08:02:30.000Z",
+            "author": {
+                "name": "seths.blog"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=37432336",
+            "content_html": "<p>No summary available\n            </p><p>\n                80 Points |  <a href=\"https://news.ycombinator.com/item?id=37432336\">50 comments</a>\n            </p>",
+            "url": "https://news.ycombinator.com/item?id=37432336",
+            "title": "A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)",
+            "date_modified": "2023-09-08T11:49:55.000Z",
+            "author": {
+                "name": "news.ycombinator.com"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love",
             "content_html": "<p>Wong Kar Wai's 2000 film 'In the Mood for Love' has had a significant influence on popular culture, with its unique aesthetic and storytelling. The film, set in 1960s Hong Kong, follows two individuals who discover that their spouses are having an affair and become entangled themselves. Wong's personal history and diverse influences shaped the film's style, which combines elements of French New Wave filmmaking, American mystery, and Chinese literature. 'In the Mood for Love' is a visually stunning and emotionally resonant work that continues to captivate audiences.\n            </p><p>\n                42 Points |  <a href=\"https://news.ycombinator.com/item?id=37413027\">12 comments</a>\n            </p>",
             "url": "https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love",
@@ -154,57 +230,25 @@
             }
         },
         {
-            "id": "https://news.ycombinator.com/item?id=37432336",
-            "content_html": "<p>No summary available\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37432336\">44 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37432336",
-            "title": "A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)",
-            "date_modified": "2023-09-08T11:49:55.000Z",
+            "id": "https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/",
+            "content_html": "<p>John Le Carré's Cornwall home, Tregiffian Cottage, is up for sale for $3.7 million. The 5,000-square-foot house, where Le Carré wrote many of his novels, features a detached writing studio, a library with bespoke joinery, and a safe room. The property offers stunning views and a picturesque setting. Le Carré's son, Nick Cornwell, described the cottage as a place filled with wildlife and natural beauty, making it an ideal space for rest, work, or self-reflection.\n            </p><p>\n                41 Points |  <a href=\"https://news.ycombinator.com/item?id=37449439\">45 comments</a>\n            </p>",
+            "url": "https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/",
+            "title": "The English cottage where John le Carré wrote Tinker Tailor Soldier Spy (lithub.com)",
+            "summary": "'John Le Carré's Cornwall Home, Tregiffian Cottage, Hits the Market for $3.7 Million'",
+            "date_modified": "2023-09-09T19:34:44.000Z",
             "author": {
-                "name": "news.ycombinator.com"
+                "name": "lithub.com"
             }
         },
         {
-            "id": "https://www.funtoo.org/Making_the_Distribution,_Part_1",
-            "content_html": "<p>Daniel Robbins shares his Linux journey, from becoming a Stampede Linux developer to starting his own distribution called Enoch. He emphasizes the potential of Linux to change, improve, and break things, as well as the importance of the Linux community. Robbins also discusses his experience dealing with difficult developers and offers advice on managing them.\n            </p><p>\n                19 Points |  <a href=\"https://news.ycombinator.com/item?id=37446509\">1 comments</a>\n            </p>",
-            "url": "https://www.funtoo.org/Making_the_Distribution,_Part_1",
-            "title": "Birth of the Gentoo Linux Distribution (www.funtoo.org)",
-            "summary": "'The Potential of Linux and Dealing with Difficult Developers: Daniel Robbins' Linux Journey'",
-            "date_modified": "2023-09-09T15:29:14.000Z",
+            "id": "https://allthatsinteresting.com/nub-city-vernon-florida",
+            "content_html": "<p>Residents of Vernon, Florida engaged in a widespread insurance scam in the late 1950s and early 60s, intentionally dismembering themselves for a payout. The town became known as 'Nub City' due to the high number of loss-of-limb accident claims. The scam ended in the late 1960s when premium rates became too high and insurers stopped doing business in the area.\n            </p><p>\n                16 Points |  <a href=\"https://news.ycombinator.com/item?id=37451579\">3 comments</a>\n            </p>",
+            "url": "https://allthatsinteresting.com/nub-city-vernon-florida",
+            "title": "Florida’s “Nub City,” Where Residents Cut Off Their Own Appendages for Insurance (allthatsinteresting.com)",
+            "summary": "'Nub City': The Florida Town Where Residents Cut Off Their Own Limbs for Insurance Money",
+            "date_modified": "2023-09-10T00:05:58.000Z",
             "author": {
-                "name": "www.funtoo.org"
-            }
-        },
-        {
-            "id": "https://github.com/Ads-cmu/WhatsApp-Llama",
-            "content_html": "<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.\n            </p><p>\n                70 Points |  <a href=\"https://news.ycombinator.com/item?id=37448005\">29 comments</a>\n            </p>",
-            "url": "https://github.com/Ads-cmu/WhatsApp-Llama",
-            "title": "Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)",
-            "summary": "Fine-tune Llama 7b to Mimic Your WhatsApp Style",
-            "date_modified": "2023-09-09T17:43:11.000Z",
-            "author": {
-                "name": "github.com"
-            }
-        },
-        {
-            "id": "https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality",
-            "content_html": "<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.\n            </p><p>\n                24 Points |  <a href=\"https://news.ycombinator.com/item?id=37447810\">26 comments</a>\n            </p>",
-            "url": "https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality",
-            "title": "Existing in an Un-Simulated Reality (iahwrites.substack.com)",
-            "summary": "'Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness'",
-            "date_modified": "2023-09-09T17:27:52.000Z",
-            "author": {
-                "name": "iahwrites.substack.com"
-            }
-        },
-        {
-            "id": "https://notgull.net/why-you-want-async/",
-            "content_html": "<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.\n            </p><p>\n                101 Points |  <a href=\"https://news.ycombinator.com/item?id=37448460\">87 comments</a>\n            </p>",
-            "url": "https://notgull.net/why-you-want-async/",
-            "title": "Why you might want async in your project (notgull.net)",
-            "summary": "'Why you might actually want async in your project'",
-            "date_modified": "2023-09-09T18:17:56.000Z",
-            "author": {
-                "name": "notgull.net"
+                "name": "allthatsinteresting.com"
             }
         },
         {
@@ -219,35 +263,58 @@
             }
         },
         {
+            "id": "https://www.funtoo.org/Making_the_Distribution,_Part_1",
+            "content_html": "<p>Daniel Robbins shares his Linux journey, from becoming a Stampede Linux developer to starting his own distribution called Enoch. He emphasizes the potential of Linux to change, improve, and break things, as well as the importance of the Linux community. Robbins also discusses his experience dealing with difficult developers and offers advice on managing them.\n            </p><p>\n                19 Points |  <a href=\"https://news.ycombinator.com/item?id=37446509\">1 comments</a>\n            </p>",
+            "url": "https://www.funtoo.org/Making_the_Distribution,_Part_1",
+            "title": "Birth of the Gentoo Linux Distribution (www.funtoo.org)",
+            "summary": "'The Potential of Linux and Dealing with Difficult Developers: Daniel Robbins' Linux Journey'",
+            "date_modified": "2023-09-09T15:29:14.000Z",
+            "author": {
+                "name": "www.funtoo.org"
+            }
+        },
+        {
+            "id": "https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality",
+            "content_html": "<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.\n            </p><p>\n                36 Points |  <a href=\"https://news.ycombinator.com/item?id=37447810\">52 comments</a>\n            </p>",
+            "url": "https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality",
+            "title": "Existing in an un-simulated reality (iahwrites.substack.com)",
+            "summary": "'Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness'",
+            "date_modified": "2023-09-09T17:27:52.000Z",
+            "author": {
+                "name": "iahwrites.substack.com"
+            }
+        },
+        {
+            "id": "https://www.washingtonpost.com/business/2023/09/09/heat-night-harvesting-farmers/",
+            "content_html": "<p>Extreme heat is causing more farmers in the United States to harvest their crops at night to protect their quality. Rising temperatures and climate change pose a significant economic threat to the agriculture industry. Night harvesting helps maintain the taste and texture of produce and reduces the risk of sun damage. However, it comes with challenges for farmworkers, including disrupted schedules and safety hazards. Despite the difficulties, night-picked produce is often of superior quality due to the plants' circadian clock and the production of defense compounds during the night.\n            </p><p>\n                13 Points |  <a href=\"https://news.ycombinator.com/item?id=37451656\">2 comments</a>\n            </p>",
+            "url": "https://www.washingtonpost.com/business/2023/09/09/heat-night-harvesting-farmers/",
+            "title": "Extreme heat forcing America’s farmers to go nocturnal (www.washingtonpost.com)",
+            "summary": "'Night Farmer' Trend: Extreme Heat Forces American Farmers to Harvest Crops at Night",
+            "date_modified": "2023-09-10T00:19:57.000Z",
+            "author": {
+                "name": "www.washingtonpost.com"
+            }
+        },
+        {
+            "id": "https://github.com/Ads-cmu/WhatsApp-Llama",
+            "content_html": "<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.\n            </p><p>\n                70 Points |  <a href=\"https://news.ycombinator.com/item?id=37448005\">29 comments</a>\n            </p>",
+            "url": "https://github.com/Ads-cmu/WhatsApp-Llama",
+            "title": "Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)",
+            "summary": "Fine-tune Llama 7b to Mimic Your WhatsApp Style",
+            "date_modified": "2023-09-09T17:43:11.000Z",
+            "author": {
+                "name": "github.com"
+            }
+        },
+        {
             "id": "https://mycophobia.org/desktop_gui_minimalism.html",
-            "content_html": "<p>The author reflects on their experience with different desktop environments in Linux and their desire for a minimalist GUI. They discuss the evolution of GUIs, the influence of the original Macintosh interface, and their vision for a GUI environment that combines the flexibility of a window manager with the usability of a desktop. The author explores concepts such as spatial file management, customizable application launchers, and the need for efficient task management. They conclude by advocating for a GUI that prioritizes maximum usability and flexibility with minimal components.\n            </p><p>\n                20 Points |  <a href=\"https://news.ycombinator.com/item?id=37448554\">6 comments</a>\n            </p>",
+            "content_html": "<p>The author reflects on their experience with different desktop environments in Linux and their desire for a minimalist GUI. They discuss the evolution of GUIs, the influence of the original Macintosh interface, and their vision for a GUI environment that combines the flexibility of a window manager with the usability of a desktop. The author explores concepts such as spatial file management, customizable application launchers, and the need for efficient task management. They conclude by advocating for a GUI that prioritizes maximum usability and flexibility with minimal components.\n            </p><p>\n                34 Points |  <a href=\"https://news.ycombinator.com/item?id=37448554\">18 comments</a>\n            </p>",
             "url": "https://mycophobia.org/desktop_gui_minimalism.html",
             "title": "On Desktop GUI Minimalism (mycophobia.org)",
             "summary": "Reflections on Linux Desktop Environments and the Quest for a Minimalist GUI",
             "date_modified": "2023-09-09T18:23:18.000Z",
             "author": {
                 "name": "mycophobia.org"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=37449921",
-            "content_html": "<p>No summary available\n            </p><p>\n                93 Points |  <a href=\"https://news.ycombinator.com/item?id=37449921\">63 comments</a>\n            </p>",
-            "url": "https://news.ycombinator.com/item?id=37449921",
-            "title": "No Google Topics in Vivaldi (news.ycombinator.com)",
-            "date_modified": "2023-09-09T20:24:54.000Z",
-            "author": {
-                "name": "news.ycombinator.com"
-            }
-        },
-        {
-            "id": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
-            "content_html": "<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.\n            </p><p>\n                131 Points |  <a href=\"https://news.ycombinator.com/item?id=37415804\">69 comments</a>\n            </p>",
-            "url": "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are",
-            "title": "Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)",
-            "summary": "Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology",
-            "date_modified": "2023-09-07T07:32:48.000Z",
-            "author": {
-                "name": "www.tomshardware.com"
             }
         },
         {
@@ -262,80 +329,14 @@
             }
         },
         {
-            "id": "https://forum.dji.com/thread-293546-1-1.html",
-            "content_html": "<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.\n            </p><p>\n                133 Points |  <a href=\"https://news.ycombinator.com/item?id=37445963\">96 comments</a>\n            </p>",
-            "url": "https://forum.dji.com/thread-293546-1-1.html",
-            "title": "DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)",
-            "summary": "A Collection of Tutorials, Tips, and Information on Drones and DJI Products",
-            "date_modified": "2023-09-09T14:38:53.000Z",
+            "id": "https://notgull.net/why-you-want-async/",
+            "content_html": "<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.\n            </p><p>\n                112 Points |  <a href=\"https://news.ycombinator.com/item?id=37448460\">99 comments</a>\n            </p>",
+            "url": "https://notgull.net/why-you-want-async/",
+            "title": "Why you might want async in your project (notgull.net)",
+            "summary": "'Why you might actually want async in your project'",
+            "date_modified": "2023-09-09T18:17:56.000Z",
             "author": {
-                "name": "forum.dji.com"
-            }
-        },
-        {
-            "id": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
-            "content_html": "<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.\n            </p><p>\n                162 Points |  <a href=\"https://news.ycombinator.com/item?id=37446083\">341 comments</a>\n            </p>",
-            "url": "https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/",
-            "title": "Public restrooms are hard to find in America (www.washingtonpost.com)",
-            "summary": "'The Problem of Inaccessible Public Restrooms in America'",
-            "date_modified": "2023-09-09T14:52:20.000Z",
-            "author": {
-                "name": "www.washingtonpost.com"
-            }
-        },
-        {
-            "id": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "content_html": "<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.\n            </p><p>\n                7 Points |  <a href=\"https://news.ycombinator.com/item?id=37443395\">0 comments</a>\n            </p>",
-            "url": "https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5",
-            "title": "Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)",
-            "summary": "'Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023",
-            "date_modified": "2023-09-09T08:44:07.000Z",
-            "author": {
-                "name": "icfp23.sigplan.org"
-            }
-        },
-        {
-            "id": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
-            "content_html": "<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.\n            </p><p>\n                163 Points |  <a href=\"https://news.ycombinator.com/item?id=37443404\">57 comments</a>\n            </p>",
-            "url": "https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/",
-            "title": "Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)",
-            "summary": "Building a Kubernetes Cluster with Talos on Hetzner: Part I",
-            "date_modified": "2023-09-09T08:44:52.000Z",
-            "author": {
-                "name": "datavirke.dk"
-            }
-        },
-        {
-            "id": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
-            "content_html": "<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.\n            </p><p>\n                78 Points |  <a href=\"https://news.ycombinator.com/item?id=37426598\">52 comments</a>\n            </p>",
-            "url": "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704",
-            "title": "What happens when you shift a register by more than the register size? (devblogs.microsoft.com)",
-            "summary": "Different Processor Architectures Behave Differently When Shifting Registers",
-            "date_modified": "2023-09-07T22:39:13.000Z",
-            "author": {
-                "name": "devblogs.microsoft.com"
-            }
-        },
-        {
-            "id": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
-            "content_html": "<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.\n            </p><p>\n                158 Points |  <a href=\"https://news.ycombinator.com/item?id=37446790\">371 comments</a>\n            </p>",
-            "url": "https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/",
-            "title": "The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)",
-            "summary": "Canadian Housing Prices Continue to Soar, Outpacing U.S. Market",
-            "date_modified": "2023-09-09T15:54:15.000Z",
-            "author": {
-                "name": "awealthofcommonsense.com"
-            }
-        },
-        {
-            "id": "https://bills.parliament.uk/publications/46675/documents/1885",
-            "content_html": "<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.\n            </p><p>\n                62 Points |  <a href=\"https://news.ycombinator.com/item?id=37443634\">37 comments</a>\n            </p>",
-            "url": "https://bills.parliament.uk/publications/46675/documents/1885",
-            "title": "Google's Statement on the UK Online Safety Bill [pdf] (bills.parliament.uk)",
-            "summary": "Security Check on bills.parliament.uk",
-            "date_modified": "2023-09-09T09:36:58.000Z",
-            "author": {
-                "name": "bills.parliament.uk"
+                "name": "notgull.net"
             }
         }
     ]

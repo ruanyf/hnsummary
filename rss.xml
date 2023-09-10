@@ -4,7 +4,7 @@
         <title>Hacker News Summary</title>
         <link>https://ruanyf.github.io/hnsummary</link>
         <description>HN posts' summary</description>
-        <lastBuildDate>Sat, 09 Sep 2023 23:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 01:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,28 @@
         </image>
         <category>Frontpage</category>
         <atom:link href="https://ruanyf.github.io/hnsummary/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lithium discovery in US volcano could be biggest deposit ever found (www.chemistryworld.com)]]></title>
+            <link>https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article</link>
+            <guid>https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article</guid>
+            <pubDate>Sat, 09 Sep 2023 22:27:16 GMT</pubDate>
+            <description><![CDATA[Lithium discovery in US volcano could be biggest deposit ever found]]></description>
+            <content:encoded><![CDATA[<p>A new analysis suggests that a volcanic crater along the Nevada-Oregon border could contain the largest deposit of lithium ever found, surpassing the previously considered largest deposit in Bolivia. The estimated 20 to 40 million tonnes of lithium metal could have significant implications for the global lithium market, including price, supply security, and geopolitics. The deposit is composed of an unusual claystone called illite, which contains almost double the amount of lithium compared to the more common lithium-bearing clay mineral, magnesium smectite. Mining is expected to begin in 2026.
+            </p><p>
+                139 Points |  <a href="https://news.ycombinator.com/item?id=37450915">83 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Memories from Old LAN Parties (thomask.sdf.org)]]></title>
+            <link>https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html</link>
+            <guid>https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html</guid>
+            <pubDate>Sat, 09 Sep 2023 23:54:29 GMT</pubDate>
+            <description><![CDATA[Nostalgic Memories and Quirks of LAN Parties in the 2000s]]></description>
+            <content:encoded><![CDATA[<p>The author shares memories from LAN parties in the 2000s, highlighting the quirks and experiences that were unique to that era. From reinstalling Windows during an event to modding PC cases and dealing with stolen hard drives, the article captures the nostalgia and challenges of LAN gaming. It also mentions various tech-related anecdotes, such as using cracks, emulating CD drives, and the limitations of internet access at LANs.
+            </p><p>
+                36 Points |  <a href="https://news.ycombinator.com/item?id=37451518">11 comments</a>
+            </p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[I used a Game Boy camera for Facetime video calls in iPadOS 17 (www.macstories.net)]]></title>
             <link>https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/</link>
@@ -38,14 +60,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: I built a Python web framework (github.com)]]></title>
-            <link>https://github.com/ZeroIntensity/view.py</link>
-            <guid>https://github.com/ZeroIntensity/view.py</guid>
-            <pubDate>Sat, 09 Sep 2023 18:47:54 GMT</pubDate>
-            <description><![CDATA['view.py: A Lightning-Fast and Modern Web Framework in Alpha Stage']]></description>
-            <content:encoded><![CDATA[<p>view.py is a lightning-fast, modern web framework that is currently in a high alpha stage of development. It requires CPython 3.8+ for installation. The framework offers a simple and efficient way to build web applications. It is actively seeking new contributors and provides installation instructions for Linux/macOS and Windows. view.py aims to provide a fast and modern solution for web development.
+            <title><![CDATA[Jakob Nielsen: The Top Web Design Mistakes of 1999 (1999) (www.nngroup.com)]]></title>
+            <link>https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/</link>
+            <guid>https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/</guid>
+            <pubDate>Sat, 09 Sep 2023 23:13:04 GMT</pubDate>
+            <description><![CDATA[The Top 10 Web Design Mistakes of 1999]]></description>
+            <content:encoded><![CDATA[<p>New technology and conventions have led to several new classes of usability problems in Web design. The article highlights the top 10 design mistakes of 1999, including breaking or slowing down the back button, opening new browser windows, non-standard use of GUI widgets, lack of biographies, lack of archives, moving pages to new URLs, headlines that make no sense out of context, jumping at the latest internet buzzword, slow server response times, and anything that looks like advertising.
             </p><p>
-                76 Points |  <a href="https://news.ycombinator.com/item?id=37448914">33 comments</a>
+                4 Points |  <a href="https://news.ycombinator.com/item?id=37451230">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -60,14 +82,36 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Sequential Memory Is a Unique Human Trait (neurosciencenews.com)]]></title>
-            <link>https://neurosciencenews.com/sequential-memory-human-trait-23888/</link>
-            <guid>https://neurosciencenews.com/sequential-memory-human-trait-23888/</guid>
-            <pubDate>Thu, 07 Sep 2023 14:50:54 GMT</pubDate>
-            <description><![CDATA[Sequential Memory Is a Unique Human Trait]]></description>
-            <content:encoded><![CDATA[<p>Humans possess a unique ability to recognize and remember sequential information, according to a study. Bonobos, our closest relatives, struggle to learn the order of stimuli in the same way as humans. This finding sheds light on the cognitive distinctions between humans and other animals, explaining why only humans possess certain cultural abilities like language and advanced planning. Sequential memory may be the foundational block behind many uniquely human behaviors and capabilities.
+            <title><![CDATA[Show HN: I built a Python web framework (github.com)]]></title>
+            <link>https://github.com/ZeroIntensity/view.py</link>
+            <guid>https://github.com/ZeroIntensity/view.py</guid>
+            <pubDate>Sat, 09 Sep 2023 18:47:54 GMT</pubDate>
+            <description><![CDATA['view.py: A Lightning-Fast and Modern Web Framework in Alpha Stage']]></description>
+            <content:encoded><![CDATA[<p>view.py is a lightning-fast, modern web framework that is currently in a high alpha stage of development. It requires CPython 3.8+ for installation. The framework offers a simple and efficient way to build web applications. It is actively seeking new contributors and provides installation instructions for Linux/macOS and Windows. view.py aims to provide a fast and modern solution for web development.
             </p><p>
-                24 Points |  <a href="https://news.ycombinator.com/item?id=37419739">38 comments</a>
+                95 Points |  <a href="https://news.ycombinator.com/item?id=37448914">44 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SmartKnob – Haptic input knob with software-defined endstops and virtual detents (github.com)]]></title>
+            <link>https://github.com/scottbez1/smartknob</link>
+            <guid>https://github.com/scottbez1/smartknob</guid>
+            <pubDate>Sat, 09 Sep 2023 18:30:39 GMT</pubDate>
+            <description><![CDATA[SmartKnob: An Open-Source Input Device with Software-Configurable Endstops and Virtual Detents]]></description>
+            <content:encoded><![CDATA[<p>SmartKnob is an open-source input device with software-configurable endstops and virtual detents. It uses a brushless gimbal motor paired with a magnetic encoder for closed-loop torque feedback control. The device is not yet recommended for general use due to potential mechanical and electrical revisions. The project is under active development and encourages community participation.
+            </p><p>
+                71 Points |  <a href="https://news.ycombinator.com/item?id=37448659">13 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Unpacking Elixir: Real-Time and Latency (underjord.io)]]></title>
+            <link>https://underjord.io/unpacking-elixir-realtime-latency.html</link>
+            <guid>https://underjord.io/unpacking-elixir-realtime-latency.html</guid>
+            <pubDate>Fri, 08 Sep 2023 09:47:29 GMT</pubDate>
+            <description><![CDATA[Unpacking Elixir: Prioritizing Low Latency and User Experience]]></description>
+            <content:encoded><![CDATA[<p>Elixir, built on Erlang, prioritizes consistently low latency and a near-realtime experience. It is suitable for systems where latency matters and a good user experience is necessary. Erlang's design allows for fair distribution of computational resources and prevents heavy work from blocking progress. Elixir has been used in messaging applications like Whatsapp and Discord, as well as in web frameworks like Phoenix LiveView.
+            </p><p>
+                13 Points |  <a href="https://news.ycombinator.com/item?id=37431588">0 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -82,6 +126,17 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Sequential Memory Is a Unique Human Trait (neurosciencenews.com)]]></title>
+            <link>https://neurosciencenews.com/sequential-memory-human-trait-23888/</link>
+            <guid>https://neurosciencenews.com/sequential-memory-human-trait-23888/</guid>
+            <pubDate>Thu, 07 Sep 2023 14:50:54 GMT</pubDate>
+            <description><![CDATA[Sequential Memory Is a Unique Human Trait]]></description>
+            <content:encoded><![CDATA[<p>Humans possess a unique ability to recognize and remember sequential information, according to a study. Bonobos, our closest relatives, struggle to learn the order of stimuli in the same way as humans. This finding sheds light on the cognitive distinctions between humans and other animals, explaining why only humans possess certain cultural abilities like language and advanced planning. Sequential memory may be the foundational block behind many uniquely human behaviors and capabilities.
+            </p><p>
+                24 Points |  <a href="https://news.ycombinator.com/item?id=37419739">38 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[FFmpeg Patches for a 20% speedup of Apple ProRes decoding (ffmpeg.org)]]></title>
             <link>https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html</link>
             <guid>https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html</guid>
@@ -89,29 +144,7 @@
             <description><![CDATA['FFmpeg' Patch Improves Proresdec2 Performance with Cached Reader]]></description>
             <content:encoded><![CDATA[<p>This patch for FFmpeg's proresdec2 fixes and ports the cached reader. The changes include moving back to the regular get_bits API, reducing the lookup to switch the coding method, and using shorter reads for the end of the bitstream. The patch also provides speedup results for Win64 and Win32 platforms. The cached reader version shows a 20% speedup on Win64 and a 14% speedup on Win32.
             </p><p>
-                17 Points |  <a href="https://news.ycombinator.com/item?id=37446430">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PAROL6 Desktop Robot Arm (github.com)]]></title>
-            <link>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</link>
-            <guid>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</guid>
-            <pubDate>Sat, 09 Sep 2023 14:37:45 GMT</pubDate>
-            <description><![CDATA['PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design']]></description>
-            <content:encoded><![CDATA[<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.
-            </p><p>
-                120 Points |  <a href="https://news.ycombinator.com/item?id=37445951">32 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SmartKnob – Haptic input knob with software-defined endstops and virtual detents (github.com)]]></title>
-            <link>https://github.com/scottbez1/smartknob</link>
-            <guid>https://github.com/scottbez1/smartknob</guid>
-            <pubDate>Sat, 09 Sep 2023 18:30:39 GMT</pubDate>
-            <description><![CDATA[SmartKnob: An Open-Source Input Device with Software-Configurable Endstops and Virtual Detents]]></description>
-            <content:encoded><![CDATA[<p>SmartKnob is an open-source input device with software-configurable endstops and virtual detents. It uses a brushless gimbal motor paired with a magnetic encoder for closed-loop torque feedback control. The device is not yet recommended for general use due to potential mechanical and electrical revisions. The project is under active development and encourages community participation.
-            </p><p>
-                18 Points |  <a href="https://news.ycombinator.com/item?id=37448659">1 comments</a>
+                107 Points |  <a href="https://news.ycombinator.com/item?id=37446430">13 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -137,6 +170,49 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[PAROL6 Desktop Robot Arm (github.com)]]></title>
+            <link>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</link>
+            <guid>https://github.com/PCrnjak/PAROL6-Desktop-robot-arm</guid>
+            <pubDate>Sat, 09 Sep 2023 14:37:45 GMT</pubDate>
+            <description><![CDATA['PAROL6: A High-Performance 3D-Printed Desktop Robotic Arm with Open-Source Design']]></description>
+            <content:encoded><![CDATA[<p>PAROL6 is a high-performance 3D-printed desktop robotic arm that aims to mimic industrial robots in terms of design and usability. The control software, GUI, and STL files are open-source, allowing users to build their own PAROL6 robot by following the provided instructions. The project welcomes donations, advice, and contributions to support its open-source nature. The code and STL files are under the GPLv3 License.
+            </p><p>
+                120 Points |  <a href="https://news.ycombinator.com/item?id=37445951">32 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft announces purchase of 315k tonnes of CO2 removal (www.heirloomcarbon.com)]]></title>
+            <link>https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal</link>
+            <guid>https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal</guid>
+            <pubDate>Sat, 09 Sep 2023 21:37:28 GMT</pubDate>
+            <description><![CDATA[Microsoft Signs Major CO2 Removal Deal with Heirloom]]></description>
+            <content:encoded><![CDATA[<p>Microsoft has signed a long-term contract to purchase up to 315,000 metric tons of CO2 removal over a multi-year period from Heirloom, a Direct Air Capture company. This is one of the largest carbon dioxide removal deals to-date. The agreement provides crucial funding for Heirloom to finance future Direct Air Capture facilities and supports Microsoft's goal to become carbon negative by 2030. The deal also advances the U.S.' climate leadership globally and contributes to the First Movers Coalition's efforts to combat climate change.
+            </p><p>
+                22 Points |  <a href="https://news.ycombinator.com/item?id=37450536">16 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Le Guin Precepts (seths.blog)]]></title>
+            <link>https://seths.blog/2023/09/the-leguin-precepts/</link>
+            <guid>https://seths.blog/2023/09/the-leguin-precepts/</guid>
+            <pubDate>Fri, 08 Sep 2023 08:02:30 GMT</pubDate>
+            <description><![CDATA[Ursula Le Guin's Three Questions for Evaluating Ideas and Actions]]></description>
+            <content:encoded><![CDATA[<p>Fabled author Ursula Le Guin's sign over her desk asked three questions: Is it true? Is it necessary or at least useful? Is it compassionate or at least unharmful? This serves as a good starting point for evaluating ideas and actions.
+            </p><p>
+                27 Points |  <a href="https://news.ycombinator.com/item?id=37430857">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
+            <link>https://news.ycombinator.com/item?id=37432336</link>
+            <guid>https://news.ycombinator.com/item?id=37432336</guid>
+            <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p>No summary available
+            </p><p>
+                80 Points |  <a href="https://news.ycombinator.com/item?id=37432336">50 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[The era-defining aesthetic of “In the Mood for Love” (www.newyorker.com)]]></title>
             <link>https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love</link>
             <guid>https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love</guid>
@@ -159,57 +235,25 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A small-town police officer took down a large match-fixing ring in tennis (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37432336</link>
-            <guid>https://news.ycombinator.com/item?id=37432336</guid>
-            <pubDate>Fri, 08 Sep 2023 11:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
+            <title><![CDATA[The English cottage where John le Carré wrote Tinker Tailor Soldier Spy (lithub.com)]]></title>
+            <link>https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/</link>
+            <guid>https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/</guid>
+            <pubDate>Sat, 09 Sep 2023 19:34:44 GMT</pubDate>
+            <description><![CDATA['John Le Carré's Cornwall Home, Tregiffian Cottage, Hits the Market for $3.7 Million']]></description>
+            <content:encoded><![CDATA[<p>John Le Carré's Cornwall home, Tregiffian Cottage, is up for sale for $3.7 million. The 5,000-square-foot house, where Le Carré wrote many of his novels, features a detached writing studio, a library with bespoke joinery, and a safe room. The property offers stunning views and a picturesque setting. Le Carré's son, Nick Cornwell, described the cottage as a place filled with wildlife and natural beauty, making it an ideal space for rest, work, or self-reflection.
             </p><p>
-                62 Points |  <a href="https://news.ycombinator.com/item?id=37432336">44 comments</a>
+                41 Points |  <a href="https://news.ycombinator.com/item?id=37449439">45 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Birth of the Gentoo Linux Distribution (www.funtoo.org)]]></title>
-            <link>https://www.funtoo.org/Making_the_Distribution,_Part_1</link>
-            <guid>https://www.funtoo.org/Making_the_Distribution,_Part_1</guid>
-            <pubDate>Sat, 09 Sep 2023 15:29:14 GMT</pubDate>
-            <description><![CDATA['The Potential of Linux and Dealing with Difficult Developers: Daniel Robbins' Linux Journey']]></description>
-            <content:encoded><![CDATA[<p>Daniel Robbins shares his Linux journey, from becoming a Stampede Linux developer to starting his own distribution called Enoch. He emphasizes the potential of Linux to change, improve, and break things, as well as the importance of the Linux community. Robbins also discusses his experience dealing with difficult developers and offers advice on managing them.
+            <title><![CDATA[Florida’s “Nub City,” Where Residents Cut Off Their Own Appendages for Insurance (allthatsinteresting.com)]]></title>
+            <link>https://allthatsinteresting.com/nub-city-vernon-florida</link>
+            <guid>https://allthatsinteresting.com/nub-city-vernon-florida</guid>
+            <pubDate>Sun, 10 Sep 2023 00:05:58 GMT</pubDate>
+            <description><![CDATA['Nub City': The Florida Town Where Residents Cut Off Their Own Limbs for Insurance Money]]></description>
+            <content:encoded><![CDATA[<p>Residents of Vernon, Florida engaged in a widespread insurance scam in the late 1950s and early 60s, intentionally dismembering themselves for a payout. The town became known as 'Nub City' due to the high number of loss-of-limb accident claims. The scam ended in the late 1960s when premium rates became too high and insurers stopped doing business in the area.
             </p><p>
-                19 Points |  <a href="https://news.ycombinator.com/item?id=37446509">1 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
-            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
-            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
-            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
-            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
-            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
-            </p><p>
-                70 Points |  <a href="https://news.ycombinator.com/item?id=37448005">29 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Existing in an Un-Simulated Reality (iahwrites.substack.com)]]></title>
-            <link>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</link>
-            <guid>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</guid>
-            <pubDate>Sat, 09 Sep 2023 17:27:52 GMT</pubDate>
-            <description><![CDATA['Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness']]></description>
-            <content:encoded><![CDATA[<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.
-            </p><p>
-                24 Points |  <a href="https://news.ycombinator.com/item?id=37447810">26 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why you might want async in your project (notgull.net)]]></title>
-            <link>https://notgull.net/why-you-want-async/</link>
-            <guid>https://notgull.net/why-you-want-async/</guid>
-            <pubDate>Sat, 09 Sep 2023 18:17:56 GMT</pubDate>
-            <description><![CDATA['Why you might actually want async in your project']]></description>
-            <content:encoded><![CDATA[<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.
-            </p><p>
-                101 Points |  <a href="https://news.ycombinator.com/item?id=37448460">87 comments</a>
+                16 Points |  <a href="https://news.ycombinator.com/item?id=37451579">3 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -224,6 +268,50 @@
             </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Birth of the Gentoo Linux Distribution (www.funtoo.org)]]></title>
+            <link>https://www.funtoo.org/Making_the_Distribution,_Part_1</link>
+            <guid>https://www.funtoo.org/Making_the_Distribution,_Part_1</guid>
+            <pubDate>Sat, 09 Sep 2023 15:29:14 GMT</pubDate>
+            <description><![CDATA['The Potential of Linux and Dealing with Difficult Developers: Daniel Robbins' Linux Journey']]></description>
+            <content:encoded><![CDATA[<p>Daniel Robbins shares his Linux journey, from becoming a Stampede Linux developer to starting his own distribution called Enoch. He emphasizes the potential of Linux to change, improve, and break things, as well as the importance of the Linux community. Robbins also discusses his experience dealing with difficult developers and offers advice on managing them.
+            </p><p>
+                19 Points |  <a href="https://news.ycombinator.com/item?id=37446509">1 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Existing in an un-simulated reality (iahwrites.substack.com)]]></title>
+            <link>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</link>
+            <guid>https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality</guid>
+            <pubDate>Sat, 09 Sep 2023 17:27:52 GMT</pubDate>
+            <description><![CDATA['Existence in an Un-Simulated Reality: A Theory on the Feeling of Consciousness']]></description>
+            <content:encoded><![CDATA[<p>The author proposes a theory that even if a simulation of reality is never run, it would still feel real to the actors inside it. This theory is based on the idea that all possible states of a complex system already exist, and calculating them is not necessary for them to feel conscious. The author acknowledges that this theory does not negate the existence of choice and plans to explore community in NYC in future posts.
+            </p><p>
+                36 Points |  <a href="https://news.ycombinator.com/item?id=37447810">52 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Extreme heat forcing America’s farmers to go nocturnal (www.washingtonpost.com)]]></title>
+            <link>https://www.washingtonpost.com/business/2023/09/09/heat-night-harvesting-farmers/</link>
+            <guid>https://www.washingtonpost.com/business/2023/09/09/heat-night-harvesting-farmers/</guid>
+            <pubDate>Sun, 10 Sep 2023 00:19:57 GMT</pubDate>
+            <description><![CDATA['Night Farmer' Trend: Extreme Heat Forces American Farmers to Harvest Crops at Night]]></description>
+            <content:encoded><![CDATA[<p>Extreme heat is causing more farmers in the United States to harvest their crops at night to protect their quality. Rising temperatures and climate change pose a significant economic threat to the agriculture industry. Night harvesting helps maintain the taste and texture of produce and reduces the risk of sun damage. However, it comes with challenges for farmworkers, including disrupted schedules and safety hazards. Despite the difficulties, night-picked produce is often of superior quality due to the plants' circadian clock and the production of defense compounds during the night.
+            </p><p>
+                13 Points |  <a href="https://news.ycombinator.com/item?id=37451656">2 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations (github.com)]]></title>
+            <link>https://github.com/Ads-cmu/WhatsApp-Llama</link>
+            <guid>https://github.com/Ads-cmu/WhatsApp-Llama</guid>
+            <pubDate>Sat, 09 Sep 2023 17:43:11 GMT</pubDate>
+            <description><![CDATA[Fine-tune Llama 7b to Mimic Your WhatsApp Style]]></description>
+            <content:encoded><![CDATA[<p>This repository is a fork of the facebookresearch/llama-recipes, adapted to fine-tune a Llama 7b chat model to replicate your personal WhatsApp texting style. The fine-tuned Llama model picked up on the user's texting nuances rapidly and accurately replicated common phrases and emoji usage. In a Turing Test with friends, the model fooled 10% of them, with some responses being eerily similar to the user's own. The adaptation of the Llama model offers a fun way to see how well a LLM can mimic your personal texting style.
+            </p><p>
+                70 Points |  <a href="https://news.ycombinator.com/item?id=37448005">29 comments</a>
+            </p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[On Desktop GUI Minimalism (mycophobia.org)]]></title>
             <link>https://mycophobia.org/desktop_gui_minimalism.html</link>
             <guid>https://mycophobia.org/desktop_gui_minimalism.html</guid>
@@ -231,28 +319,7 @@
             <description><![CDATA[Reflections on Linux Desktop Environments and the Quest for a Minimalist GUI]]></description>
             <content:encoded><![CDATA[<p>The author reflects on their experience with different desktop environments in Linux and their desire for a minimalist GUI. They discuss the evolution of GUIs, the influence of the original Macintosh interface, and their vision for a GUI environment that combines the flexibility of a window manager with the usability of a desktop. The author explores concepts such as spatial file management, customizable application launchers, and the need for efficient task management. They conclude by advocating for a GUI that prioritizes maximum usability and flexibility with minimal components.
             </p><p>
-                20 Points |  <a href="https://news.ycombinator.com/item?id=37448554">6 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[No Google Topics in Vivaldi (news.ycombinator.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=37449921</link>
-            <guid>https://news.ycombinator.com/item?id=37449921</guid>
-            <pubDate>Sat, 09 Sep 2023 20:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p>No summary available
-            </p><p>
-                93 Points |  <a href="https://news.ycombinator.com/item?id=37449921">63 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Intel announces Arm investment, talks up RISC-V (www.tomshardware.com)]]></title>
-            <link>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</link>
-            <guid>https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are</guid>
-            <pubDate>Thu, 07 Sep 2023 07:32:48 GMT</pubDate>
-            <description><![CDATA[Intel Invests in Arm Holdings, Recognizing the Importance of Arm's Technology]]></description>
-            <content:encoded><![CDATA[<p>Intel has announced that it has made an investment in Arm Holdings, joining the list of Arm's anchor investors. The head of Intel's foundry business unit confirmed that the investment was made because Arm's technology is strategically important for both Intel Foundry Services and Altera FPGA unit. Intel recognizes the importance of Arm's instruction set architecture (ISA) in a wide range of applications and aims to collaborate further with Arm in the future.
-            </p><p>
-                131 Points |  <a href="https://news.ycombinator.com/item?id=37415804">69 comments</a>
+                34 Points |  <a href="https://news.ycombinator.com/item?id=37448554">18 comments</a>
             </p>]]></content:encoded>
         </item>
         <item>
@@ -267,80 +334,14 @@
             </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DJI Virtual Flight (iOS) has been broken for five months (forum.dji.com)]]></title>
-            <link>https://forum.dji.com/thread-293546-1-1.html</link>
-            <guid>https://forum.dji.com/thread-293546-1-1.html</guid>
-            <pubDate>Sat, 09 Sep 2023 14:38:53 GMT</pubDate>
-            <description><![CDATA[A Collection of Tutorials, Tips, and Information on Drones and DJI Products]]></description>
-            <content:encoded><![CDATA[<p>This is a collection of various tutorials, tips, and information related to drones, handheld devices, post-production, and other topics. It also includes a list of DJI products, such as the Mavic Series, FPV Series, and Osmo, as well as different works and events. The article also includes some JavaScript code related to search functionality and user interaction.
+            <title><![CDATA[Why you might want async in your project (notgull.net)]]></title>
+            <link>https://notgull.net/why-you-want-async/</link>
+            <guid>https://notgull.net/why-you-want-async/</guid>
+            <pubDate>Sat, 09 Sep 2023 18:17:56 GMT</pubDate>
+            <description><![CDATA['Why you might actually want async in your project']]></description>
+            <content:encoded><![CDATA[<p>The author argues that the sentiment in the Rust community that async/await is only useful for a small number of programs is misguided. They believe that actively shying away from async is the wrong approach and that many Rust projects are already using async/await without realizing it. The author also addresses the reasons why some people may not like async, such as poor advertising and standard library support. They conclude by encouraging Rustaceans to embrace async/await and explore its benefits.
             </p><p>
-                133 Points |  <a href="https://news.ycombinator.com/item?id=37445963">96 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Public restrooms are hard to find in America (www.washingtonpost.com)]]></title>
-            <link>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</link>
-            <guid>https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/</guid>
-            <pubDate>Sat, 09 Sep 2023 14:52:20 GMT</pubDate>
-            <description><![CDATA['The Problem of Inaccessible Public Restrooms in America']]></description>
-            <content:encoded><![CDATA[<p>Public restrooms are hard to find in America, with only eight public toilets for every 100,000 people. This poses a problem for millions of Americans suffering from medical conditions, as well as unhoused individuals, older adults, and pregnant individuals. The lack of accessible public restrooms can lead to anxiety and avoidance of going out. This article highlights the importance of addressing this issue for the well-being of various populations.
-            </p><p>
-                162 Points |  <a href="https://news.ycombinator.com/item?id=37446083">341 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Eio 1.0 – Effects-based IO for OCaml 5 (icfp23.sigplan.org)]]></title>
-            <link>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</link>
-            <guid>https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5</guid>
-            <pubDate>Sat, 09 Sep 2023 08:44:07 GMT</pubDate>
-            <description><![CDATA['Eio 1.0 - Effects-based IO for OCaml 5' to be Presented at ICFP 2023]]></description>
-            <content:encoded><![CDATA[<p>This session at ICFP 2023 will discuss Eio 1.0, an effects-based IO stack for OCaml 5. The talk will cover its main features, including multi-core support, lock-free data structures, modular programming, interoperability with other concurrency libraries, and interactive monitoring support. The speakers will also share their experiences in porting existing applications to Eio.
-            </p><p>
-                7 Points |  <a href="https://news.ycombinator.com/item?id=37443395">0 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bare-Metal Kubernetes, Part I: Talos on Hetzner (datavirke.dk)]]></title>
-            <link>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</link>
-            <guid>https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/</guid>
-            <pubDate>Sat, 09 Sep 2023 08:44:52 GMT</pubDate>
-            <description><![CDATA[Building a Kubernetes Cluster with Talos on Hetzner: Part I]]></description>
-            <content:encoded><![CDATA[<p>The author shares their experience of running a Kubernetes cluster on a mix of virtual and bare metal machines with Hetzner. They decide to rebuild the cluster from scratch and document the process in a series of blog posts. The first part covers provisioning the first server, installing Talos Linux, and configuration and bootstrapping.
-            </p><p>
-                163 Points |  <a href="https://news.ycombinator.com/item?id=37443404">57 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What happens when you shift a register by more than the register size? (devblogs.microsoft.com)]]></title>
-            <link>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</link>
-            <guid>https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704</guid>
-            <pubDate>Thu, 07 Sep 2023 22:39:13 GMT</pubDate>
-            <description><![CDATA[Different Processor Architectures Behave Differently When Shifting Registers]]></description>
-            <content:encoded><![CDATA[<p>When shifting a register by more than its size, different processor architectures exhibit different behaviors. The table provided in the article shows the behavior of various processors, including the 8086, Alpha AXP, x86-64, MIPS, PowerPC, and more. The article also mentions that the C and C++ languages leave the behavior undefined when shifting by more than the bit width of the shifted type.
-            </p><p>
-                78 Points |  <a href="https://news.ycombinator.com/item?id=37426598">52 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. housing market vs. the Canadian housing market (awealthofcommonsense.com)]]></title>
-            <link>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</link>
-            <guid>https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/</guid>
-            <pubDate>Sat, 09 Sep 2023 15:54:15 GMT</pubDate>
-            <description><![CDATA[Canadian Housing Prices Continue to Soar, Outpacing U.S. Market]]></description>
-            <content:encoded><![CDATA[<p>Canadian housing prices have continued to rise at an alarming rate, with a 142% increase since 2005 on a real basis. This is in stark contrast to the U.S. housing market, which has seen a more modest 26% increase over the same period. The differences between the two markets become even more pronounced when comparing housing price gains to disposable income gains. While U.S. incomes have kept pace with housing prices, Canadian incomes have not, leading to a significant affordability issue in Canada.
-            </p><p>
-                158 Points |  <a href="https://news.ycombinator.com/item?id=37446790">371 comments</a>
-            </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Google's Statement on the UK Online Safety Bill [pdf] (bills.parliament.uk)]]></title>
-            <link>https://bills.parliament.uk/publications/46675/documents/1885</link>
-            <guid>https://bills.parliament.uk/publications/46675/documents/1885</guid>
-            <pubDate>Sat, 09 Sep 2023 09:36:58 GMT</pubDate>
-            <description><![CDATA[Security Check on bills.parliament.uk]]></description>
-            <content:encoded><![CDATA[<p>The website bills.parliament.uk is checking the security of the user's connection before proceeding. It is using Cloudflare for performance and security. The Ray ID provided is 803f9d175da16464.
-            </p><p>
-                62 Points |  <a href="https://news.ycombinator.com/item?id=37443634">37 comments</a>
+                112 Points |  <a href="https://news.ycombinator.com/item?id=37448460">99 comments</a>
             </p>]]></content:encoded>
         </item>
     </channel>
