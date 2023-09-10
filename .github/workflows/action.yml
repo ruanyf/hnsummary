@@ -1,4 +1,4 @@
-name: 'HN summary crom bot'
+name: 'HN summary page bot'
 
 on:
   push:

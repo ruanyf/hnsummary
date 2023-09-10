@@ -19,16 +19,16 @@ console.log('finish parsing');
 const feed = new Feed({
   title: "Hacker News Summary",
   description: "HN posts' summary",
-  id: "ruanyf.github.io/hnsummary",
-  link: "https://ruanyf.github.io/hnsummary",
+  id: "hnsummary.vercel.app",
+  link: "https://hnsummary.vercel.app/",
   language: "en", // optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
   image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Y_Combinator_logo.svg/500px-Y_Combinator_logo.svg.png",
   favicon: "https://news.ycombinator.com/favicon.ico",
   updated: new Date(), // optional, default = today
   generator: "Feed for Node.js", // optional, default = 'Feed for Node.js'
   feedLinks: {
-    json: "https://ruanyf.github.io/hnsummary/rss.json",
-    rss: "https://ruanyf.github.io/hnsummary/rss.xml"
+    json: "https://hnsummary.vercel.app/rss.json",
+    rss: "https://hnsummary.vercel.app/rss.xml"
   },
   author: {
     name: "Ruan Yifeng",
