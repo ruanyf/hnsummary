@@ -48,9 +48,10 @@ articles.forEach(article => {
   const articleHost = new URL(articleLink).hostname;
   const articleShort = articleRoot.querySelector('header p')?.rawText.slice(15);
   const articleLong = articleRoot.querySelector('.summary').rawText?.slice(26);
-  const articleDate = new Date(articleRoot.querySelector('.meta-data').rawText.split('|')[1]);
-  const articlePoints = articleRoot.querySelector('.meta-data').rawText.split('|')[0].split('points')[0];
-  const articleComments = articleRoot.querySelector('.meta-data').innerHTML.split('|')[2];
+  const articleMeta = articleRoot.querySelector('.meta-data');
+  const articleDate = new Date(articleMeta?.rawText.split('|')[1] ?? new Date());
+  const articlePoints = articleMeta?.rawText.split('|')[0].split('points')[0] ?? 0;
+  const articleComments = articleMeta?.innerHTML.split('|')[2] ?? '';
 
   feed.addItem({
     title: `${articleTitle} (${articleHost})`,
