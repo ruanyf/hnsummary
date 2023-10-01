@@ -9,7 +9,7 @@ fetch('./rss.json')
     const li = document.createElement('li');
     const div = document.createElement('div');
     const host = (new URL(i.url)).hostname;
-    div.innerHTML = `<h3><a href="${i.url}" target="_blank">${i.title}</a></h3><p>${timeStr(i.date_modified)}</p><details open><summary>${i.summary}</summary>${i.content_html}</details>`;
+    div.innerHTML = `<h3><a href="${i.url}" target="_blank">${i.title}</a></h3>${i.content_html}`;
     li.appendChild(div);
     list.appendChild(li);
   });

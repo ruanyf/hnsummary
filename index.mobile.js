@@ -4,15 +4,14 @@ import { parse } from 'node-html-parser';
 import fs from 'node:fs/promises';
 
 
-const response = await fetch('https://hackyournews.com');
+const response = await fetch('https://hackyournews.com/indexM');
 const responseBody = await response.text();
 
 console.log('finish fetching');
 
 
 const responseRoot = parse(responseBody);
-const articles = responseRoot.querySelectorAll('td.title');
-const contents = responseRoot.querySelectorAll('td.ratings');
+const articles = responseRoot.querySelectorAll('article');
 
 console.log('finish parsing');
 
@@ -40,16 +39,28 @@ const feed = new Feed({
 
 feed.addCategory('Frontpage');
 
-articles.forEach((article, index) => {
-  const articleContent = contents[index].innerHTML;
-  const articleTitle = article.querySelector('a').rawText;
-  const articleLink = article.querySelector('a').getAttribute('href');
+articles.forEach(article => {
+  const articleContent = article.toString();
+  const articleRoot = parse(articleContent);
+
+  const articleTitle = articleRoot.querySelector('.story-title a').rawText;
+  const articleLink = articleRoot.querySelector('.story-title a').getAttribute('href');
+  const articleHost = new URL(articleLink).hostname;
+  const articleShort = articleRoot.querySelector('header p')?.rawText.slice(15);
+  const articleLong = articleRoot.querySelector('.summary').rawText?.slice(26);
+  const articleMeta = articleRoot.querySelector('.meta-data');
+  const articleDate = new Date(articleMeta?.rawText.split('|')[1] ?? new Date());
+  const articlePoints = articleMeta?.rawText.split('|')[0].split('points')[0] ?? 0;
+  const articleComments = articleMeta?.innerHTML.split('|')[2] ?? '';
 
   feed.addItem({
-    title: `${articleTitle}`,
+    title: `${articleTitle} (${articleHost})`,
     id: articleLink,
     link: articleLink,
-    content: articleContent,
+    description: articleShort,
+    content: `<p>${articleLong}</p><p>${articlePoints}Points | ${articleComments}</p>`,
+    author: { name: articleHost },
+    date: articleDate,
   });
 });
 
