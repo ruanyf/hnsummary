@@ -2,7 +2,7 @@ import { Feed } from 'feed';
 import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
 import fs from 'node:fs/promises';
-
+import process from 'node:process';
 
 const response = await fetch('https://hackyournews.com');
 const responseBody = await response.text();
@@ -13,6 +13,8 @@ console.log('finish fetching');
 const responseRoot = parse(responseBody);
 const articles = responseRoot.querySelectorAll('td.title');
 const contents = responseRoot.querySelectorAll('td.ratings');
+
+if (!articles.length) process.exit();
 
 console.log('finish parsing');
 
@@ -41,7 +43,7 @@ const feed = new Feed({
 feed.addCategory('Frontpage');
 
 articles.forEach((article, index) => {
-  const articleContent = contents[index].innerHTML;
+  const articleContent = contents[index]?.innerHTML;
   const articleTitle = article.querySelector('a').rawText;
   const articleLink = article.querySelector('a').getAttribute('href');
 
