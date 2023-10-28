@@ -12,7 +12,7 @@ console.log('finish fetching');
 
 const responseRoot = parse(responseBody);
 const articles = responseRoot.querySelectorAll('td.title');
-const contents = responseRoot.querySelectorAll('td.ratings');
+const contents = responseRoot.querySelectorAll('td.summary');
 
 if (!articles.length) process.exit();
 
