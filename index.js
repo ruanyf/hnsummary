@@ -16,6 +16,11 @@ const contents = responseRoot.querySelectorAll('td.ratings');
 
 if (!articles.length) process.exit();
 
+// 不知何故，contents 会比 articles 少1
+if (articles.length === contents.length + 1) {
+  articles.shift();
+}
+
 console.log('finish parsing');
 
 
