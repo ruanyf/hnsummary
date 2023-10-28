@@ -11,8 +11,16 @@ console.log('finish fetching');
 
 
 const responseRoot = parse(responseBody);
+const trs = responseRoot.querySelectorAll('tr');
+
+if (!trs.length) process.exit();
+
+/*
 const articles = responseRoot.querySelectorAll('td.title');
 const contents = responseRoot.querySelectorAll('td.summary');
+
+console.log(articles.length);
+console.log(contents.length);
 
 if (!articles.length) process.exit();
 
@@ -20,7 +28,7 @@ if (!articles.length) process.exit();
 if (articles.length === contents.length + 1) {
   articles.shift();
 }
-
+*/
 console.log('finish parsing');
 
 
@@ -47,6 +55,38 @@ const feed = new Feed({
 
 feed.addCategory('Frontpage');
 
+let articleTitle;
+let articleLink;
+let articleContent;
+
+for (let i = 0; i <= trs.length; i++) {
+  let tr = trs[i];
+  if (!tr) continue;
+
+  if (tr.querySelector('td.title')) {
+    articleTitle = tr.querySelectorAll('a')[0].rawText;
+    articleLink = tr.querySelectorAll('a')[0].getAttribute('href');
+  } else if (tr.querySelector('td.summary')) {
+    articleContent = tr.querySelector('td.summary')?.innerHTML;
+  } else {
+    addItem();
+    articleTitle = undefined;
+    articleLink = undefined;
+    articleContent = undefined;
+  }
+}
+
+function addItem() {
+  if (!articleTitle) return;
+  feed.addItem({
+    title: `${articleTitle}`,
+    id: articleLink,
+    link: articleLink,
+    content: articleContent,
+  });
+}
+
+/*
 articles.forEach((article, index) => {
   const articleContent = contents[index]?.innerHTML;
   const articleTitle = article.querySelector('a').rawText;
@@ -59,6 +99,7 @@ articles.forEach((article, index) => {
     content: articleContent,
   });
 });
+*/
 
 // console.log(feed.rss2());
 // Output: RSS 2.0
