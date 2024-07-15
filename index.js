@@ -8,10 +8,12 @@ const response = await fetch('https://hackyournews.com');
 const responseBody = await response.text();
 
 console.log('finish fetching');
-console.log(responseBody);
+
 
 const responseRoot = parse(responseBody);
 const trs = responseRoot.querySelectorAll('tr');
+
+console.log({ trs });
 
 if (!trs.length) process.exit();
 
