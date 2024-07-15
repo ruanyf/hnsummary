@@ -13,7 +13,7 @@ console.log('finish fetching');
 const responseRoot = parse(responseBody);
 const trs = responseRoot.querySelectorAll('tr');
 
-console.log({ trs });
+// console.log({ trs });
 
 if (!trs.length) process.exit();
 
