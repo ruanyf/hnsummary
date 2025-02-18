@@ -4,14 +4,22 @@ import { parse } from 'node-html-parser';
 import fs from 'node:fs/promises';
 import process from 'node:process';
 
-const response = await fetch('https://hackyournews.com');
+const FetchURL = 'https://hackyournews.com';
+const FetchHeaders = new Headers({
+  'User-Agent'   : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/131.0.2903.86',
+});
+
+const response = await fetch(FetchURL, {
+  headers: FetchHeaders
+});
+
 const responseBody = await response.text();
 
 console.log('finish fetching');
 
 
 const responseRoot = parse(responseBody);
-const trs = responseRoot.querySelectorAll('tr');
+const trs = responseRoot.querySelectorAll('#section-hackernews .story');
 
 // console.log({ trs });
 
@@ -57,28 +65,27 @@ const feed = new Feed({
 
 feed.addCategory('Frontpage');
 
-let articleTitle;
-let articleLink;
-let articleContent;
-
 for (let i = 0; i <= trs.length; i++) {
   let tr = trs[i];
   if (!tr) continue;
 
-  if (tr.querySelector('td.title')) {
+  let articleTitle = '';
+  let articleLink = '';
+  let articleContent = '';
+
+  if (tr.querySelector('div.title')) {
     articleTitle = tr.querySelectorAll('a')[0].rawText;
     articleLink = tr.querySelectorAll('a')[0].getAttribute('href');
-  } else if (tr.querySelector('td.summary')) {
-    articleContent = tr.querySelector('td.summary')?.innerHTML;
-  } else {
-    addItem();
-    articleTitle = undefined;
-    articleLink = undefined;
-    articleContent = undefined;
   }
+
+  tr.querySelectorAll('div.summary')?.forEach( summary => {
+    articleContent += summary?.innerHTML;
+  });
+
+  addItem(articleTitle, articleLink, articleContent);
 }
 
-function addItem() {
+function addItem(articleTitle, articleLink, articleContent) {
   if (!articleTitle) return;
   feed.addItem({
     title: `${articleTitle}`,
