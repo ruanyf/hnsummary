@@ -15,30 +15,25 @@ const response = await fetch(FetchURL, {
 
 const responseBody = await response.text();
 
+// console.log(responseBody);
+
 console.log('finish fetching');
 
 
 const responseRoot = parse(responseBody);
-const trs = responseRoot.querySelectorAll('#section-hackernews .story');
+let trs = responseRoot.querySelectorAll('#section-hackernews .story');
+
+if (!trs.length) {
+  trs = responseRoot.querySelectorAll('.story').slice(0, 15);
+}
 
 // console.log({ trs });
 
-if (!trs.length) process.exit();
-
-/*
-const articles = responseRoot.querySelectorAll('td.title');
-const contents = responseRoot.querySelectorAll('td.summary');
-
-console.log(articles.length);
-console.log(contents.length);
-
-if (!articles.length) process.exit();
-
-// 不知何故，contents 会比 articles 少1
-if (articles.length === contents.length + 1) {
-  articles.shift();
+if (!trs.length) {
+  console.log('querySelector HTML failed');
+  process.exit();
 }
-*/
+
 console.log('finish parsing');
 
 
