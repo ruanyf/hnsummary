@@ -15,7 +15,7 @@ const response = await fetch(FetchURL, {
 
 const responseBody = await response.text();
 
-// console.log(responseBody);
+console.log(responseBody);
 
 console.log('finish fetching');
 
@@ -129,4 +129,3 @@ try {
 }
 
 console.log('finish generating files');
-
